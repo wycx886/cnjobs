@@ -211,6 +211,19 @@ https://jobs.qiniu.com/
 https://www.liepin.com/company/7688655/
 https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html
 https://www.163.com/dy/article/JSI0KVL80511D6RL.html"
+shengsuanyun,胜算云 SSYCloud,02,算力与基础设施,多模型API与多云算力服务、企业AI网关，以及LoomLoom工作流规模化执行与交易平台,模型云/大模型超市：统一API接入与路由；企业网关：BYOK、权限预算、回退与审计；LoomLoom/SkillApp：多模型工作流、Excel批处理、结果交付、按次/订阅销售；面向渠道的Token运营平台与OPC园区方案。,编辑分析：处于模型供给与AI应用之间，主要交付模型接入、调度治理和工作流执行服务；LoomLoom扩展至可售卖的工作流与创作者分成。按功能可与模型聚合路由、MaaS及Agent工作流工具比较，但本次未做竞品性能或价格测试；未找到自研基础模型的公开证据。,OpenRouter；硅基流动 SiliconFlow；Dify；n8n,2025-10-16证券日报网报道转引称公司在科交会宣布完成天使轮，未披露金额。官网大事记称2025年完成2亿元估值天使轮并获长三角国家技术创新中心重大科技专项数千万投资；估值不是融资额，专项投资与天使轮不能相加。金额、出资主体与各轮次关系未获独立交叉核实。,partial,官网称上海为研发总部；另有如皋/南通园区与关联主体活动，法人及持股边界未完整核验。,https://www.shengsuanyun.com/,,,,,核查范围为官网、文档、GitHub元数据及部分客户端代码，未安装、登录、充值或测试云服务。LoomLoom官方源码入口现为cogfoundry-labs/loomloom，旧SSYCloud/loomloom入口本次返回404，不能据此断言仓库转移经过。公开树主要为Go CLI、Skill/IR规范、示例与发布脚本，未见完整生产服务端；README对编译器/运行时的介绍不等同相关实现全部开源。仓库16 stars、2 forks、v0.7.0及Beta状态为本次观察快照。胜算云和CogFoundry共享客户端的平台接入已证实，法律与股权关系未核实，不将CogFoundry并入公司别名。官网首页称500+企业、100K+开发者，about页顶部称180+企业科研高校客户、8万+开发者，正文又称100+知名企业；时点及统计口径不明，不作为已核验经营规模。API、网关与SkillApp收费机制可见，营收构成、毛利、续费及实际付费交易规模未确认；官网性能、安全与SLA为产品自述，未独立评测。,2026-11-03,"https://www.shengsuanyun.com/zh/
+https://www.shengsuanyun.com/zh/about
+https://www.shengsuanyun.com/zh/loomloom
+https://www.shengsuanyun.com/zh/companyGateway
+https://lean.shengsuanyun.com/apidocs/loomloom/guide/loomloom-creators-listing-earnings
+https://github.com/cogfoundry-labs/loomloom
+https://github.com/cogfoundry-labs/loomloom/blob/main/docs/quick-start/installation.md
+https://github.com/cogfoundry-labs/loomloom/blob/main/src/cli/internal/cmd/run.go
+https://github.com/cogfoundry-labs/loomloom/releases/tag/v0.7.0
+https://github.com/SSYCloud
+https://field.10jqka.com.cn/20251016/c671777665.shtml
+https://kjj.nantong.gov.cn/ntskjj/bmdt/content/c573b5d3-ad63-4a2b-a13e-c8a10f076bf1.htm
+https://cogfoundry.ai/en/legal/terms/"
 siliconflow,硅基流动 SiliconFlow,02,算力与基础设施,多模型API、推理服务与私有化MaaS,SiliconCloud、专属实例、模型服务网关、私有化MaaS,分析：官网强调不研发基础模型、不涉足终端应用；与智谱等模型商不同，主要帮助开发者调用和部署各家模型。,无问芯穹；趋境科技；智谱,公司官网2025年融资公告明确阿里云领投、创新工场等老股东跟投；不沿用原表未逐项证实的五源、红杉等名单。,confirmed_disclosure,北京,https://www.siliconflow.cn/,https://www.siliconflow.cn/about,,contact@siliconflow.cn,市场合作邮箱（非招聘）,未查到可核验的公开投递邮箱或独立招聘官网；about页只是官网公司介绍，需从官网/认证招聘平台查岗位，勿投市场邮箱。,2026-10-30,"https://siliconflow.cn/news/dl5ov97pt579ortwy57woavu
 https://www.siliconflow.cn/about
 https://www.siliconflow.cn/
@@ -744,6 +757,9 @@ leader-drive,苏州绿的谐波,08,具身智能与机器人,谐波减速器，�
 https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html
 https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688017.phtml
 https://m.liepin.com/company/9925913/"
+lige-wanwu,理格万物,08,具身智能与机器人,通用具身大脑：大语言模型与具身智能结合，打通决策与运动控制,公开产品未披露；媒体口径为通用具身大脑／行为基模,分析：相较逐际动力本体／运动控制平台，理格万物由前逐际基础模型负责人创办，公开口径更偏通用具身大脑；与 Winverse、宇树同为 DeepSeek 具身相关线索。,逐际动力；Winverse AI；宇树科技,2026-10 媒体报道首轮以亲友轮形式落地，投资方包括红杉中国、砺思资本（Monolith）与 DeepSeek；金额未披露。,partial,北京（海淀；工商主体理格万物（北京）科技有限公司）,,,,,未见公开官网／招聘页,创始人俞涛；前腾讯 AI Lab「绝悟」、曾任逐际动力基础模型负责人。工商成立约 2026-09。2026-11-09 核验：无独立公开官网与招聘入口。,2026-11-09,"https://www.bianews.com/news/details?id=247966
+https://vc.pedaily.cn/company/907191.html
+https://svtr.ai/orgs/ligewanwu"
 limx,逐际动力,08,具身智能与机器人,全身运动控制、具身智能与模块化足式机器人,Oli / Luna；TRON 1/2；COSA；FluxVLA Engine,分析：相较宇树，逐际强调多形态研究平台、大小脑融合和具身智能操作系统组合。,宇树科技；智元机器人；星动纪元,官网2026-07-14披露近2亿美元Pre-IPO轮，新投资方包括IDG、蓝思科技、GGG Group、Redstone、WestSummit、合肥滨湖等；蔚来资本、尚颀资本、基石资本等继续投资。,confirmed_disclosure,深圳,https://www.limxdynamics.com/,https://www.limxdynamics.com/en/faq,recruit@limxdynamics.com,bd@limxdynamics.com,业务合作,招聘邮箱由官网FAQ明确列出；careersUrl 为包含招聘联系信息的官方FAQ。,2026-10-30,"https://www.limxdynamics.com/en/news/BK000064
 https://www.limxdynamics.com/en/faq
 https://www.zhipin.com/gongsi/f175c119152444b31XZ_39W8E1I~.html
@@ -834,11 +850,15 @@ https://www.ulsrobotics.com/
 https://www.ulsrobotics.com/h-col-115.html
 https://www.zhipin.com/gongsi/99361d1fc989b7261XN-09u_Fg~~.html
 https://www.163.com/dy/article/JV2O3CH305118K7K.html"
-unitree,宇树科技,08,具身智能与机器人,消费级与行业级足式、人形机器人本体,Go / B系列四足；G1 / H系列人形；机械臂,分析：相较模型优先的具身公司，宇树突出足式硬件、运动控制、标准化产品与开发接口。,智元机器人；逐际动力；傅利叶,官网公司介绍披露2024年B2轮由美团、金石投资、源码资本及深创投等参与。此处为历史投资背景，不将未核实的IPO或最新估值写为事实。,confirmed_disclosure,杭州总部；深圳、上海,https://www.unitree.com/,https://www.unitree.com/position/,hr@unitree.com,sales_global@unitree.com,销售,邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。,2026-10-30,"https://www.unitree.com/operate/company/
+unitree,宇树科技,08,具身智能与机器人,消费级与行业级足式、人形机器人本体,Go / B系列四足；G1 / H系列人形；机械臂,分析：相较模型优先的具身公司，宇树突出足式硬件、运动控制、标准化产品与开发接口。,智元机器人；逐际动力；傅利叶,官网公司介绍披露2024年B2轮由美团、金石投资、源码资本及深创投等参与。此处为历史投资背景，不将未核实的IPO或最新估值写为事实。另据2026-08 IPO 公开报道，DeepSeek／梁文锋相关主体参与宇树科创板战略配售（约1.41亿元量级口径见媒体）；这是上市战配，不等于本轮私募领投。,confirmed_disclosure,杭州总部；深圳、上海,https://www.unitree.com/,https://www.unitree.com/position/,hr@unitree.com,sales_global@unitree.com,销售,邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。,2026-11-09,"https://www.unitree.com/operate/company/
 https://www.unitree.com/cn/contact/
 https://www.unitree.com/position/
 https://www.zhipin.com/gongsi/fb3f028badcf880b1nZ409u5FVc~.html
-https://www.liepin.com/company/9328741/"
+https://www.liepin.com/company/9328741/
+https://www.tmtpost.com/8193897.html"
+winverse-ai,Winverse AI,08,具身智能与机器人,机器人具身大脑与世界模型（不做整机；隐身模式）,公开产品未披露；媒体口径为机器人底层 AI 模型／具身世界模型,分析：相较宇树等本体厂，Winverse 公开口径偏软件层具身大脑／世界模型；与理格万物同属 DeepSeek 具身早期布局线索。,理格万物；宇树科技；自变量机器人,2026-10 多家媒体报道 DeepSeek 拟领投种子轮（数千万美元、投后估值约4亿美元），美团龙珠等跟投；报道称交易尚未最终敲定，金额与投资方仍可能变化。,partial,杭州（多家媒体称注册地／创立地；无独立公开官网）,,,,,隐身运营，未见公开官网／招聘页,创始人胡瀚（前腾讯混元视觉语言／具身基础模型负责人）。2026-11-09 核验：无独立公开官网与招聘入口；勿把“DeepSeek 概念”泛化为已交割。,2026-11-09,"https://wallstreetcn.com/articles/3783467
+https://www.physicaldaily.com/company/winverse-ai
+https://finance.eastmoney.com/a/202610133894294380.html"
 x-square,自变量机器人,08,具身智能与机器人,端到端具身基础模型及通用机器人,WALL-B世界统一模型；量子系列机器人与数据基础设施,分析：相较以运动控制为主的足式公司，突出从感知到动作统一学习、模型与机器人协同。,银河通用；千寻智能；星海图,公司2026-06-29公告披露连续四轮融资至C轮，估值超过28亿美元；公司公告介绍字节、阿里云、美团、小米等战略资本背景。融资金额和估值为该时点公司披露。,confirmed_disclosure,深圳；北京,https://x2robot.com/,https://x2-robot.jobs.feishu.cn/,hr@x2robot.com,coop@x2robot.com,商业合作,邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。,2026-10-30,"https://www.prnewswire.com/news-releases/x-square-robot-secures-four-consecutive-financing-rounds-surpasses-us2-8-billion-valuation-in-push-for-physical-ai-foundation-models-302813091.html
 https://x2robot.com/join
 https://x2-robot.jobs.feishu.cn/

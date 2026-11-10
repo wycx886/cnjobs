@@ -46,6 +46,15 @@ python3 tools/build.py
 
 `build.py` 从正式 JSON 生成唯一的 `data/index.json` 和 `data/views/`，不修改业务事实。`validate.py` 检查格式、引用、日期及本地链接，`--check-generated` 同时检查生成内容。检查不代替实际网页核验。
 
+创业公司 Logo 是从官网抓取的派生视图资产，不写入公司研究 JSON：
+
+```bash
+python3 tools/fetch_logos.py --id unitree
+python3 tools/fetch_logos.py --workers 8
+```
+
+工具只读取 `operating_organization` 且 `player_group == "new_entrant"` 的记录，从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
+
 ## 提交与推送
 
 本仓库有自己的 `.git/`。保存是本地修改，提交记录修改，推送才上传到配置的 GitHub 远端。先审阅实际差异、来源、日期与共享范围：

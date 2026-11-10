@@ -10,8 +10,10 @@
 | **1b. 找已有玩家、成熟平台及旗下具体业务团队** | [find-incumbents](skills/find-incumbents/SKILL.md) |
 | **2. 找机构公开渠道（官网 / 邮箱 / BOSS直聘 / 猎聘企业主页）** | [find-channels](skills/find-channels/SKILL.md) |
 | **3. 找核心人物（创始人 / 业务VP / VC合伙人及 LinkedIn / X 主页）** | [find-person](skills/find-person/SKILL.md) · [核心人物建联指南](skills/find-person/references/person-outreach.md) |
+| **归入既有赛道（01–10 主赛道，不新造分类）** | [map-sectors](skills/map-sectors/SKILL.md) |
+| **维护公司档案（唯一源 `data/companies/<id>.json`）** | [compose-profile](skills/compose-profile/SKILL.md) |
 | **本地管理：初始化／复用私人工作区** | [setup-workspace](skills/setup-workspace/SKILL.md) |
-| **读取当前公共索引与阅读视图** | [data/index.json](data/index.json) · [data/views/README.md](data/views/README.md) |
+| **读取当前公共索引与阅读视图** | [data/index.json](data/index.json) · [data/views/README.md](data/views/README.md) · [交互看板](data/views/dashboard.html)（创业公司／现有巨头／金融机构 → 赛道） |
 | **字段契约、来源规则与投资归因口径** | [data/README.md](data/README.md) · [skills/find-startups/references/investment-cases.md](skills/find-startups/references/investment-cases.md) |
 | **数据查询、构建、校验、提交与推送** | [tools/README.md](tools/README.md) |
 

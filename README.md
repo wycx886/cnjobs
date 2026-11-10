@@ -3,7 +3,7 @@
 面向 Agent 的机构研究与机会跟进开源框架。围绕 **“找公司（Companies）→ 找渠道（Channels）→ 找核心人物（Key People）”** 的三步方法论（Three-Step Opportunity Methodology）构建；主题、地域与行业由任务指定。当前公共数据集聚焦中国 AI 创业公司、大厂创新单元与活跃 VC 机构。
 
 ```text
-skills/  三步法核心 Skills（找公司 / 找渠道 / 找核心人物 / 本地工作区）
+skills/  三步法核心 Skills、赛道归入、公司档案与本地工作区
 data/    正式公共 JSON（data/companies/）、寻源底表、Schema 契约与自动生成的阅读视图
 tools/   共用查询、构建、校验、公开边界检查及自动化测试
 ```
@@ -33,6 +33,8 @@ tools/   共用查询、构建、校验、公开边界检查及自动化测试
 | **第二步：核查机构公开渠道（官网 / 邮箱 / BOSS / 猎聘）** | [find-channels](skills/find-channels/SKILL.md) · [公开渠道采集 SOP](skills/find-channels/references/layer2-research.md) |
 | **第三步：核查核心人物与 LinkedIn / X 直接建联** | [find-person](skills/find-person/SKILL.md) · [核心人物建联指南](skills/find-person/references/person-outreach.md) |
 | **浏览自动生成的中国 AI 与 VC 公开资料** | [统一机器索引](data/index.json) · [阅读总目录](data/views/README.md) · [第一波新进名单](data/views/first-wave.md) · [VC 机构目录](data/views/vcs.md) |
+| **筛选、搜索并展开机构档案** | [交互看板](data/views/dashboard.html) · 第一层先分 **创业公司／现有巨头／金融机构**（未归类单独放置），第二层按既有 01–10 赛道分区；再搜索、按城市／批次筛选，查看核心人物、渠道与来源 |
+| **归入既有赛道 / 维护公司档案** | [map-sectors](skills/map-sectors/SKILL.md) · [compose-profile](skills/compose-profile/SKILL.md) · 只写 `data/companies/<id>.json`，页面与索引由 `build.py` 生成 |
 | **查看数据契约、查询工具与 Git 同步边界** | [数据模型说明](data/README.md) · [工具与同步说明](tools/README.md) |
 
 ---

@@ -1,0 +1,78 @@
+{
+  "schema_version": 3,
+  "id": "winverse-ai",
+  "name": "Winverse AI",
+  "aliases": [
+    "Winverse",
+    "隐身（Winverse AI）",
+    "Winverse AI（杭州）"
+  ],
+  "category_id": "08",
+  "focus": "机器人具身大脑与世界模型（不做整机；隐身模式）",
+  "products": "公开产品未披露；媒体口径为机器人底层 AI 模型／具身世界模型",
+  "locations_text": "杭州（多家媒体称注册地／创立地；无独立公开官网）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较宇树等本体厂，Winverse 公开口径偏软件层具身大脑／世界模型；与理格万物同属 DeepSeek 具身早期布局线索。",
+    "peer_names": [
+      "理格万物；宇树科技；自变量机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10 多家媒体报道 DeepSeek 拟领投种子轮（数千万美元、投后估值约4亿美元），美团龙珠等跟投；报道称交易尚未最终敲定，金额与投资方仍可能变化。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "隐身运营，未见公开官网／招聘页"
+  },
+  "notes": "创始人胡瀚（前腾讯混元视觉语言／具身基础模型负责人）。2026-11-09 核验：无独立公开官网与招聘入口；勿把“DeepSeek 概念”泛化为已交割。",
+  "checked_at": "2026-11-09",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "华尔街见闻｜DeepSeek拟领投Winverse AI",
+      "url": "https://wallstreetcn.com/articles/3783467",
+      "supports": "拟领投种子轮、估值口径、创始人背景、美团龙珠跟投及交易未最终敲定提示",
+      "published_date": "2026-10-12",
+      "checked_at": "2026-11-09"
+    },
+    {
+      "id": "s02",
+      "title": "物理智能观察｜Winverse AI 公司页",
+      "url": "https://www.physicaldaily.com/company/winverse-ai",
+      "supports": "杭州注册／隐身模式、具身大脑与世界模型方向、不做整机",
+      "published_date": null,
+      "checked_at": "2026-11-09"
+    },
+    {
+      "id": "s03",
+      "title": "东方财富｜拟投Winverse AI，DeepSeek具身智能又落一子",
+      "url": "https://finance.eastmoney.com/a/202610133894294380.html",
+      "supports": "胡瀚履历与隐身模式、DeepSeek拟领投报道",
+      "published_date": "2026-10-13",
+      "checked_at": "2026-11-09"
+    }
+  ],
+  "provenance": {
+    "original_name": "Winverse AI",
+    "original_track": "08",
+    "original_subtrack": "具身模型与操作"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "DeepSeek 拟领投的具身大脑早期公司，但隐身、无公开招聘渠道；先观察，不作为可立即投递目标。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-09"
+  },
+  "channels": []
+}

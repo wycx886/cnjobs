@@ -6,7 +6,7 @@
 
 [大厂项目与拆分机构](corporate-ventures.md) · [母平台排查清单](incumbents.md)。有明确目标的内部团队、实验室或项目也可单列；按组织形态和母平台关系区分，不一律视为独立公司。
 
-当前圈选 **102 个第一波候选**：93 个经营型机构、9 个投资机构；另有 22 个观察候选。
+当前圈选 **103 个第一波候选**：94 个经营型机构、9 个投资机构；另有 24 个观察候选。
 
 这是基于现有材料的编辑性寻源名单，不是全市场清单、机构质量排名、成立年份证明或招聘承诺。不设统一成立年份门槛；上市也不单独决定新进／已有。标签整理日期与实际核查日期分开记录。
 
@@ -39,6 +39,7 @@
 | [沐曦股份 MetaX](companies/metax.md) | 02 | 已核验披露 | 2026-10-30 |
 | [摩尔线程 Moore Threads](companies/moore-threads.md) | 02 | 部分核验／口径有限 | 2026-10-30 |
 | [清程极智 Qingcheng.AI](companies/qingcheng-ai.md) | 02 | 已核验披露 | 2026-10-30 |
+| [胜算云 SSYCloud](companies/shengsuanyun.md) | 02 | 部分核验／口径有限 | 2026-11-03 |
 | [硅基流动 SiliconFlow](companies/siliconflow.md) | 02 | 已核验披露 | 2026-10-30 |
 | [硅心科技 / aiXcoder](companies/aixcoder.md) | 03 | 部分核验／口径有限 | 2026-10-30 |
 | [Dify / LangGenius](companies/dify.md) | 03 | 已核验披露 | 2026-10-30 |
@@ -97,7 +98,7 @@
 | [它石智航](companies/tars.md) | 08 | 已核验披露 | 2026-10-30 |
 | [友道智途](companies/udit.md) | 08 | 部分核验／口径有限 | 2026-11-03 |
 | [傲鲨智能](companies/uls-robotics.md) | 08 | 已核验披露 | 2026-11-03 |
-| [宇树科技](companies/unitree.md) | 08 | 已核验披露 | 2026-10-30 |
+| [宇树科技](companies/unitree.md) | 08 | 已核验披露 | 2026-11-09 |
 | [自变量机器人](companies/x-square.md) | 08 | 已核验披露 | 2026-10-30 |
 | [跃然创新 Haivivi](companies/haivivi.md) | 09 | 已核验披露 | 2026-10-30 |
 | [极壳科技 Hypershell](companies/hypershell.md) | 09 | 已核验披露 | 2026-10-30 |
@@ -148,6 +149,7 @@
 | [苏州英诺维信](companies/innovis.md) | 经营型机构 | 未检索到“苏州英诺维信”的可靠公开资料，innovis.cn 无法访问；检索结果仅有名称相近的英诺维尔等其他公司，不予关联，保持 unresolved。 |
 | [合合信息 / Intsig](companies/intsig.md) | 经营型机构 | 现有材料呈现文档识别与商业信息平台，新进还是成熟专用AI玩家待核实，不因上市单独排除。 |
 | [节卡机器人](companies/jaka.md) | 经营型机构 | 2014年成立的协作机器人厂商，2022-2024年营收2.81亿/3.5亿/4亿元，但科创板IPO于2025年8月审议会取消后、12月撤回终止，监管关注收入确认；属新进玩家，列 watchlist 待核经营与资本进展。 |
+| [理格万物](companies/lige-wanwu.md) | 经营型机构 | DeepSeek 参投报道的早期具身大脑公司，公开招聘渠道缺失；先观察。 |
 | [微创机器人](companies/microport-medbot.md) | 经营型机构 | 微创系手术机器人独立上市平台，2024年收入高增但仍亏损，属于有新进边界的子平台；先列观察。 |
 | [纽劢科技](companies/nullmax.md) | 经营型机构 | 乘用车行泊一体智驾方案商，2023年被岩山科技控股，具备独立产品线与量产定点；先列观察。 |
 | [苏州李群自动化](companies/rokae-liqtech.md) | 经营型机构 | 官方检索区分QKM李群与ROKAE珞石；原档案混合不同品牌，liqtech.com.cn 与苏州具体主体未获证实，保留 unresolved／watchlist。 |
@@ -155,6 +157,7 @@
 | [苏州工业园区AI产业园](companies/sip-ai-industrial-park.md) | 经营型机构 | 原采集对象为园区生态线索，现有入口是苏州工业园区管委会，尚未确认具体产业园运营方或雇主；保留 unresolved／watchlist。 |
 | [钛米机器人](companies/timi-robot.md) | 经营型机构 | 医疗场景服务机器人新进厂商，产品进入医院但公开融资停留在2018年B轮；先列观察。 |
 | [苏州优智汇](companies/uzero-intelligence.md) | 经营型机构 | 未找到“苏州优智汇”的可靠公开资料；uzero.ai 为英文“AI for Producers”站点，未证实与苏州主体相关，保持 unresolved。 |
+| [Winverse AI](companies/winverse-ai.md) | 经营型机构 | DeepSeek 拟领投的具身大脑早期公司，但隐身、无公开招聘渠道；先观察，不作为可立即投递目标。 |
 | [苏州远志科技](companies/yuanzhi-ai.md) | 经营型机构 | 原核查摘要提出同名企业与工业AI候选不一致，但现有 s01 未提供可用主体证据；不确定对应关系，保留 unresolved／watchlist。 |
 
 ## 已有玩家

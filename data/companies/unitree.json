@@ -18,7 +18,7 @@
     ]
   },
   "investment": {
-    "summary": "官网公司介绍披露2024年B2轮由美团、金石投资、源码资本及深创投等参与。此处为历史投资背景，不将未核实的IPO或最新估值写为事实。",
+    "summary": "官网公司介绍披露2024年B2轮由美团、金石投资、源码资本及深创投等参与。此处为历史投资背景，不将未核实的IPO或最新估值写为事实。另据2026-08 IPO 公开报道，DeepSeek／梁文锋相关主体参与宇树科创板战略配售（约1.41亿元量级口径见媒体）；这是上市战配，不等于本轮私募领投。",
     "verification_status": "confirmed_disclosure"
   },
   "contacts": {
@@ -29,7 +29,7 @@
     "other_email_purpose": "销售"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-09",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +72,14 @@
       "supports": "公开企业主页主体：宇树科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "钛媒体／公开报道｜DeepSeek 布局具身与宇树战配",
+      "url": "https://www.tmtpost.com/8193897.html",
+      "supports": "DeepSeek／梁文锋相关主体参与宇树 IPO 战略配售及后续具身投资叙事",
+      "published_date": null,
+      "checked_at": "2026-11-09"
     }
   ],
   "provenance": {

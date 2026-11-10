@@ -211,6 +211,19 @@ qiniu,七牛云,s03,七牛云社会招聘,https://jobs.qiniu.com/,公开招聘�
 qiniu,七牛云,s04,【七牛招聘】-猎聘,https://www.liepin.com/company/7688655/,公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 qiniu,七牛云,s05,BOSS直聘企业主页 · 七牛云,https://www.zhipin.com/gongsi/b3b788a71aceed831XZy3Nk~.html,公开企业主页主体：七牛云；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 qiniu,七牛云,s06,七牛云：营收14.4亿、亏损4.6亿,https://www.163.com/dy/article/JSI0KVL80511D6RL.html,七牛智能2024年营收14.37亿元、净亏损4.59亿元、员工325人及收入结构。,2025-04-07,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s01,胜算云官网,https://www.shengsuanyun.com/zh/,当前产品组合与AI规模化执行定位；首页展示500+企业客户、100K+开发者、300+模型，均为官网自述。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s02,关于胜算云,https://www.shengsuanyun.com/zh/about,公司自述2021年成立、上海研发总部、2025年2亿估值天使轮及长三角国创中心重大科技专项数千万投资；2026年发布企业网关、OPC方案及LoomLoom。该页用户/企业数量与首页不同。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s03,LoomLoom产品页,https://www.shengsuanyun.com/zh/loomloom,自然语言创建多模型串并联工作流、Excel逐行批处理与结果回填、黑盒执行、创作者收费；源码链接指向cogfoundry-labs/loomloom，安装包为@cogfoundry/loomloom。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s04,企业级大模型网关,https://www.shengsuanyun.com/zh/companyGateway,多模型统一接入、BYOK、路由回退、权限、预算限流、审计与用量看板；网关套餐价格不含模型调用费；各处SLA宣传口径有差异，未做实测。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s05,LoomLoom收益规则与交易,https://lean.shengsuanyun.com/apidocs/loomloom/guide/loomloom-creators-listing-earnings,按次与订阅两种工作流收费均为平台10%、创作者90%；模型token费另由使用者支付且不参与分成；不据此推算公司实际收入。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s06,LoomLoom公开仓库与README,https://github.com/cogfoundry-labs/loomloom,开源CLI、AI工作IR/SkillApp与生产执行平台的产品分层；README标注Beta，生产平台可向CogFoundry取得许可；本次观察16 stars、2 forks，不能据此推算商业用户数。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s07,LoomLoom安装与平台配置文档,https://github.com/cogfoundry-labs/loomloom/blob/main/docs/quick-start/installation.md,同一客户端明确支持CogFoundry与ShengSuanYun两个平台及各自账号、余额和服务器入口；只支持技术接入关系，不证明股权或法律关系。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s08,LoomLoom工作流运行客户端源码,https://github.com/cogfoundry-labs/loomloom/blob/main/src/cli/internal/cmd/run.go,Go客户端通过HTTP提交运行、查询步骤及获取服务端结果表格；结合完整公开文件树，仅见src/cli源码，未见完整生产云端执行引擎实现。此为本次代码检查结论。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s09,LoomLoom v0.7.0发布,https://github.com/cogfoundry-labs/loomloom/releases/tag/v0.7.0,可核查发行版v0.7.0，发布时间2026-10-29；发布版非prerelease不改变README整体Beta说明。,2026-10-29,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s10,SSYCloud官方GitHub组织,https://github.com/SSYCloud,官方组织自述AI基础设施、API聚合路由、编程工具生态；公开仓库含多项上游fork及胜算云适配、配置、代理和多媒体插件。不能将fork视为全部自研。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s11,胜算云亮相第八届长三角科交会（证券日报网报道转载）,https://field.10jqka.com.cn/20251016/c671777665.shtml,2025-10-15科交会上宣布完成天使轮融资，报道未披露金额；同时作为长三角国创中心重点培育科技成果转化项目签约。,2025-10-16,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s12,南通市科技局2026年3月人工智能产业活动,https://kjj.nantong.gov.cn/ntskjj/bmdt/content/c573b5d3-ad63-4a2b-a13e-c8a10f076bf1.htm,公开活动记录提及如皋胜算云创始人周政军、OPC生态社区及多云并行AI规模化生产方案；支持园区合作活动，不能据此认定政府采购金额。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s13,CogFoundry服务条款,https://cogfoundry.ai/en/legal/terms/,条款主体自述CogFoundry Pte. Ltd.及新加坡UEN 202603662E；本次未找到其与胜算云的股权、控制权或授权合同公开证明。,,2026-11-03
 siliconflow,硅基流动 SiliconFlow,s01,硅基流动官方融资公告,https://siliconflow.cn/news/dl5ov97pt579ortwy57woavu,阿里云领投、创新工场跟投,2025-06,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s02,硅基流动官方介绍,https://www.siliconflow.cn/about,定位、产品、地址,,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s03,硅基流动官网,https://www.siliconflow.cn/,市场合作邮箱,,2026-10-30
@@ -744,6 +757,9 @@ leader-drive,苏州绿的谐波,s01,苏州绿的谐波 公开入口,https://www.
 leader-drive,苏州绿的谐波,s02,BOSS直聘企业主页 · 苏州绿的谐波传动科技股份有限公司（木渎，13岗）,https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html,公开企业主页主体：苏州绿的谐波传动科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 leader-drive,苏州绿的谐波,s03,新浪财经公司资料 · 苏州绿的谐波传动科技股份有限公司（688017）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688017.phtml,2011-01-13成立、2020-08-28上市、精密传动装置主营、苏州吴中注册地址。,,2026-11-03
 leader-drive,苏州绿的谐波,s04,猎聘：绿的谐波（检索命中，正文访问受限）,https://m.liepin.com/company/9925913/,公开检索摘要命中具名企业页，但本次实际打开均进入登录／验证；保留为候选，主体与可访问性待核实，不把推荐职位当本公司职位。,,2026-11-03
+lige-wanwu,理格万物,s01,雷峰网鲸犀｜梁文锋、红杉、砺思资本投了俞涛做的通用具身大脑,https://www.bianews.com/news/details?id=247966,亲友轮投资方（红杉中国、砺思、DeepSeek）、业务定位与创始人履历,,2026-11-09
+lige-wanwu,理格万物,s02,投资界｜理格万物公司页,https://vc.pedaily.cn/company/907191.html,北京海淀主体、成立时间与注册信息、天使轮日期口径,,2026-11-09
+lige-wanwu,理格万物,s03,SVTR｜理格万物,https://svtr.ai/orgs/ligewanwu,北京、通用具身大脑定位、投资方名单交叉,,2026-11-09
 limx,逐际动力,s01,逐际Pre-IPO融资公告,https://www.limxdynamics.com/en/news/BK000064,投资方与产品,2026-07-14,2026-10-30
 limx,逐际动力,s02,逐际FAQ,https://www.limxdynamics.com/en/faq,技术定位、总部、招聘及商务邮箱,,2026-10-30
 limx,逐际动力,s03,逐际动力招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f175c119152444b31XZ_39W8E1I~.html,公开企业主页主体：逐际动力；只核验入口归属，不表示具体岗位开放。,,2026-10-31
@@ -839,6 +855,10 @@ unitree,宇树科技,s02,宇树联系我们,https://www.unitree.com/cn/contact/,
 unitree,宇树科技,s03,宇树加入我们,https://www.unitree.com/position/,招聘入口与产品研发方向,,2026-10-30
 unitree,宇树科技,s04,宇树科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/fb3f028badcf880b1nZ409u5FVc~.html,公开企业主页主体：宇树科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 unitree,宇树科技,s05,【宇树科技招聘】-猎聘,https://www.liepin.com/company/9328741/,公开企业主页主体：宇树科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+unitree,宇树科技,s06,钛媒体／公开报道｜DeepSeek 布局具身与宇树战配,https://www.tmtpost.com/8193897.html,DeepSeek／梁文锋相关主体参与宇树 IPO 战略配售及后续具身投资叙事,,2026-11-09
+winverse-ai,Winverse AI,s01,华尔街见闻｜DeepSeek拟领投Winverse AI,https://wallstreetcn.com/articles/3783467,拟领投种子轮、估值口径、创始人背景、美团龙珠跟投及交易未最终敲定提示,2026-10-12,2026-11-09
+winverse-ai,Winverse AI,s02,物理智能观察｜Winverse AI 公司页,https://www.physicaldaily.com/company/winverse-ai,杭州注册／隐身模式、具身大脑与世界模型方向、不做整机,,2026-11-09
+winverse-ai,Winverse AI,s03,东方财富｜拟投Winverse AI，DeepSeek具身智能又落一子,https://finance.eastmoney.com/a/202610133894294380.html,胡瀚履历与隐身模式、DeepSeek拟领投报道,2026-10-13,2026-11-09
 x-square,自变量机器人,s01,自变量公司融资公告,https://www.prnewswire.com/news-releases/x-square-robot-secures-four-consecutive-financing-rounds-surpasses-us2-8-billion-valuation-in-push-for-physical-ai-foundation-models-302813091.html,投资背景、业务与城市,2026-06-29,2026-10-30
 x-square,自变量机器人,s02,自变量加入我们,https://x2robot.com/join,官网、产品及招聘跳转,,2026-10-30
 x-square,自变量机器人,s03,自变量社会招聘,https://x2-robot.jobs.feishu.cn/,招聘邮箱与商务邮箱,,2026-10-30

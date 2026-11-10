@@ -1,22 +1,22 @@
 {
   "schema_version": 4,
-  "latest_checked_at": "2026-11-03",
-  "latest_operating_check": "2026-11-03",
+  "latest_checked_at": "2026-11-09",
+  "latest_operating_check": "2026-11-09",
   "latest_investment_firm_check": "2026-10-30",
   "counts": {
-    "organizations": 220,
-    "companies": 220,
-    "operating_organizations": 195,
+    "organizations": 223,
+    "companies": 223,
+    "operating_organizations": 198,
     "investment_firms": 25,
-    "first": 102,
-    "watchlist": 22,
+    "first": 103,
+    "watchlist": 24,
     "later": 96
   },
   "statistics": {
     "operating_organizations": {
-      "organizations": 195,
+      "organizations": 198,
       "categories": 10,
-      "source_records": 1050,
+      "source_records": 1070,
       "recruitment_links": 129,
       "public_recruitment_emails": 42
     },
@@ -3999,6 +3999,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "lige-wanwu",
+      "name": "理格万物",
+      "aliases": [
+        "理格万物（北京）科技有限公司",
+        "Lige Wanwu",
+        "ligewanwu"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用具身大脑：大语言模型与具身智能结合，打通决策与运动控制",
+      "checked_at": "2026-11-09",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "DeepSeek 参投报道的早期具身大脑公司，公开招聘渠道缺失；先观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-09"
+      },
+      "json_path": "data/companies/lige-wanwu.json",
+      "markdown_path": "data/views/companies/lige-wanwu.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "limx",
       "name": "逐际动力",
       "aliases": [
@@ -5229,6 +5257,38 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "shengsuanyun",
+      "name": "胜算云 SSYCloud",
+      "aliases": [
+        "胜算云",
+        "SSYCloud",
+        "ShengSuanYun",
+        "上海胜算速惠云科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多模型API与多云算力服务、企业AI网关，以及LoomLoom工作流规模化执行与交易平台",
+      "checked_at": "2026-11-03",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "按官网2025模型中心与2026企业网关、LoomLoom及OPC产品活动列为AI基础设施与工作流服务研究候选；这是业务分类，不表示技术领先、投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03",
+          "s06",
+          "s11"
+        ],
+        "labelled_at": "2026-11-03"
+      },
+      "json_path": "data/companies/shengsuanyun.json",
+      "markdown_path": "data/views/companies/shengsuanyun.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "shoplazza",
       "name": "店匠科技 / Shoplazza",
       "aliases": [
@@ -6025,7 +6085,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "消费级与行业级足式、人形机器人本体",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-09",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6184,6 +6244,34 @@
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "winverse-ai",
+      "name": "Winverse AI",
+      "aliases": [
+        "Winverse",
+        "隐身（Winverse AI）",
+        "Winverse AI（杭州）"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "机器人具身大脑与世界模型（不做整机；隐身模式）",
+      "checked_at": "2026-11-09",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "DeepSeek 拟领投的具身大脑早期公司，但隐身、无公开招聘渠道；先观察，不作为可立即投递目标。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-09"
+      },
+      "json_path": "data/companies/winverse-ai.json",
+      "markdown_path": "data/views/companies/winverse-ai.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
     },
     {
       "id": "wistron-kunshan",
