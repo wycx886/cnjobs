@@ -203,7 +203,7 @@ TEMPLATE = r'''<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#0e1111">
-<title>中国 AI 机会索引 · cn_ai_opp</title>
+<title>中国 AI 机会索引 · cnjobs</title>
 <meta name="description" content="中国 AI 机构寻源看板：先分创业公司、现有巨头与金融机构，再按赛道展开公司档案、核心人物与公开渠道。">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Dataset","name":"中国 AI 机会索引","description":"中国 AI 创业公司、大厂创新单元与投资机构的公开研究索引。","keywords":["中国 AI","创业公司","现有巨头","投资机构","风险投资"],"isAccessibleForFree":true}
@@ -734,7 +734,7 @@ footer a:hover{color:var(--accent-2)}
             </div>
             <div>
               <h3>内嵌数据</h3>
-              <p>页面包含 <code>&lt;script type="application/json" id="cn-ai-opp-data"&gt;</code>，可直接取用。共 __TOTAL__ 个机构：__OPERATING__ 个经营型机构、__INVESTORS__ 个投资机构；__CHANNELS__ 家已有公开渠道，__PEOPLE__ 家已有公开人物，__SOURCES__ 条来源记录。</p>
+              <p>页面包含 <code>&lt;script type="application/json" id="cnjobs-data"&gt;</code>，可直接取用。共 __TOTAL__ 个机构：__OPERATING__ 个经营型机构、__INVESTORS__ 个投资机构；__CHANNELS__ 家已有公开渠道，__PEOPLE__ 家已有公开人物，__SOURCES__ 条来源记录。</p>
               <pre><code>{
   "meta": { "default_class": "startups", "generated_from": [...] },
   "labels": {...},
@@ -780,11 +780,11 @@ footer a:hover{color:var(--accent-2)}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <div class="sr-only" id="live-status" aria-live="polite"></div>
 
-<script type="application/json" id="cn-ai-opp-data">__DATASET__</script>
+<script type="application/json" id="cnjobs-data">__DATASET__</script>
 <script>
 (function () {
   "use strict";
-  var DATA = JSON.parse(document.getElementById("cn-ai-opp-data").textContent);
+  var DATA = JSON.parse(document.getElementById("cnjobs-data").textContent);
   var ORGS = DATA.organizations || [];
   var BY_ID = new Map(ORGS.map(function (org) { return [org.record.id, org]; }));
   var CATEGORIES = (DATA.taxonomy && DATA.taxonomy.categories) || [];

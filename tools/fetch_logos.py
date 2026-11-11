@@ -23,7 +23,7 @@ MANIFEST = LOGO_DIR / "manifest.json"
 MAX_IMAGE_BYTES = 512 * 1024
 MAX_HTML_BYTES = 2 * 1024 * 1024
 DEFAULT_TIMEOUT = 15
-USER_AGENT = "cn_ai_opp research logo fetcher (public official sites; contact via repository)"
+USER_AGENT = "cnjobs research logo fetcher (public official sites; contact via repository)"
 IMAGE_EXTENSIONS = {
     "image/png": "png",
     "image/jpeg": "jpg",

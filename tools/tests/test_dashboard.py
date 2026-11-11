@@ -30,7 +30,7 @@ class DashboardTests(unittest.TestCase):
         cls.output = build.outputs()
         cls.html = cls.output["data/views/dashboard.html"]
         match = re.search(
-            r'<script type="application/json" id="cn-ai-opp-data">(.*?)</script>',
+            r'<script type="application/json" id="cnjobs-data">(.*?)</script>',
             cls.html, re.S)
         if not match:
             raise AssertionError("Dashboard has no embedded dataset")
@@ -84,7 +84,7 @@ class DashboardTests(unittest.TestCase):
         self.assertIn('data-class="unresolved"', self.html)
 
     def test_dashboard_keeps_public_sources_and_no_private_paths(self):
-        self.assertIn('id="cn-ai-opp-data"', self.html)
+        self.assertIn('id="cnjobs-data"', self.html)
         # Public source URLs may legitimately contain path segments like /home/about;
         # strip URLs before looking for local filesystem markers.
         haystack = re.sub(r'https?://[^\s"\'<>]+', " ", self.html)

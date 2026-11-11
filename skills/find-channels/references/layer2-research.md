@@ -12,7 +12,7 @@
 ## 给任意采集 Agent 的任务模板
 
 ```text
-请在任务指定的 cn_ai_opp 仓库中，先读 AGENTS.md 和 skills/find-channels/SKILL.md，以 data/index.json 中全部公司为清单，仅查找并核实 BOSS直聘、猎聘上的公开企业主页；将已核实结果直接写入 data/companies/<id>.json 的 channels 和 sources，记录主体归属与实际核查日期，保留原业务资料和核查日期；未找到、打不开或主体存疑的逐项报告，不猜链接、不伪造 confirmed，不写私人 inbox 或 applications，完成后生成阅读版并运行检查，不发送消息或投递。
+请在任务指定的 cnjobs 仓库中，先读 AGENTS.md 和 skills/find-channels/SKILL.md，以 data/index.json 中全部公司为清单，仅查找并核实 BOSS直聘、猎聘上的公开企业主页；将已核实结果直接写入 data/companies/<id>.json 的 channels 和 sources，记录主体归属与实际核查日期，保留原业务资料和核查日期；未找到、打不开或主体存疑的逐项报告，不猜链接、不伪造 confirmed，不写私人 inbox 或 applications，完成后生成阅读版并运行检查，不发送消息或投递。
 ```
 
 模板中的平台和公司范围随用户任务调整；这份两平台示例不要求采集脉脉。具备仓库写入能力的 Agent 直接维护公司档案；只有客观上无法访问仓库时，才回传纯公共 JSON 观察结果供有权限的 Agent 写入，这不建立私人 inbox 流程。

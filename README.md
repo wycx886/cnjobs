@@ -1,4 +1,4 @@
-# cn_ai_opp
+# cnjobs
 
 面向 Agent 的机构研究与机会跟进开源框架。围绕 **“找公司（Companies）→ 公司档案（Profile & Sectors）→ 找核心人物（Key People）→ 找渠道（Channels）”** 的方法论（Opportunity Methodology）构建；主题、地域与行业由任务指定。当前公共数据集聚焦中国 AI 创业公司、大厂创新单元与活跃 VC 机构。
 
@@ -6,6 +6,31 @@
 skills/  方法论核心 Skills（找公司／档案与赛道／核心人物／公开渠道）与本地工作区
 data/    正式公共 JSON（data/companies/）、寻源底表、Schema 契约与自动生成的阅读视图
 tools/   共用查询、构建、校验、公开边界检查及自动化测试
+lib/     DeepSeek Harness 插件入口：把上面的 skills 注册进 DSH（普通使用可忽略）
+tests/   插件入口的 Node 测试
+```
+
+## 安装（Install）
+
+两种用法共用同一份内容，互不冲突：
+
+**1）普通仓库（任何 Agent）** — 直接 clone，按仓库根目录使用即可；Skill 是标准 `SKILL.md`，`AGENTS.md` 是通用 Agent 指令：
+
+```bash
+git clone https://github.com/wycx886/cnjobs.git
+```
+
+**2）DeepSeek Harness 插件** — 一条命令把 8 个 Skill 挂进 DSH profile，不需要 clone 到工作区：
+
+```bash
+dsh plugin --profile web add github:wycx886/cnjobs
+dsh web
+```
+
+安装后 DSH 会从包内的 `skills/` 读取 skill，并在系统提示里注明框架根目录，因此 Skill 中的 `data/…`、`tools/…` 相对路径始终指向已安装副本。卸载：
+
+```bash
+dsh plugin --profile web remove cnjobs
 ```
 
 ---

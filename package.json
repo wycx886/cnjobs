@@ -1,0 +1,56 @@
+{
+  "name": "cnjobs",
+  "version": "0.1.0",
+  "description": "China AI opportunity research framework for agents: find investors and companies, build sourced company dossiers, find key people and public channels, and keep the private job-search workspace local. Ships as a DeepSeek Harness plugin and stays usable as a plain repository.",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "skills",
+    "data",
+    "tools",
+    "cordis.patch.yml",
+    "AGENTS.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test tools/tests/plugin.test.mjs",
+    "validate": "python3 tools/validate.py",
+    "build": "python3 tools/build.py"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "jobs",
+    "career",
+    "china",
+    "ai",
+    "venture-capital",
+    "research",
+    "agent-skills"
+  ],
+  "author": "wycx886",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wycx886/cnjobs.git"
+  },
+  "homepage": "https://github.com/wycx886/cnjobs#readme",
+  "bugs": {
+    "url": "https://github.com/wycx886/cnjobs/issues"
+  }
+}

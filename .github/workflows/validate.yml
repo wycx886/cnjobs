@@ -1,4 +1,4 @@
-name: Validate framework and public data
+name: Validate cnjobs framework and public data
 on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
@@ -18,5 +18,10 @@ jobs:
         run: python tools/validate.py --check-generated
       - name: Verify research workflows and sharing protections
         run: python -m unittest discover -s tools/tests -v
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test the DeepSeek Harness plugin entry
+        run: node --test tools/tests/plugin.test.mjs
       - name: Check shared files and historical paths
         run: python tools/check_public.py

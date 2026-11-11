@@ -7,9 +7,11 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_FILES = frozenset({
     ".gitignore", "AGENTS.md", "README.md",
     "LICENSE", "LICENSE.md",
+    "package.json", "cordis.patch.yml",
 })
 PUBLIC_DIRS = frozenset({
     ".github", "data", "skills", "tools",
+    "lib",
 })
 HISTORICAL_DIRS = frozenset({"catalog", "docs", "schemas", "scripts", "templates", "tests", "companies", "investors", "exports"})
 RETIRED_INDEXES = frozenset({"data/targets.json", "data/investor-index.json"})
@@ -17,12 +19,17 @@ PRIVATE_PARTS = frozenset({
     "workspace", "workspace.local.json", "resume", "applications", "application", "local", "private", "resumes", "drafts",
     ".venv", "__pycache__", ".git",
 })
+# Public web URLs legitimately contain path segments such as /home/about;
+# strip them before matching so only real local paths are reported.
+URL_PATTERN = re.compile(rb"https?://[^\s\"'<>\\]+")
 CONTENT_PATTERNS = (
     ("absolute home-directory path", re.compile(rb"/(?:Users|home)/[^/\s\x00]+/")),
     ("private key", re.compile(rb"-----BEGIN (?:[A-Z0-9 ]+ )?PRIVATE KEY-----")),
     ("GitHub credential", re.compile(rb"\b(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,})\b")),
     ("API credential", re.compile(rb"\bsk-(?:proj-|svcacct-)?[A-Za-z0-9_-]{32,}\b")),
 )
+# Only the home-directory rule ignores URLs; credentials are never excused.
+URL_INSENSITIVE = {"absolute home-directory path"}
 
 
 def git(root, *args):
@@ -71,7 +78,8 @@ def audit(root=ROOT):
         if oid not in seen_blobs:
             content = git(root, "cat-file", "blob", oid)
             for label, pattern in CONTENT_PATTERNS:
-                if pattern.search(content):
+                haystack = URL_PATTERN.sub(b" ", content) if label in URL_INSENSITIVE else content
+                if pattern.search(haystack):
                     problems.append("Index: %s (%s; content withheld)" % (name, label))
             seen_blobs.add(oid)
     # Ignore rules do not remove private files from earlier commits.

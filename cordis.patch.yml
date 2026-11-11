@@ -1,0 +1,13 @@
+# cnjobs — bundle patch layer.
+#
+# Installing the package into a profile (`dsh plugin --profile <name> add cnjobs`)
+# appends it to `dsh.profile.bundles`; the boot then merges THIS patch as that
+# bundle's layer. The single row below mounts the package main entry, which
+# registers the packaged `skills/` directory with the skill registry and adds
+# one short system-prompt section naming the installed framework root.
+#
+# Later layers (the profile's own cordis.patch.yml, --patch overlays) can
+# disable or reconfigure this row by id.
+- insert:
+    - id: cnjobs
+      name: cnjobs
