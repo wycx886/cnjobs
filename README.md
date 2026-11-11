@@ -23,7 +23,8 @@ git clone https://github.com/wycx886/cnjobs.git
 **2）DeepSeek Harness 插件** — 一条命令把 8 个 Skill 挂进 DSH profile，不需要 clone 到工作区：
 
 ```bash
-dsh plugin --profile web add github:wycx886/cnjobs
+dsh plugin --profile web add cnjobs      # npm
+# 或从 GitHub 直接安装：dsh plugin --profile web add github:wycx886/cnjobs
 dsh web
 ```
 
