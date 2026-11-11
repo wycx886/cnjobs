@@ -56,6 +56,16 @@ python3 tools/fetch_logos.py --workers 8
 
 工具默认读取**创业公司**（`operating_organization` 且 `player_group == "new_entrant"`）和**所有有官网的 `investment_firm`**；传入 `--id` 时投资机构不再被跳过。它从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
 
+## DSH 插件入口
+
+`package.json`、`cordis.patch.yml` 与 `lib/index.js` 把本仓库同时包装成 DeepSeek Harness 插件：安装 `dsh plugin --profile web add github:wycx886/cnjobs` 后，DSH 从包内 `skills/` 读取 8 个 Skill，并在系统提示里注明框架根目录，使 Skill 中的 `data/…`、`tools/…` 相对路径指向已安装副本。普通 clone 用法不受影响。
+
+```bash
+node --test tools/tests/plugin.test.mjs   # 校验入口、Skill 目录与服务契约
+```
+
+`lib/index.js` 只做注册，不写数据、不承载业务逻辑；`skills/<name>/SKILL.md` 的单层目录结构是发现契约，新增或改名 Skill 后必须同步跑上面的测试。git 安装由 npm `files` 白名单打包，只含 `lib/`、`skills/`、`data/`、`tools/`、`cordis.patch.yml` 与根入口文件。
+
 ## 提交与推送
 
 本仓库有自己的 `.git/`。保存是本地修改，提交记录修改，推送才上传到配置的 GitHub 远端。先审阅实际差异、来源、日期与共享范围：
@@ -81,7 +91,7 @@ git remote -v
 | 尚未核实的新机构草稿 | 私人 `drafts/research/` | 否 |
 | 私人工作区路径 | `workspace.local.json` | 否 |
 
-公开 Layer 2 采集直接更新所属公司的 `data/companies/<id>.json`，可用渠道 Skill 的 `update_layer2.py --apply` 从标准输入写入，无需私人工作区或 inbox；私人对话及联系进展继续留私人工作区。共享目录只保留 `skills/`、`data/`、`tools/`、`.github/` 及根入口文件；历史旧目录仅在历史审计中兼容，具体名单以 `check_public.py` 为准。
+公开 Layer 2 采集直接更新所属公司的 `data/companies/<id>.json`，可用渠道 Skill 的 `update_layer2.py --apply` 从标准输入写入，无需私人工作区或 inbox；私人对话及联系进展继续留私人工作区。共享目录只保留 `skills/`、`data/`、`tools/`、`lib/`、`.github/` 及根入口文件；历史旧目录仅在历史审计中兼容，具体名单以 `check_public.py` 为准。
 
 内部 `workspace/` 和路径配置被 Git 忽略；外部工作区在 Git 根目录之外。旧个人目录的忽略规则继续保留，不用强制添加绕过。检查可拦住私人目录、常见凭据和电脑路径，但不能识别所有姓名和聊天，仍需审阅内容。忽略不清除历史；发现历史私人内容时停止推送，评估后再清理，不擅自改写历史。
 
