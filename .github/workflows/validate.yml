@@ -22,6 +22,6 @@ jobs:
         with:
           node-version: '22'
       - name: Test the DeepSeek Harness plugin entry
-        run: node --test tools/tests/plugin.test.mjs
+        run: node --test tools/tests/*.test.mjs
       - name: Check shared files and historical paths
         run: python tools/check_public.py

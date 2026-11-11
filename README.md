@@ -28,7 +28,9 @@ dsh plugin --profile web add cnjobs      # npm
 dsh web
 ```
 
-安装后 DSH 会从包内的 `skills/` 读取 skill，并在系统提示里注明框架根目录，因此 Skill 中的 `data/…`、`tools/…` 相对路径始终指向已安装副本。卸载：
+安装后 DSH 会从包内的 `skills/` 读取 skill，并在系统提示里注明框架根目录，因此 Skill 中的 `data/…`、`tools/…` 相对路径始终指向已安装副本。
+
+Web 端还会多出两个入口：会话区顶部标签 **CN Jobs**（应用内直接渲染本仓库生成的看板），以及左侧栏底部的 📊 按钮（新标签页打开同一看板）。看板由 host 半包把 `data/views/` 挂到 `/cnjobs/` 提供，数据与使用普通 clone 打开 `dashboard.html` 完全一致。卸载：
 
 ```bash
 dsh plugin --profile web remove cnjobs

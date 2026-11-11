@@ -6,7 +6,8 @@
   "main": "lib/index.js",
   "exports": {
     ".": "./lib/index.js",
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./client": "./lib/client.js"
   },
   "files": [
     "lib",
@@ -19,7 +20,7 @@
     "LICENSE"
   ],
   "scripts": {
-    "test": "node --test tools/tests/plugin.test.mjs",
+    "test": "node --test tools/tests/*.test.mjs",
     "validate": "python3 tools/validate.py",
     "build": "python3 tools/build.py"
   },
@@ -29,6 +30,9 @@
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web"
     }
   },
   "keywords": [

@@ -8,11 +8,13 @@
  */
 import assert from 'node:assert/strict'
 import test from 'node:test'
-import { apply, inject, name } from '../../lib/index.js'
+import { Writable } from 'node:stream'
+import { apply, inject, name, serveViews } from '../../lib/index.js'
 
-function harness() {
+function harness(options = {}) {
   let provider
   const sections = []
+  const routes = []
   const ctx = {
     skills: {
       registerProvider(factory) {
@@ -26,9 +28,49 @@ function harness() {
         return () => {}
       },
     },
+    get(key) {
+      if (key === 'webServer' && options.webServer) return options.webServer
+      return undefined
+    },
+    webServer: options.webServer,
+    inject(names, callback) {
+      if (options.webServer) callback({ webServer: options.webServer })
+      return { then() {} }
+    },
   }
   apply(ctx)
-  return { provider, sections }
+  return { provider, sections, routes }
+}
+
+/** Minimal ServerResponse stand-in that records status, headers and body. */
+function fakeResponse() {
+  const chunks = []
+  const res = new Writable({
+    write(chunk, _encoding, callback) {
+      chunks.push(Buffer.from(chunk))
+      callback()
+    },
+  })
+  res.statusCode = 0
+  res.headers = {}
+  res.writeHead = (code, headers = {}) => {
+    res.statusCode = code
+    Object.assign(res.headers, headers)
+  }
+  res.body = () => Buffer.concat(chunks)
+  return res
+}
+
+/** Run one request through the static handler and wait for the response end. */
+function request(url, method = 'GET') {
+  const res = fakeResponse()
+  const req = { method, url }
+  const done = new Promise((resolve) => {
+    res.on('finish', resolve)
+    res.on('close', resolve)
+  })
+  serveViews(req, res)
+  return done.then(() => res)
 }
 
 test('declares the plugin identity expected by the bundle patch', () => {
@@ -98,4 +140,58 @@ test('adds one rooted prompt section naming the installed framework', () => {
   assert.ok(section.text.includes('data/companies/*.json'))
   assert.ok(section.text.includes('tools/build.py'))
   assert.ok(!section.text.includes('{{'), 'prompt variables must stay unresolved-free')
+})
+
+test('mounts the dashboard route only when the Web surface provides a server', () => {
+  const registered = []
+  const webServer = {
+    register(route) {
+      registered.push(route)
+      return () => {}
+    },
+  }
+  harness({ webServer })
+  assert.equal(registered.length, 1)
+  assert.equal(registered[0].kind, 'prefix')
+  assert.equal(registered[0].path, '/cnjobs')
+  assert.equal(typeof registered[0].handler, 'function')
+
+  const headless = harness()
+  assert.equal(headless.provider.name, 'cnjobs', 'headless profiles still get the skills')
+})
+
+test('serves the generated dashboard and its logo assets', async () => {
+  const page = await request('/cnjobs/dashboard.html')
+  assert.equal(page.statusCode, 200)
+  assert.match(page.headers['content-type'], /^text\/html/)
+  assert.match(page.body().toString('utf8'), /<title>/)
+
+  const icon = await request('/cnjobs/assets/logos/deepseek.ico')
+  assert.equal(icon.statusCode, 200)
+  assert.equal(icon.headers['content-type'], 'image/x-icon')
+  assert.ok(icon.body().length > 0)
+})
+
+test('redirects the bare mount point and refuses to leave the views root', async () => {
+  const root = await request('/cnjobs/')
+  assert.equal(root.statusCode, 302)
+  assert.equal(root.headers.location, '/cnjobs/dashboard.html')
+
+  const missing = await request('/cnjobs/missing.html')
+  assert.equal(missing.statusCode, 404)
+
+  // A dot-dot segment survives URL parsing only when its slash is encoded.
+  const escaped = await request('/cnjobs/..%2fpackage.json')
+  assert.equal(escaped.statusCode, 403)
+  // A plain ../ is normalized away by the URL parser; the request must still
+  // never reach a package file outside the views root.
+  const normalized = await request('/cnjobs/%2e%2e/package.json')
+  assert.ok([403, 404].includes(normalized.statusCode))
+
+  const badMethod = await request('/cnjobs/dashboard.html', 'POST')
+  assert.equal(badMethod.statusCode, 405)
+
+  const head = await request('/cnjobs/dashboard.html', 'HEAD')
+  assert.equal(head.statusCode, 200)
+  assert.equal(head.body().length, 0)
 })
