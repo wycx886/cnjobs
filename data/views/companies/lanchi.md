@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/lanchi.json)
 
-机构 ID：`lanchi` · 核查日期：2026-10-30
+机构 ID：`lanchi` · 核查日期：2026-11-11
 
 **目标标记：** 已有玩家／后续 · incumbent（编辑归类，2026-10-31）
 
@@ -90,3 +90,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s05 | [Lanchi-backed Genspark Raises $275M Series B](https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/) | 2024种子轮领投与2025年项目融资进展 | 2025-11-20 | 2026-10-30 |
 | s06 | [Lanchi Ventures官方首页](https://lanchiventures.com/) | 领域、理想等组合与一般邮箱 | 未标明 | 2026-10-30 |
 | s07 | [【蓝驰创投招聘】-猎聘](https://www.liepin.com/company/13769731/) | 公开企业主页主体：蓝驰创投；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s08 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 蓝驰创投：清科2025年中国早期投资机构30强第8名 | 未标明 | 2026-11-11 |
+| s09 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 蓝驰创投：清科创业2024年中国早期投资机构30强第4名 | 未标明 | 2026-11-11 |
+| s10 | [投中2025年度中国最佳早期创业投资机构TOP50](https://www.chinaventure.com.cn/rank/210/3188.html) | 蓝驰创投：投中2025年度中国最佳早期创业投资机构TOP50第8名 | 2026-04-24 | 2026-11-11 |
+| s11 | [投中2024年度中国最佳早期创业投资机构TOP50](https://www.chinaventure.com.cn/rank/199/3063.html) | 蓝驰创投：投中2024年度中国最佳早期创业投资机构TOP50第2名 | 2025-04-18 | 2026-11-11 |

@@ -1,0 +1,129 @@
+{
+  "schema_version": 3,
+  "id": "cowin-capital",
+  "name": "同创伟业（Cowin Capital）",
+  "aliases": [
+    "Cowin Capital",
+    "深圳同创伟业资产管理股份有限公司",
+    "深圳市同创伟业创业投资有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 VC 主榜均在前 15 名，机构库与榜单案例覆盖半导体、医疗影像与算力芯片，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2000,
+    "basis": "清科投资界机构库工商信息：深圳市同创伟业创业投资有限公司成立于2000年6月26日；同页机构简介称同创伟业成立于2000年6月26日，为中国第一批专业私募股权投资公司，2015年7月登陆新三板（证券代码 832793）。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第11名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第15名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第12名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第12名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 15 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "机构简介称以产业链投资为切入点、聚焦新兴产业，深度挖掘细分行业龙头。公开案例覆盖图像传感器（豪威集团）、医疗影像（联影医疗）、GPU（沐曦股份）与半导体材料（青禾晶元）。",
+  "stage": "清科、投中均将其列入创业投资（VC）主榜；以成长期项目为主，2026 年同时出现在天使轮（寰声科技）与 Pre-IPO（青禾晶元）两端。",
+  "representative_cases": [
+    {
+      "company": "豪威集团",
+      "attribution": "current_firm",
+      "investor_or_team": "同创伟业",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "联影医疗",
+      "attribution": "current_firm",
+      "investor_or_team": "同创伟业",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "沐曦股份",
+      "attribution": "current_firm",
+      "investor_or_team": "同创伟业",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未披露持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库出手记录显示：2026-11-04 参与华辰芯光超亿元 B+ 轮（同轮有衢州工业集团、静水湖创投；同页资讯标题称其领投，出手记录写“等参投”，口径不一致，未据此判定领投）；2026-10-28 参与青禾晶元 Pre-IPO 与寰声科技天使轮；2026-10-12 参与蓝芯算力近20亿元 B 轮；同页统计近3个月出手18次。",
+  "why_follow": "编辑分析：其项目名单同时覆盖算力芯片（沐曦、蓝芯算力）、半导体材料（青禾晶元）与医疗设备（联影），可作为观察本土老牌 VC 在半导体国产化与 AI 算力上的配置。",
+  "difference": "编辑分析：与纯早期基金相比，其成长期与 Pre-IPO 项目占比更高；与券商直投相比更市场化、行业跨度更大。其曾在新三板挂牌，公开披露相对多于普通未上市 GP，但挂牌不等于基金业绩可核。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：清科、投中榜单所列机构全称为“深圳同创伟业资产管理股份有限公司”，清科机构库工商信息栏对应的主体为“深圳市同创伟业创业投资有限公司”（2000-06-26 成立），两者名称不同但同属“同创伟业”品牌；本档案按机构库主体记录成立年份，并把榜单全称列入别名，未取得工商材料判断两者是母子公司还是更名关系。机构简介称其2015年7月在新三板挂牌（证券代码 832793），该挂牌信息未另行核对。官网域名在本环境未能打开确认，contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 同创伟业（深圳市同创伟业创业投资有限公司）",
+      "url": "https://vc.pedaily.cn/vc/107954.html",
+      "supports": "2000-06-26 成立的工商主体、机构简介（产业链投资、新三板挂牌）、近期出手记录（2026-11-04 华辰芯光 B+ 轮等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国创业投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "同创伟业：清科2025年中国创业投资机构50强第11名（机构全称：深圳同创伟业资产管理股份有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国创业投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "同创伟业：清科创业2024年中国创业投资机构100强第15名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "同创伟业：投中2025年度 VC TOP100 第12名；机构层级代表案例含豪威集团、联影医疗、沐曦股份",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "同创伟业：投中2024年度 VC TOP100 第12名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "本土老牌创投机构，按成熟机构建档；榜单主体与机构库工商主体的对应关系保留为待核项。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

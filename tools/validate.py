@@ -10,6 +10,7 @@ from company_routes import redirects
 from record_checks import load, normalized_organization_name, record_path, reject_placeholders, schema_validator, today, validate_record
 
 ROOT=Path(__file__).resolve().parents[1]
+PHOTO_LIMIT=400*1024
 
 
 def iso_day(text):
@@ -59,6 +60,8 @@ def validate_data(root=ROOT):
     assert len(all_records)==len({r['name'] for r in all_records}),'Duplicate company names across types'
     redirects(root)
     validate_platform_bindings(platforms, all_records)
+    photos=validate_person_photos(all_records,root)
+    print('Validated %d stored person photos under data/views/assets/people.'%photos)
     for kind in ('operating_organization','investment_firm'):
         records=[r for r in all_records if r['organization_type']==kind]
         if kind=='operating_organization':
@@ -68,6 +71,23 @@ def validate_data(root=ROOT):
     assert not (root/'data/investors').exists(),'Use data/companies for every complete company profile'
     assert not (root/'data/platforms.json').exists(),'Use data/lists/incumbents.json for discovery seeds'
     return all_records
+
+
+def validate_person_photos(records, root=ROOT):
+    """Every stored portrait must exist under data/views and stay small enough for the static view."""
+    root=Path(root).resolve()
+    views=(root/'data/views').resolve()
+    checked=0
+    for record in records:
+        for person in record.get('people', []):
+            photo=person.get('photo')
+            if not photo:continue
+            path=(views/photo['path']).resolve()
+            assert views in path.parents,'Person photo must be stored inside data/views: '+photo['path']
+            assert path.is_file(),'Missing person photo file: '+photo['path']
+            assert path.stat().st_size<PHOTO_LIMIT,'Person photo must stay under 400 KB: '+photo['path']
+            checked+=1
+    return checked
 
 
 def validate_platform_bindings(platforms, records):

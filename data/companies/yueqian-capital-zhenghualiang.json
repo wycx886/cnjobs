@@ -15,6 +15,17 @@
     "year": 2025,
     "basis": "IT桔子报道管理公司成立于2025-07-08；创始人2026年公开演讲确认新机构于2025年下半年取得展业牌照。"
   },
+  "tier": {
+    "level": "unlisted",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面中，清科2025年中国创业投资机构50强／私募股权投资机构50强／早期投资机构30强名单中未见该机构（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强前50名名单中未见该机构（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100名单中未见该机构（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100名单中未见该机构（https://www.chinaventure.com.cn/rank/199/3056.html）。仅凭未上榜不足以定档，记 unlisted，这不是负面评价；该机构也可能落在清科2024 第51–100名音序段（该段无名次，本次未统计），不能据此断言机构不存在或不活跃。",
+    "source_ids": [
+      "s05",
+      "s06",
+      "s07",
+      "s08"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "智能终端硬件；AI硬件；机器人",
   "stage": null,
   "representative_cases": [
@@ -72,9 +83,41 @@
       "supports": "公开企业主页主体：杭州跃迁私募基金管理；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "该榜公开名单中未见跃迁资本；作为本次未上榜核查依据",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "该榜公开名单中未见跃迁资本；作为本次未上榜核查依据",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "该榜公开名单中未见跃迁资本；作为本次未上榜核查依据",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "该榜公开名单中未见跃迁资本；作为本次未上榜核查依据",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

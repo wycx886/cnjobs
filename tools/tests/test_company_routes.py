@@ -1,5 +1,6 @@
 """Keep company consolidation source-dated, unambiguous and compatible with old links."""
 import copy
+from datetime import date, timedelta
 import json
 from pathlib import Path
 import subprocess
@@ -75,16 +76,22 @@ class RegionalResearchTests(unittest.TestCase):
         return json.loads((ROOT / "data/companies/hypershell.json").read_text())
 
     def add_regional_source(self, record):
+        later = min(date.fromisoformat(record["checked_at"]) + timedelta(days=1), date.today()).isoformat()
         record["sources"].append({"id": "s999", "title": "合成地区资料", "url": "https://www.hypershell.tech/regional-research",
                                   "supports": "Synthetic local research, not a fresh company-wide check.",
-                                  "published_date": None, "checked_at": "2026-11-03"})
+                                  "published_date": None, "checked_at": later})
         record["regional_notes"] = [{"region": "上海", "summary": "地区研究范围有限。",
-                                     "source_ids": ["s999"], "checked_at": "2026-11-03"}]
+                                     "source_ids": ["s999"], "checked_at": later}]
 
     def test_local_evidence_has_its_own_date_without_refreshing_company_facts(self):
-        record = self.record()
-        original_date = record["checked_at"]
-        self.assertLess(original_date, "2026-11-03")
+        record = copy.deepcopy(self.record())
+        original_date = (date.today() - timedelta(days=8)).isoformat()
+        record["checked_at"] = original_date
+        record["people"] = []
+        record["sources"] = [s for s in record["sources"] if s.get("scope", "organization") != "person"]
+        for source in record["sources"]:
+            if source.get("checked_at") and source["checked_at"] > original_date:
+                source["checked_at"] = original_date
         self.add_regional_source(record)
         validate_record(record, ROOT)
         self.assertEqual(record["checked_at"], original_date)
@@ -95,7 +102,9 @@ class RegionalResearchTests(unittest.TestCase):
     def test_regional_notes_require_real_organization_refs_and_supported_dates(self):
         original = self.record()
         self.add_regional_source(original)
-        invalid_cases = [("source_ids", ["s998"]), ("checked_at", "2099-01-01"), ("checked_at", "2026-11-04")]
+        source_date = original["sources"][-1]["checked_at"]
+        note_newer = (date.fromisoformat(source_date) + timedelta(days=1)).isoformat()
+        invalid_cases = [("source_ids", ["s998"]), ("checked_at", "2099-01-01"), ("checked_at", note_newer)]
         for field, value in invalid_cases:
             record = copy.deepcopy(original)
             record["regional_notes"][0][field] = value

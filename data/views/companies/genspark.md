@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/genspark.json)
 
-机构／项目 ID：`genspark` · 主赛道：04 通用 Agent、个人应用与搜索 · 核查日期：2026-10-30
+机构／项目 ID：`genspark` · 主赛道：04 通用 Agent、个人应用与搜索 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@ Genspark AI Workspace、文档/表格/演示等办公Agent
 
 ## 投资背景
 
-蓝驰官网确认早期领投；2025年11月B轮由Emergence、SBI、LG Technology Ventures、Pavilion、Uphonest等支持，老股东继续投资。
+蓝驰创投官方稿：2024年初完成种子轮合计约6000万美元，由蓝驰领投；2025-11-20完成2.75亿美元B轮，Emergence Capital、SBI Investment、LG Technology Ventures、Pavilion Capital、Uphonest Capital等支持，老股东全部加注。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -50,6 +50,15 @@ Genspark AI Workspace、文档/表格/演示等办公Agent
 
 当前档案尚无结构化机构渠道；上方旧入口及来源引用不等于入口归属已核实。未收录不表示没有相关渠道，按任务继续核查。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 景鲲（Eric Jing） | 联合创始人兼CEO | 曾任百度集团副总裁、小度科技CEO、百度智能生活事业群组总经理、百度人工智能产品委员会主席；加入百度前在微软负责必应搜索亚洲市场研发。；原平台：百度、微软 | confirmed / 2026-11-11 / s04,s05 | [x](https://x.com/ericjing_ai) (partial, s04,s05) | InfoQ 与 X 简介相互印证其 MainFunc／Genspark 联合创始人身份；公司无公开团队页。 |
+| 朱凯华（Kay Zhu） | 联合创始人 | 曾任小度科技CTO；加入百度前为谷歌主任架构师，参与 Google Panda 等核心算法。；原平台：百度、Google | partial / 2026-11-11 / s04 | 暂未收录公开主页 | 仅 InfoQ 一篇报道确认其为联合创始人，未找到可核实的个人主页或公司团队页。 |
+
 ## 核查备注
 
 未查到公开招聘邮箱；通过官方招聘页连接职位系统投递，不使用同名genspark.net培训公司的邮箱。
@@ -58,6 +67,8 @@ Genspark AI Workspace、文档/表格/演示等办公Agent
 
 | 来源 ID | 页面 | 支持内容 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- |
-| s01 | [蓝驰官方被投融资稿](https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/) | 融资与模型编排方向 | 2025-11-20 | 2026-10-30 |
+| s01 | [蓝驰官方被投融资稿](https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/) | 融资与模型编排方向 | 2025-11-20 | 2026-11-11 |
 | s02 | [Genspark官方招聘](https://www.genspark.ai/business/careers) | 产品与招聘/办公地域 | 未标明 | 2026-10-30 |
 | s03 | [Genspark官方帮助](https://www.genspark.ai/helpcenter/account-management) | support邮箱 | 未标明 | 2026-10-30 |
+| s04 | [击败Manus？前百度AI高管创业1年多，放弃500万用户搜索产品，研发9个月转向“最强Agent” - InfoQ](https://www.infoq.cn/article/LuHAffQaLe7PL9i7Qohu) | MainFunc 成立于2023年年底，创始人为景鲲（Eric Jing）和朱凯华（Kay Zhu）；景鲲曾任小度科技CEO、百度集团副总裁，朱凯华曾任小度科技CTO、谷歌主任架构师。 | 2025-04-07 | 2026-11-11 |
+| s05 | [Eric Jing (@ericjing_ai) / X](https://x.com/ericjing_ai) | X 主页简介：Cofounder/CEO @Genspark_ai，Ex-CPO @Baidu Search，Ex-Principal Dev Mgr @Microsoft Bing；据搜索结果快照核对。 | 未标明 | 2026-11-11 |

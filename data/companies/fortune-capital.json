@@ -1,0 +1,136 @@
+{
+  "schema_version": 3,
+  "id": "fortune-capital",
+  "name": "达晨财智（Fortune Capital）",
+  "aliases": [
+    "Fortune Capital",
+    "深圳市达晨财智创业投资管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 VC 主榜均在前 10 名，且 2026 年在智谱、无问芯穹、原子矩阵等 AI 相关项目上有可核实出手，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2008,
+    "basis": "清科投资界机构库工商信息：深圳市达晨财智创业投资管理有限公司成立于2008年12月15日（统一社会信用代码 91440300682017028L）。同页简介另称“达晨成立于2000年4月19日”，指的是更早的达晨创投体系；本轮榜单主体为达晨财智，故取2008年，并在 notes 说明品牌与法人的差别。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第7名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第8名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第9名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第9名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 10 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "机构简介表述聚焦信息技术、智能制造与节能环保、医疗健康、大消费和企业服务、文化传媒、军工等领域。投中榜单列示的代表案例含大模型公司智谱；2026 年出手记录另覆盖 AI 算力（无问芯穹）、量子计算（原子矩阵）与物理世界模型（LiberAI）。",
+  "stage": "清科、投中均将其列入创业投资（VC）主榜；覆盖早期至成长期，单笔规模随项目阶段变化。",
+  "representative_cases": [
+    {
+      "company": "亿纬锂能",
+      "attribution": "current_firm",
+      "investor_or_team": "达晨财智",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "智谱",
+      "attribution": "current_firm",
+      "investor_or_team": "达晨财智",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联，不推断持股或回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "瑞芯微",
+      "attribution": "current_firm",
+      "investor_or_team": "达晨财智",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未披露轮次细节。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库及同页资讯显示：2026-10-16 以独家战略投资方式投资中性原子量子计算公司原子矩阵（金额未披露）；2026-10-12 参与无问芯穹23亿元 C 轮；2026-09-17 参与 LiberAI 数亿元 Pre-A++ 轮；同页统计近3个月出手8次。",
+  "why_follow": "编辑分析：其公开案例同时覆盖大模型公司（智谱）、算力服务（无问芯穹）与量子计算、世界模型等前沿方向，是观察本土老牌 VC 在 AI 基础设施与应用层配置的窗口。",
+  "difference": "编辑分析：相较早期基金，其单笔规模与项目阶段更宽；相较券商直投与国资平台，决策更市场化、行业更分散。判断其 AI 暴露度时宜按具体项目与被投轮次，而不是按机构整体标签。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界（重要）：达晨品牌可追溯至2000年4月成立的深圳市达晨创业投资有限公司（清科机构库另有“达晨创投”条目，标注2000年，简介称其为电广传媒旗下私募基金管理人），本轮清科、投中榜单所列主体是“深圳市达晨财智创业投资管理有限公司”（2008-12-15 成立）。两者是关联但不同的法人，本档案只按榜单主体建档，未把“达晨创投”列为别名，也不把其历史案例直接算作达晨财智的业绩。官网域名在本环境未能打开确认，contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 达晨财智（深圳市达晨财智创业投资管理有限公司）",
+      "url": "https://vc.pedaily.cn/vc/596141.html",
+      "supports": "2008-12-15 成立的工商主体、机构简介（投资领域与“达晨成立于2000年”的表述）、近期出手记录（2026-10-16 原子矩阵等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国创业投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "达晨财智：清科2025年中国创业投资机构50强第7名（机构全称：深圳市达晨财智创业投资管理有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国创业投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "达晨财智：清科创业2024年中国创业投资机构100强第8名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "达晨财智：投中2025年度 VC TOP100 第9名；机构层级代表案例含亿纬锂能、智谱、瑞芯微",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "达晨财智：投中2024年度 VC TOP100 第9名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "清科投资界机构库 · 达晨创投（深圳市达晨创业投资有限公司）",
+      "url": "https://vc.pedaily.cn/vc/207934.html",
+      "supports": "达晨创投为另一法人主体，机构库标注2000年成立，简介称其为电广传媒旗下私募基金管理人；用于区分品牌沿革与榜单主体",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "本土老牌创投机构，按成熟机构建档；本档案严格区分达晨财智法人与达晨创投历史主体。",
+    "source_ids": [
+      "s01",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

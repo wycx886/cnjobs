@@ -17,8 +17,175 @@
     ]
   },
   "investment": {
-    "summary": "投资方靖亚官网披露A轮靖亚领投，A+源码/SIG领投，A++高瓴/SIG，B轮Coatue领投；未将旧轮次当成最新融资。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2021年完成A轮（靖亚资本与蓝驰创投联合领投，千万级美元）、A+轮（SIG海纳亚洲与源码资本联合领投）、A++轮与B轮（B轮由Coatue Management领投）；A++与B两轮合计披露「数千万美元」，未单列。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2021-05",
+        "amount_text": "千万级美元",
+        "investors": [
+          {
+            "name": "靖亚资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "原文为「靖亚资本和蓝驰创投联合领投」。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2021-08",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "SIG海纳亚洲",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "靖亚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "机构官网未载金额。"
+      },
+      {
+        "round": "A++",
+        "announced_on": "2021-10",
+        "amount_text": "数千万美金",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "SIG海纳亚洲",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "靖亚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "「数千万美金」为A++与B两轮合计表述，未单列。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-10",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "Coatue Management",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "SIG海纳亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12",
+          "s11"
+        ],
+        "notes": "两轮合计披露「数千万美元」，未单列；合计口径记于A++轮，B轮不重复计入金额。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://js.design/",
@@ -27,8 +194,8 @@
     "other_email": "contact@js.design",
     "other_email_purpose": "产品反馈/一般联系"
   },
-  "notes": "未采用jsshejicn.com等非官方SEO站；未将旧个人内推QQ邮箱作为统一投递入口。；未查到通用招聘投递邮箱。；企业招聘帖，含定向岗位投递方式；发布时点未确认，不保证岗位仍开放。",
-  "checked_at": "2026-10-30",
+  "notes": "未采用jsshejicn.com等非官方SEO站；未将旧个人内推QQ邮箱作为统一投递入口。未查到通用招聘投递邮箱。B+轮仅见转载摘要，未核实，未写入。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -79,6 +246,60 @@
       "supports": "公开企业主页主体：即时设计；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "Vol004 即时设计李国锐：设计平民化（Cloud Talk 播客/小宇宙）",
+      "url": "https://www.xiaoyuzhoufm.com/episode/649d4e0ef5604aa55e29df87",
+      "supports": "节目页记“本期嘉宾：李国锐 即时设计创始人、CEO”，并述其湖南大学软件工程毕业、2013年任人人网前端技术主管、2015年底创业做云端协同设计平台。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "即时设计CEO李国锐：即时AI会让设计能力大众化（凤凰网科技）",
+      "url": "https://tech.ifeng.com/c/8RjhvlSf4Mt",
+      "supports": "报道配图说明称“即时设计创始人兼CEO李国锐”，并引述其关于即时AI产品定位的介绍。",
+      "published_date": "2023-07-26",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "靖亚资本：即时设计完成千万级美元A轮融资",
+      "url": "https://www.emventures.cn/blog/figma-ui-a",
+      "supports": "A轮由靖亚资本和蓝驰创投联合领投，金额千万级美元。",
+      "published_date": "2021-05-21",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "靖亚资本：即时设计获A+轮融资，靖亚资本持续加注",
+      "url": "https://www.emventures.cn/blog/ui-a",
+      "supports": "A+轮由SIG海纳亚洲创投基金和源码资本联合领投，老股东蓝驰创投跟投，靖亚资本加注；未载金额。",
+      "published_date": "2021-08-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "靖亚资本：即时设计再获两轮数千万美元融资",
+      "url": "https://www.emventures.cn/blog/ui",
+      "supports": "A++轮由高瓴创投和SIG海纳亚洲联合领投，源码资本、靖亚资本跟投；「数千万美金」为A++与B两轮合计表述。",
+      "published_date": "2021-10-21",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "36氪：再获两轮数千万美元融资，即时设计发布2.0版本",
+      "url": "https://www.36kr.com/p/1450315490224007",
+      "supports": "B轮由Coatue Management领投，高瓴创投、SIG海纳亚洲、源码资本、蓝驰创投跟投，元一资本任独家财务顾问。",
+      "published_date": "2021-10-22",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -134,6 +355,36 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "李国锐",
+      "role": "创始人兼CEO",
+      "background": "湖南大学软件工程专业毕业；2013年任人人网前端技术主管，主导人人网H5技术架构；2015年底创业，做服务产研团队的云端协同设计平台，即即时设计（北京雪云锐创科技有限公司）创始人兼CEO。",
+      "previous_firms": [
+        "人人网"
+      ],
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/li-guorui",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s08"
+          ],
+          "notes": "搜索结果标题显示“李国锐 - 即时设计Js.design - 首席执行官，地点北京市”，与播客及凤凰网报道的姓名+公司+职务一致；LinkedIn 页面需登录未能直接读取，故记 partial。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "播客节目页与凤凰网报道分别确认创始人兼CEO身份；公司官网 about 页无团队名单。"
     }
   ]
 }

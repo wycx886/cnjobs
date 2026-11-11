@@ -21,8 +21,37 @@
     ]
   },
   "investment": {
-    "summary": "2026年3月天使融资公开报道列IDG与阶跃星辰。原表后续腾讯、五源等大额融资名单未在本轮以官方公告核定，不沿用为确认投资人。",
-    "verification_status": "partial"
+    "summary": "2026年3月6日宣布1000万美元天使轮，投资方为IDG资本与阶跃星辰。另有媒体于2026年10月称公司累计完成超2亿美元融资（投资方含腾讯、五源资本、蚂蚁集团、红杉中国等），但未按轮次披露金额与日期，故未写入结构化轮次。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2026-03-06",
+        "amount_text": "1000万美元",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "阶跃星辰",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪/IT桔子报道公司成立后第二天宣布该轮；未披露领投方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://today.ai/",
@@ -32,15 +61,15 @@
     "other_email_purpose": "用户支持邮箱（非招聘）"
   },
   "notes": "careersUrl为官方微博招聘帖，并非独立招聘站；未把支持邮箱用作投递。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
       "title": "36氪转载IT桔子：此间无限",
       "url": "https://www.36kr.com/p/3719509378512261",
-      "supports": "早期投资背景",
+      "supports": "早期投资背景；36氪转载IT桔子：公司成立第三天（2026-03-06）宣布1000万美元天使轮，投资方为IDG资本与阶跃星辰；并述创始人齐俊元背景。",
       "published_date": "2026-03-12",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -74,6 +103,24 @@
       "supports": "公开企业主页主体：此间无限；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "36氪/IT桔子｜成立三天融资千万美元，此间无限创始人齐俊元",
+      "url": "https://www.36kr.com/p/3719509378512261",
+      "supports": "报道此间无限（上海）智能科技有限公司2026年3月成立并完成天使轮，正文以「这位创始人——齐俊元」介绍其连续创业经历",
+      "published_date": "2026-03-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "搜狐/猎云网｜前字节豆包负责人创业，Today AI累计完成超2亿美元融资",
+      "url": "https://www.sohu.com/a/1090534607_118792",
+      "supports": "「Today AI是前Teambition创始人、前字节豆包PC端负责人齐俊元创办」，并记录融资与投资方",
+      "published_date": "2026-10-21",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -112,5 +159,28 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "齐俊元",
+      "role": "创始人",
+      "previous_firms": [
+        "Teambition",
+        "字节跳动"
+      ],
+      "background": "Teambition 创始人，曾任字节跳动豆包 PC 端负责人，2026年创办公众AI助理产品 Today（此间无限）。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "创始人身份由两家媒体两篇报道交叉确认（2026-11-11核查）；公司对外正式头衔（如CEO）未见于所核来源，故只记「创始人」。"
+    }
+  ],
+  "founded": {
+    "year": 2026,
+    "basis": "36氪报道：公司于2026年3月完成工商注册，成立第三天宣布天使轮。"
+  }
 }

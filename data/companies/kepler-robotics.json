@@ -83,7 +83,7 @@
     "other_email": "contact@gotokepler.com",
     "other_email_purpose": "一般联系"
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -129,10 +129,32 @@
       "supports": "官方联系页：contact@gotokepler.com（联系）、sales@/business@/pr@/investor@gotokepler.com 分用途列出；未公开招聘邮箱。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "新京报：CEO出走后，开普勒机器人被“卖”给上市公司",
+      "url": "https://m.bjnews.com.cn/detail/1779279357129638.html",
+      "supports": "报道2026年4月公司官方宣传中CEO由胡德波变为原副总裁宋华；杨华为创始人兼实际控制人、纯米科技创始人；胡德波已离职创办索塔无界。",
+      "published_date": "2026-05-20",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "电子产品世界：开普勒机器人完成A轮融资，携手三家行业头部企业",
+      "url": "https://finance.sina.cn/tech/2025-07-01/detail-infcxsmn9045591.d.html",
+      "supports": "开普勒与兆丰机电、汉威科技、乔锋智能完成A轮融资签约，未披露金额。",
+      "published_date": "2025-07-01",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "Pre-A金额未披露；量产与订单数据未核验，创始团队履历不作为组织归属证据。 2026-11-03：官网联系页未公开招聘邮箱；招聘走 BOSS／猎聘。",
+  "notes": "Pre-A金额未披露；量产与订单数据未核验，创始团队履历不作为组织归属证据。官网 keplerbot.com 本次返回403。2026-11-03：官网联系页未公开招聘邮箱；招聘走 BOSS／猎聘。",
   "category_id": "08",
+  "founded": {
+    "year": 2023,
+    "basis": "瑞财经2025年报道载开普勒成立于2023年8月；界面新闻同口径。"
+  },
   "focus": "通用人形机器人",
   "products": "先行者K2人形机器人、工业场景训练与本体",
   "locations_text": "上海",
@@ -144,12 +166,130 @@
     ]
   },
   "investment": {
-    "summary": "2025年完成Pre-A轮融资，投资方包括张科垚坤基金、伟创电气、柯力传感，金额未披露；公司成立于2023年8月。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2023年8月成立，2025年完成Pre-A轮（张科垚坤基金、伟创电气、柯力传感）与A轮签约（兆丰机电、汉威科技、乔锋智能），两轮金额均未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-05",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "张科垚坤基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "伟创电气",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "柯力传感",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s04"
+        ],
+        "notes": "报道日2025-05-06称近日完成Pre-A轮，具体融资额未透露；公司2023年8月成立。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2025-07-01",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "兆丰机电",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "汉威科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "乔锋智能",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "原文为「完成A轮融资签约」，未披露金额与领投方。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "开普勒机器人",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "宋华",
+      "role": "CEO",
+      "previous_firms": [],
+      "background": "原开普勒机器人副总裁；2026年4月起以CEO身份出现在公司官方宣传中。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务据新京报对2026年4月公司官方宣传的报道；未找到本人公开履历或职业主页。"
+    },
+    {
+      "name": "杨华",
+      "role": "创始人、实际控制人",
+      "previous_firms": [
+        "纯米科技"
+      ],
+      "background": "开普勒机器人创始人兼实际控制人；同时为小米生态链企业、智能厨电公司纯米科技创始人。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "据新京报报道及杭州柯林公告披露的股权信息；未找到本人公开职业主页。"
+    },
+    {
+      "name": "胡德波",
+      "role": "联合创始人、前CEO",
+      "previous_firms": [
+        "华为",
+        "中兴通讯"
+      ],
+      "background": "曾任职华为、中兴通讯，担任海外及全球业务高管；2023年联合创办开普勒并任CEO，2026年4月离职后创办索塔无界。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "historical",
+      "notes": "已离任：新京报2026-05-20报道其4月离职并注册索塔无界；本条仅保留历史身份，不代表当前职务。"
+    }
+  ]
 }

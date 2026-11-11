@@ -23,7 +23,160 @@
   },
   "investment": {
     "summary": "36氪融资档案记载2023年A轮为红杉中国、创新工场；后续有新电投资、北京市AI产业基金、领沨、石溪、亦庄国投等历史参与方，2026年B轮列博华资本。",
-    "verification_status": "partial"
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2023-05",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "HongShan红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库融资历史所记轮次、时间与金额；原文未单列领投方。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2023-11",
+        "amount_text": "近亿元",
+        "investors": [
+          {
+            "name": "某世界500强科技巨头",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "大湾区共同家园发展基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "新电投资SingTel Innov8",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "投资方名称按项目库原文记录，其中一家未具名。"
+      },
+      {
+        "round": "A++",
+        "announced_on": "2024-09",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "领沨资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "石溪资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Capstone Capital",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "A+++",
+        "announced_on": "2025-02",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "亦庄国投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "项目库记金额「未透露」。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2026-03",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "博华资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "某美元投资机构",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "项目库原文列「博华资本，某美元投资机构」，第二家未具名。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.luchentech.com/",
@@ -33,7 +186,7 @@
     "other_email_purpose": null
   },
   "notes": "邮箱为公开招聘渠道；具体岗位以招聘页为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -49,7 +202,7 @@
       "url": "https://pitchhub.36kr.com/project/1678554927068166",
       "supports": "历轮投资背景",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s03",
@@ -68,6 +221,33 @@
       "supports": "公开企业主页主体：北京潞晨科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "潞晨科技官网「关于我们」团队介绍",
+      "url": "https://www.luchentech.com/team",
+      "supports": "尤洋为潞晨科技创始人；加州大学伯克利分校博士，入选2021福布斯亚洲30岁以下精英等履历",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "搜狐｜清华校友尤洋创办潞晨科技，专注AI Infra赛道",
+      "url": "https://www.sohu.com/a/1059369985_701814",
+      "supports": "报道称「清华校友尤洋创办潞晨科技」，并记其清华硕士、加州大学伯克利博士及新加坡国立大学教职背景",
+      "published_date": "2026-08-06",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "Yang You's Homepage (NUS Computer Science)",
+      "url": "https://www.comp.nus.edu.sg/~youy/",
+      "supports": "新加坡国立大学计算机系个人主页：Yang You，Presidential Young Professor，UC Berkeley 计算机博士（导师 James Demmel），业界经历列出 HPC-AI Tech（潞晨科技英文名）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -124,5 +304,36 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "尤洋",
+      "role": "创始人",
+      "previous_firms": [],
+      "background": "加州大学伯克利分校博士，曾获 ACM-IEEE CS George Michael Memorial HPC Fellowship，入选2021福布斯亚洲30岁以下精英。",
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://www.comp.nus.edu.sg/~youy/",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07"
+          ],
+          "notes": "NUS 个人主页以英文名 Yang You 展示，业界经历含 HPC-AI Tech（潞晨科技英文品牌）；中文姓名与主页的对应依据公司官网团队页与本人履历一致性判断，页面本身未写中文名。"
+        }
+      ],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。"
+    }
+  ],
+  "founded": {
+    "year": 2021,
+    "basis": "36氪项目库工商信息：北京潞晨科技有限公司 2021-07-12 成立。"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T16:06:30+00:00",
+  "generated_at": "2026-11-11T08:40:00+00:00",
   "entries": [
     {
       "id": "01-ai",
@@ -12,6 +12,26 @@
       "bytes": 6500,
       "path": "data/views/assets/logos/01-ai.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "5y-capital",
+      "status": "fetched",
+      "source_url": "https://www.5ycap.com/public/1/b/1/e8b08b-a9c058-a04be3.57.png",
+      "website": "https://www.5ycap.com/",
+      "fetched_at": "2026-11-11T06:04:04+00:00",
+      "content_type": "image/png",
+      "bytes": 522,
+      "path": "data/views/assets/logos/5y-capital.png"
+    },
+    {
+      "id": "addor-capital",
+      "status": "fetched",
+      "source_url": "https://addorcapital.com/favicon.ico",
+      "website": "https://addorcapital.com/",
+      "fetched_at": "2026-11-11T08:25:41+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 67646,
+      "path": "data/views/assets/logos/addor-capital.ico"
     },
     {
       "id": "agibot",
@@ -63,6 +83,16 @@
       "bytes": 1649,
       "path": "data/views/assets/logos/aixcoder.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "alphaist-partners",
+      "status": "fetched",
+      "source_url": "https://storage.ghost.io/c/b8/f8/b8f85465-f366-4f96-abfd-25b8eb188fad/content/images/size/w256h256/format/jpeg/2025/11/square-logo.jpg",
+      "website": "https://alphaist.vc/",
+      "fetched_at": "2026-11-11T06:04:00+00:00",
+      "content_type": "image/jpeg",
+      "bytes": 2598,
+      "path": "data/views/assets/logos/alphaist-partners.jpg"
     },
     {
       "id": "anew-labs",
@@ -131,6 +161,11 @@
       "reason": "already_fetched"
     },
     {
+      "id": "boyu-capital",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
       "id": "caiyun",
       "status": "fetched",
       "source_url": "https://www.caiyunapp.com/imgs/logo.png",
@@ -140,6 +175,58 @@
       "bytes": 7165,
       "path": "data/views/assets/logos/caiyun.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "capital-o",
+      "status": "fetched",
+      "source_url": "https://capitalo.fund/favicon.ico",
+      "website": "https://capitalo.fund/",
+      "fetched_at": "2026-11-11T06:04:03+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "path": "data/views/assets/logos/capital-o.ico"
+    },
+    {
+      "id": "casstar",
+      "status": "skipped",
+      "reason": "homepage_failed",
+      "website": "https://www.casstar.com.cn/",
+      "detail": "URLError"
+    },
+    {
+      "id": "cdh",
+      "status": "fetched",
+      "source_url": "https://www.cdhfund.com/favicon.ico?v=20250805145840",
+      "website": "https://www.cdhfund.com/",
+      "fetched_at": "2026-11-11T08:25:30+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 67646,
+      "path": "data/views/assets/logos/cdh.ico"
+    },
+    {
+      "id": "citic-jinshi",
+      "status": "fetched",
+      "source_url": "https://www.goldstone-investment.com/public/logo/202411/W020250513375518267915.png",
+      "website": "https://www.goldstone-investment.com/",
+      "fetched_at": "2026-11-11T08:35:52+00:00",
+      "content_type": "image/png",
+      "bytes": 5666,
+      "path": "data/views/assets/logos/citic-jinshi.png"
+    },
+    {
+      "id": "cmcapital",
+      "status": "fetched",
+      "source_url": "https://www.cmcapital.com.cn/favicon.ico",
+      "website": "https://www.cmcapital.com.cn/",
+      "fetched_at": "2026-11-11T08:25:25+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "path": "data/views/assets/logos/cmcapital.ico"
+    },
+    {
+      "id": "cowin-capital",
+      "status": "skipped",
+      "reason": "no_website"
     },
     {
       "id": "creativefitting",
@@ -280,6 +367,11 @@
       "reason": "already_fetched"
     },
     {
+      "id": "fortune-capital",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
       "id": "fourier",
       "status": "fetched",
       "source_url": "https://www.fftai.com/favicon.svg",
@@ -305,7 +397,17 @@
       "content_type": "image/x-icon",
       "bytes": 2165,
       "path": "data/views/assets/logos/galbot.gif",
-      "reason": "no_usable_image"
+      "reason": "already_fetched"
+    },
+    {
+      "id": "gaorong",
+      "status": "fetched",
+      "source_url": "https://www.gaorongvc.com/static/favicon.ico",
+      "website": "https://www.gaorongvc.com/",
+      "fetched_at": "2026-11-11T06:04:03+00:00",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 32988,
+      "path": "data/views/assets/logos/gaorong.ico"
     },
     {
       "id": "gaussian-robotics",
@@ -326,11 +428,26 @@
       "detail": "HTTPError"
     },
     {
+      "id": "gsr-ventures",
+      "status": "fetched",
+      "source_url": "https://gsrventureschina.com/wp-content/uploads/2020/04/gsr.png",
+      "website": "https://gsrventureschina.com/",
+      "fetched_at": "2026-11-11T06:04:03+00:00",
+      "content_type": "image/png",
+      "bytes": 7577,
+      "path": "data/views/assets/logos/gsr-ventures.png"
+    },
+    {
       "id": "guiji",
       "status": "skipped",
       "reason": "homepage_failed",
       "website": "https://www.guiji.ai/",
       "detail": "URLError"
+    },
+    {
+      "id": "guoxin-fund",
+      "status": "skipped",
+      "reason": "no_website"
     },
     {
       "id": "haivivi",
@@ -344,6 +461,26 @@
       "reason": "already_fetched"
     },
     {
+      "id": "hillhouse",
+      "status": "fetched",
+      "source_url": "https://hillhouseinvestment.cn/wp-content/uploads/2024/01/Hillhouse_Primary_On_BG_Symbol_RGB_AW.jpg",
+      "website": "https://hillhouseinvestment.cn/",
+      "fetched_at": "2026-11-11T08:25:09+00:00",
+      "content_type": "image/jpeg",
+      "bytes": 3127,
+      "path": "data/views/assets/logos/hillhouse.jpg"
+    },
+    {
+      "id": "hongshan",
+      "status": "fetched",
+      "source_url": "https://www.hongshan.com/favicon.ico",
+      "website": "https://www.hongshan.com/",
+      "fetched_at": "2026-11-11T06:04:02+00:00",
+      "content_type": "image/svg+xml",
+      "bytes": 759,
+      "path": "data/views/assets/logos/hongshan.svg"
+    },
+    {
       "id": "hypershell",
       "status": "fetched",
       "source_url": "https://hypershell.tech/cdn/shop/files/favicon_e2d9586c-2582-4e67-bf6a-4d199db1d5f5_32x32.png?v=1742873109",
@@ -353,6 +490,16 @@
       "bytes": 1155,
       "path": "data/views/assets/logos/hypershell.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "idg-capital",
+      "status": "fetched",
+      "source_url": "https://idgcapital.com/wp-content/uploads/2026/03/favicon.png",
+      "website": "https://idgcapital.com/",
+      "fetched_at": "2026-11-11T06:04:00+00:00",
+      "content_type": "image/png",
+      "bytes": 1238,
+      "path": "data/views/assets/logos/idg-capital.png"
     },
     {
       "id": "iluvatar-corex",
@@ -425,7 +572,7 @@
       "content_type": "image/png",
       "bytes": 19667,
       "path": "data/views/assets/logos/insilico.png",
-      "reason": "homepage_failed",
+      "reason": "already_fetched",
       "detail": "URLError"
     },
     {
@@ -438,6 +585,33 @@
       "bytes": 1837,
       "path": "data/views/assets/logos/jaka.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "jinpu-investment",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
+      "id": "jinqiu",
+      "status": "fetched",
+      "reason": "homepage_failed",
+      "website": "https://www.jinqiucapital.com/",
+      "detail": "URLError",
+      "source_url": "https://www.jinqiucapital.com/favicon-512.png",
+      "fetched_at": "2026-11-11T08:00:39+00:00",
+      "content_type": "image/png",
+      "bytes": 88571,
+      "path": "data/views/assets/logos/jinqiu.png"
+    },
+    {
+      "id": "jishi-capital",
+      "status": "fetched",
+      "source_url": "https://stonevc.com/uploadfiles/logo/icon.jpg",
+      "website": "https://stonevc.com/",
+      "fetched_at": "2026-11-11T08:37:45+00:00",
+      "content_type": "image/jpeg",
+      "bytes": 58543,
+      "path": "data/views/assets/logos/jishi-capital.jpg"
     },
     {
       "id": "jsdesign",
@@ -497,6 +671,16 @@
       "reason": "already_fetched"
     },
     {
+      "id": "lanchi",
+      "status": "fetched",
+      "source_url": "https://lanchiventures.com/wp-content/uploads/2024/06/2024062013052544072-300x300.jpg",
+      "website": "https://lanchiventures.com/",
+      "fetched_at": "2026-11-11T06:04:06+00:00",
+      "content_type": "image/jpeg",
+      "bytes": 5444,
+      "path": "data/views/assets/logos/lanchi.jpg"
+    },
+    {
       "id": "langboat",
       "status": "fetched",
       "source_url": "https://www.langboat.com/favicon.ico",
@@ -506,6 +690,16 @@
       "bytes": 2691,
       "path": "data/views/assets/logos/langboat.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "legend-star",
+      "status": "fetched",
+      "source_url": "https://www.legendstar.com.cn/images/favicon.ico",
+      "website": "https://www.legendstar.com.cn/",
+      "fetched_at": "2026-11-11T08:25:14+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 19541,
+      "path": "data/views/assets/logos/legend-star.png"
     },
     {
       "id": "leyan",
@@ -544,6 +738,12 @@
       "bytes": 1250,
       "path": "data/views/assets/logos/limx.ico",
       "reason": "already_fetched"
+    },
+    {
+      "id": "longriver",
+      "status": "skipped",
+      "reason": "no_usable_image",
+      "website": "https://www.lr-investments.com/?lang=cn"
     },
     {
       "id": "luchentech",
@@ -598,7 +798,7 @@
       "content_type": "image/x-icon",
       "bytes": 3126,
       "path": "data/views/assets/logos/metasota.ico",
-      "reason": "no_usable_image"
+      "reason": "already_fetched"
     },
     {
       "id": "metax",
@@ -639,6 +839,12 @@
       "reason": "already_fetched"
     },
     {
+      "id": "monolith",
+      "status": "skipped",
+      "reason": "no_usable_image",
+      "website": "https://www.monolithmgt.com/"
+    },
+    {
       "id": "moonshot",
       "status": "fetched",
       "source_url": "https://www.moonshot.cn/favicon.ico",
@@ -659,6 +865,26 @@
       "bytes": 5155,
       "path": "data/views/assets/logos/moore-threads.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "mpci",
+      "status": "fetched",
+      "source_url": "https://www.mpc.vc/favicon.ico",
+      "website": "https://www.mpc.vc/",
+      "fetched_at": "2026-11-11T06:04:04+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 495,
+      "path": "data/views/assets/logos/mpci.png"
+    },
+    {
+      "id": "nebulon-ventures",
+      "status": "fetched",
+      "source_url": "https://nebulonvc.com/assets/nebulon-logo.png",
+      "website": "https://nebulonvc.com/",
+      "fetched_at": "2026-11-11T06:04:06+00:00",
+      "content_type": "image/png",
+      "bytes": 81992,
+      "path": "data/views/assets/logos/nebulon-ventures.png"
     },
     {
       "id": "noematrix",
@@ -683,6 +909,11 @@
       "reason": "already_fetched"
     },
     {
+      "id": "oriental-fortune",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
       "id": "plaud",
       "status": "fetched",
       "source_url": "https://www.plaud.ai/cdn/shop/files/plaud-fa.png?crop=center&height=180&v=1765790183&width=180",
@@ -703,6 +934,26 @@
       "bytes": 2100,
       "path": "data/views/assets/logos/powerlaw.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "puhua-capital",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
+      "id": "qifu-capital",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
+      "id": "qiming",
+      "status": "fetched",
+      "source_url": "https://www.qimingvc.com/sites/default/files/favicon_1.ico",
+      "website": "https://www.qimingvc.com/cn/",
+      "fetched_at": "2026-11-11T06:04:08+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "path": "data/views/assets/logos/qiming.ico"
     },
     {
       "id": "qingcheng-ai",
@@ -769,7 +1020,7 @@
     {
       "id": "sharge",
       "status": "skipped",
-      "reason": "homepage_failed",
+      "reason": "no_usable_image",
       "website": "https://www.shargetech.com/",
       "detail": "URLError"
     },
@@ -807,6 +1058,16 @@
       "reason": "already_fetched"
     },
     {
+      "id": "shunwei",
+      "status": "fetched",
+      "source_url": "https://shunwei.com/wp-content/uploads/2019/07/favicon-shunwei.png",
+      "website": "https://shunwei.com/",
+      "fetched_at": "2026-11-11T06:04:07+00:00",
+      "content_type": "image/png",
+      "bytes": 4289,
+      "path": "data/views/assets/logos/shunwei.png"
+    },
+    {
       "id": "siliconflow",
       "status": "fetched",
       "source_url": "https://www.siliconflow.cn/logo-new.svg",
@@ -816,6 +1077,31 @@
       "bytes": 8015,
       "path": "data/views/assets/logos/siliconflow.svg",
       "reason": "already_fetched"
+    },
+    {
+      "id": "smic-juyuan",
+      "status": "skipped",
+      "reason": "no_website"
+    },
+    {
+      "id": "soul-capital",
+      "status": "fetched",
+      "source_url": "https://soulcapital.com/html/images/logo.ico",
+      "website": "https://soulcapital.com/index.html",
+      "fetched_at": "2026-11-11T06:04:11+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 11118,
+      "path": "data/views/assets/logos/soul-capital.ico"
+    },
+    {
+      "id": "source-code",
+      "status": "fetched",
+      "source_url": "https://cdn.sourcecodecap.com/wp-content/uploads/2021/10/Bota_Logo1013-ai.png",
+      "website": "https://sourcecodecap.com/",
+      "fetched_at": "2026-11-11T06:04:13+00:00",
+      "content_type": "image/png",
+      "bytes": 18943,
+      "path": "data/views/assets/logos/source-code.png"
     },
     {
       "id": "spirit-ai",
@@ -849,6 +1135,16 @@
       "bytes": 4929,
       "path": "data/views/assets/logos/synyi.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "szvc",
+      "status": "fetched",
+      "source_url": "https://www.szvc.com.cn/static/favicon.ico",
+      "website": "https://www.szvc.com.cn/",
+      "fetched_at": "2026-11-11T08:24:54+00:00",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "path": "data/views/assets/logos/szvc.ico"
     },
     {
       "id": "tabcut",
@@ -900,6 +1196,16 @@
       "bytes": 6300,
       "path": "data/views/assets/logos/today-ai.png",
       "reason": "already_fetched"
+    },
+    {
+      "id": "trumed",
+      "status": "fetched",
+      "source_url": "https://www.trumed-inv.com/favicon.ico",
+      "website": "https://www.trumed-inv.com/",
+      "fetched_at": "2026-11-11T06:04:10+00:00",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 16958,
+      "path": "data/views/assets/logos/trumed.ico"
     },
     {
       "id": "udit",
@@ -1044,6 +1350,26 @@
       "bytes": 1553,
       "path": "data/views/assets/logos/yingdao.svg",
       "reason": "already_fetched"
+    },
+    {
+      "id": "yunqi",
+      "status": "fetched",
+      "source_url": "https://framerusercontent.com/images/96fgnUrBtkNzqwFGCYwLjfABVo.svg",
+      "website": "https://yunqi.vc/",
+      "fetched_at": "2026-11-11T06:04:10+00:00",
+      "content_type": "image/svg+xml",
+      "bytes": 555,
+      "path": "data/views/assets/logos/yunqi.svg"
+    },
+    {
+      "id": "zhenfund",
+      "status": "fetched",
+      "source_url": "https://www.zhenfund.com/favicon.png",
+      "website": "https://www.zhenfund.com/",
+      "fetched_at": "2026-11-11T06:04:16+00:00",
+      "content_type": "image/png",
+      "bytes": 5953,
+      "path": "data/views/assets/logos/zhenfund.png"
     },
     {
       "id": "zhipu",

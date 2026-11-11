@@ -19,8 +19,101 @@
     ]
   },
   "investment": {
-    "summary": "2026-04 B轮由阿里云领投，中网投、九安海棠、好未来、光合创投等参与；早期股东含启明创投、BV百度风投、星连、达泰等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2026-04 B轮近20亿元人民币，阿里云领投，中网投、九安海棠、好未来、光合创投战略投资，星连资本、达泰资本、建发新兴投资、BV百度风投、卓源亚洲等老股东追加。更早轮次本次未逐项核实。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2026-04-10",
+        "amount_text": "近20亿元",
+        "investors": [
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中网投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "九安海棠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "好未来",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "光合创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "达泰资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "建发新兴投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "BV百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "卓源亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "公司官方融资新闻（中英文版本口径一致）。更早轮次本次未逐项核实。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.genspi.com/zh/",
@@ -30,7 +123,7 @@
     "other_email_purpose": "市场商务合作"
   },
   "notes": "hr@shengshu.ai 出现在官方招聘隐私摘要；职位状态以招聘系统为准。旧域名 shengshu.com 已出现 genspi.com 官方站。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +165,51 @@
       "supports": "公开企业主页主体：生数科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "生数科技完成近20亿元B轮融资（生数官网融资新闻）",
+      "url": "https://www.genspi.com/zh/news/series-b-funding/",
+      "supports": "官方新闻稿引述“生数科技创始人朱军”谈世界模型路线，确认其创始人身份。",
+      "published_date": "2026-04-10",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "生数科技骆怡航出席外滩大会，阐释通用世界模型下一程（生数官网）",
+      "url": "https://www.genspi.com/zh/news/luo-yihang-bund-summit/",
+      "supports": "官方新闻称“生数科技联合创始人、CEO骆怡航”发表主题演讲并介绍通用世界模型路线。",
+      "published_date": "2026-09-10",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "WAIC 2026｜生数科技骆怡航：从理解语言到理解世界（生数官网）",
+      "url": "https://www.genspi.com/zh/news/waic-luobohang-understanding-world/",
+      "supports": "官方新闻称“生数科技联合创始人、首席执行官骆怡航”在WAIC 2026论坛分享世界模型判断。",
+      "published_date": "2026-07-19",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "生数科技完成近20亿元B轮融资（北京市科委/中关村官网转载）",
+      "url": "https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202604/t20260414_243817.html",
+      "supports": "转载报道引述“生数科技创始人朱军”关于世界模型的表态，确认其创始人身份。",
+      "published_date": "2026-04-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "Shengshu Technology: Series B funding announcement (EN)",
+      "url": "https://www.genspi.com/en/news/series-b-funding/",
+      "supports": "2026-04-10 完成近20亿元人民币B轮：阿里云领投，中网投、九安海棠、好未来、光合创投战略投资；星连资本、达泰资本、建发新兴投资、BV百度风投、卓源亚洲追加。",
+      "published_date": "2026-04-10",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -109,6 +247,38 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "朱军",
+      "role": "创始人",
+      "background": "生数科技创始人，主导以U-ViT为底座的多模态与世界模型技术路线，2026年公司B轮融资时以创始人身份对外阐述通用世界模型判断。",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官方融资稿与政府网站转载均以其“创始人”身份引述；公司日常经营与对外发布由联合创始人、CEO骆怡航出面。学术任职未在本次来源中核实，故未写入背景。"
+    },
+    {
+      "name": "骆怡航",
+      "role": "联合创始人、CEO",
+      "background": "生数科技联合创始人兼首席执行官，2026年在WAIC、外滩大会等场合代表公司发布通用世界模型路线与Motus2等成果。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "生数官网两篇活动报道分别写作“联合创始人、CEO”与“联合创始人、首席执行官”；未见第三方媒体专访进一步核实其履历。"
     }
   ]
 }

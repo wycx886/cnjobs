@@ -55,6 +55,15 @@ Plaud Note / Note Pro / NotePin；Plaud Intelligence
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 许高 | 联合创始人兼CEO | Plaud 联合创始人兼CEO，连续创业者；公司2021年创立，推出卡片式AI录音硬件Plaud Note及后续可穿戴产品线。 | confirmed / 2026-11-11 / s08,s10 | [linkedin](https://www.linkedin.com/in/nathan-xu-80b48755) (partial, s10) | 中文媒体多记为联合创始人兼CEO；英文职业档案使用 Nathan Xu 一名，姓名对应关系仅有搜索摘要支持，故主页标记 partial。 |
+| 莫子皓 | 中国区CEO | Plaud中国区CEO，2025年接受36氪专访介绍中国区产品策略与商业化。 | partial / 2026-11-11 / s09 | 暂未收录公开主页 | 仅36氪专访标题与正文提及职务，未找到独立来源或本人主页。 |
+
 ## 核查备注
 
 未查到通用招聘邮箱；以官方Ashby招聘站为准。第三方出现个人招聘邮箱或旧岗位邮箱，未作为通用投递渠道。投资口径有冲突，不能强行归入头部PE/VC被投。
@@ -70,3 +79,6 @@ Plaud Note / Note Pro / NotePin；Plaud Intelligence
 | s05 | [Plaud官方Ashby招聘站](https://jobs.ashbyhq.com/plaud) | 官方招聘入口 | 未标明 | 2026-10-30 |
 | s06 | [Plaud招聘-BOSS直聘](https://www.zhipin.com/gongsi/fe2eb5ce48f3cab603d90tm5FFA~.html) | 公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
 | s07 | [【Plaud招聘】-猎聘](https://www.liepin.com/company/21321599/) | 公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s08 | [腾讯新闻：Plaud AI CEO许高——全球出货近70万台设备背后](https://news.qq.com/rain/a/20250524A02ZCA00) | 报道许高为Plaud AI创始人/联合创始人兼CEO。 | 2025-05-24 | 2026-11-11 |
+| s09 | [36氪专访Plaud中国区CEO](https://www.36kr.com/p/3480790709083017) | Plaud中国区CEO（莫子皓）受访，介绍中国区产品与商业化。 | 未标明 | 2026-11-11 |
+| s10 | [LinkedIn：Nathan Xu（PLAUD 联合创始人兼CEO）](https://www.linkedin.com/in/nathan-xu-80b48755) | 档案自述 Co-founder & CEO at PLAUD。 | 未标明 | 2026-11-11 |

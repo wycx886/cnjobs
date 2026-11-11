@@ -1,0 +1,137 @@
+{
+  "schema_version": 3,
+  "id": "boyu-capital",
+  "name": "博裕投资（Boyu Capital）",
+  "aliases": [
+    "Boyu Capital",
+    "博裕资本",
+    "博裕投资顾问有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 PE 主榜均在前 20 名，2025 年参与星巴克中国合资交易有可核实报道，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2010,
+    "basis": "清科投资界机构库工商信息：博裕投资顾问有限公司成立时间2010年9月28日；同页机构简介称博裕资本有限公司（Boyu Capital）为专注大中华区私募股权投资的基金。该工商栏同时显示注册资本 0.00 万、经营状态“仍注册”，疑为境外登记记录，本档案据此只确认2010年这一年份，不据此判断境内主体。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第19名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第18名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第18名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第14名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 20 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "大中华区私募股权投资；机构简介称主要投资媒体与科技、大健康、零售消费和金融服务等行业。2026 年公开记录覆盖大模型（DeepSeek）、AI 智能体（Manus）、AI 音乐（ACE Studio）、跨境电商（SHEIN）与消费品牌。",
+  "stage": "清科、投中均将其列入私募股权（PE）榜；以大额成长期、并购与控股型交易为主，单笔规模显著高于 VC。",
+  "representative_cases": [
+    {
+      "company": "药明康德",
+      "attribution": "current_firm",
+      "investor_or_team": "博裕投资",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "时代新能源",
+      "attribution": "current_firm",
+      "investor_or_team": "博裕投资",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "顺丰控股",
+      "attribution": "current_firm",
+      "investor_or_team": "博裕投资",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未披露持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2025-11-04，投资界报道星巴克咖啡公司宣布与博裕投资达成战略合作，双方成立合资企业共同运营星巴克中国零售业务，博裕持有合资企业至多60%股权，星巴克保留40%；基于约40亿美元企业价值（不计现金与债务）。2026 年清科机构库出手记录另列其参与 DeepSeek B 轮（2026-10-30）、ManusAI 5亿美元战略融资（2026-10-08）、SHEIN 3.83亿美元基石投资轮（2026-08-24）。",
+  "why_follow": "编辑分析：其2025—2026年的公开动作同时包含控股型消费交易（星巴克中国）与 AI 大模型、Agent、AI 音乐等少数股权，是观察大额 PE 资金进入 AI 应用层的样本，但两类交易的持股与治理角色差别很大。",
+  "difference": "编辑分析：与 VC 相比，其单笔金额大、偏控股或重大少数股权，项目多为成熟品牌或平台型公司；与国资平台相比完全市场化、决策周期短。评价其 AI 布局时，应区分控股型交易与少数股权投资，不能把被投公司整体规模当作基金业绩。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：榜单与机构库使用“博裕投资”，机构简介使用“博裕资本有限公司（Boyu Capital）”，本档案将两者视为同一品牌的不同写法并列入别名。清科机构库所附工商信息为“博裕投资顾问有限公司”（2010-09-28，注册资本 0.00 万，状态“仍注册”，法定代表人 CHOO CHING CHONG），从字段特征看更像境外登记记录；境内私募基金管理人主体未在本次可打开页面核实，故不把该工商记录当作境内主体已确认。官网域名在本环境未能打开确认，contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 博裕资本（博裕投资顾问有限公司）",
+      "url": "https://vc.pedaily.cn/vc/106218.html",
+      "supports": "机构简介（Boyu Capital、大中华区私募股权、媒体与科技/大健康/零售消费/金融服务）、工商信息（2010-09-28）、近期出手记录（DeepSeek、ManusAI 等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国私募股权投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "博裕投资：清科2025年中国私募股权投资机构50强第19名",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国私募股权投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "博裕投资：清科创业2024年中国私募股权投资机构100强第18名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "博裕投资：投中2025年度 PE TOP100 第18名；机构层级代表案例含药明康德、时代新能源、顺丰控股",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "博裕投资：投中2024年度 PE TOP100 第14名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "刚刚，星巴克中国迎来博裕资本（投资界）",
+      "url": "https://news.pedaily.cn/202511/556797.shtml",
+      "supports": "2025-11-04 星巴克与博裕投资成立合资企业运营中国零售业务，博裕持股至多60%、星巴克保留40%，企业价值约40亿美元（不计现金与债务）",
+      "published_date": "2025-11-04",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已运作十余年的大额 PE，按成熟机构建档；境内管理主体与境外工商记录的对应关系保留为待核项。",
+    "source_ids": [
+      "s01",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

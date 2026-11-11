@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/anew-labs.json)
 
-机构／项目 ID：`anew-labs` · 主赛道：10 科学智能与生物医药 · 核查日期：2026-10-31
+机构／项目 ID：`anew-labs` · 主赛道：10 科学智能与生物医药 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -38,7 +38,7 @@
 
 ## 投资背景
 
-路透社2026-09-16据知情人士报道，拆分后完成2.9亿美元首次外部融资，估值15亿美元；HSG、IDG和GL Ventures领投，五源共同领投。据另一消息人士称字节融资后保留56%。公司及投资方未即时回应；以上是媒体消息人士口径，不是正式现行股东表。
+路透社2026-09-16据知情人士报道，拆分后完成2.9亿美元首次外部融资，估值15亿美元；第一财经同日报道HSG（原红杉中国）、IDG资本和高瓴投资领投，五源资本联合领投，战略投资者包括中国生物制药及上海未来产业基金。公司及投资方未即时回应；以上是媒体消息人士口径，不是正式现行股东表。历史投资背景不等于当前完整股东名册。
 
 **披露状态：** 部分核验。
 
@@ -58,6 +58,14 @@
 
 当前档案尚无结构化机构渠道；上方旧入口及来源引用不等于入口归属已核实。未收录不表示没有相关渠道，按任务继续核查。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 刘凯（Kai Liu） | 创始人兼CEO | 2021年牵头组建字节跳动AI for Science药物发现团队；2026年6月该团队由字节整体拆分独立，任Anew Labs创始人兼CEO。；原平台：字节跳动 | partial / 2026-11-11 / s05,s06 | [linkedin](https://cn.linkedin.com/in/kai-liu-5918b543a) (partial, s05,s06) | 团队负责人身份由第一财经报道支持；CEO职务来自LinkedIn搜索结果，未获公司官方职务页确认。 |
+
 ## 核查备注
 
 本条是原79家样本之外的新增公开研究。历史报道中的Anew Therapeutics及ByteDance AI Drug Discovery作为别名保留，不重复建公司。官网确认当前业务；字节官方代码库支持研究来源关联，但不证明股权。尚未取得官方法律主体、准确法律拆分日及正式现行持股表。当前仅圈定机构，未逐项采集招聘与Layer 2／3渠道。
@@ -70,3 +78,5 @@
 | s02 | [bytedance/AnewOmni — Programming Biomolecular Interactions with All-Atom Generative Model](https://github.com/bytedance/AnewOmni) | 字节官方组织下的研究代码及ByteDance版权，支持研究来源联系，不证明当前股权或法律独立性。 | 未标明 | 2026-10-31 |
 | s03 | [Reuters: ByteDance completes $290 million fundraising for AI drug unit after its spin-off, sources say](https://www.streetinsider.com/Reuters/ByteDance%2Bcompletes%2B%24290%2Bmillion%2Bfundraising%2Bfor%2BAI%2Bdrug%2Bunit%2Bafter%2Bits%2Bspin-off%2C%2Bsources%2Bsay/27066461.html) | 路透原稿转载，匿名消息人士称拆分、融资及母公司持股；未获当事方正式确认。 | 2026-09-16 | 2026-10-31 |
 | s04 | [ByteDance’s drug unit presents AI-designed therapies at global conferences](https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences) | 历史报道中的Anew Therapeutics及ByteDance AI Drug Discovery名称，保留为别名而非另建主体。 | 2026-05-02 | 2026-10-31 |
+| s05 | [第一财经：字节拆出一家AI制药公司，首轮融资2.9亿美元，估值15亿美元](https://www.yicai.com/news/103366982.html) | Anew Labs前身为字节跳动AI for Science药物发现团队，2021年由刘凯牵头组建；2026年6月整体拆分，团队、平台与管线注入新主体。 | 2026-09-16 | 2026-11-11 |
+| s06 | [LinkedIn 搜索结果：Kai Liu - Founder & CEO, Anew Labs](https://cn.linkedin.com/in/kai-liu-5918b543a) | 搜索结果显示该档案姓名为Kai Liu、现任Anew Labs、职务Founder & CEO；页面本身未直接抓取，仅据搜索结果记录。 | 未标明 | 2026-11-11 |

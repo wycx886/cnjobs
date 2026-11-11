@@ -85,7 +85,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -140,10 +140,41 @@
       "supports": "送餐/酒店/清洁等服务机器人产品与具身AI定位。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "title": "经济参考报：擎朗智能CEO李通：让人形机器人真正干活才是商业化的本质",
+      "url": "https://www.jjckb.cn/20260719/448a46080fa24d0ca4c2dbcad8ca606c/c.html",
+      "supports": "李通为擎朗智能创始人兼CEO；公司有16年商用机器人积累，推进岗位化人形机器人落地。",
+      "published_date": "2026-07-19",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "界面新闻：擎朗智能CEO李通：中国在服务机器人领域领先全球",
+      "url": "https://m.jiemian.com/article/11974580.html",
+      "supports": "李通为擎朗智能创始人兼CEO；2010年与三位伙伴凑20万元在上海创业，华中科技大学电气工程自动化专业毕业。",
+      "published_date": "2024-11-12",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "36氪：擎朗智能完成2亿美元D轮融资",
+      "url": "https://www.36kr.com/p/1397821032561417",
+      "supports": "D轮2亿美元，软银愿景基金领投，中金甲子、Prosperity7 Ventures跟投；公司成立于2010年；并回溯2020年12月数亿元C轮投资方为软银亚洲风险投资公司与阿里巴巴集团。",
+      "published_date": "2021-09-15",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "最近可核验融资停留在2021年D轮，未找到2022年后新融资披露；当前估值未核验。",
+  "notes": "最近可核验融资停留在2021年D轮，未找到2022年后新融资披露；当前估值未核验。C轮投资方来自D轮报道的回溯。",
   "category_id": "08",
+  "founded": {
+    "year": 2010,
+    "basis": "36氪2021年D轮报道称擎朗智能成立于2010年。"
+  },
   "focus": "商用服务机器人与具身AI",
   "products": "送餐/酒店/清洁/配送服务机器人、具身AI解决方案",
   "locations_text": "上海",
@@ -155,12 +186,96 @@
     ]
   },
   "investment": {
-    "summary": "2021年完成2亿美元D轮融资，软银愿景基金领投，中金甲子、Prosperity7 Ventures跟投；公开披露未找到更近轮次。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2010年成立，2020年12月完成数亿元C轮（软银亚洲风险投资公司、阿里巴巴集团），2021年9月完成2亿美元D轮，软银愿景基金领投，中金甲子、Prosperity7 Ventures跟投；公开披露未找到更近轮次。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2020-12",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "软银亚洲风险投资公司",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "阿里巴巴集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "36氪在D轮报道中回溯，未见C轮原始公告。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2021-09-15",
+        "amount_text": "2亿美元",
+        "investors": [
+          {
+            "name": "软银愿景基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09",
+              "s05"
+            ]
+          },
+          {
+            "name": "中金甲子",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09",
+              "s05"
+            ]
+          },
+          {
+            "name": "Prosperity7 Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09",
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09",
+          "s05"
+        ],
+        "notes": "华兴资本任独家财务顾问。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "擎朗智能",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "李通",
+      "role": "创始人兼CEO",
+      "background": "擎朗智能创始人兼CEO；2010年与伙伴在上海创立公司，长期负责经营，现推进通用人形与专用服务机器人协同。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色据新华社《经济参考报》2026年7月报道；未见本人公开社媒主页。"
+    }
+  ]
 }

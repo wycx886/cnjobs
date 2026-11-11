@@ -22,8 +22,668 @@
     ]
   },
   "investment": {
-    "summary": "历轮有VC、产业与地方国资参与；36氪载2024年12月融资方含北京AI产业基金、君联资本、招商局创投等。官网披露港股招股书与2025年报，可据其继续核对股东。",
-    "verification_status": "partial"
+    "summary": "已上市企业（港交所 02513.HK，2026-01-08 上市）。招股书列示首次公开发售前投资：A轮人民币1.52亿元（2022-05）、B1轮2.08亿元（2023-02）、B2轮4.10亿元（2023-08）、B3轮6.09亿元（2024-01）、B4轮12.29亿元（2024-08）、B5轮13.59亿元（2024-11）、B6-1/B6-2轮19.22亿元（2024-12）、B6-3/B6-3+/B6-4轮24.55亿元（2025-05），合计募资约人民币83.64亿元。股东名单与轮次以招股书为准，不等于上市后完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2022-05",
+        "amount_text": "人民币152,000,000元",
+        "investors": [
+          {
+            "name": "通智投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "达晨创鸿",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "北京华控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "荣品投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "将门创业投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "凌云光",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "南京图灵",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "财智创赢",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书A轮融资表：8家认购人合计代价人民币152,000,000元。"
+      },
+      {
+        "round": "B1",
+        "announced_on": "2023-02",
+        "amount_text": "人民币208,000,000元",
+        "investors": [
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融乾",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融凯",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B1轮融资表：君联相道、启明融乾、启明融凯合计人民币208,000,000元。"
+      },
+      {
+        "round": "B2",
+        "announced_on": "2023-08",
+        "amount_text": "人民币410,112,528元",
+        "investors": [
+          {
+            "name": "天津三快",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "星连肇基",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "青岛华控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融乾",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "达晨创鸿",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融凯",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "财智创赢",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B2轮融资表：第一段由天津三快认购，第二段由其余认购人认购，合计人民币410,112,528元。"
+      },
+      {
+        "round": "B3",
+        "announced_on": "2024-01",
+        "amount_text": "人民币608,973,038元",
+        "investors": [
+          {
+            "name": "全德美嘉",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "上海云玡",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "杭州光合",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "天津合远",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "星连肇基",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "青岛华控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B3轮融资表：两阶段合计人民币608,973,038元，完成于2024年1月。"
+      },
+      {
+        "round": "B4",
+        "announced_on": "2024-08",
+        "amount_text": "人民币1,228,809,303元",
+        "investors": [
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "北京顺赢",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "欣欣相融",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "小锋科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "厦门雅恒",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "宁波明恒",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "星连肇基",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "社保中关村创新基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "达晨创鸿",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "青岛华控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "上海云玡",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "多项网络",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "天津合远",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融乾",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明融凯",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B4轮融资表：合计人民币1,228,809,303元；小锋科技对应注册资本由华品博睿认购。"
+      },
+      {
+        "round": "B5",
+        "announced_on": "2024-11",
+        "amount_text": "人民币1,358,934,041元",
+        "investors": [
+          {
+            "name": "上海飞玡",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "无锡云晖",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "招商数科",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "社保中关村创新基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "小锋科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "厦门雅恒",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "Prosperity7",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "联融致远",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联锦帆",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "5G基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B5轮（B5-1/B5-2/B5-3）融资表：合计人民币1,358,934,041元。"
+      },
+      {
+        "round": "B6-1/B6-2",
+        "announced_on": "2024-12",
+        "amount_text": "人民币1,922,000,000元",
+        "investors": [
+          {
+            "name": "中关村科学城",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "大兴产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "星连肇基",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "社保中关村创新基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "海河富新优达基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B6-1与B6-2轮融资表：合计人民币1,922,000,000元。"
+      },
+      {
+        "round": "B6-3/B6-3+/B6-4",
+        "announced_on": "2025-05",
+        "amount_text": "人民币2,454,999,968元",
+        "investors": [
+          {
+            "name": "杭州城投产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "成都高新策源",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "君联相道",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "上城领航",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "社保中关村创新基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "天创投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "珠海华发",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "夏睿投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "智慧领航",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "招股书B6-3、B6-3+、B6-4轮（含B6轮可转换票据转换）合计人民币2,454,999,968元，2025年5月完成。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2026-01-08",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "港交所主板，股份代号 02513.HK；2026-01-08 开始买卖。全球发售37,419,500股H股、发行价每股116.20港元，金额未按发售总额披露，故留空。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.zhipuai.cn/",
@@ -32,8 +692,8 @@
     "other_email": "ir@aminer.cn",
     "other_email_purpose": "投资者关系邮箱（非招聘）"
   },
-  "notes": "招聘邮箱来自2024年技术团队公开招聘，历史渠道，建议优先官网社招。未照抄原表全部投资机构。",
-  "checked_at": "2026-10-30",
+  "notes": "招聘邮箱来自2024年技术团队公开招聘，历史渠道，建议优先官网社招。轮次、金额与投资方以港交所招股书为准，不等于上市后完整股东名册；招股书另载2022年1月天使轮由北京创新智源以知识产权作价约人民币20.37百万元认购，属非现金出资，未单列为融资轮次。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -84,6 +744,78 @@
       "supports": "页面品牌为智谱·AI；简介列清华技术成果转化、GLM-130B、ChatGLM、Bigmodel.ai、CodeGeeX，与智谱业务对应。工商信息需登录，本轮未核验；只确认公开企业入口归属，不保证具体岗位持续开放。",
       "published_date": null,
       "checked_at": "2026-11-01"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "智谱（中文维基百科条目）",
+      "url": "https://zh.wikipedia.org/wiki/%E6%99%BA%E8%B0%B1",
+      "supports": "信息框列“代表人物 张鹏（创始人兼CEO）”，并记2002年张鹏本科毕业于清华、后进入KEG实验室，2019年任CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "从清华实验室到港交所，智谱CEO张鹏的七年AGI长跑（财联社/腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260108A06IQ700",
+      "supports": "2026-01-08 智谱在港交所上市；报道多处称“智谱CEO张鹏”，并述其技术创业路径与MaaS策略。",
+      "published_date": "2026-01-08",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "智谱创始人唐杰清华开课爆火（瑞财经/腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260918A091RT00",
+      "supports": "报道称“唐杰现任清华大学计算机系教授，同时也是智谱AI的创始人兼首席科学家”。",
+      "published_date": "2026-09-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "清华持股超17亿元！清华孵化的科技成果转化公司估值达400亿（搜狐）",
+      "url": "https://www.sohu.com/a/911127547_121123735",
+      "supports": "报道称智谱第一实控人唐杰为清华大学计算机系教授、博士生导师，现任清华人工智能研究院基础模型研究中心主任。",
+      "published_date": "2025-07-06",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "X 账号 @jietang 主页",
+      "url": "https://x.com/jietang",
+      "supports": "主页标题“jietang (@jietang) on X”，简介为“Professor @ Tsinghua, Founder of …”，与唐杰（清华教授、智谱创始人）身份一致。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "智谱 全球发售招股章程（北京智谱华章科技股份有限公司）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1230/2025123000018_c.pdf",
+      "supports": "港交所招股章程：列示天使轮至B6轮的首次公开发售前投资，逐轮载明认购人、代价金额与完成时间；并载公司自首次公开发售前投资收取所得款项约人民币8,364.20百万元。",
+      "published_date": "2025-12-30",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "scope": "organization",
+      "title": "智谱 發售價及配發結果公告",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0107/2026010701799_c.pdf",
+      "supports": "港交所公告：股份代号2513；全球发售37,419,500股H股，发行价每股H股116.20港元；预期H股于2026年1月8日上午九时正在联交所开始买卖。",
+      "published_date": "2026-01-07",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s14",
+      "scope": "organization",
+      "title": "智谱官网「关于我们」",
+      "url": "https://zhipuai.cn/zh/about",
+      "supports": "官网关于页：智谱（Z.AI）成立于2019年，由清华大学计算机系知识工程实验室（KEG）技术成果转化而来；页脚主体为北京智谱华章科技股份有限公司，并提供投资者关系邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -96,12 +828,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2026年1月8日在香港联交所主板上市（02513.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s13"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -140,5 +871,55 @@
       ],
       "notes": "通过平台品牌名与GLM、ChatGLM、BigModel等公开产品简介核对归属；工商信息登录受限，未作工商主体核验。"
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "张鹏",
+      "role": "创始人兼CEO",
+      "background": "2002年本科毕业于清华大学，后进入清华大学计算机系知识工程实验室（KEG）攻读硕士并长期从事科技情报与NLP研究；2019年6月与团队将实验室成果转化成立智谱华章并出任CEO，2026年1月公司在港交所上市（02513.HK）。",
+      "previous_firms": [
+        "清华大学知识工程实验室（KEG）"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "维基百科条目与财联社上市专访分别确认创始人兼CEO现职；未找到可核实的个人职业主页。"
+    },
+    {
+      "name": "唐杰",
+      "role": "创始人兼首席科学家",
+      "background": "清华大学计算机系教授、博士生导师，清华人工智能研究院基础模型研究中心主任；智谱创始人与首席科学家、公司第一实控人。",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/jietang",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s11",
+            "s09"
+          ],
+          "notes": "清华个人主页（keg.cs.tsinghua.edu.cn/jietang/）以“Twitter: Follow me”链接该账号；主页简介自述清华教授与创始人。"
+        }
+      ],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "两篇报道分别确认“创始人兼首席科学家”与“第一实控人、清华教授”身份；其清华个人主页（keg.cs.tsinghua.edu.cn/jietang/）可核，但未列为个人职业主页。"
+    }
+  ],
+  "founded": {
+    "year": 2019,
+    "basis": "智谱官网「关于我们」：智谱成立于2019年，源自清华大学计算机系知识工程实验室（KEG）。"
+  }
 }

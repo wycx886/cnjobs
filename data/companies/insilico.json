@@ -19,8 +19,20 @@
     ]
   },
   "investment": {
-    "summary": "官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025年12月30日在港交所主板上市（股份代号3696）。官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等；上市前各轮未逐项展开。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "已上市",
+        "announced_on": "2025-12-30",
+        "amount_text": "2,350.3百萬港元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "港交所主板，股份代号 3696；金额为年报所载全球发售所得款项净额（行使超额配股权后），非募资总额。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://insilico.com/",
@@ -30,7 +42,7 @@
     "other_email_purpose": "业务拓展"
   },
   "notes": "原表“多款新药临床II/III期”不作为本次更新结论；临床阶段须逐条查项目管线，避免把合作/授权与股权投资混淆。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -64,6 +76,51 @@
       "supports": "公开企业主页主体：Insilico Medicine；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "Insilico Medicine 官网 Leadership 团队页",
+      "url": "https://insilico.com/team",
+      "supports": "官方团队页列出 Alex Zhavoronkov（Chairman of the Board、Executive Director、CEO）、Feng Ren（CSO、Executive Director & Co-CEO）、Alex Aliper（President）及各自履历，并给出 Zhavoronkov 的 Google Scholar 主页链接。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "Alex Zhavoronkov 个人主页 Biography",
+      "url": "https://alexzhavoronkov.com/biography",
+      "supports": "本人个人网站自述为 Insilico Medicine 创始人兼CEO，公司于2025年12月在港上市（2257.HK）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "Alex Zhavoronkov Google Scholar 主页",
+      "url": "https://scholar.google.com/citations?user=8Icccp0AAAAJ",
+      "supports": "其 Google Scholar 作者主页（由 Insilico 官网团队页直接链接），列出论文与被引数据。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "英矽智能官网中文领导团队页",
+      "url": "https://insilico.com/team_sc",
+      "supports": "中文团队页：Alex Zhavoronkov 博士为董事会主席、执行董事、首席执行官兼首席商务官；任峰博士为首席科学官、执行董事、联合首席执行官；Alex Aliper 博士为总裁；并附三人履历。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "英矽智能 2025 年度报告（港交所）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042803626_c.pdf",
+      "supports": "股份代号3696；2025年12月30日于聯交所主板上市；全球发售所得款项净额2,350.3百萬港元（行使超额配股权后）。",
+      "published_date": "2026-04-28",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -76,12 +133,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2025年12月30日在香港联交所主板上市（3696），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s09"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -101,6 +157,85 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "Alex Zhavoronkov",
+      "role": "创始人、董事长兼CEO",
+      "background": "拉脱维亚出生；2014年创办 Insilico Medicine 并任CEO，2016年起将生成式对抗网络（GAN）与强化学习用于药物发现。此前在 ATI Technologies、Biogerontology Research Foundation 等机构任职，兼任 Buck Institute 人工智能兼职教授，发表同行评审论文200余篇。",
+      "previous_firms": [
+        "ATI Technologies",
+        "Biogerontology Research Foundation"
+      ],
+      "profiles": [
+        {
+          "platform": "scholar",
+          "url": "https://scholar.google.com/citations?hl=en&user=8Icccp0AAAAJ",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s06",
+            "s07",
+            "s08"
+          ],
+          "notes": "Insilico 官网团队页直接链接该 Google Scholar 主页。"
+        },
+        {
+          "platform": "personal_site",
+          "url": "https://alexzhavoronkov.com/biography",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s06",
+            "s07",
+            "s08"
+          ],
+          "notes": "本人同名个人网站，Biography 页自述为 Insilico 创始人兼CEO。"
+        }
+      ],
+      "source_ids": [
+        "s05",
+        "s06",
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。"
+    },
+    {
+      "name": "任峰（Feng Ren）",
+      "role": "首席科学官（CSO）、执行董事、联席CEO",
+      "background": "哈佛大学化学博士（2007）；在葛兰素史克（GSK）从事小分子创新药研发11年，曾任首席科学家、项目负责人及神经退行性疾病DPU化学负责人；2018年加入美迪西（Medicilon）任高级副总裁；2021年加入英矽智能任CSO，负责内部管线与外部合作，后任联席CEO。",
+      "previous_firms": [
+        "GSK",
+        "Medicilon（美迪西）"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务与履历取自公司官网英文与中文团队页。"
+    },
+    {
+      "name": "Alex Aliper",
+      "role": "President",
+      "background": "在 Insilico 主导将AI用于多组学数据、生成化学与生成生物学，并组建百人级AI工程团队；曾入选 Deep Knowledge Analytics “Top 100 AI Leaders in Drug Discovery” 与 Endpoint News “20 under 40”。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务与履历取自公司官网英文与中文团队页。"
     }
   ]
 }

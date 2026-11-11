@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/nebulon-ventures.json)
 
-机构 ID：`nebulon-ventures` · 核查日期：2026-10-30
+机构 ID：`nebulon-ventures` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -82,3 +82,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s02 | [GenAI投资人温永腾旗下新基金Nebulon Ventures宣布完成首关｜商业周刊](https://finance.sina.com.cn/roll/2026-02-24/doc-inhnwmhy3306991.shtml) | 2026年公开启动及首关；全球生成式AI应用定位；原BV及蔚来资本、以太资本履历；BV时期具名投资 | 2026-02-24 | 2026-10-30 |
 | s03 | [2026年第一家成立的VC｜elsewhere创始人采访](https://elsewhere.news/zh/elsewhere/2026vc-1777001545421) | 2025年底离职与新基金启动；数千万美元首关；Agent网络与新组织策略 | 2026-02-24 | 2026-10-30 |
 | s04 | [Nebulon Ventures｜官方首页](https://nebulonvc.com/) | 早期AI投资机构定位；Nebulon Research及面向创始人的工作方式 | 未标明 | 2026-10-30 |
+| s05 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 该榜公开名单中未见Nebulon Ventures；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s06 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 该榜公开名单中未见Nebulon Ventures；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s07 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 该榜公开名单中未见Nebulon Ventures；作为本次未上榜核查依据 | 2026-04-24 | 2026-11-11 |
+| s08 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 该榜公开名单中未见Nebulon Ventures；作为本次未上榜核查依据 | 2025-04-18 | 2026-11-11 |

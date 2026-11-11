@@ -19,8 +19,64 @@
     ]
   },
   "investment": {
-    "summary": "2024-12-18 披露绿洲资本独家投资数千万元A+轮；此前A轮由光远投资领投、未来光锥前沿科技基金与云天励飞跟投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2024-11 A轮由光远投资领投，未来光锥前沿科技基金、云天励飞跟投；2024-12 A+轮由绿洲资本独家投资数千万元，A轮系列累计超亿元。A轮单独金额未披露。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2024-11-20",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "光远投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "未来光锥前沿科技基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "云天励飞",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "投中网报道，A轮单独金额未披露；公司称A轮与A+轮一个月内累计超亿元。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2024-12-18",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "绿洲资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "绿洲资本独家投资。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.shargetech.com/",
@@ -30,7 +86,7 @@
     "other_email_purpose": "分销/加盟与媒体合作"
   },
   "notes": "官网用 hr#shargetech.com 与 zhangbo#shargetech.com 防爬显示，已按邮箱惯例将明确占位符#还原为@；未猜测新邮箱。careersUrl为含投递说明的官方联系页。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -65,6 +121,24 @@
       "supports": "公开企业主页主体：闪极科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "连线Insight专访闪极科技创始人张波（新浪财经转载）",
+      "url": "https://finance.sina.com.cn/cj/2024-10-17/doc-incswatx6309707.shtml",
+      "supports": "称张波为闪极科技创始人兼CEO，并回顾其从格力工程师、魅族市场营销到爱否开物电商的职业路径。",
+      "published_date": "2024-10-17",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "百度百科·闪极科技（深圳）有限公司",
+      "url": "https://baike.baidu.com/item/%E9%97%AA%E6%9E%81%E7%A7%91%E6%8A%80%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51368968",
+      "supports": "公司2019年12月成立，法定代表人为张波；张波任董事长、经理。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -121,5 +195,29 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "张波",
+      "role": "创始人、董事长兼CEO",
+      "background": "曾在格力担任工程师，负责旗舰机型关键创新模块研发；2012年加入魅族转向市场营销；2017年进入科技媒体爱否开物负责电商业务；2019年创立闪极科技（SHARGE），从充电与储能产品扩展到AI眼镜等AI原生硬件。",
+      "previous_firms": [
+        "格力",
+        "魅族",
+        "爱否开物"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "媒体专访与工商信息（法定代表人、董事长、经理）一致；未找到可核实的本人公开职业主页。"
+    }
+  ],
+  "founded": {
+    "year": 2020,
+    "basis": "投中网报道称闪极科技成立于2020年。"
+  }
 }

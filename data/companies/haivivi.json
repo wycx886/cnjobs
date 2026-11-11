@@ -19,8 +19,69 @@
     ]
   },
   "investment": {
-    "summary": "2025-08-25披露2亿元A轮系列融资，中金资本旗下基金、红杉中国、华山资本、愉悦资本领投，招银国际等参投，Brizan Ventures等老股东加注。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-08-25披露2亿元A轮系列融资：中金资本旗下基金、红杉中国、华山资本、愉悦资本领投，招银国际等参投，Brizan Ventures等老股东加注。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2025-08-25",
+        "amount_text": "2亿元",
+        "investors": [
+          {
+            "name": "中金资本旗下基金",
+            "firm_id": "cicc-capital",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华山资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "愉悦资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "招银国际",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Brizan Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "界面新闻称本轮为A轮系列融资，Brizan Ventures等老股东持续加注。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.haivivi.cn/",
@@ -30,7 +91,7 @@
     "other_email_purpose": "经销商/商业合作"
   },
   "notes": "未查到公开招聘邮箱；可通过BOSS直聘深圳跃然创新公司页投递。页面明确对应HAIVIVI品牌且展示人事经理等招聘者。bd@为经销合作，不能当投递邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -38,7 +99,7 @@
       "url": "https://m.jiemian.com/article/13234208.html",
       "supports": "投资方及CocoMate",
       "published_date": "2025-08-25",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -81,6 +142,24 @@
       "supports": "公开企业主页主体：深圳跃然创新科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "36氪：天猫精灵合伙人创业，用AI大模型复活毛绒玩具",
+      "url": "https://m.36kr.com/p/2879147157099137",
+      "supports": "报道李勇为跃然创新（Haivivi）创始人，原天猫精灵创始人之一。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "钛媒体：Haivivi完成2亿元A轮融资，创始人李勇",
+      "url": "https://www.tmtpost.com/7670444.html",
+      "supports": "报道李勇为Haivivi创始人，并引述其对AI玩具产品路线的判断。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -136,6 +215,24 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "李勇",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "天猫精灵"
+      ],
+      "background": "原天猫精灵创始人之一；2021年创立跃然创新（Haivivi），2024年推出AI玩具BubblePal，后拓展AI奥特曼等IP合作产品。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪与钛媒体报道均记为创始人/创始人兼CEO；未找到本人公开职业主页。"
     }
   ]
 }

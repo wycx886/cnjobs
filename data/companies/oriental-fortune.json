@@ -1,0 +1,138 @@
+{
+  "schema_version": 3,
+  "id": "oriental-fortune",
+  "name": "东方富海（Oriental Fortune Capital）",
+  "aliases": [
+    "Oriental Fortune Capital",
+    "OFC",
+    "深圳市东方富海投资管理股份有限公司",
+    "东方富海"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个发布方、两个年度的 VC 主榜均在前 20 名，清科机构库与创始人署名文章另有可核实的近期出手与机构沿革，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2006,
+    "basis": "清科投资界机构库工商信息：深圳市东方富海投资管理股份有限公司成立于2006年10月10日；创始人陈玮2026-10-10署名文章《谛诺之约——东方富海二十年》亦称机构于二十年前的当日创立，两者一致。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第18名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第6名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第6名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第7名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 20 名，按综合榜口径列入 Tier 1；清科2025年 AI20 为音序榜、不设名次，仅作在榜记录，不据此排序。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "专业性创业投资管理；机构简介称投资具有成长性和上市潜力的目标公司。投中榜单列示的代表案例覆盖 AI 芯片（沐曦股份）、激光雷达（速腾聚创）、智能文字识别（合合信息）等方向。",
+  "stage": "清科、投中均将其列入创业投资（VC）主榜；以成长期项目为主，2026 年亦出现在天使轮项目中（泛函数、量观知元）。",
+  "representative_cases": [
+    {
+      "company": "沐曦股份",
+      "attribution": "current_firm",
+      "investor_or_team": "东方富海",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "速腾聚创",
+      "attribution": "current_firm",
+      "investor_or_team": "东方富海",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "合合信息",
+      "attribution": "current_firm",
+      "investor_or_team": "东方富海",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未披露持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-10，东方富海在深圳蛇口举办20周年庆，创始人陈玮署名文章披露机构管理规模385亿元、已培育多家科创龙头（机构自述数据，未独立审计）。清科投资界机构库出手记录另显示：2026-11-10 参与泛函数近亿元天使轮；2026-10-27 参与量观知元天使轮；近3个月出手12次。",
+  "why_follow": "编辑分析：作为2006年成立的本土创投机构，其2026年同时出现在 AI 芯片成长期项目与量子、AI 芯片设计等天使轮中，可用于观察老牌 VC 在新一轮硬科技周期中的阶段下沉。",
+  "difference": "编辑分析：与早期基金相比，其成长期项目占比更高、单笔规模更大；与券商直投和国资平台相比，募资与决策更市场化。机构自述的管理规模与项目数量属自我披露，不宜直接与其他机构横比。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：榜单与机构库所列主体为深圳市东方富海投资管理股份有限公司（简称 OFC 或东方富海），注册地深圳；投中2025年度 VC 榜页列其城市为深圳，2024年度榜页列深圳、上海、北京，属榜单标注差异。该机构为股份制投资管理公司，不是政府引导基金或券商直投平台。官网域名在本环境未能打开确认，故 contacts.website 留空，不猜域名。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 东方富海（深圳市东方富海投资管理股份有限公司）",
+      "url": "https://vc.pedaily.cn/vc/8510.html",
+      "supports": "2006-10-10 成立的工商主体、机构简介、近期出手记录（2026-11-10 泛函数天使轮等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国创业投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "东方富海：清科2025年中国创业投资机构50强第18名；同页 AI20 为音序榜、无名次",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国创业投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "东方富海：清科创业2024年中国创业投资机构100强第6名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "东方富海：投中2025年度 VC TOP100 第6名；机构层级代表案例含沐曦股份、速腾聚创、合合信息",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "东方富海：投中2024年度 VC TOP100 第7名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "谛诺之约——东方富海二十年（陈玮署名，东方富海公众号，投资界转载）",
+      "url": "https://news.pedaily.cn/202610/570032.shtml",
+      "supports": "2026-10-10 举办20周年庆、回顾2006年同日创立；文中称管理规模385亿元（机构自述）",
+      "published_date": "2026-10-10",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已运作二十年的本土创投机构，按成熟机构建档；本轮补充主体、阶段与公开案例，人物与渠道留给后续任务。",
+    "source_ids": [
+      "s01",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

@@ -18,8 +18,139 @@
     ]
   },
   "investment": {
-    "summary": "官网披露2025年A4/A5轮由美团、美团龙珠、今日资本领投；2026年官网列有B/B+轮融资进展。仅列可核实事件，不将原表全部机构默认视为当前股东。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网公司历程披露：2023-09成立并完成首轮融资；2024-01天使轮（合计千万美金）；2024-11 Pre-A数亿元；2025-04 A2、A3轮；2025-07 A4、A5轮合计近15亿元；2026-02 B轮10亿元；2026-04 B+轮近20亿元；并称2026年B轮与C轮合计近50亿元。北京日报2026-02-11报道B轮投资方，并称公司已完成股改、尚未上市。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "首轮",
+        "announced_on": "2023-09",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网称2023年9月注册成立并完成首轮融资，未披露金额与投资方。"
+      },
+      {
+        "round": "天使",
+        "announced_on": "2024-01",
+        "amount_text": "千万美金",
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网称2024年1月完成天使轮第二轮交割、天使轮共计千万美金；北京日报称成立两个月后完成第一轮交割。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-11",
+        "amount_text": "数亿元",
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网时间线；北京日报称2024年8月完成超2亿元Pre-A，日期与金额口径与官网不同。"
+      },
+      {
+        "round": "A2、A3",
+        "announced_on": "2025-04",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网称2025年4月接连完成A2、A3轮系列融资，未披露单轮金额。"
+      },
+      {
+        "round": "A4、A5",
+        "announced_on": "2025-07",
+        "amount_text": "总融资规模近15亿元人民币",
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网称A4、A5轮系列融资总规模近15亿元，未分轮列示。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2026-02-11",
+        "amount_text": "10亿元",
+        "investors": [
+          {
+            "name": "金鼎资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "北汽产投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "碧鸿投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "正心谷资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "前海方舟",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "毅峰资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "北京日报报道的B轮投资方，均为产业资本或机构。"
+      },
+      {
+        "round": "B+",
+        "announced_on": "2026-04",
+        "amount_text": "近20亿元",
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网称2026年4月再次完成近20亿元B+轮。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2026",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "官网2026年时间线称全年完成B轮与C轮融资、合计近50亿元；C轮单独金额与具体时间未披露。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://galaxea-ai.com/",
@@ -29,7 +160,7 @@
     "other_email_purpose": "产品咨询"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -88,6 +219,58 @@
       "supports": "公开企业主页主体：星海图；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "星海图官网「核心团队」",
+      "url": "https://galaxea-ai.com/leadership.html",
+      "supports": "高继扬任创始人&CEO，赵行任联合创始人&首席科学家，李天威任联合创始人&COO",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "LinkedIn：Jiyang Gao（高继扬）",
+      "url": "https://www.linkedin.com/in/jiyanggao",
+      "supports": "个人主页显示 Jiyang Gao（高继扬）为 Galaxea CEO，履历含 Momenta、南加州大学",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "Galaxea official Leadership (EN)",
+      "url": "https://galaxea-ai.com/en/leadership.html",
+      "supports": "英文官网核心团队页：Jiyang Gao 为 Founder & CEO，Hang Zhao 为 Co-founder & Chief Scientist，Tianwei Li 为 Co-founder & COO",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "China Robotics Insider｜Gao Jiyang, Founder & CEO, Galaxea AI",
+      "url": "https://www.robotichina.com/person-gao-jiyang.html",
+      "supports": "人物条目记高继扬（Gao Jiyang）为 Galaxea AI 创始人兼CEO，曾任 Waymo 高级工程师与 Momenta 高管，毕业于清华大学",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "星海图官网：关于我们（公司历程）",
+      "url": "https://www.galaxea-ai.com/zh/company.html",
+      "supports": "公司历程披露2023-09成立并完成首轮融资、2024-01天使轮、2024-11 Pre-A、2025-04 A2/A3、2025-07 A4/A5、2026-02 B、2026-04 B+及2026年B/C轮融资节奏与金额。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "title": "北京日报：星海图完成10亿元融资，具身智能再添百亿独角兽",
+      "url": "https://news.bjd.com.cn/2026/02/11/11578993.shtml",
+      "supports": "报道2026-02-11 B轮10亿元及投资方；并称公司已完成股改、尚未上市。",
+      "published_date": "2026-02-11",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -144,5 +327,66 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "高继扬",
+      "role": "创始人、CEO",
+      "previous_firms": [],
+      "background": "官网核心团队页列为创始人兼CEO；人物条目另记其曾任 Waymo 高级工程师与 Momenta 高管，毕业于清华大学。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/jiyanggao",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08",
+            "s09"
+          ],
+          "notes": "搜索结果标题为「Jiyang Gao - CEO at Galaxea」，与官网姓名、公司、职务一致；LinkedIn 页面本身抓取受限，未逐字打开核对。"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s10",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "现职取自公司官网核心团队页（2026-11-11核查）；教育背景来自公开检索摘要，未作为档案既有事实改写。"
+    },
+    {
+      "name": "赵行",
+      "role": "联合创始人、首席科学家",
+      "previous_firms": [],
+      "background": "官网核心团队页列为联合创始人兼首席科学家。",
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网核心团队页（2026-11-11核查）。"
+    },
+    {
+      "name": "李天威",
+      "role": "联合创始人、COO",
+      "previous_firms": [],
+      "background": "官网核心团队页列为联合创始人兼COO。",
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网核心团队页（2026-11-11核查）。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "公司官网称星海图2023年9月注册成立。"
+  }
 }

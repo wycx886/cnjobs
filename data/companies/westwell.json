@@ -99,7 +99,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -151,12 +151,30 @@
       "scope": "organization",
       "title": "西井科技重启IPO辅导 辅导机构变更为国泰海通证券 复星集团、平安资本等投了",
       "url": "https://www.cls.cn/detail/2002105",
-      "supports": "西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导。",
+      "supports": "西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导；财联社：西井科技2025-04-11更新上市辅导备案、重启A股IPO（辅导机构改为国泰海通）；天眼查显示其经历14轮融资，2023年完成D+轮与E轮，E轮融资额6亿元，引入平安资本、中移资本等战略资本。",
       "published_date": "2025-04-12",
-      "checked_at": "2026-11-03"
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "百度百科·谭黎敏",
+      "url": "https://baike.baidu.com/item/%E8%B0%AD%E9%BB%8E%E6%95%8F/62440815",
+      "supports": "谭黎敏为上海西井科技股份有限公司创始人兼首席执行官，2015年创立西井（原上海西井信息科技），以港口场景切入AI驱动的智慧物流解决方案。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "人民网上海：西井科技CEO谭黎敏：取人有道，以“智”服人",
+      "url": "https://sh.people.com.cn/n2/2022/0926/c134768-40139529.html",
+      "supports": "以“西井科技CEO谭黎敏”具名报道其创业经历、团队管理与公司全栈自研能力。",
+      "published_date": "2022-09-26",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "IPO辅导尚在进行，未上市；历轮投资方未逐轮展开。",
+  "notes": "IPO辅导尚在进行，未上市；历轮投资方未逐轮展开。融资轮次与14轮口径来自财联社引天眼查，未取得公司公告。",
   "category_id": "06",
   "focus": "港口与物流自动驾驶、AI调度",
   "products": "Q-Truck无人驾驶重卡、港口/陆港/工厂自动驾驶方案、AI调度系统",
@@ -169,12 +187,57 @@
     ]
   },
   "investment": {
-    "summary": "2023年完成E轮6亿元融资，平安资本、中移资本等参与，累计14轮；2025年4月重启A股IPO辅导。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2023年完成D+轮与E轮，其中E轮6亿元，引入平安资本、中移资本等战略资本；累计14轮。2025年4月重启A股IPO辅导（辅导机构改为国泰海通），尚未上市。历轮投资方未逐轮展开。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "E",
+        "announced_on": "2023",
+        "amount_text": "6亿元",
+        "investors": [
+          {
+            "name": "平安资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "中移资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "财联社引天眼查：2023年完成D+轮与E轮，E轮6亿元；报道未披露领投方与股权比例。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "西井科技",
     "original_track": "06",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "谭黎敏",
+      "role": "创始人、董事长兼CEO",
+      "background": "毕业于同济大学，早期从事广告传媒与创意工作；2015年创立西井科技，从港口智能理货系统切入，后拓展无人驾驶重卡与智慧物流，产品落地海港、陆港与制造工厂等场景。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与人民网报道一致；其董事长职务见工商与IPO报道，未找到可核实的本人公开职业主页。"
+    }
+  ]
 }

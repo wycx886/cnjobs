@@ -1,0 +1,129 @@
+{
+  "schema_version": 3,
+  "id": "smic-juyuan",
+  "name": "中芯聚源",
+  "aliases": [
+    "中芯聚源私募基金管理（上海）有限公司",
+    "中芯聚源股权投资管理（上海）有限公司",
+    "China Fortune-Tech Capital"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度的 PE 主榜均在前 20 名，机构库与榜单案例集中在集成电路产业链，属于观察半导体与 AI 算力上游的主要产业型出资人。"
+  },
+  "founded": {
+    "year": 2014,
+    "basis": "清科投资界机构库工商信息：中芯聚源私募基金管理（上海）有限公司成立于2014年2月27日；同页机构简介称其由国内集成电路产业龙头企业和一支资深投资团队发起设立。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第17名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第12名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第7名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第12名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 20 名，按综合榜口径列入 Tier 1；其为半导体产业背景的专业基金，名次与综合型 PE 不完全同质。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "集成电路产业链投资：机构简介称覆盖材料、设计、装备、IP 和服务等环节，并为被投企业提供增值服务。公开案例集中在芯片制造、算力芯片与半导体设备材料。",
+  "stage": "清科、投中均将其列入私募股权（PE）榜；以成长期及产业协同型项目为主，2026 年亦出现在天使轮（清析智研）。",
+  "representative_cases": [
+    {
+      "company": "沐曦股份",
+      "attribution": "current_firm",
+      "investor_or_team": "中芯聚源",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "壁仞科技",
+      "attribution": "current_firm",
+      "investor_or_team": "中芯聚源",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "盛合晶微",
+      "attribution": "current_firm",
+      "investor_or_team": "中芯聚源",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未披露持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库按公开披露整理的出手记录显示：2026-11-09 参与清析智研近亿元天使轮（同轮有高瓴创投、智元机器人、风物资本、东方嘉富等）；2026-10-29 参与匠岭科技数亿元 C 轮；同页统计近3个月出手19次。",
+  "why_follow": "编辑分析：其出手同时覆盖算力芯片（壁仞、沐曦）、先进封装（盛合晶微）、半导体设备与量测（匠岭），可作为观察国产半导体产业链资金流向的产业型样本。",
+  "difference": "编辑分析：与财务型 PE 相比，其产业股东背景更强、项目偏集成电路链条内部协同；与综合性国资平台相比，行业集中度更高，跨行业可比性有限。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：榜单主体为“中芯聚源私募基金管理（上海）有限公司”，机构简介自称“中芯聚源股权投资管理（上海）有限公司”，两个名称在清科机构库同页并存，本档案按前者记录、后者列入别名，未取得工商变更材料判断是否为同一次更名。简介只称“由国内集成电路产业龙头企业和一支资深投资团队发起”，未点名具体股东；与中芯国际的股权或发起关系本次未在可打开的官方页面核实，故不写成已确认事实。官网域名在本环境未能打开确认，contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 中芯聚源（中芯聚源私募基金管理（上海）有限公司）",
+      "url": "https://vc.pedaily.cn/vc/128490.html",
+      "supports": "2014-02-27 成立的工商主体、集成电路产业链投资定位、近期出手记录（2026-11-09 清析智研天使轮等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国私募股权投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "中芯聚源：清科2025年中国私募股权投资机构50强第17名（机构全称：中芯聚源私募基金管理（上海）有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国私募股权投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "中芯聚源：清科创业2024年中国私募股权投资机构100强第12名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "中芯聚源：投中2025年度 PE TOP100 第7名；机构层级代表案例含沐曦股份、壁仞科技、盛合晶微",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "中芯聚源：投中2024年度 PE TOP100 第12名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已运作十余年的半导体产业型投资机构，按成熟机构建档；股东结构与官网归属仍待补证。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

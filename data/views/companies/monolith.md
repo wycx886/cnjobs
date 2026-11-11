@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/monolith.json)
 
-机构 ID：`monolith` · 核查日期：2026-10-30
+机构 ID：`monolith` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -84,3 +84,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s04 | [砺思官方联系页](https://monolithmgt.com/contact?lan=zh) | Research Fellow及招聘邮箱 | 未标明 | 2026-10-30 |
 | s05 | [剂泰融资与Monolith参与记录](https://www.pharnexcloud.com/trz/institution_9fb76a0d36468237d74f899a2d30343a) | 2022年Monolith跟投剂泰融资；数据库转载公司融资事件 | 2022-04-06 | 2026-10-30 |
 | s06 | [世纪华通出资砺思基金报道](https://finance.sina.cn/tech/2026-07-17/detail-iniiaxpe1399538.d.html?vt=4) | 2026年新基金活动 | 2026-07-17 | 2026-10-30 |
+| s07 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 砺思资本：投中2025年度中国最佳创业投资机构TOP100第17名 | 2026-04-24 | 2026-11-11 |
+| s08 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 砺思资本：投中2024年度中国最佳创业投资机构TOP100第81名 | 2025-04-18 | 2026-11-11 |
+| s09 | [清科2025年中国人工智能领域投资机构20强](https://news.pedaily.cn/202512/559298.shtml) | 砺思资本：清科2025年中国人工智能领域投资机构20强（音序排列，页面不标名次，只能判断在榜） | 未标明 | 2026-11-11 |
+| s10 | [投中2025年度中国人工智能与大数据产业最佳投资机构TOP30](https://www.chinaventure.com.cn/rank/210/3244.html) | 砺思资本：投中2025年度中国人工智能与大数据产业最佳投资机构TOP30（按音序排名，页面不标名次，只能判断在榜） | 2026-04-24 | 2026-11-11 |

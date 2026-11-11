@@ -22,8 +22,144 @@
     ]
   },
   "investment": {
-    "summary": "2024年12月B轮公开档案列上海国投、腾讯、五源、启明；2026年1月B+轮另有国寿股权、浦东创投、徐汇资本等。原表Pre-IPO美元金额不直接沿用。",
-    "verification_status": "partial"
+    "summary": "2024-12 B轮数亿美元，上海国投及旗下基金为核心投资方，腾讯投资、五源资本、启明创投等参与；2026-01 B+轮超50亿元，上国投先导基金领投，国寿股权、浦东创投、徐汇资本等参与，腾讯、启明、五源跟投。公司筹备赴港IPO，尚未上市。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2024-12-23",
+        "amount_text": "数亿美元",
+        "investors": [
+          {
+            "name": "上海国有资本投资有限公司",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "界面新闻称上海国投及旗下基金为核心投资方，未使用“领投”表述；此处按核心投资方记lead。"
+      },
+      {
+        "round": "B+",
+        "announced_on": "2026-01-26",
+        "amount_text": "超50亿元",
+        "investors": [
+          {
+            "name": "上国投先导基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "国寿股权",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "浦东创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "徐汇资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "无锡梁溪基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "厦门国贸",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "华勤技术",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "澎湃新闻口径；金额“超50亿元”。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.stepfun.com/",
@@ -32,8 +168,8 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "campus@stepfun.com为校招/实习渠道，不应标为通用社招投递邮箱；社招从官网进入。",
-  "checked_at": "2026-10-30",
+  "notes": "campus@stepfun.com为校招/实习渠道，不应标为通用社招投递邮箱；社招从官网进入。 2026-05投资界报道公司已拆红筹、筹备赴港IPO，截至2026-11-11尚未上市；同报道所称25亿美元新融资在报道时点为“即将完成”，未计入rounds。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -84,6 +220,51 @@
       "supports": "公开企业主页主体：阶跃星辰；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "百度百科·姜大昕",
+      "url": "https://baike.baidu.com/item/%E5%A7%9C%E5%A4%A7%E6%98%95/64198380",
+      "supports": "姜大昕为纽约州立大学布法罗分校计算机科学博士，上海阶跃星辰创始人；2007年加入微软亚洲研究院任首席研究员，后升任微软全球副总裁。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "百度百科·朱亦博",
+      "url": "https://baike.baidu.com/item/%E6%9C%B1%E4%BA%A6%E5%8D%9A/67286892",
+      "supports": "朱亦博毕业于美国加州大学圣塔芭芭拉分校（UCSB）并获博士学位，现任阶跃星辰首席技术官、联合创始人；曾任微软亚洲研究院、谷歌研究员，并任字节跳动AI Infra负责人。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "财新：大模型公司阶跃星辰融资超50亿元 印奇任董事长",
+      "url": "https://www.caixin.com/2026-01-26/102407915.html",
+      "supports": "2026年1月公布融资的同时，印奇出任阶跃星辰董事长，与CEO姜大昕、首席科学家张祥雨、CTO朱亦博组成核心管理团队。",
+      "published_date": "2026-01-26",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "界面新闻：阶跃星辰完成数亿美元B轮融资",
+      "url": "https://www.jiemian.com/article/12156161.html",
+      "supports": "2024-12 完成B轮，总金额数亿美元，核心投资方为上海国有资本投资有限公司及旗下基金，腾讯投资、五源资本、启明创投等参与。",
+      "published_date": "2024-12-23",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "澎湃新闻：阶跃星辰完成超50亿元B+轮融资，印奇出任董事长",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32463044",
+      "supports": "2026-01-26 完成超50亿元B+轮：上国投先导基金领投，国寿股权、浦东创投、徐汇资本、无锡梁溪基金、厦门国贸、华勤技术参与，腾讯、启明、五源跟投。",
+      "published_date": "2026-01-26",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -140,5 +321,60 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "姜大昕",
+      "role": "创始人兼CEO",
+      "background": "纽约州立大学布法罗分校计算机科学博士，自然语言处理与数据挖掘专家，发表国际会议与期刊论文近200篇；2007年加入微软亚洲研究院任首席研究员，后任微软全球副总裁，负责Bing等搜索与分发技术；2023年4月创立阶跃星辰，主推多模态统一建模。",
+      "previous_firms": [
+        "微软"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与财新报道一致；其现兼任公司董事长为印奇（2026年1月起），本条只记其CEO职务。"
+    },
+    {
+      "name": "朱亦博",
+      "role": "联合创始人兼CTO",
+      "background": "美国加州大学圣塔芭芭拉分校（UCSB）博士；曾任微软亚洲研究院、谷歌研究员，后任字节跳动AI Infra负责人；现任阶跃星辰联合创始人兼CTO，负责系统与AI Infra方向。",
+      "previous_firms": [
+        "微软亚洲研究院",
+        "谷歌",
+        "字节跳动"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与财新报道一致。"
+    },
+    {
+      "name": "张祥雨",
+      "role": "首席科学家",
+      "background": "深度学习研究者，ResNet（残差网络）作者之一，曾任旷视科技研究院基础模型相关方向负责人；现任阶跃星辰首席科学家。",
+      "previous_firms": [
+        "旷视科技"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "财新报道明确其首席科学家职务；旷视任职与ResNet署名属公开报道常见表述，本条未逐项复核原始论文署名，故标记 partial。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "澎湃新闻称阶跃星辰于2023年4月成立。"
+  }
 }

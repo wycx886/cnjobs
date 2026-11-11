@@ -21,8 +21,273 @@
     ]
   },
   "investment": {
-    "summary": "清华NLP科研成果转化；公开融资档案列2026年中国电信投资、中信金石/中信投资控股，以及后续深创投、汇川产投等。",
-    "verification_status": "partial"
+    "summary": "36氪项目库列 2024-12 A+ 至 2026-04 D+ 五轮均为「数亿人民币」，投资方含龙芯创投、京国瑞、中国电信投资、中信金石、深创投、汇川产投等；更早的种子／天使轮与 2026-07 新一轮未逐项核到，不补造。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2024-12",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "龙芯创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "鼎晖百孚",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中关村科学城",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "赛富投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "清科创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "海尔赛富",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2025-05",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "洪泰基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "国中资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "清控金信资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "茅台基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "深圳常盈投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-12",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "京国瑞投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "国科投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中金资本私募",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "米聚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "和基投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2026-02",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "中国电信投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中信金石",
+            "firm_id": "citic-jinshi",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中信投资控股",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "36氪项目库融资历史；公司投资方名称按原文记录。"
+      },
+      {
+        "round": "D+",
+        "announced_on": "2026-04",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "汇川产投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "道禾长期投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "国泰君安创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "武岳峰科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "清紫泽源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "媒体与项目库均记该轮由深创投、汇川产投联合领投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.modelbest.cn/en/",
@@ -32,7 +297,7 @@
     "other_email_purpose": null
   },
   "notes": "招聘邮箱来自高校公开招聘资料；飞书入口由公开招聘索引确认，具体开放岗位需看实时页面。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -56,7 +321,7 @@
       "url": "https://pitchhub.36kr.com/project/2214864842159235",
       "supports": "2026部分融资方",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s04",
@@ -66,6 +331,69 @@
       "supports": "公开企业主页主体：面壁智能；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "百度百科·曾国洋",
+      "url": "https://baike.baidu.com/item/%E6%9B%BE%E5%9B%BD%E6%B4%8B/65037092",
+      "supports": "曾国洋1998年生于四川成都，毕业于清华大学，现任面壁智能联合创始人兼首席技术官（CTO）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "百度百科·刘知远",
+      "url": "https://baike.baidu.com/item/%E5%88%98%E7%9F%A5%E8%BF%9C/65671043",
+      "supports": "刘知远为面壁智能联合创始人、首席科学家，清华大学计算机系副教授、博士生导师。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "清华大学：面壁智能首席科学家刘知远：大模型的“摩尔定律”是模型知识密度持续增强",
+      "url": "https://www.tsinghua.edu.cn/info/1182/112713.htm",
+      "supports": "清华官网称刘知远为清华大学长聘副教授、面壁智能联合创始人兼首席科学家。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "搜狐：创始团队来自清华，面壁智能完成数亿元新一轮融资",
+      "url": "https://www.sohu.com/a/943788678_439726",
+      "supports": "称面壁智能成立于2022年，创始团队来自清华大学自然语言处理实验室；原知乎CTO李大海于2023年出任面壁智能CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "知乎专栏：26岁带着百人团队冲刺大模型，面壁智能天才CTO",
+      "url": "https://zhuanlan.zhihu.com/p/696698347",
+      "supports": "文中称面壁智能CEO为李大海，并引述其“以小搏大”的端侧模型策略。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "InfoQ《大模型领航者》访谈：面壁智能CTO曾国洋",
+      "url": "https://www.infoq.cn/article/Qc2Wfg8X8No3R7QpQlR7",
+      "supports": "以“面壁智能CTO曾国洋”具名访谈，谈大模型训练与工程效率。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "刘知远清华大学个人主页",
+      "url": "https://nlp.csai.tsinghua.edu.cn/~lzy/",
+      "supports": "其清华个人主页（Zhiyuan Liu），列出研究方向（大语言模型、自然语言处理、知识图谱、社会计算）、论文与招生信息。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -104,5 +432,69 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "李大海",
+      "role": "联合创始人兼CEO",
+      "background": "曾任知乎CTO/合伙人；2023年出任面壁智能CEO，负责公司整体运营与战略，主导“以小搏大”的端侧模型路线（MiniCPM 系列）。",
+      "previous_firms": [
+        "知乎"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公开报道一致记载其2023年出任CEO；公司官网未设人物页，故仅以媒体来源为据。"
+    },
+    {
+      "name": "刘知远",
+      "role": "联合创始人兼首席科学家",
+      "background": "清华大学计算机科学与技术系长聘副教授、博士生导师，清华大学NLP实验室核心成员，研究知识图谱、社会计算与大语言模型；2022年联合创立面壁智能，任首席科学家。",
+      "previous_firms": [],
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://nlp.csai.tsinghua.edu.cn/~lzy/",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s06",
+            "s07",
+            "s11"
+          ],
+          "notes": "其清华大学个人主页（Zhiyuan Liu），列出研究方向和论文；清华官网报道亦确认其面壁联合创始人兼首席科学家身份。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s07",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "清华官网与百科条目一致；个人主页用于登记公开学术主页。"
+    },
+    {
+      "name": "曾国洋",
+      "role": "联合创始人兼CTO",
+      "background": "1998年生于四川成都，毕业于清华大学计算机系；2022年联合创立面壁智能，任CTO，负责模型与工程技术，主导 MiniCPM 等小尺寸高效模型的研发。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与InfoQ具名访谈一致记载其CTO身份。"
+    }
+  ],
+  "founded": {
+    "year": 2022,
+    "basis": "36氪项目库工商信息：北京面壁智能科技有限责任公司 2022-08-12 成立。"
+  }
 }

@@ -17,6 +17,17 @@
     "year": 2008,
     "basis": "2008年刘芹与石建明创立晨兴资本；2020年更名五源。此处采用团队/基金延续口径。"
   },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第9名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第16名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第10名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第6名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个发布方、两个年度均在前 20 名，按双年度双发布方口径列入 Tier 1。",
+    "source_ids": [
+      "s07",
+      "s08",
+      "s09",
+      "s10"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "科技驱动的产品与平台；AI、智能硬件、消费及互联网等。",
   "stage": "以早期长期陪伴为代表，也持续跟投。",
   "representative_cases": [
@@ -108,9 +119,41 @@
       "supports": "公开企业主页主体：五源资本(原晨兴资本)；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "五源资本：清科2025年中国创业投资机构50强第9名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "五源资本：清科创业2024年中国创业投资机构100强第16名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "五源资本：投中2025年度中国最佳创业投资机构TOP100第10名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "五源资本：投中2024年度中国最佳创业投资机构TOP100第6名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

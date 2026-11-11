@@ -19,8 +19,37 @@
     ]
   },
   "investment": {
-    "summary": "2026-10 多家媒体报道 DeepSeek 拟领投种子轮（数千万美元、投后估值约4亿美元），美团龙珠等跟投；报道称交易尚未最终敲定，金额与投资方仍可能变化。",
-    "verification_status": "partial"
+    "summary": "2026年10月多家媒体报道DeepSeek拟领投种子轮（数千万美元、投后估值约4亿美元），美团龙珠参投；报道称交易尚未最终敲定，金额与投资方仍可能变化，故轮次核验标为部分。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2026-10",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "DeepSeek",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "报道称DeepSeek“已同意领投”、交易尚未最终敲定；投后估值约4亿美元，金额为媒体口径。"
+      }
+    ]
   },
   "contacts": {
     "website": null,
@@ -30,7 +59,7 @@
     "other_email_purpose": "隐身运营，未见公开官网／招聘页"
   },
   "notes": "创始人胡瀚（前腾讯混元视觉语言／具身基础模型负责人）。2026-11-09 核验：无独立公开官网与招聘入口；勿把“DeepSeek 概念”泛化为已交割。",
-  "checked_at": "2026-11-09",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -55,6 +84,33 @@
       "supports": "胡瀚履历与隐身模式、DeepSeek拟领投报道",
       "published_date": "2026-10-13",
       "checked_at": "2026-11-09"
+    },
+    {
+      "id": "s04",
+      "title": "腾讯新闻/IT桔子：Winverse AI获得数千万美元种子轮融资，DeepSeek领投，美团龙珠参投",
+      "url": "https://news.qq.com/rain/a/20261014A06HF300",
+      "supports": "Winverse AI由前腾讯AI科学家胡瀚创立，方向为机器人AI底层infra与模型加速。",
+      "published_date": "2026-10-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s05",
+      "title": "Han Hu 个人主页（Swin Transformer 作者页）",
+      "url": "https://ancientmooner.github.io/",
+      "supports": "页面署名Han Hu，列出Swin Transformer等论文，与报道中胡瀚的研究背景一致；页面标题仍为Microsoft Research Asia，未显示Winverse。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "腾讯新闻/IT桔子：Winverse AI获得数千万美元种子轮融资，DeepSeek领投，美团龙珠参投",
+      "url": "https://news.qq.com/rain/a/20261014A06HF300",
+      "supports": "IT桔子稿件：DeepSeek已同意领投Winverse AI种子轮，金额数千万美元，美团龙珠参投，投后估值约4亿美元；并载创始人胡瀚为前腾讯AI科学家。",
+      "published_date": "2026-10-14",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -74,5 +130,36 @@
     ],
     "labelled_at": "2026-11-09"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "胡瀚（Han Hu）",
+      "role": "创始人",
+      "background": "Winverse AI创始人；曾任腾讯混元多模态大模型负责人、微软亚洲研究院首席研究员，Swin Transformer作者之一。",
+      "previous_firms": [
+        "腾讯",
+        "微软亚洲研究院"
+      ],
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://ancientmooner.github.io/",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s04"
+          ],
+          "notes": "个人学术主页，署名Han Hu并列出Swin Transformer论文；页面仍标注Microsoft Research Asia，未更新Winverse职务。"
+        }
+      ],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "创立公司与前腾讯职务据IT桔子报道；学术身份由个人主页与Swin论文交叉。页面未更新现职，故个人主页标记partial。"
+    }
+  ]
 }

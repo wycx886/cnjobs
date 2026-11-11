@@ -18,8 +18,83 @@
     ]
   },
   "investment": {
-    "summary": "官方产品介绍资料披露2020年B+和C轮；原表嘉御/祥峰/BV完整名单未在本次官方材料中完整核实。",
-    "verification_status": "partial"
+    "summary": "公司资料披露：2020年连续完成B+轮（硅港资本）与C轮（嘉御基金领投，祥峰投资、元禾原点跟投），两轮合计超2亿元人民币；2021年完成D轮，腾讯领投。各轮具体金额与估值未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B+",
+        "announced_on": "2020",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "硅港资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "公司资料称2020年连续完成B+与C轮，两轮合计超2亿元人民币，未分轮披露金额。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2020",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "嘉御基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "祥峰投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "元禾原点",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "公司资料：嘉御基金领投，祥峰投资、元禾原点跟投；金额与B+轮合计超2亿元。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2021",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "公司资料仅记“2021年已完成D轮融资，由腾讯领投”，未披露金额与日期月份。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.xiaoduoai.com/",
@@ -29,7 +104,7 @@
     "other_email_purpose": null
   },
   "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -51,9 +126,9 @@
       "id": "s03",
       "title": "晓多官方产品方案",
       "url": "https://cdnpic.xiaoduoai.com/uploads/20240919/58b97269ce1283af6c57087155af42ff.pdf",
-      "supports": "历史轮次",
+      "supports": "历史轮次；晓多官方产品方案（公司介绍页）：晓多科技成立于2014年；2020年连续完成B+轮（硅港资本）与C轮（嘉御基金领投，祥峰投资、元禾原点跟投），两轮融资金额合计超2亿元人民币；2021年完成D轮，腾讯领投。",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s04",
@@ -72,6 +147,24 @@
       "supports": "公开企业主页主体：成都晓多科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "AI成都 | “晓模型XPT”迭代智能客服能力体系，「晓多科技」研发+业务突破正当时-36氪",
+      "url": "https://www.36kr.com/p/2789769142715269",
+      "supports": "报道引述「晓多科技」创始人兼CEO江岭，介绍其行业大模型“晓模型XPT”通过国家生成式人工智能服务备案。",
+      "published_date": "2024-05-27",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "Ai客服成市场刚需 晓多科技要做“人类专家级别”智能客服？-36氪",
+      "url": "https://www.36kr.com/p/1723651604481",
+      "supports": "报道配图说明与正文多次称江岭为晓多科技创始人兼CEO，并引述其谈深度学习客服引擎与产品线。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -128,5 +221,25 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "江岭",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪2024年报道确认创始人兼CEO身份；未取得可核实的教育与履历材料，background 留空。"
+    }
+  ],
+  "founded": {
+    "year": 2014,
+    "basis": "晓多官方产品方案公司介绍：晓多科技成立于2014年。"
+  }
 }

@@ -101,7 +101,7 @@
     "other_email": "market@elibot.cn",
     "other_email_purpose": "市场合作"
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -136,7 +136,7 @@
       "title": "艾利特机器人完成6亿元D+轮融资",
       "url": "https://www.elibot.com/about/news/170",
       "published_date": "2026-03-25",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "supports": "2026-03-25宣布完成6亿元D+轮，投资方含LHCP、达晨财智、元禾控股、园丰资本等；苏州全球总部+郑州中原总部。"
     },
     {
@@ -165,6 +165,33 @@
       "supports": "官方加入我们页两处公开招聘邮箱 hr@elibot.cn；不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "百度百科·曹宇男",
+      "url": "https://baike.baidu.com/item/%E6%9B%B9%E5%AE%87%E7%94%B7/49741131",
+      "supports": "曹宇男为博士，曾任北京交通大学机械与电子控制工程学院副教授，现任艾利特机器人董事长兼CEO；北京航空航天大学宇航学院学士、北航机器人研究所博士，清华大学精密仪器与机械学系博士后。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "中证网：艾利特董事长曹宇男：深耕产业场景 让机器人在真实需求中进化",
+      "url": "https://www.cs.com.cn/ssgs/01/2026/07/13/detail_2026071310023931.html",
+      "supports": "以“艾利特董事长曹宇男”具名报道，并称公司2016年在北京成立、2018年将总部迁至苏州。",
+      "published_date": "2026-07-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "艾利特官网·关于艾利特",
+      "url": "https://www.elibot.com/about/profile",
+      "supports": "官方介绍：创始团队源自北航、清华，师从国家机器人首席科学家王田苗教授，2016年创立；官网荣誉列表中载有曹宇男获行业“产业领袖经营创新奖”“杰出创业者奖”等记录。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官方域名为 elibot.com，原记录 elite-robots.com 当日 DNS 无法解析，已更正官网；招聘邮箱见官方加入我们页。",
@@ -180,12 +207,84 @@
     ]
   },
   "investment": {
-    "summary": "2026年3月完成6亿元D+轮，投资方含LHCP、达晨财智、元禾控股、园丰资本等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2026-03-25公司宣布完成6亿元D+轮，投资方包括多家AIDC产业链CVC基金、Lavender Hill Capital Partners（LHCP）、达晨财智、元禾控股、园丰资本、郑州具身智能产业基金。更早轮次未在本次核实的官方来源中列明。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "D+",
+        "announced_on": "2026-03-25",
+        "amount_text": "6亿元人民币",
+        "investors": [
+          {
+            "name": "Lavender Hill Capital Partners（LHCP）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "元禾控股",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "园丰资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "郑州具身智能产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s04"
+        ],
+        "notes": "公司官网新闻稿称另有多家AIDC产业链CVC基金参与，未具名。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "苏州艾利特机器人",
     "original_track": "08",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "曹宇男",
+      "role": "董事长兼CEO",
+      "background": "北京航空航天大学宇航学院学士、北航机器人研究所博士（师从王田苗教授），清华大学精密仪器与机械学系博士后；曾任北京交通大学机械与电子控制工程学院副教授。2016年创立艾利特机器人，2018年将总部落户苏州工业园区，现任董事长兼CEO，推动“一脑多形”具身智能产品矩阵。",
+      "previous_firms": [
+        "北京交通大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目、中证网2026年专访与公司官网荣誉记录相互印证其董事长身份；未找到可核实的本人公开职业主页。"
+    }
+  ]
 }

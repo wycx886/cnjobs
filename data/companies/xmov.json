@@ -18,8 +18,150 @@
     ]
   },
   "investment": {
-    "summary": "36氪档案确认A轮红杉中国、五源、头头是道；2022年C轮报道为软银愿景基金、北极光、指数资本，勿误记为红点。",
-    "verification_status": "partial"
+    "summary": "行业白皮书融资历程：2018年10月数千万人民币天使轮（东方富海、五源资本、沈向洋），2019年6月数亿人民币A轮（五源资本、头头是道、红杉中国），2020年8月2000万美元B轮（清新资本领投），2022年4月1.1亿美元C轮（软银愿景基金领投，北极光创投、指数资本）。金额与投资方以该白皮书为准。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2018-10-19",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "东方富海",
+            "firm_id": "oriental-fortune",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "沈向洋",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "白皮书融资历程表列示；沈向洋为个人投资人。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2019-06-25",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "头头是道基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "白皮书融资历程表列示，未标注领投方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2020-08-14",
+        "amount_text": "2000万美元",
+        "investors": [
+          {
+            "name": "清新资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "白皮书表列示清新资本领投；原表同格另出现“锦沙资本领投”字样，归属不清，未列入投资方。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2022-04-06",
+        "amount_text": "1.1亿美元",
+        "investors": [
+          {
+            "name": "软银愿景基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "北极光创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "指数资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "白皮书表列示软银愿景基金领投，北极光创投、指数资本参投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.xmov.ai/",
@@ -29,7 +171,7 @@
     "other_email_purpose": "商务合作"
   },
   "notes": "未查到通用招聘投递邮箱。；第三方招聘平台页，主体为魔珐（上海）信息科技；非公司自建官招站。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -51,9 +193,9 @@
       "id": "s03",
       "title": "2022年元宇宙研究融资表",
       "url": "https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAgyZ3llQYo48mJ0wY.pdf",
-      "supports": "C轮背景",
+      "supports": "C轮背景；《2022中国元宇宙产业投资白皮书》魔珐科技案例页融资历程：天使轮2018-10-19数千万人民币（东方富海、五源资本、沈向洋）；A轮2019-06-25数亿人民币（五源资本、头头是道基金、红杉中国）；B轮2020-08-14 2000万美元（清新资本领投，红杉中国、五源资本）；C轮2022-04-06 1.1亿美元（软银愿景基金领投，北极光创投、指数资本）。",
       "published_date": "2022-05",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s04",
@@ -71,6 +213,24 @@
       "supports": "公开企业主页主体：魔珐科技Xmov；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "魔珐科技官网 About：魔珐创始人&CEO 柴金祥教授",
+      "url": "https://www.xmov.ai/about",
+      "supports": "官网介绍柴金祥为魔珐创始人兼CEO，美国卡内基梅隆大学人工智能与机器人学博士，曾任美国TAMU计算机科学与工程系终身教授。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "36氪：魔珐科技创始人兼CEO柴金祥：3D虚拟人原生产品，正在押注时代的“最大红利”",
+      "url": "https://www.36kr.com/p/2546471289988870",
+      "supports": "36氪WISE2023大会演讲记录，称柴金祥为魔珐科技创始人兼CEO（教授）。",
+      "published_date": "2023-12-04",
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -108,6 +268,24 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "柴金祥",
+      "role": "创始人兼CEO",
+      "background": "魔珐科技创始人兼CEO；卡内基梅隆大学人工智能与机器人学博士，曾任美国德州农工大学计算机科学与工程系终身教授。",
+      "previous_firms": [
+        "德州农工大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色与履历据公司官网“关于我们”页及36氪2023年演讲记录。"
     }
   ]
 }

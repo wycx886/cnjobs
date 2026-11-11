@@ -19,8 +19,69 @@
     ]
   },
   "investment": {
-    "summary": "2025-01公司披露E系列两轮合计近8亿元，参与方包括国鑫投资、浦东创投、张江科投、张科垚坤基金、Prosperity7、钧山资本。",
-    "verification_status": "partial"
+    "summary": "2025-01-07公司披露完成E系列融资共两轮、金额合计近8亿元，由国鑫投资、浦东创投、张江科投、张科垚坤基金、Prosperity7、钧山资本等共同参与。公司未上市。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "E",
+        "announced_on": "2025-01-07",
+        "amount_text": "近8亿元",
+        "investors": [
+          {
+            "name": "国鑫投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "浦东创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "张江科投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "张科垚坤基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Prosperity7",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "钧山资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "公司披露E系列共进行两轮，金额合计近8亿元，未分轮列示。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.fftai.com/en/",
@@ -30,7 +91,7 @@
     "other_email_purpose": "通用机器人商务"
   },
   "notes": "招聘邮箱在校招材料转载中明确列出；官方招聘页为材料所给摩卡入口。此邮箱也用于求职申请协助。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -46,7 +107,7 @@
       "url": "https://www.yicai.com/news/102430454.html",
       "supports": "投资方",
       "published_date": "2025-01-07",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s03",
@@ -81,6 +142,24 @@
       "supports": "公开企业主页主体：傅利叶智能；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "人民网上海：顾捷——做中国人自己的机器人，让技术真正服务于民",
+      "url": "https://sh.people.com.cn/n2/2026/0518/c134768-41583210.html",
+      "supports": "报道顾捷为傅利叶创始人兼首席执行官，深耕机器人赛道二十余年。",
+      "published_date": "2026-05-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "新浪财经：对话傅利叶创始人顾捷",
+      "url": "https://finance.sina.cn/2026-02-02/detail-inhkmsfz0809467.d.html",
+      "supports": "报道顾捷为傅利叶创始人兼CEO，2015年在上海张江创立公司。",
+      "published_date": "2026-02-02",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -136,6 +215,24 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "顾捷",
+      "role": "创始人、董事长兼CEO",
+      "previous_firms": [
+        "美国国家仪器（NI）"
+      ],
+      "background": "2003年毕业于上海交通大学机械系，曾任职美国国家仪器（NI）；2015年在上海张江创立傅利叶智能，从康复外骨骼机器人延伸至通用人形机器人。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "人民网与新浪财经报道均记为创始人兼CEO；公司英文官网未设团队页。"
     }
   ]
 }

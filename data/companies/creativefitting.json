@@ -8,6 +8,10 @@
     "井英科技"
   ],
   "category_id": "05",
+  "founded": {
+    "year": 2021,
+    "basis": "36氪项目库工商信息：上海井望科技有限公司成立时间2021-09-07。"
+  },
   "focus": "AI 原生娱乐与内容 Agent 系统",
   "products": "Reel.AI；内容生成、评估和市场反馈闭环",
   "locations_text": "上海",
@@ -19,8 +23,94 @@
     ]
   },
   "investment": {
-    "summary": "官网记录2024-07百度Pre-A+轮、2026-06新融资；36氪记录种子轮真格、种子+轮小苗朗程、2023-11 Pre-A九合与众麟。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "36氪项目库记录种子轮2021-11（真格基金，千万级人民币）、种子+轮2022-10（小苗朗程，数百万人民币）、Pre-A轮2023-11（九合创投、众麟资本，数百万美元）；36氪快讯另记2024-07 Pre-A+轮数百万美元、投资方百度集团。官网与投资界提到的2026-06新融资本轮未取得轮次与金额细节，未结构化。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2021-11",
+        "amount_text": "千万级人民币",
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库融资表；对应36氪2021-11-26首发报道。"
+      },
+      {
+        "round": "种子+",
+        "announced_on": "2022-10",
+        "amount_text": "数百万人民币",
+        "investors": [
+          {
+            "name": "小苗朗程",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪快讯称由“紫竹小苗基金”投资，项目库记为小苗朗程。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2023-11",
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "九合创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "众麟资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": null
+      },
+      {
+        "round": "Pre-A+",
+        "announced_on": "2024-07",
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "百度集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪快讯（2024-07-05）：公司宣布完成数百万美元Pre-A+轮，投资方为百度集团。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://creativefitting.cn/",
@@ -30,7 +120,7 @@
     "other_email_purpose": null
   },
   "notes": "官网未列公开招聘入口或投递邮箱；历史报道所述ARR未使用。；未查到通用公开投递邮箱。；页面主体及CreativeFitting/Reel.AI品牌对应；排除了平台通用介绍中的BOSS创始人信息。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -64,6 +154,51 @@
       "supports": "公开企业主页主体：井英科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "井英科技（CreativeFitting）官网·关于我们",
+      "url": "https://creativefitting.cn/aboutus.html",
+      "supports": "公司2021年创立，AI原生娱乐技术公司，AI短剧App Reel.AI；创始团队曾任美股上市公司创始人及高管。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "投资界：井英科技完成数千万美元融资，打造AI短剧的Agent原生公司",
+      "url": "https://news.pedaily.cn/202606/565034.shtml",
+      "supports": "报道原AWS上海AI研究院首席应用科学家王敏捷加入并担任首席科学家。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "36氪首发：井英科技完成千万元种子轮融资",
+      "url": "https://www.36kr.com/p/1500157503748741",
+      "supports": "报道朱江为井英科技创始人兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "AI Maker Summit 讲者页：王敏捷",
+      "url": "https://aimakersummit.com/2026/shanghai/speaker/wangminjie.html",
+      "supports": "王敏捷为井英科技首席科学家，负责AI技术体系和Agent系统方向；上海交大ACM班本科、纽约大学博士，现任香港大学上海智能交叉创新研究院院长。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "搜狐：井英科技朱江——从实习生到敲钟合伙人",
+      "url": "https://www.sohu.com/a/791013839_355029",
+      "supports": "报道朱江毕业于上海交通大学计算机系，毕业后加入触宝科技，12年间从实习生成长为上市公司合伙人。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -101,6 +236,42 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "朱江",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "触宝科技"
+      ],
+      "background": "毕业于上海交通大学计算机系；曾任职触宝科技12年，从实习生成长为上市公司合伙人，负责技术、产品、商业与市场。",
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s07",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪与公司官网均指向其为创始人兼CEO；官网未列个人页。"
+    },
+    {
+      "name": "王敏捷",
+      "role": "首席科学家",
+      "previous_firms": [
+        "亚马逊云科技",
+        "香港大学"
+      ],
+      "background": "原亚马逊云科技（AWS）上海AI研究院首席应用科学家；现任香港大学上海智能交叉创新研究院院长、香港大学客座副教授；上海交大ACM班本科、纽约大学计算机科学博士。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "2026年6月公司融资公告官宣其加入并任首席科学家，讲者页亦列同一职务。"
     }
   ]
 }

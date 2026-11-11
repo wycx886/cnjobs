@@ -21,8 +21,88 @@
     ]
   },
   "investment": {
-    "summary": "公司官网2025年融资公告明确阿里云领投、创新工场等老股东跟投；不沿用原表未逐项证实的五源、红杉等名单。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2024-07 天使+轮近亿元人民币，某知名产业方领投，智谱AI、360、水木清华校友基金跟投，耀途资本超额跟进；2025-06 A轮数亿元人民币，阿里云领投，创新工场等老股东超额跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使+",
+        "announced_on": "2024-07-04",
+        "amount_text": "近亿元人民币",
+        "investors": [
+          {
+            "name": "某知名产业方（未具名）",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "智谱AI",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "360",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "水木清华校友基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "耀途资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "公司未披露领投产业方名称。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2025-06-09",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "公司官方公告；华兴资本担任独家财务顾问。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.siliconflow.cn/",
@@ -32,7 +112,7 @@
     "other_email_purpose": "市场合作邮箱（非招聘）"
   },
   "notes": "未查到可核验的公开投递邮箱或独立招聘官网；about页只是官网公司介绍，需从官网/认证招聘平台查岗位，勿投市场邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -75,6 +155,33 @@
       "supports": "公开企业主页主体：硅基流动；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "硅基流动官网新闻：袁进辉出席2026中关村论坛年会",
+      "url": "https://www.siliconflow.cn/news/pr1mj5zuhb7ocbxjs4pjx71s",
+      "supports": "官网新闻称袁进辉为硅基流动创始人兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "36氪首发：硅基流动获近亿元天使+轮融资",
+      "url": "https://m.36kr.com/p/2844943140309637",
+      "supports": "报道袁进辉为创始人兼CEO，前光年之外联合创始人、一流科技创始人。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "硅基流动：完成近亿元融资，加速生成式AI技术普惠进程",
+      "url": "https://siliconflow.cn/news/wmqrg0qcwzp8z5qiq685l4q1",
+      "supports": "2024-07 完成总金额近亿元人民币天使+轮：某知名产业方领投，智谱AI、360、水木清华校友基金跟投，老股东耀途资本超额跟进。",
+      "published_date": "2024-07-04",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -131,5 +238,29 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "袁进辉",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "一流科技（OneFlow）",
+        "光年之外",
+        "微软亚洲研究院"
+      ],
+      "background": "清华大学计算机系博士，师从张钹院士；曾任微软亚洲研究院主管研究员，创办一流科技（OneFlow），并任光年之外联合创始人；2023年创立硅基流动。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司官网新闻与36氪报道一致；未找到本人公开职业主页。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "公司官方融资新闻称硅基流动成立于2023年8月。"
+  }
 }

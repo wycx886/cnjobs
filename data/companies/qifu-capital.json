@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "id": "qifu-capital",
+  "name": "啟赋资本",
+  "aliases": [
+    "启赋资本",
+    "启赋私募基金管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个发布方、两个年度的早期榜名次均靠前，清科机构库另有持续的出手记录；本轮按早期基金口径列入主要研究样本，不代表已核实基金收益。"
+  },
+  "founded": {
+    "year": 2013,
+    "basis": "清科投资界机构库工商信息：启赋私募基金管理有限公司成立于2013年10月18日；同页机构简介称啟赋资本由傅哲宽于2013年10月创立。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国早期投资机构30强第3名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国早期投资机构30强第6名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳早期创业投资机构TOP50第2名（https://www.chinaventure.com.cn/rank/210/3188.html）；投中2024年度中国最佳早期创业投资机构TOP50第8名（https://www.chinaventure.com.cn/rank/199/3063.html）。按调研稿的早期榜口径（两个发布方 2025 年早期榜前 10、2024 年两榜前 15）列入 Tier 1；早期榜与 VC/PE 综合榜的前 10 不可直接比较，故不引用综合榜名次。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "早期 VC 基金与产业基金；机构简介表述聚焦以数字经济和新材料为核心的先进制造，并在新一代信息技术、先进制造、生命健康等细分领域形成优势。",
+  "stage": "清科2025／2024 与投中2025／2024 均将其列入早期投资机构榜；以天使及早期为主，另管理产业基金。",
+  "representative_cases": [
+    {
+      "company": "高途集团",
+      "attribution": "current_firm",
+      "investor_or_team": "啟赋资本",
+      "outcome": "投中2025年度早期榜在机构名下列为投资案例；榜单未给轮次、金额或退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "泡泡玛特",
+      "attribution": "current_firm",
+      "investor_or_team": "啟赋资本",
+      "outcome": "投中2025年度早期榜在机构名下列为投资案例；本条只确认机构关联，不计算回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "航天宏图",
+      "attribution": "current_firm",
+      "investor_or_team": "啟赋资本",
+      "outcome": "投中2025年度早期榜在机构名下列为投资案例；榜单未披露轮次与持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库按公开披露整理的出手记录显示：2026-11-02 参与达瓦合志影像 A 轮（金额未披露）；2026-10-17 与麟阁创投共同投资瑞汀灵动超6000万元种子轮；2026-09-25 参与白月际联天使+轮；同页统计近3个月出手11次。",
+  "why_follow": "编辑分析：该机构在2026年持续出现在量子计算（相干科技）、商业航天（白月际联）、AI 可穿戴（瑞汀灵动）等前沿方向的早期轮次中，可作为早期项目与技术路线的观察样本。",
+  "difference": "编辑分析：以早期 VC 和产业基金为主，单笔规模明显小于综合 PE；行业偏先进制造、新材料与硬科技。与成长期／并购型机构比较时应按阶段分开，也不宜用综合榜名次横向排序。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：本轮榜单所列主体为启赋私募基金管理有限公司（清科机构库工商信息：统一社会信用代码 9144030008129349XF，2013-10-18 成立，注册地海南省三亚市；投中2025年度早期榜页列其城市为三亚、深圳，2024年度榜页另列北京）。品牌存在“啟赋”“启赋”两种写法，本档案以榜单常用写法“啟赋资本”为正式名，另一写法列入别名。官网域名在本环境未能打开确认，故 contacts.website 留空，不猜域名。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 啟赋资本（启赋私募基金管理有限公司）",
+      "url": "https://vc.pedaily.cn/vc/510181.html",
+      "supports": "2013-10-18 成立的工商主体、机构简介（早期 VC 与产业基金、数字经济与新材料方向）、近期出手记录（2026-11-02 达瓦合志影像 A 轮等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国早期投资机构30强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "啟赋资本：清科2025年中国早期投资机构30强第3名（机构全称：启赋私募基金管理有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国早期投资机构30强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "啟赋资本：清科创业2024年中国早期投资机构30强第6名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/210/3188.html",
+      "supports": "啟赋资本：投中2025年度早期 TOP50 第2名；机构层级代表案例含高途集团、泡泡玛特、航天宏图",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/199/3063.html",
+      "supports": "啟赋资本：投中2024年度早期 TOP50 第8名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作十余年的早期投资平台，按成熟机构建档；本轮只确认主体、阶段与公开案例，不新增人物或渠道搜集。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

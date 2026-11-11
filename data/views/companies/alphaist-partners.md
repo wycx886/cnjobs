@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/alphaist-partners.json)
 
-机构 ID：`alphaist-partners` · 核查日期：2026-10-30
+机构 ID：`alphaist-partners` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -82,3 +82,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s02 | [Investment associate (AI/Robotics sector)｜Alphaist官方](https://alphaist.vc/investment-associate-ai-robotics-sector/) | 2024成立的机构官方口径；AI机器人智能硬件早期策略；招聘岗位及招聘邮箱 | 2025-05-09 | 2026-10-30 |
 | s03 | [不停科技获数千万美元B轮融资｜投中网](https://www.chinaventure.com.cn/news/80-20250403-385766.html) | Alphaist跟投不停科技B轮；五源为该轮领投方 | 2025-04-03 | 2026-10-30 |
 | s04 | [VC新势力：2025年他们告别五源、达晨，自立门户｜IT桔子](https://t.cj.sina.com.cn/articles/view/3276673424/c34e119001901ika0) | 陈哲原平台投资经历；新机构首期募集及投资报道；年份以官方纠正 | 2025-12-18 | 2026-10-30 |
+| s05 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 该榜公开名单中未见Alphaist Partners；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s06 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 该榜公开名单中未见Alphaist Partners；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s07 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 该榜公开名单中未见Alphaist Partners；作为本次未上榜核查依据 | 2026-04-24 | 2026-11-11 |
+| s08 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 该榜公开名单中未见Alphaist Partners；作为本次未上榜核查依据 | 2025-04-18 | 2026-11-11 |

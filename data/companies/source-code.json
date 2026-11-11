@@ -15,6 +15,17 @@
     "year": 2014,
     "basis": "官网说明2014年春成立。"
   },
+  "tier": {
+    "level": "tier2",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第17名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第19名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第18名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第58名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个发布方、两个年度均在榜，但 2024 年投中名次为第58名，交叉稳定性不及 Tier 1，按 Tier 2 记录。",
+    "source_ids": [
+      "s10",
+      "s11",
+      "s12",
+      "s13"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "AI与机器人、智能制造、互联网消费、医疗与生物科技。",
   "stage": "种子、早期及成长期。",
   "representative_cases": [
@@ -131,9 +142,41 @@
       "supports": "公开企业主页主体：源码资本；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s10",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "源码资本：清科2025年中国创业投资机构50强第17名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "源码资本：清科创业2024年中国创业投资机构100强第19名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "源码资本：投中2025年度中国最佳创业投资机构TOP100第18名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "源码资本：投中2024年度中国最佳创业投资机构TOP100第58名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

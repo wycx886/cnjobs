@@ -9,6 +9,10 @@
     "上海无问芯穹智能科技股份有限公司"
   ],
   "category_id": "02",
+  "founded": {
+    "year": 2023,
+    "basis": "证券时报2026年报道称公司2023年5月由清华大学电子工程系团队创立；IT之家同口径。"
+  },
   "focus": "异构算力与AI原生基础设施",
   "products": "M×N软硬协同、训推优化、Agent服务平台",
   "locations_text": "上海、北京",
@@ -22,8 +26,394 @@
     ]
   },
   "investment": {
-    "summary": "启明官网确认被投关系及2026年新轮融资；历轮还包括君联/社保中关村基金、洪泰、小米、联想等。2026年10月C轮另有红杉、腾讯、百度等，属媒体/数据库披露。",
-    "verification_status": "partial"
+    "summary": "2023年9月天使轮后，2024年9月完成近5亿元A轮、2025年11月近5亿元A+轮、2026年5月超7亿元融资（未标轮次）、2026年10月23亿元C轮，累计融资43亿元。A轮由社保基金中关村专项基金、启明创投、洪泰基金联合领投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2023-09",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "百度",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "智谱",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "证券时报回溯「等入场」，未列全部投资方，金额未披露。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2024-09-02",
+        "amount_text": "近5亿元",
+        "investors": [
+          {
+            "name": "社保基金中关村自主创新专项基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "洪泰基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "小米",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "来源列出的跟投方较多，此处只列部分，未列全。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2025-11-27",
+        "amount_text": "近5亿元",
+        "investors": [
+          {
+            "name": "珠海科技集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "孚腾资本（元创未来基金）",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "惠远资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "弘晖基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "老股东洪泰基金、达晨财智、联想创投、君联资本等持续追投，未逐一列入。"
+      },
+      {
+        "round": "未披露轮次",
+        "announced_on": "2026-05-07",
+        "amount_text": "超7亿元",
+        "investors": [
+          {
+            "name": "杭州高新金投集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "惠远资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "国兴资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "秦淮数据",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "广发乾和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "力合清瞳",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "中保投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "AEF NextGen",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "腾瑞资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "卡莱特",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "中信建投资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "宽德智能学习实验室",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "公司官网未标轮次字母，按原文记为未披露轮次。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2026-10-12",
+        "amount_text": "23亿元",
+        "investors": [
+          {
+            "name": "杭州高新金投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "社保中关村基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "珠海科技产业集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "徐汇资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "国开科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "联想",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "百度",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "九坤创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12",
+          "s08"
+        ],
+        "notes": "来源按国资／产业／财务分类罗列，未标领投；公司官网未见对应新闻稿。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.infinigence-ai.com/",
@@ -32,8 +422,8 @@
     "other_email": "pre-sales@infini-ai.com",
     "other_email_purpose": "业务咨询邮箱"
   },
-  "notes": "邮箱用途官网明确；招聘页由about-us联系区进入，人力资源邮箱可直接使用。",
-  "checked_at": "2026-10-30",
+  "notes": "邮箱用途官网明确；招聘页由about-us联系区进入，人力资源邮箱可直接使用。C轮仅见媒体（含政府网站转载），官网未见对应新闻稿；2026年5月一轮未标轮次字母。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -76,6 +466,69 @@
       "supports": "公开企业主页主体：上海无问芯穹智能科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "福布斯中国：超7亿！国内原生AGI Infra单笔最大融资诞生",
+      "url": "https://www.forbeschina.com/investment/71513",
+      "supports": "无问芯穹2023年5月成立、脱胎于清华技术体系；发起人汪玉为清华电子工程系教授，CEO夏立雪、联合创始人兼首席科学家戴国浩、CTO李伯勋均曾师从汪玉。",
+      "published_date": "2026-05-07",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "36氪/投资界：刚刚，上海最新独角兽诞生",
+      "url": "https://www.36kr.com/p/2932283643894401",
+      "supports": "汪玉为无问芯穹发起人、清华大学电子工程系教授；夏立雪为联合创始人兼CEO、汪玉首位博士；戴国浩为联合创始人兼首席科学家。",
+      "published_date": "2024-09-02",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "证券时报：再融23亿元！清华系独角兽刷新国内AI Infra赛道融资纪录",
+      "url": "https://www.stcn.com/article/detail/4212949.html",
+      "supports": "载2023年5月创立；2023年9月天使轮百度、智谱、经纬创投、真格基金等入场；2026年10月完成23亿元C轮、累计43亿元。",
+      "published_date": "2026-10-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "36氪：无问芯穹完成近5亿元A轮融资",
+      "url": "https://www.36kr.com/p/2926572043361155",
+      "supports": "A轮近5亿元，社保基金中关村自主创新专项基金（君联资本管理）、启明创投、洪泰基金联合领投，联想创投、小米、顺为资本、达晨财智等跟投。",
+      "published_date": "2024-09-02",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "澎湃新闻：无问芯穹A+轮融资近5亿元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32053744",
+      "supports": "A+轮近5亿元，珠海科技集团、孚腾资本（元创未来基金）领投，惠远资本、尚颀资本、弘晖基金跟投，多家老股东追投。",
+      "published_date": "2025-11-27",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "无问芯穹：再获超7亿融资",
+      "url": "https://www.infinigence-ai.com/news-updates/186.html",
+      "supports": "官网新闻载再获超7亿元融资，杭州高新金投集团、惠远资本联合领投，国兴资本、秦淮数据等跟投，老股东追加。",
+      "published_date": "2026-05-07",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "凤凰科技：无问芯穹完成23亿元C轮融资",
+      "url": "https://tech.ifeng.com/c/8xAE6lhragC",
+      "supports": "C轮23亿元，并列出国资、产业与财务投资方名单。",
+      "published_date": "2026-10-12",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -131,6 +584,52 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "夏立雪",
+      "role": "联合创始人兼CEO",
+      "background": "清华大学电子工程系背景，师从汪玉；无问芯穹联合创始人兼CEO。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "CEO职务见福布斯中国2026年报道与36氪/投资界2024年报道；师承关系据两篇报道。"
+    },
+    {
+      "name": "汪玉",
+      "role": "发起人（清华大学电子工程系教授）",
+      "background": "清华大学电子工程系教授；2023年发起创立无问芯穹，公司脱胎于清华技术体系。",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "以“发起人”记录，不写作全职经营职务；报道未说明其是否担任董事长。"
+    },
+    {
+      "name": "戴国浩",
+      "role": "联合创始人兼首席科学家",
+      "background": "清华大学电子工程系背景，师从汪玉；无问芯穹联合创始人兼首席科学家。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色据福布斯中国2026年5月报道。"
     }
   ]
 }

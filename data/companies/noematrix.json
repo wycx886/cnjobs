@@ -20,8 +20,96 @@
     ]
   },
   "investment": {
-    "summary": "官网2026-06-18披露新一轮数亿元战略投资，投资方包括上海交大AI未来基金、上海创之智、无锡数据集团、一村资本。原表其他投资方在本轮核验中不自动保留。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网披露 2026-02-10 A 轮数亿元人民币（C 资本领投）与 2026-06-18 新一轮数亿元战略投资（上海交大 AI 未来基金、上海创之智、无锡数据集团、一村资本等）；更早轮次未逐项核到。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2026-02-10",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "C资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "Sea Limited",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "Prosperity7 Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网新闻列表记 A 轮数亿元人民币，由 C 资本领投，Sea Limited、普华资本等跟投，老股东 Prosperity7 Ventures 超额追投。"
+      },
+      {
+        "round": "战略投资",
+        "announced_on": "2026-06-18",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "上海交通大学AI未来基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "上海创之智科技有限公司",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "无锡数据集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "一村资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网原文为「新一轮数亿元融资」，未标 A/B 轮次，按披露性质记「战略投资」；未单列领投方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.noematrix.ai/",
@@ -31,7 +119,7 @@
     "other_email_purpose": "未查到通用邮箱"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +162,40 @@
       "supports": "公开企业主页主体：上海穹彻智能科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "穹彻智能官网新闻：穹彻智能亮相 FII9，获奖 + 演讲解读“技术+资本”新机遇",
+      "url": "https://www.noematrix.ai/news/Noematrix-FII9",
+      "supports": "官网称“穹彻智能CEO卢策吾”在FII9发表演讲。",
+      "published_date": "2025-11-11",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "上海交通大学 MVIG 实验室主页：Cewu Lu 卢策吾",
+      "url": "https://www.mvig.org/",
+      "supports": "卢策吾为上海交通大学人工智能学院教授，斯坦福AI实验室博士后，研究方向为具身智能与计算机视觉；页面链接其Google Scholar主页。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "穹彻智能再获数亿元战略投资，上海交大、创智学院、无锡数据集团等联合注资",
+      "url": "https://www.noematrix.ai/news/Noematrix-A++",
+      "supports": "2026-06-18 新一轮数亿元融资及投资方：上海交通大学AI未来基金、上海创之智（上海创智学院全资子公司）、无锡数据集团、一村资本等",
+      "published_date": "2026-06-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "穹彻智能官网新闻页（含 A 轮融资消息）",
+      "url": "https://www.noematrix.ai/news/Noematrix-FII9",
+      "supports": "页面新闻列表记「穹彻智能完成A轮融资」2026-02-10：数亿元人民币，C资本领投，Sea Limited、普华资本等跟投，老股东Prosperity7 Ventures超额追投",
+      "published_date": "2026-02-10",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -129,6 +251,36 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "卢策吾",
+      "role": "联合创始人兼CEO",
+      "background": "上海交通大学人工智能学院教授，曾在斯坦福大学AI实验室从事博士后研究；穹彻智能联合创始人兼CEO，研究方向为具身智能与计算机视觉。",
+      "previous_firms": [
+        "上海交通大学",
+        "斯坦福大学"
+      ],
+      "profiles": [
+        {
+          "platform": "scholar",
+          "url": "https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07"
+          ],
+          "notes": "MVIG实验室主页明确链接该Google Scholar档案；Google Scholar直连返回403，未读取页面内容，仅据实验室主页与搜索结果标题（Professor of Shanghai Jiao Tong University）记录。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "CEO职务由公司官网新闻支持；学术身份由实验室主页支持。"
     }
   ]
 }

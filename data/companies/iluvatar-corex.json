@@ -13,12 +13,12 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "国产通用GPU新进厂商，训练/推理产品已量产并递交港交所上市资料，算力与商业化岗位对口；列为第一波。",
+    "rationale": "公司已于2026年1月8日在香港联交所主板上市（9903.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s06",
-      "s07"
+      "s10",
+      "s11"
     ],
-    "labelled_at": "2026-11-03"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -101,7 +101,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -165,9 +165,45 @@
       "supports": "天垓、智铠、彤央产品线与天数智算软件栈。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "百度百科·盖鲁江",
+      "url": "https://baike.baidu.com/item/%E7%9B%96%E9%B2%81%E6%B1%9F/65166961",
+      "supports": "盖鲁江1981年9月生，中央财经大学本科学历，现任上海天数智芯半导体股份有限公司董事长兼首席执行官；任全国工商联人工智能委员会主席团成员、上海市第十四届政协委员。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "21财经：对话天数智芯董事长盖鲁江",
+      "url": "https://m.21jingji.com/article/20230708/herald/631e9b0347809772740eb5e5ae204e7f.html",
+      "supports": "2023年世界人工智能大会期间以“天数智芯董事长兼CEO盖鲁江”具名采访，谈国产通用GPU对大模型算力的支持。",
+      "published_date": "2023-07-08",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "上海天数智芯半导体股份有限公司 分配结果公告（港交所）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0107/2026010701803_c.pdf",
+      "supports": "股份代号9903、开始买卖日期2026年1月8日、发售价144.60港元、所得款项总额3,677.4百萬港元。",
+      "published_date": "2026-01-07",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "天数智芯 投资者关系",
+      "url": "https://ir.iluvatar.com",
+      "supports": "投关站载「上海天数智芯半导体股份有限公司（9903.HK）」，设招股文件、业绩报告、公告及通函栏目。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "上市资料集为2025年12月披露，最终发行与上市状态未确认；历史投资方名单未逐轮展开。",
+  "notes": "2026-11-11核实：2026年1月8日于港交所主板挂牌，股份代号9903.HK。此前十轮融资未逐轮展开，rounds 仅记录上市事件。",
   "category_id": "02",
   "focus": "通用GPU与AI算力",
   "products": "天垓训练GPU（Gen1-Gen3）、智铠推理GPU、天数智算软件栈",
@@ -180,12 +216,40 @@
     ]
   },
   "investment": {
-    "summary": "2025年12月在港交所披露上市资料集、推进IPO；此前完成十轮融资，截至2025年上半年累计交付超5.2万片通用GPU，2024年收入5.40亿元。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2026年1月8日在港交所主板上市（股份代号9903.HK），分配结果公告载所得款项总额3,677.4百萬港元。此前完成十轮融资，截至2025年上半年累计交付超5.2万片通用GPU，2024年收入5.40亿元；历史各轮未逐项披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "已上市",
+        "announced_on": "2026-01-08",
+        "amount_text": "3,677.4百萬港元",
+        "investors": [],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "港交所主板，股份代号 9903.HK；金额为分配结果公告所载所得款项总额，未换算。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "天数智芯",
     "original_track": "02",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "盖鲁江",
+      "role": "董事长兼CEO",
+      "background": "1981年生，中央财经大学本科学历；现任上海天数智芯半导体股份有限公司董事长兼首席执行官，并任全国工商联人工智能委员会主席团成员、上海市第十四届政协委员。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与21财经具名采访一致；公司已在港上市（股份代号9903），未找到其本人可核实的公开职业主页。"
+    }
+  ]
 }

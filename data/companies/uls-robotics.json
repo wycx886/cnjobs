@@ -100,7 +100,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -155,9 +155,36 @@
       "supports": "傲鲨智能2025年5月B轮、国仪投资/彬复资本领投及外骨骼业务。",
       "published_date": "2025-05-08",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "title": "关于我们｜傲鲨智能官网",
+      "url": "https://www.ulsrobotics.com/h-col-101.html",
+      "supports": "团队介绍称徐振华（Eric）为创始人兼CEO，毕业于上海交通大学，曾在 FANUC 机器人与 GM 泛亚汽车研发中心任高级研发工程师，曾联合创办璟和技创、傅利叶智能并任 CTO，2018年创立傲鲨智能。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "徐振华 - 上海傲鲨智能科技有限公司 - 创始人CEO, CTO | 领英",
+      "url": "https://cn.linkedin.com/in/%E6%8C%AF%E5%8D%8E-%E5%BE%90-a3203436",
+      "supports": "领英档案显示徐振华为上海傲鲨智能科技有限公司创始人CEO、CTO，教育经历上海交通大学；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "关于我们｜傲鲨智能官网",
+      "url": "https://www.ulsrobotics.com/h-col-101.html",
+      "supports": "官网发展历程：2018-04-08成立；2019-02完成数百万元天使轮（明势资本、险峰长青）；Pre-A轮（九合创投、英诺天使、明势资本）；2024-06敦鸿资产A+轮；2024-07国仪资本A轮。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "B轮金额为“数千万元”口径，未披露具体数值与估值；历史投资方未完整展开。",
+  "notes": "B轮金额在公开报道中未见明确数值，故未沿用“数千万元”口径；历史投资方未完整展开。官网时间线将A+轮列在A轮之前，照录并加注。",
   "category_id": "08",
   "focus": "工业与消费级外骨骼机器人",
   "products": "上肢/腰部/下肢外骨骼、消费级外骨骼、工业助力方案",
@@ -170,12 +197,178 @@
     ]
   },
   "investment": {
-    "summary": "2025年5月完成数千万元B轮融资，国仪投资与彬复资本共同领投；公司此前获明势资本等投资。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网发展历程：2019年2月数百万元天使轮（明势资本、险峰长青），此后Pre-A轮（九合创投、英诺天使、明势资本）、2024年敦鸿资产A+轮与国仪资本A轮；2025年5月完成B轮，国仪投资与彬复资本共同领投。历史投资方未完整展开，金额与估值多未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2019-02",
+        "amount_text": "数百万元",
+        "investors": [
+          {
+            "name": "明势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "险峰长青",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网发展历程列示；未披露各投资方金额与持股。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "九合创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "英诺天使",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "明势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网发展历程列示但未给出具体年月，位置按官网顺序置于天使轮后。"
+      },
+      {
+        "round": "A+",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "敦鸿资产",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网发展历程列示“敦鸿资产A+轮融资”，页面日期模块为绝对定位，A+与A的年份对应关系不能确定，故日期留空。"
+      },
+      {
+        "round": "A",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "国仪资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网发展历程列示“国仪资本A轮融资”；页面同时出现2023年08月与2024年07月两个日期模块，无法确定归属，故日期留空。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2025-05",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "国仪投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "彬复资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "网易号转载稿称2025-05-08完成B轮，国仪投资与彬复资本共同领投；该稿未披露金额，故金额留空。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "傲鲨智能",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "徐振华（Eric）",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "FANUC",
+        "泛亚汽车",
+        "傅利叶智能",
+        "璟和技创"
+      ],
+      "background": "毕业于上海交通大学机械工程及自动化专业；曾在 FANUC 机器人、GM 泛亚汽车研发中心任高级研发工程师；曾联合创办璟和技创、傅利叶智能并任 CTO；2018年创立傲鲨智能，主攻外骨骼机器人。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/%E6%8C%AF%E5%8D%8E-%E5%BE%90-a3203436",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s08"
+          ],
+          "notes": "领英页面未直接抓取；搜索结果快照显示“创始人CEO, CTO”、上海傲鲨智能科技有限公司、上海交通大学。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司官网团队页与领英档案快照相互印证。"
+    }
+  ],
+  "founded": {
+    "year": 2018,
+    "basis": "傲鲨智能官网公司简介：上海傲鲨智能科技有限公司2018年4月8日成立。"
   }
 }

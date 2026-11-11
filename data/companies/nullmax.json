@@ -100,7 +100,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -164,6 +164,40 @@
       "supports": "B轮金额、投资方与MaxDrive/MaxVision产品线。",
       "published_date": "2023-10-12",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "Nullmax创始人兼CEO&CTO徐雷博士入选「2023中国科技出行产业科学企业家TOP10」（纽劢官网）",
+      "url": "https://www.nullmax.cn/20231206_4098.html",
+      "supports": "官网新闻称“Nullmax创始人兼CEO&CTO徐雷博士”，并记其2005年中国科技大学计算机学士、2012年纽约州立大学布法罗分校计算机博士，曾任职高通、特斯拉并任Tesla Vision深度学习负责人。",
+      "published_date": "2023-12-06",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "About - Nullmax（英文官网团队介绍）",
+      "url": "https://www.nullmax.ai/about",
+      "supports": "官方团队页列“Lei Xu Founder/CEO/CTO”，PhD SUNY Buffalo、B.S. USTC，曾在Qualcomm与Tesla任职、Tesla Autopilot核心成员。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "Nullmax获得近7.8亿元B轮融资，加速推进自动驾驶落地",
+      "url": "https://www.nullmax.cn/20231012_3733.html",
+      "supports": "2023-10-12 B 轮约 7.8 亿人民币，岩山科技独家领投、老股东 Stonehill 追加投资，交易后成为岩山科技控股子公司",
+      "published_date": "2023-10-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "Nullmax 完成 C1 轮千万美元融资，国内头部车规级芯片公司战略加持",
+      "url": "https://www.nullmax.cn/20251206_7274.html",
+      "supports": "2025-12-05 宣布完成 C1 轮，某国内头部车规级芯片公司增资千万美元",
+      "published_date": "2025-12-06",
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "控股后独立融资能力与最新轮次未核验；客户定点信息来自2023年公司披露。",
@@ -179,12 +213,95 @@
     ]
   },
   "investment": {
-    "summary": "2023年完成约7.8亿元B轮融资，岩山科技独家领投、Stonehill追加投资；交易后成为岩山科技合并报表控股子公司。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2023-10-12 完成约 7.8 亿元 B 轮（岩山科技独家领投、Stonehill 追加），此后成为岩山科技控股子公司；2025-12 完成 C1 轮千万美元战略融资（投资方未具名）。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2023-10-12",
+        "amount_text": "约7.8亿人民币",
+        "investors": [
+          {
+            "name": "岩山科技",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "Stonehill Technology Limited",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网记「其他投资者跟投」但未列名；本轮后成为岩山科技（002195.SZ）合并报表控股子公司。"
+      },
+      {
+        "round": "C1",
+        "announced_on": "2025-12-05",
+        "amount_text": "千万美元",
+        "investors": [],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "官网未披露该战略投资者名称，仅称「某国内头部车规级芯片公司」，故投资方留空。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "纽劢科技",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "徐雷",
+      "role": "创始人兼CEO&CTO",
+      "background": "2005年中国科学技术大学计算机学士，2012年美国纽约州立大学布法罗分校计算机博士；曾任职高通与特斯拉，为Tesla Autopilot团队核心成员、Tesla Vision深度学习负责人；2016年在硅谷创立Nullmax，现任创始人兼CEO&CTO。",
+      "previous_firms": [
+        "特斯拉",
+        "高通"
+      ],
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/lei-xu-b64ab5a",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08",
+            "s09"
+          ],
+          "notes": "搜索结果标题显示“Lei Xu - CEO at Nullmax Inc.，Education: University at Buffalo”，与官网履历一致；LinkedIn 页面需登录无法直接读取，故记 partial。"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "中英文官网分别以“徐雷博士/Lei Xu”记创始人兼CEO&CTO；LinkedIn 主页仅由搜索结果确认，未直接打开。",
+      "photo": {
+        "path": "assets/people/nullmax-xu-lei.jpg",
+        "source_url": "https://www.nullmax.cn/wp-content/uploads/2023/12/2024011507512633.png",
+        "page_url": "https://www.nullmax.cn/20231206_4098.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s08"
+        ]
+      }
+    }
+  ],
+  "founded": {
+    "year": 2016,
+    "basis": "公司官网新闻（2023-12-06）：Nullmax 2016 年在硅谷成立，后在上海市建立总部。"
   }
 }

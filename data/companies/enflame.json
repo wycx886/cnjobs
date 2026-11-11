@@ -19,8 +19,66 @@
     ]
   },
   "investment": {
-    "summary": "腾讯是重要历史投资方；上海政府英文新闻确认腾讯支持背景，官方上交所页面确认2026年9月11日上市；其他历史VC背景不在此扩列。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "上海市政府新闻（2026-09-13）披露：2023-09完成20亿元D轮，由上海国际集团旗下基金领投；2024-12完成27亿元E轮Pre-IPO融资，由上海国资投资旗下基金与腾讯联合领投。公司2026-09-11在上交所科创板上市（688801）。早期融资与完整股东名册未在此列。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2023-09",
+        "amount_text": "20亿元",
+        "investors": [
+          {
+            "name": "上海国际集团旗下基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "上海市政府新闻英文稿称 Series D，由上海国际集团旗下基金领投。"
+      },
+      {
+        "round": "E",
+        "announced_on": "2024-12",
+        "amount_text": "27亿元",
+        "investors": [
+          {
+            "name": "上海国有资本投资（Shanghai State-Owned Capital Investment）旗下基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称 Series E pre-IPO，由上海国资投资旗下基金与腾讯联合领投。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2026-09-11",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "上交所科创板，证券代码688801；上交所公告称2026-09-11起上市交易；上海政府新闻称IPO实际募资超CNY6.1 billion。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.enflame-tech.com/",
@@ -30,7 +88,7 @@
     "other_email_purpose": "投资者关系邮箱（非招聘）"
   },
   "notes": "招聘邮箱来自较早的公司LinkedIn帖子，需确认时效；招聘页暂用官方LinkedIn而非猜测官网路径。IR邮箱不可替代投递邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -38,7 +96,7 @@
       "url": "https://touch.shio.gov.cn/jsp/zfxw_detail.jsp?id=20260913195158966",
       "supports": "腾讯支持与芯片业务",
       "published_date": "2026-09-13",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -81,6 +139,50 @@
       "supports": "公开企业主页主体：燧原科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "AI时代的清华电子力量｜燧原科技赵立东（清华大学电子工程系）",
+      "url": "https://www.ee.tsinghua.edu.cn/info/1076/4920.htm",
+      "supports": "赵立东为燧原科技创始人、董事长兼CEO，清华电子工程学士、犹他州立大学硕士，2018年3月与AMD前同事张亚林在上海创立燧原。",
+      "published_date": "2025-10-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "专访燧原科技董事长赵立东（新华社《经济参考报》）",
+      "url": "https://www.jjckb.cn/20260716/b36446179abb4eb88bd128d7a532f554/c.html",
+      "supports": "2026年7月专访称赵立东为燧原科技董事长、首席执行官，公司即将登陆科创板。",
+      "published_date": "2026-07-16",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "燧原科技上市敲钟，创始人现身（第一财经/新浪财经）",
+      "url": "https://cj.sina.com.cn/articles/view/1702925432/6580947801901azr6",
+      "supports": "2026-09-11 科创板上市；燧原2018年由赵立东、张亚林在上海临港创立，赵立东任董事长兼CEO，张亚林任总经理。",
+      "published_date": "2026-09-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "上海俩同事造芯，8年挣下100亿身家（21世纪商业评论）",
+      "url": "https://m.21jingji.com/article/20260907/herald/ee1aec765d81ecd70eb42dd4b3fdd6e1.html",
+      "supports": "赵立东与AMD同事张亚林2018年回上海创立燧原科技；张亚林毕业于复旦大学信息系统专业，为联合创始人。",
+      "published_date": "2026-09-07",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "上海证券交易所：关于上海燧原科技股份有限公司人民币普通股股票科创板上市交易的公告",
+      "url": "https://www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20260910_10831789.shtml",
+      "supports": "上证公告（股票）[2026]29号：证券简称“燧原科技”，证券代码688801，1790.0325万股自2026年9月11日起上市交易。",
+      "published_date": "2026-09-10",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -93,12 +195,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2026年9月11日在上海证券交易所科创板上市（688801），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s11"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -137,5 +238,44 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "赵立东",
+      "role": "创始人、董事长兼CEO",
+      "background": "清华大学电子工程学士、美国犹他州立大学电子与计算机硕士；在硅谷工作20余年，曾任职AMD并参与成立AMD中国研发中心，后任紫光集团副总裁；2018年3月创立燧原科技，2026年9月公司在科创板上市（688801）。",
+      "previous_firms": [
+        "AMD",
+        "紫光集团"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "清华电子系官方人物报道与新华社《经济参考报》专访分别确认创始人、董事长兼CEO现职。"
+    },
+    {
+      "name": "张亚林",
+      "role": "联合创始人、总经理",
+      "background": "毕业于复旦大学信息系统专业；曾与赵立东同为AMD同事，2018年共同创立燧原科技，任联合创始人、首席运营官/总经理。",
+      "previous_firms": [
+        "AMD"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "第一财经上市报道称其任总经理，21财经称其为联合创始人；早期报道多记其COO职务，本条以两家媒体2026年9月报道为准。"
+    }
+  ],
+  "founded": {
+    "year": 2018,
+    "basis": "上海市政府新闻稿称公司2018年成立于临港。"
+  }
 }

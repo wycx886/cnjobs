@@ -22,8 +22,69 @@
     ]
   },
   "investment": {
-    "summary": "路透社2026-09-16据知情人士报道，拆分后完成2.9亿美元首次外部融资，估值15亿美元；HSG、IDG和GL Ventures领投，五源共同领投。据另一消息人士称字节融资后保留56%。公司及投资方未即时回应；以上是媒体消息人士口径，不是正式现行股东表。",
-    "verification_status": "partial"
+    "summary": "路透社2026-09-16据知情人士报道，拆分后完成2.9亿美元首次外部融资，估值15亿美元；第一财经同日报道HSG（原红杉中国）、IDG资本和高瓴投资领投，五源资本联合领投，战略投资者包括中国生物制药及上海未来产业基金。公司及投资方未即时回应；以上是媒体消息人士口径，不是正式现行股东表。历史投资背景不等于当前完整股东名册。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "首轮",
+        "announced_on": "2026-09-16",
+        "amount_text": "2.9亿美元",
+        "investors": [
+          {
+            "name": "HSG（原红杉中国）",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "高瓴投资",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "中国生物制药",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "上海未来产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "第一财经报道（2026-09-16）：拆分后首轮融资2.9亿美元、投后估值约15亿美元；HSG、IDG资本、高瓴投资领投，五源资本联合领投，中国生物制药与上海未来产业基金为战略投资者。公司未正式回应，轮次名称按“首轮”记录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://anewbt.com/",
@@ -33,7 +94,7 @@
     "other_email_purpose": null
   },
   "notes": "本条是原79家样本之外的新增公开研究。历史报道中的Anew Therapeutics及ByteDance AI Drug Discovery作为别名保留，不重复建公司。官网确认当前业务；字节官方代码库支持研究来源关联，但不证明股权。尚未取得官方法律主体、准确法律拆分日及正式现行持股表。当前仅圈定机构，未逐项采集招聘与Layer 2／3渠道。",
-  "checked_at": "2026-10-31",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -66,6 +127,23 @@
       "supports": "历史报道中的Anew Therapeutics及ByteDance AI Drug Discovery名称，保留为别名而非另建主体。",
       "published_date": "2026-05-02",
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "title": "第一财经：字节拆出一家AI制药公司，首轮融资2.9亿美元，估值15亿美元",
+      "url": "https://www.yicai.com/news/103366982.html",
+      "supports": "Anew Labs前身为字节跳动AI for Science药物发现团队，2021年由刘凯牵头组建；2026年6月整体拆分，团队、平台与管线注入新主体。",
+      "published_date": "2026-09-16",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "LinkedIn 搜索结果：Kai Liu - Founder & CEO, Anew Labs",
+      "url": "https://cn.linkedin.com/in/kai-liu-5918b543a",
+      "supports": "搜索结果显示该档案姓名为Kai Liu、现任Anew Labs、职务Founder & CEO；页面本身未直接抓取，仅据搜索结果记录。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -98,5 +176,35 @@
       "s03"
     ],
     "checked_at": "2026-10-31"
-  }
+  },
+  "people": [
+    {
+      "name": "刘凯（Kai Liu）",
+      "role": "创始人兼CEO",
+      "background": "2021年牵头组建字节跳动AI for Science药物发现团队；2026年6月该团队由字节整体拆分独立，任Anew Labs创始人兼CEO。",
+      "previous_firms": [
+        "字节跳动"
+      ],
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/kai-liu-5918b543a",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s06"
+          ],
+          "notes": "搜索引擎结果显示档案标题为“Founder & CEO, Anew Labs”，姓名与公司匹配；LinkedIn页面未直接抓取。"
+        }
+      ],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "团队负责人身份由第一财经报道支持；CEO职务来自LinkedIn搜索结果，未获公司官方职务页确认。"
+    }
+  ]
 }

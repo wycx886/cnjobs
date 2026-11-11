@@ -22,7 +22,7 @@ python3 tools/scaffold_entity.py --entity company --id candidate-org --name "待
 
 合并的地区旧 ID 见 `data/lists/company-redirects.json`，`query.py --id` 可解析旧 ID；写入时须使用主公司 ID，旧 ID 会明确报错。生成的旧地区 Markdown 只作链接跳转，不计入公司数。
 
-人物统一维护公司 `people[]`，机构入口维护 `channels[]`；人物写入工具为 `skills/find-person/scripts/update_people.py`，输入契约见 [人物批次](../data/schemas/person-batch.schema.json)。两个写入工具共用 `record_writes.py` 的并发检查、临时文件清理与条件回滚，人物平台校验在 `person_checks.py`。
+按照方法论（**找公司 → 公司档案 → 找核心人物 → 找渠道**），核心人物最优先且只维护在公司档案的 `people[]`（使用 [find-person](../skills/find-person/SKILL.md)）；机构公开渠道模板维护在 `channels[]`（使用 [find-channels](../skills/find-channels/SKILL.md)）。人物写入工具为 `skills/find-person/scripts/update_people.py`，输入契约见 [人物批次](../data/schemas/person-batch.schema.json)。两个写入工具共用 `record_writes.py` 的并发检查、临时文件清理与条件回滚，人物平台校验在 `person_checks.py`。
 
 分别检查 BOSS／猎聘的覆盖情况，不把任一平台已有渠道当作两边均已完成：
 
@@ -46,14 +46,15 @@ python3 tools/build.py
 
 `build.py` 从正式 JSON 生成唯一的 `data/index.json` 和 `data/views/`，不修改业务事实。`validate.py` 检查格式、引用、日期及本地链接，`--check-generated` 同时检查生成内容。检查不代替实际网页核验。
 
-创业公司 Logo 是从官网抓取的派生视图资产，不写入公司研究 JSON：
+机构 Logo 是从官网抓取的派生视图资产，不写入机构研究 JSON：
 
 ```bash
 python3 tools/fetch_logos.py --id unitree
+python3 tools/fetch_logos.py --id hongshan
 python3 tools/fetch_logos.py --workers 8
 ```
 
-工具只读取 `operating_organization` 且 `player_group == "new_entrant"` 的记录，从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
+工具默认读取**创业公司**（`operating_organization` 且 `player_group == "new_entrant"`）和**所有有官网的 `investment_firm`**；传入 `--id` 时投资机构不再被跳过。它从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
 
 ## 提交与推送
 

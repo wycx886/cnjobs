@@ -20,8 +20,21 @@
     ]
   },
   "investment": {
-    "summary": "2026年1月港股上市；招股书相关报道确认阿里、米哈游、IDG、腾讯等历史投资方。此为部分投资背景，不等同完整当前股东表。",
-    "verification_status": "partial"
+    "summary": "2026-01-09 在港交所主板上市（00100.HK，MINIMAX-W），發售價 165.00 港元；招股书相关报道列阿里、米哈游、IDG、腾讯等历史投资方，属部分投资背景，不等于完整当前股东表。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "已上市",
+        "announced_on": "2026-01-09",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "notes": "港交所主板，00100.HK（證券簡稱 MINIMAX-W）；配發結果公告載上市日期 2026-01-09，發售價 165.00 港元。招股前的逐轮融资明细未逐项核到，不补造。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.minimax.io/",
@@ -31,7 +44,7 @@
     "other_email_purpose": "投资者关系邮箱（非招聘）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -56,6 +69,40 @@
       "supports": "投资方与消费产品",
       "published_date": "2026-01-09",
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s04",
+      "scope": "person",
+      "title": "MiniMax 投资者关系「管理团队」",
+      "url": "https://ir.minimax.cn/corporate-information/management",
+      "supports": "闫俊杰任创始人、董事会主席、CEO兼CTO；贠烨祎任执行董事兼COO；赵鹏宇任执行董事兼大语言模型研究与工程负责人，并附各自履历",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "MiniMax Investor Relations: Management Team (EN)",
+      "url": "https://ir.minimax.cn/en/corporate-information/management",
+      "supports": "英文管理团队页：Dr. Yan Junjie 为 Founder/Chairman/CEO/CTO，Ms. Yun Yeyi 为 Executive Director/COO，Mr. Zhao Pengyu 为 Executive Director 兼大语言模型研究负责人",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "HKEXnews｜MiniMax Group Inc. 最終發售價及配發結果公告",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0108/2026010801343_c.pdf",
+      "supports": "股份代號 00100、最終發售價 165.00 港元、上市日期 2026-01-09",
+      "published_date": "2026-01-08",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "MiniMax 投资者关系",
+      "url": "https://ir.minimax.cn/",
+      "supports": "公司设有投资者关系站（公司公告、股价信息），确认其为港交所上市公司",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -68,12 +115,66 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2026年1月9日在香港联交所主板上市（00100.HK，MINIMAX-W），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s06",
+      "s07"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "闫俊杰",
+      "role": "创始人、董事会主席、CEO兼CTO",
+      "previous_firms": [
+        "商汤集团"
+      ],
+      "background": "曾任商汤集团副总裁及研究院副院长；中国科学院自动化研究所人工智能方向博士，后在清华大学从事博士后研究。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份、职务与履历取自公司投资者关系管理团队页（2026-11-11核查）。"
+    },
+    {
+      "name": "贠烨祎",
+      "role": "执行董事兼COO",
+      "previous_firms": [
+        "商汤集团"
+      ],
+      "background": "曾任商汤集团融资与战略投资部经理、CEO行政助理及战略部总监、创新业务部总监；负责产品与商业化相关战略运营。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份、职务与履历取自公司投资者关系管理团队页（2026-11-11核查）。"
+    },
+    {
+      "name": "赵鹏宇",
+      "role": "执行董事、大语言模型研究与工程负责人",
+      "previous_firms": [
+        "北京葫芦科技"
+      ],
+      "background": "2023年8月加入MiniMax任自然语言处理研究员及工程师，2025年6月获委任为执行董事兼大语言模型研究与工程负责人。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份、职务与履历取自公司投资者关系管理团队页（2026-11-11核查）。"
+    }
+  ],
+  "founded": {
+    "year": 2022,
+    "basis": "公司投资者关系站「公司简介」：MiniMax 自 2022 年初成立。"
+  }
 }

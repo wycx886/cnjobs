@@ -1,0 +1,120 @@
+{
+  "schema_version": 3,
+  "id": "cpe",
+  "name": "CPE源峰（CPE）",
+  "aliases": [
+    "CPE",
+    "源峰",
+    "北京源峰投资管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "watchlist",
+    "reason": "两个发布方两个年度的 PE 主榜名次稳定，但本轮未找到可打开的官方站点（调研稿所列域名经核实属另一家澳大利亚机构），机构事实主要来自榜单与清科机构库，故先列观察名单而非主要样本。"
+  },
+  "founded": {
+    "year": 2008,
+    "basis": "清科投资界机构库“CPE源峰”条目标注成立于2008年（数据来源：公开资料整理）；同页工商登记框展示的法人主体为北京源峰投资管理有限公司、成立时间2020-05-07，属品牌沿革与现行法人主体的差异，年份取机构口径。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第4名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第7名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第5名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第9名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 10 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "清科机构库简介列医疗与健康、消费与互联网、科技与工业、软件与企业服务四大重点领域，主要面向各领域龙头企业。",
+  "stage": "清科、投中均将其归入私募股权（PE）榜；机构库简介强调为龙头企业提供投资方案，偏成长与并购类交易。",
+  "representative_cases": [
+    {
+      "company": "汉堡王中国",
+      "attribution": "current_firm",
+      "investor_or_team": "CPE源峰",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单为机构层级披露，未给轮次、金额或退出状态。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "长飞光纤",
+      "attribution": "current_firm",
+      "investor_or_team": "CPE源峰",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联，不补造首轮年份或回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2026-11-03，清科投资界机构库记录其参与可灵AI（北京可灵智能科技）A 轮（29.05亿美元），同轮机构众多，未披露其领投身份或单家出资金额。",
+  "why_follow": "编辑分析：其公开案例横跨消费（汉堡王中国）与硬科技（长飞光纤），2026年又出现在 AI 视频生成公司可灵AI的大额融资名单中，可作为观察 PE 资金切入 AI 应用层的样本。",
+  "difference": "编辑分析：相比以早期为主的 VC，其单笔规模更大、偏好成熟企业控股权或大额少数股权；与同列 PE 榜的高瓴、中金资本相比，公开披露的项目数量更少、集中度更高。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：榜单与清科机构库均以“CPE源峰”为机构名，工商登记主体为北京源峰投资管理有限公司；调研稿称其前身为中信产业基金（CITIC PE），本轮未能在可打开的页面上核实这一沿革，故不写成已确认事实。官网缺口：调研稿给出的 cpecapital.com 经本次打开确认是澳大利亚/新西兰私募机构 CPE Capital（CPEC，1987年起），与本机构无关，已弃用；其余候选域名均无法打开，contacts.website 留空，不猜域名。管理规模“超1500亿”仅见于投中2025 PE 榜，属榜单口径。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · CPE源峰",
+      "url": "https://vc.pedaily.cn/vc/108665.html",
+      "supports": "成立于2008年、四大投资领域、工商主体为北京源峰投资管理有限公司（2020年注册）及近期出手记录（2026-11-03 可灵AI A轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国私募股权投资机构50强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "CPE源峰：清科2025年中国私募股权投资机构50强第4名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国私募股权投资机构100强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "CPE源峰：清科创业2024年中国私募股权投资机构100强第7名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "CPE源峰：投中2025年度 PE TOP100 第5名；机构层级案例含汉堡王中国、SML、长飞光纤",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "CPE源峰：投中2024年度 PE TOP100 第9名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作并连续进入 PE 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网缺口未补前不扩大人物与渠道搜集。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

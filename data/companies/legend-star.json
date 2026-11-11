@@ -1,0 +1,155 @@
+{
+  "schema_version": 3,
+  "id": "legend-star",
+  "name": "联想之星（Legend Star）",
+  "aliases": [
+    "Legend Star",
+    "北京联想之星投资管理有限公司",
+    "联想之星创业投资"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "官网关于页与核心团队页可打开，清科与投中两个年度的早期榜均给出名次，另有清科机构库的近期出手记录；列入主要研究样本，不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2008,
+    "basis": "官网“关于我们”写“联想之星创立于2008年”；清科投资界机构库条目同样标注成立于2008年，两处一致。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国早期投资机构30强第2名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国早期投资机构30强第12名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳早期创业投资机构TOP50第5名（https://www.chinaventure.com.cn/rank/210/3188.html）；投中2024年度中国最佳早期创业投资机构TOP50第6名（https://www.chinaventure.com.cn/rank/199/3063.html）。按早期榜口径（2025年两个发布方均进前10、2024年均进前15）列入 Tier 1；早期榜与 VC／PE 综合榜口径不同，不与综合榜名次互比。另在投中2025 AI30 以音序列入，榜单不给名次。",
+    "source_ids": [
+      "s04",
+      "s05",
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "前沿科技、医疗健康、TMT 三大领域，官网另列智能机器、生物技术、医疗器械等方向。",
+  "stage": "早期（天使轮与更早），并以“创业CEO特训班”和创业联盟做深度孵化。",
+  "representative_cases": [
+    {
+      "company": "小马智行",
+      "attribution": "current_firm",
+      "investor_or_team": "联想之星",
+      "outcome": "投中2025年度早期榜在机构名下列为投资案例；官网核心团队页在主管合伙人简介中列示其纳斯达克与2026年港股上市信息。上市不等于基金已退出。",
+      "evidence_source_ids": [
+        "s02",
+        "s06"
+      ]
+    },
+    {
+      "company": "爱芯元智",
+      "attribution": "current_firm",
+      "investor_or_team": "联想之星",
+      "outcome": "投中2025年度早期榜在机构名下列为投资案例；官网团队页同时提到其港股代码0600.HK，说明为已上市项目。",
+      "evidence_source_ids": [
+        "s02",
+        "s06"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-28，清科投资界机构库记录其参与超进化智能天使轮（数亿人民币，同轮还有蓝驰创投、商汤国香资本、英诺天使基金等），未披露领投方。",
+  "why_follow": "编辑分析：其项目同时覆盖自动驾驶、AI 芯片与自进化基础模型，适合观察“早期投资+孵化”模式在 AI 创业中的延续性。",
+  "difference": "编辑分析：与纯财务型早期基金相比，联想之星背靠联想控股，提供特训班与产业资源，投后介入更深；与同属联想体系的联想创投（CVC）和君联资本（成长期）分工不同，比较时需区分品牌与基金。",
+  "contacts": {
+    "website": "https://www.legendstar.com.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：联想控股的早期投资和孵化板块，机构主体为北京联想之星投资管理有限公司；与联想创投（CVC）、君联资本是不同平台。规模口径存在时间差：官网关于页写“管理12支、总额超60亿人民币的早期投资基金，已投资400多个项目”，清科机构库简介仍写10支、超40亿，本档案采用官网现行表述并保留差异。官网“被投企业”页为脚本渲染，本次未取到名单，代表案例改用榜单披露。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "联想之星 · 关于我们",
+      "url": "https://www.legendstar.com.cn/home/about",
+      "supports": "2008年创立、12支基金总额超60亿元、400多个项目、早期投资与深度孵化定位",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "联想之星 · 核心团队",
+      "url": "https://www.legendstar.com.cn/home/team",
+      "supports": "王明耀任总裁/主管合伙人及其投资组合（小马智行、希迪智驾、爱芯元智等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科投资界机构库 · 联想之星",
+      "url": "https://vc.pedaily.cn/vc/126602.html",
+      "supports": "成立于2008年、机构简介与近期公开出手记录（2026-10-28 超进化智能天使轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科2025年中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "联想之星：清科2025年中国早期投资机构30强第2名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "清科创业2024年中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "联想之星：清科创业2024年中国早期投资机构30强第12名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2025年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/210/3188.html",
+      "supports": "联想之星：投中2025年度早期TOP50第5名；机构层级案例含小马智行、自变量机器人、爱芯元智",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "投中2024年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/199/3063.html",
+      "supports": "联想之星：投中2024年度早期TOP50第6名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "联想控股体系内已运作十余年的早期投资与孵化平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "王明耀",
+      "role": "总裁/主管合伙人",
+      "previous_firms": [
+        "清科集团",
+        "九帆投资"
+      ],
+      "background": "官网团队页：2010年加入联想之星，全面负责投资、孵化及整体运营，主导小马智行、希迪智驾、爱芯元智等项目；此前任清科集团高级副总裁、九帆投资合伙人。",
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅据官网团队页整理当前职衔与公开履历，未核对个人主页或任职起始时间；本波不系统搜集人物。"
+    }
+  ]
+}

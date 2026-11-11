@@ -20,8 +20,168 @@
     ]
   },
   "investment": {
-    "summary": "官网披露2026-01-12 C轮融资由鼎晖领投；其他历史投资方需逐轮核对，不沿用原表全名单。",
-    "verification_status": "partial"
+    "summary": "既有记录称官网披露2026-01-12 C轮由鼎晖领投（本轮未重新取得该官网原文）；2025-09-10公司宣布完成超6000万美元B轮，阿里巴巴领投，达晨财智、深创投等跟投；2026-07-14公司宣布完成整体C轮，累计融资29.8亿元，其中C+轮由阿里巴巴领投。名单为披露口径，不等于现行完整股东名册。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2025-09-10",
+        "amount_text": "超6000万美元",
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "湖南电广",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "巨人网络",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "Antler",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "投资界报道：公司2025-09-10宣布完成超6000万美元B轮，阿里巴巴领投，其余投资方跟投；名单以“等”收尾，不完整。"
+      },
+      {
+        "round": "C+",
+        "announced_on": "2026-07-14",
+        "amount_text": "29.8亿元人民币",
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "Lollapalooza Capital（王慧文家办）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "常春藤资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "惠远资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "韩国未来资产",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "Lion X 基金（OCBC生态）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "蓝色光标",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "CloudAlpha",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "iGlobe Partners",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "公司宣布完成“整体C轮”，29.8亿元为C轮累计融资额（含C+轮），非单轮金额；C+轮由阿里巴巴领投，其余为参与方，名单以“等十余家”收尾，不完整。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://aishiai.com/",
@@ -31,7 +191,7 @@
     "other_email_purpose": "产品支持"
   },
   "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -66,6 +226,40 @@
       "supports": "公开企业主页主体：北京爱诗科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "对话未来商业｜拿下亚洲AI视频最大单次融资 爱诗科技王长虎：小步快跑、先To C后To B（每日经济新闻）",
+      "url": "https://news.qq.com/rain/a/20260320A07PM500",
+      "supports": "王长虎为爱诗科技创始人，2023年带团队创业；此前在微软亚洲研究院与字节跳动积累视觉技术经验。",
+      "published_date": "2026-03-20",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "爱诗科技完成近30亿元C轮融资，阿里领投（今朝新闻/搜狐）",
+      "url": "https://www.sohu.com/a/1050270331_122350775",
+      "supports": "爱诗科技创始人兼CEO王长虎，中国科学技术大学博士，2009年加入微软亚洲研究院，2017年加入字节跳动任AI Lab总监、视觉技术负责人。",
+      "published_date": "2026-07-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "大河财立方（东方财富转载）：阿里巴巴领投，爱诗科技完成29.8亿元C轮融资",
+      "url": "https://finance.eastmoney.com/a/202607143805095298.html",
+      "supports": "2026-07-14公司宣布完成整体C轮、累计融资29.8亿元；C+轮由阿里巴巴领投，并列明参与机构。",
+      "published_date": "2026-07-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投资界：爱诗科技完成6000万美元B轮融资，阿里巴巴领投",
+      "url": "https://news.pedaily.cn/202509/554683.shtml",
+      "supports": "2025-09-10公司宣布完成超6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市人工智能产业投资基金、湖南电广、巨人网络和Antler等跟投。",
+      "published_date": "2025-09-10",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -121,6 +315,25 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "王长虎",
+      "role": "创始人兼CEO",
+      "background": "中国科学技术大学博士；2009年加入微软亚洲研究院，2017年加入字节跳动任AI Lab总监、视觉技术负责人，主导抖音、TikTok视觉多模态能力；2023年创立爱诗科技，做AI视频生成模型与PixVerse/拍我AI产品。",
+      "previous_firms": [
+        "字节跳动",
+        "微软亚洲研究院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "两篇媒体专访/报道分属不同媒体与不同日期，均以真名+现职介绍其身份；未找到可核实的个人公开职业主页。"
     }
   ]
 }

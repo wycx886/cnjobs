@@ -7,6 +7,10 @@
     "AI-Indeed"
   ],
   "category_id": "06",
+  "founded": {
+    "year": 2018,
+    "basis": "公司投融展资料称“实在智能成立于2018年”。"
+  },
   "focus": "屏幕理解与企业执行 Agent",
   "products": "实在Agent、塔斯模型、RPA、信创版本",
   "locations_text": "杭州、上海、深圳、北京等",
@@ -18,8 +22,137 @@
     ]
   },
   "investment": {
-    "summary": "已核历史君联资本天使轮、松禾/中赢等Pre-A、光云科技A轮；原表高瓴及C轮最新名单暂未取得足够正式披露。",
-    "verification_status": "partial"
+    "summary": "公司2023-03投递的投融展资料列明：2018-07种子轮（陈纯院士）、2018-08天使轮数千万元（君联资本）、2020-09 Pre-A轮近亿元（松禾资本、中赢基金、赛伯乐投资、聚数银）、2020-11 A轮（光云科技、杭州云曦一号）、2021-11 B轮（英特尔）。该表止于2023年，之后轮次与原表高瓴、C轮名单本轮未取得正式披露，未写入。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2018-07-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "陈纯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "公司投递的《金猿投融展》资料“融资情况”表；金额未披露。"
+      },
+      {
+        "round": "天使",
+        "announced_on": "2018-08-30",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "君联资本",
+            "firm_id": "legend-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": null
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2020-09-07",
+        "amount_text": "近亿元",
+        "investors": [
+          {
+            "name": "松禾资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中赢基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "赛伯乐投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "聚数银",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": null
+      },
+      {
+        "round": "A",
+        "announced_on": "2020-11-15",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "光云科技",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "杭州云曦一号股权投资合伙企业（有限合伙）",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": null
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-11-17",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "英特尔",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "资料表投资方仅列“英特尔”，未说明领投或跟投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.ai-indeed.com/",
@@ -29,7 +162,7 @@
     "other_email_purpose": "一般联系"
   },
   "notes": "当前主站招聘页只明确公开校园招聘campus@i-i.ai；旧开发站及旧招聘帖的社会招聘talent@i-i.ai不作为当前有效社招入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +205,24 @@
       "supports": "公开企业主页主体：实在智能；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "实在智能官网《孙林君简介》",
+      "url": "https://www.ai-indeed.com/aboutNews/25491.html",
+      "supports": "官方人物页：孙林君现任浙江实在智能科技有限公司创始人兼CEO；原阿里巴巴资深算法专家（在阿里近10年，牵头打造诚信模型体系）；2018年在杭州创立实在智能；本科吉林大学信息与计算科学，硕士大连理工大学计算数学；更早任职摩托罗拉。",
+      "published_date": "2026-07-30",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "吉林大学数学学院：孙林君",
+      "url": "https://math.jlu.edu.cn/info/1820/17328.htm",
+      "supports": "学院人物页列出其主要工作经历：浙江实在智能科技有限公司董事长、创始人、CEO（2018年至今），此前任职阿里巴巴智能服务部门。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -127,6 +278,25 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "孙林君",
+      "role": "创始人、董事长兼CEO",
+      "background": "原阿里巴巴资深算法专家，在阿里工作近10年并牵头打造支撑花呗、借呗的诚信模型体系，此前任职摩托罗拉；本科毕业于吉林大学信息与计算科学专业，硕士毕业于大连理工大学计算数学专业。2018年在杭州创立实在智能，主导TARS大模型、ISSUT屏幕语义理解技术与“实在Agent”产品。",
+      "previous_firms": [
+        "阿里巴巴",
+        "摩托罗拉"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官方人物页（2026-07-30）与吉林大学数学学院人物页均记载其创始人兼CEO身份；未找到可核实的本人职业主页，故不登记 LinkedIn 等账号。"
     }
   ]
 }

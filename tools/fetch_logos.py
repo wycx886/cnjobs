@@ -1,4 +1,7 @@
-"""Fetch public company logos from official websites into generated view assets."""
+"""Fetch public organization logos from official websites into generated view assets.
+
+Targets startup operating companies and investment firms with an official website.
+"""
 import argparse
 import json
 import re
@@ -262,14 +265,26 @@ def fetch_logo(record, root=ROOT, fetcher=fetch_url, timeout=DEFAULT_TIMEOUT, fo
     return {"id": company_id, "status": "skipped", "reason": "no_usable_image", "website": website}
 
 
-def startup_records(root=ROOT):
+def logo_records(root=ROOT, ids=None):
+    """Select startups plus investment firms, keeping --id usable for either type."""
     directory = Path(root) / "data/companies"
+    wanted = set(ids) if ids else None
     records = []
     for path in sorted(directory.glob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
-        if record.get("organization_type") == "operating_organization" and \
-                (record.get("targeting") or {}).get("player_group") == "new_entrant":
-            records.append(record)
+        organization_type = record.get("organization_type")
+        is_startup = organization_type == "operating_organization" and \
+            (record.get("targeting") or {}).get("player_group") == "new_entrant"
+        is_investment_firm = organization_type == "investment_firm"
+        if not (is_startup or is_investment_firm):
+            continue
+        if wanted is not None:
+            if record["id"] not in wanted:
+                continue
+        elif is_investment_firm and not website_for(record):
+            # Default sweep only considers firms with an official site; --id can still report no_website.
+            continue
+        records.append(record)
     return records
 
 
@@ -295,10 +310,7 @@ def save_manifest(entries, root=ROOT):
 
 
 def fetch_all(root=ROOT, ids=None, timeout=DEFAULT_TIMEOUT, workers=8, fetcher=fetch_url, force=False):
-    records = startup_records(root)
-    if ids:
-        wanted = set(ids)
-        records = [record for record in records if record["id"] in wanted]
+    records = logo_records(root, ids=ids)
     previous = {entry["id"]: entry for entry in load_manifest(root)["entries"]}
     results = []
 

@@ -17,8 +17,73 @@
     ]
   },
   "investment": {
-    "summary": "2026-08公司新闻稿披露新一轮华泰泛大西洋领投，鲲鹏光远、广汽资本、金沙江等跟投；官网披露历史B轮。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网披露2018年A轮、2021年B轮，均未披露金额与投资方；2026-08-20完成新一轮融资，华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江联合资本跟投，金额未披露。公司已递表港交所，尚未上市。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2018",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网发展历程列2018年获A轮融资，未披露金额与投资方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网发展历程列2021年获B轮融资，未披露金额与投资方。"
+      },
+      {
+        "round": "新一轮融资",
+        "announced_on": "2026-08-20",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "华泰泛大西洋基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "鲲鹏光远",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "广汽资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "金沙江联合资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "公司未披露轮次字母与金额；金沙江联合资本为老股东追投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.tec-do.com/",
@@ -27,8 +92,8 @@
     "other_email": "Brand@tec-do.com",
     "other_email_purpose": "媒体联络（非招聘）"
   },
-  "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。 公司于2026-02-27递表港交所（中金、摩根大通为联席保荐人），截至2026-11-11尚未上市。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -79,6 +144,42 @@
       "supports": "公开企业主页主体：钛动科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "钛动科技官网·企业介绍",
+      "url": "https://www.tec-do.com/about/",
+      "supports": "发展历程多处记载CEO李述昊：2019年获天河区创新领军人才、2024年当选广州市第十六届人大代表。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "维基百科：李述昊",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%BF%B0%E6%98%8A",
+      "supports": "1989年生，钛动科技创始人兼首席执行官，曾任UC、华为；2017年创立钛动科技。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "LinkedIn：Shuhao Li（Tec-Do 创始人兼CEO）",
+      "url": "https://cn.linkedin.com/in/shuhaoli-tec-do",
+      "supports": "档案自述 Founder & CEO of Tec-Do。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "钛动科技官网新闻：钛动科技宣布完成新一轮融资",
+      "url": "https://www.tec-do.com/news/318",
+      "supports": "2026-08-20 完成新一轮融资，华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江联合资本跟投；未披露金额。",
+      "published_date": "2026-08-20",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -135,5 +236,40 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "李述昊",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "阿里巴巴",
+        "UC",
+        "华为"
+      ],
+      "background": "2011年毕业于天津大学电子信息工程专业；曾任职华为、UC、阿里巴巴移动事业群国际流量业务总经理；2017年创立钛动科技。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/shuhaoli-tec-do",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s09"
+          ],
+          "notes": "LinkedIn 抓取被拒（HTTP 999）；搜索结果摘要显示档案为 Shuhao Li, Founder & CEO of Tec-Do（2026-11-11 核查）。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司官网发展历程与维基百科条目一致；职业主页仅有搜索摘要支持。"
+    }
+  ],
+  "founded": {
+    "year": 2017,
+    "basis": "公司官网“企业介绍”与发展历程均称2017年成立。"
+  }
 }

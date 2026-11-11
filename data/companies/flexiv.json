@@ -101,7 +101,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -147,6 +147,32 @@
       "supports": "公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "title": "非夕科技创始人兼CEO王世全入选2025全球青年领袖｜非夕科技官网",
+      "url": "https://www.flexiv.cn/news/flexiv_ceo_was_selected_as_a_world_economic_forum_young_global_leader",
+      "supports": "公司官网新闻称王世全为非夕创始人兼CEO，博士毕业于斯坦福大学仿生与灵巧操作实验室及人工智能实验室，2016年创立非夕科技。",
+      "published_date": "2025-04-15",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "王世全：非夕科技创始人兼CEO｜明人堂",
+      "url": "https://www.mingrentai.com/people/wangshiquan",
+      "supports": "人物页称王世全为非夕科技创始人兼CEO，1988年生，浙江大学机械工程系本科、斯坦福大学博士，2025年世界经济论坛全球青年领袖。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "非夕科技官网：非夕历程",
+      "url": "https://www.flexiv.cn/history",
+      "supports": "历程页披露2016年6月成立、2020年12月超1亿美金B轮、2022年6月近亿美金B+轮、2025年6月亿级美元C轮。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网办公地点未列苏州，苏州制造基地未证实。 原采集地域为“上海总部/苏州制造基地”，本次按来源支持范围更正；不代表在该地有开放岗位。",
@@ -162,12 +188,64 @@
     ]
   },
   "investment": {
-    "summary": "本轮未重新核对融资轮次；官网仅核实创立时间与办公地点。",
-    "verification_status": "not_found"
+    "summary": "官网历程披露：2020-12完成超1亿美金B轮；2022-06完成近亿美金B+轮，估值达独角兽级别；2025-06完成亿级美元C轮。投资方未在官网历程页列名。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2020-12",
+        "amount_text": "超1亿美金",
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网历程页未列投资方。"
+      },
+      {
+        "round": "B+",
+        "announced_on": "2022-06",
+        "amount_text": "近亿美金",
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网历程页称估值达到独角兽级别，未列投资方。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-06",
+        "amount_text": "亿级美元",
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网历程页未列投资方。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "非夕科技",
     "original_track": "08",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "王世全",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "斯坦福大学仿生与灵巧操作实验室及人工智能实验室博士；2016年创立非夕科技，主攻自适应机器人。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司官网新闻页确认身份与职务；未找到可核实的个人职业社交主页。"
+    }
+  ],
+  "founded": {
+    "year": 2016,
+    "basis": "公司官网历程页载“2016年6月 Flexiv非夕科技成立”。"
   }
 }

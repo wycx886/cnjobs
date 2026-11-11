@@ -1,0 +1,143 @@
+{
+  "schema_version": 3,
+  "id": "guoxin-fund",
+  "name": "国新基金",
+  "aliases": [
+    "中国国新基金管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 PE 主榜名次稳定在前 10，且中国国新官网明确其为中国国新体系基金投资的统一管理平台；作为国家级基金群的管理主体列入主要研究样本，不表示收益已核实。"
+  },
+  "founded": {
+    "year": null,
+    "basis": "依据不足，不猜年份。中国国新官网可核实母集团中国国新控股有限责任公司成立于2010年12月22日，并称“以中国国新基金管理有限公司为统一管理平台”组建国新系基金，但未给出该基金管理公司的成立时间；其官网与工商公示页面在本环境均未能打开核对，因此年份留空。母集团成立年份不等于该基金管理平台成立年份。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第7名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第9名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第4名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第4名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 10 名，按综合榜口径列入 Tier 1；其为国资运营公司体系内的国家级基金平台，资金来源与项目逻辑与市场化 PE 不同，名次不宜直接横比。",
+    "source_ids": [
+      "s03",
+      "s04",
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "国家级基金群的统一管理平台。中国国新官网列示的国新系基金包括中国国有资本风险投资基金、国新央企运营投资基金、国新国同基金、国改双百发展基金、国改科技基金、国新科创基金、综合改革试验基金群、国新高层次人才基金、国新辽宁基金、国新创投基金等，围绕国家战略、科技创新与央企改革布局。",
+  "stage": "清科、投中均将其列入私募股权（PE）榜；以国家级基金、央企与地方国企项目、成长期及以后的大额股权投资为主，具体单笔阶段未见统一披露。",
+  "representative_cases": [
+    {
+      "company": "华电新能源",
+      "attribution": "current_firm",
+      "investor_or_team": "国新基金",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "company": "鑫华半导体",
+      "attribution": "current_firm",
+      "investor_or_team": "国新基金",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "company": "国测量子",
+      "attribution": "current_firm",
+      "investor_or_team": "国新基金",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未披露持股与轮次细节。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    }
+  ],
+  "recent_activity": "2026-11-10，科创板日报报道可控核聚变企业曦合超导完成 C 轮融资，由国新基金、国寿股权联合领投，同轮还有大湾区共同家园投资、建信股权、招商局中国基金等参与，两轮融资交易总额近10亿元人民币。",
+  "why_follow": "编辑分析：作为国新系基金的统一管理平台，其出手同时带有国家战略与央企改革目标，适合观察国家级资金在核聚变、半导体材料、量子测量等长周期硬科技上的配置节奏。",
+  "difference": "编辑分析：与市场化 VC/PE 相比，其资金来源、投资期限与退出要求由国有资本运营公司定位决定，项目更偏央企、地方国企与国家战略产业；比较时应与其他国资平台（如深创投、招商资本）同组，而非与早期基金并列。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：榜单所列“国新基金”对应机构全称“中国国新基金管理有限公司”，是中国国新控股有限责任公司体系内基金投资的统一管理平台，不是母集团本身，也不是单支基金（如国风投基金、国新科创基金）。中国国新控股有限责任公司成立于2010年12月22日，为国务院国资委监管的中央企业、国有资本运营公司；该集团信息仅用于说明层级，不作为本机构成立年份。中国国新官网与国新基金自有域名在本环境均只打开到集团层面，未能确认属于该基金管理公司的独立官网，故 contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "中国国新 · 业务格局 · 基金投资",
+      "url": "https://www.crhc.cn/ywgj/jjtz/A005003001index_1.htm",
+      "supports": "以中国国新基金管理有限公司为统一管理平台，列示国风投基金、国新央企运营投资基金、国新国同基金、国新科创基金、国新创投基金等基金群及各基金成立时间",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "中国国新 · 关于我们 · 公司概况",
+      "url": "https://www.crhc.cn/gywm/gsgk/A005001001index_1.htm",
+      "supports": "中国国新控股有限责任公司成立于2010年12月22日，为国务院国资委监管的中央企业、国有资本运营公司",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科2025年中国私募股权投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "国新基金：清科2025年中国私募股权投资机构50强第7名（机构全称：中国国新基金管理有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科创业2024年中国私募股权投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "国新基金：清科创业2024年中国私募股权投资机构100强第9名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "国新基金：投中2025年度 PE TOP100 第4名；机构层级代表案例含华电新能源、鑫华半导体、国测量子",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "国新基金：投中2024年度 PE TOP100 第4名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "核聚变公司曦合超导完成C轮融资（科创板日报，东方财富转载）",
+      "url": "https://finance.eastmoney.com/a/202611103927255289.html",
+      "supports": "2026-11-10 报道：曦合超导 C 轮由国新基金、国寿股权联合领投，两轮融资交易总额近10亿元",
+      "published_date": "2026-11-10",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "国资运营公司体系内已运作多年的国家级基金平台，按成熟金融机构建档；集团与基金管理平台的层级、以及该平台自身成立年份仍待补证。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

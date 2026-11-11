@@ -99,7 +99,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -151,9 +151,9 @@
       "scope": "organization",
       "title": "上汽集团成立商用车智能驾驶科创公司，推进自动驾驶在多场景下的商业化应用",
       "url": "https://www.utopilot.com.cn/news/99.html",
-      "supports": "友道智途2021年成立、临港落户及港口/厂区/干线L3-L4业务。",
+      "supports": "友道智途2021年成立、临港落户及港口/厂区/干线L3-L4业务；上汽集团成立商用车智能驾驶科创公司的官方转载：与上港集团、上汽恒旭共同设立6.43亿元专项基金（上汽认缴5.4153亿元、上港1.0047亿元、恒旭0.01亿元），用于投资友道智途；属设立出资，不是友道智途的独立股权融资轮次。",
       "published_date": "2021-08-27",
-      "checked_at": "2026-11-03"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s07",
@@ -163,9 +163,27 @@
       "supports": "6.43亿元专项基金、上汽/上港/恒旭出资及友道智途投资结构。",
       "published_date": "2021-08-26",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "澎湃新闻：王瑞履新友道智途CEO，上汽大通总经理又来一位70后",
+      "url": "https://www.thepaper.cn/newsDetail_forward_15112775",
+      "supports": "上汽商用车板块人事调整：上汽大通总经理王瑞与上汽大通技术中心总经理兼上海友道智途科技公司CEO郝景贤职务互换，王瑞出任友道智途CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "腾讯新闻：2026实现年入10亿？王瑞带领友道智途为自动驾驶找到新模式",
+      "url": "https://news.qq.com/rain/a/20240725A07EXA00",
+      "supports": "以“上海友道智途科技有限公司CEO王瑞”具名采访，谈港口、矿区等场景的自动驾驶商业化与盈利目标。",
+      "published_date": "2024-07-25",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "设立后单独融资与最新股权结构未找到公开披露；业务数据来自2021年成立时报道。",
+  "notes": "设立后单独融资与最新股权结构未找到公开披露；业务数据来自2021年成立时报道。2026-11-11复核：未发现友道智途作为标的的独立融资轮次。",
   "category_id": "08",
   "focus": "L4/L3商用车自动驾驶与港口物流",
   "products": "无人驾驶重卡Q-Truck、港口/厂区L4方案、网络货运平台",
@@ -178,12 +196,31 @@
     ]
   },
   "investment": {
-    "summary": "2021年由上汽集团联合上港集团、恒旭资本等设立，专项基金认缴6.43亿元；此后未找到单独股权融资披露。",
-    "verification_status": "partial"
+    "summary": "2021年由上汽集团联合上港集团、恒旭资本等以6.43亿元专项基金设立，属股东设立出资而非独立股权融资轮次；此后未找到单独股权融资披露。",
+    "verification_status": "not_found"
   },
   "provenance": {
     "original_name": "友道智途",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "王瑞",
+      "role": "CEO",
+      "background": "上汽体系出身，曾任上汽大通总经理；2022年前后与郝景贤职务互换，出任上海友道智途科技公司CEO，负责公司整体经营与商用车自动驾驶商业化。",
+      "previous_firms": [
+        "上汽大通",
+        "上汽集团"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "澎湃人事报道与2024年具名专访一致；未找到可核实的本人公开职业主页。"
+    }
+  ]
 }

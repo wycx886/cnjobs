@@ -9,6 +9,10 @@
     "零一万物"
   ],
   "category_id": "01",
+  "founded": {
+    "year": 2023,
+    "basis": "公司官网“关于我们”称2023年5月成立；36氪项目库工商信息成立时间为2023-05-16。"
+  },
   "focus": "产业模型与企业决策AI",
   "products": "Yi模型、老板AI、投资官AI、销冠AI",
   "locations_text": "北京、上海（原表；当前具体岗位待招聘页核对）",
@@ -22,8 +26,49 @@
     ]
   },
   "investment": {
-    "summary": "创新工场孵化，阿里云有历史投资；2025年与阿里云建立产业大模型联合实验室。合作不等于被收购。",
-    "verification_status": "partial"
+    "summary": "创新工场孵化（2023-05成立），阿里云有历史投资；2025年与阿里云建立产业大模型联合实验室，合作不等于被收购。结构化轮次按36氪项目库记录填写：天使轮、A轮、战略融资，其中A轮与2026-10战略融资的投资方未具名，金额为报道口径。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2023-11",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库记录为天使轮，金额未披露，投资方阿里云。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2024-08",
+        "amount_text": "数亿美元",
+        "investors": [],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库记为A轮、数亿美元，参与方记为“某国际战投、东南亚财团”，未具名；36氪当时报道公司不予回应。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2026-10",
+        "amount_text": "数亿人民币",
+        "investors": [],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪项目库记为战略融资，投资方记为“市区两级国资联动投资”，未具名；公司官网新闻提到杭州投资零一万物，本轮未取得官方融资公告原文。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.lingyiwanwu.com/",
@@ -33,7 +78,7 @@
     "other_email_purpose": null
   },
   "notes": "原表careers.html入口本次读取失败，暂保留历史链接并标待确认；未查到可核验公开投递邮箱，勿凭命名规则猜测。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -76,6 +121,33 @@
       "supports": "公开企业主页主体：零一万物；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "零一万物官网·管理团队",
+      "url": "https://www.lingyiwanwu.com/about.html",
+      "supports": "管理团队页列出李开复（创始人兼CEO）、马杰、黄蕙雯、沈鹏飞、赵斌强、宁宁的照片、职务与履历。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "36氪：AI六小龙零一万物新一轮高管变动",
+      "url": "https://m.36kr.com/p/3526684698713219",
+      "supports": "报道沈鹏飞以联合创始人身份加入、负责ToB/ToG销售体系，赵斌强与宁宁晋升副总裁。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "X 账号 @kaifulee",
+      "url": "https://x.com/kaifulee",
+      "supports": "账号简介标注 Kai-Fu Lee 为 CEO of @01ai_yi 零一万物、创新工场董事长。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -131,6 +203,127 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "李开复",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "创新工场",
+        "谷歌",
+        "微软",
+        "苹果",
+        "SGI"
+      ],
+      "background": "2023年5月创立零一万物；2009年创立创新工场，此前任谷歌全球副总裁兼大中华区总裁、微软全球副总裁并参与开创微软亚洲研究院。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/kaifulee",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08"
+          ],
+          "notes": "X 页面无法直接抓取；搜索结果摘要显示该账号简介为 Kai-Fu Lee / CEO of @01ai_yi 零一万物（2026-11-11 核查）。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务与履历取自公司官网管理团队页；X 账号据搜索结果中的账号简介对应，未直接打开验证。",
+      "photo": {
+        "path": "assets/people/01-ai-li-kaifu.webp",
+        "source_url": "https://www.lingyiwanwu.com/assets/media/team-01-lee-kai-fu-v3.75c8a366.webp",
+        "page_url": "https://www.lingyiwanwu.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "马杰",
+      "role": "联合创始人（AI+战略业务、数据与安全）",
+      "previous_firms": [
+        "百度",
+        "安全宝",
+        "瑞星"
+      ],
+      "background": "前百度副总裁，负责集团安全与数据、元宇宙等业务；安全宝创始人及CEO；前瑞星公司研发总经理。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务与履历仅取自公司官网管理团队页，未找到第二处独立公开来源。",
+      "photo": {
+        "path": "assets/people/01-ai-ma-jie.webp",
+        "source_url": "https://www.lingyiwanwu.com/assets/media/team-02-ma-jie-v1.180d9366.webp",
+        "page_url": "https://www.lingyiwanwu.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "黄蕙雯",
+      "role": "联合创始人、COO",
+      "previous_firms": [
+        "创新工场",
+        "谷歌",
+        "土豆网",
+        "雅虎"
+      ],
+      "background": "前创新工场运营合伙人；曾任谷歌大中华区市场部总监、土豆网市场和商务副总裁、雅虎搜索及社区事业部高管。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务与履历仅取自公司官网管理团队页，未找到第二处独立公开来源。",
+      "photo": {
+        "path": "assets/people/01-ai-huang-huiwen.webp",
+        "source_url": "https://www.lingyiwanwu.com/assets/media/team-03-huang-huiwen-v1.0ab07541.webp",
+        "page_url": "https://www.lingyiwanwu.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "沈鹏飞",
+      "role": "联合创始人、销售副总裁",
+      "previous_firms": [
+        "百度",
+        "安全宝"
+      ],
+      "background": "前百度智能云中国区副总经理，2017年加入百度；曾主导国家训练场项目；曾任安全宝COO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网管理团队页与36氪高管变动报道均记为联合创始人，负责ToB/ToG业务与销售体系。",
+      "photo": {
+        "path": "assets/people/01-ai-shen-pengfei.webp",
+        "source_url": "https://www.lingyiwanwu.com/assets/media/team-04-shen-pengfei-v3.3ef88490.webp",
+        "page_url": "https://www.lingyiwanwu.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
     }
   ]
 }

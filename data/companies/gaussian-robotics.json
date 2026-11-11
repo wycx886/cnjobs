@@ -103,7 +103,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -176,6 +176,32 @@
       "supports": "官方职业页与 Our vacancies 列表（当日 10 个岗位，含 Channel Commercial Manager 上海、Overseas Market Strategy Manager）；未公开招聘邮箱。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "高仙完成A轮千万级美元融资，自主移动导航系统独角兽浮现（新智元/腾讯云开发者社区）",
+      "url": "https://cloud.tencent.com/developer/article/1138889",
+      "supports": "高仙创始人程昊天，毕业于英国剑桥大学，曾主导上海世博会“海宝机器人”立项与技术方案；公司2013年成立。",
+      "published_date": "2018-05-30",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "Gausium Ranked World's No.1 Commercial Cleaning Robot Supplier by IDC（Gausium官网）",
+      "url": "https://gausium.com/news/idc-2025-worlds-no1-commercial-cleaning-robot-supplier/",
+      "supports": "官方新闻稿引述“Edward Cheng, Founder and CEO, Gausium”，确认高仙（Gausium）创始人兼CEO现职。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "高仙机器人官网转载：今日资本、软银愿景联合领投，高仙机器人完成12亿元C轮融资",
+      "url": "https://www.gs-robot.com/news/%E8%BD%AC%E8%BD%BD%E4%B8%A8%E4%BB%8A%E6%97%A5%E8%B5%84%E6%9C%AC%E3%80%81%E8%BD%AF%E9%93%B6%E6%84%BF%E6%99%AF%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95%EF%BC%8C%E9%AB%98%E4%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA/",
+      "supports": "公司官网转载稿：2021-11-10完成12亿元C轮，今日资本、软银愿景基金联合领投，金镒资本跟投，老股东美团超额认购、蓝驰创投与远翼投资持续跟投；并称公司成立于2013年10月。",
+      "published_date": "2021-11-10",
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "D++轮金额与投资方未在可读页面完整披露；公司未上市，最新估值未核验。",
@@ -191,12 +217,95 @@
     ]
   },
   "investment": {
-    "summary": "2021年完成12亿元C轮融资，今日资本、软银愿景基金联合领投，美团超额认购、蓝驰/远翼跟投；2023年完成D++轮，金额未披露。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2021-11-10完成12亿元C轮，今日资本、软银愿景基金联合领投，金镒资本跟投，老股东美团超额认购，蓝驰创投、远翼投资持续跟投。公司未上市；2023年D++轮未取得可打开的官方来源，未写入结构化轮次。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021-11-10",
+        "amount_text": "12亿元",
+        "investors": [
+          {
+            "name": "今日资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "软银愿景基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "金镒资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "美团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "远翼投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "原文称美团为老股东超额认购，蓝驰创投、远翼投资持续跟投。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "高仙机器人",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "程昊天",
+      "role": "创始人兼CEO",
+      "background": "毕业于英国剑桥大学；曾任职上海世博协调局，主导上海世博会“海宝机器人”项目；2013年在上海创立高仙机器人（Gausium），专注商用清洁机器人。",
+      "previous_firms": [
+        "上海世博协调局"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "中文名与创始人身份见新智元专访；现职由高仙官网英文新闻稿“Edward Cheng, Founder and CEO”支持，英文名与中文名的对应依据同一公司与剑桥履历，未见单页明示；另有2022年C轮报道（既有来源s05）同称创始人兼CEO。"
+    }
+  ],
+  "founded": {
+    "year": 2013,
+    "basis": "公司官网转载稿称高仙机器人成立于2013年10月。"
   }
 }

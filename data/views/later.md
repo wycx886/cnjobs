@@ -9,15 +9,37 @@
 | 机构 | 类型 | 本轮处理 |
 | --- | --- | --- |
 | [五源资本（5Y Capital）](companies/5y-capital.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [毅达资本（Addor Capital）](companies/addor-capital.md) | 投资机构 | 已持续运作并连续进入 VC 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网正文缺口与人物、渠道留待后续任务。 |
+| [博裕投资（Boyu Capital）](companies/boyu-capital.md) | 投资机构 | 已运作十余年的大额 PE，按成熟机构建档；境内管理主体与境外工商记录的对应关系保留为待核项。 |
+| [中科创星（CASSTAR）](companies/casstar.md) | 投资机构 | 已持续运作十余年、连续两年居早期榜首的硬科技早期机构，先按金融机构建档与打 Tier；人物与渠道留待后续任务。 |
+| [鼎晖投资（CDH Investments）](companies/cdh.md) | 投资机构 | 已持续运作二十余年的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。 |
+| [中金资本（CICC Capital）](companies/cicc-capital.md) | 投资机构 | 券商体系内已运作近十年、连续居 PE 榜前列的平台，先按金融机构建档与打 Tier；官网与人物、渠道留待后续任务。 |
+| [中信金石（中信金石投资有限公司）](companies/citic-jinshi.md) | 投资机构 | 券商直投平台中规模与榜单位置稳定的成熟机构，按金融机构建档；新旧名称是否同一法人已按公开材料合并，并保留拆分条件。 |
+| [招银国际资本（CMB International Capital）](companies/cmbi-capital.md) | 投资机构 | 银行系券商旗下的成熟股权投资平台，先按金融机构建档与打 Tier；主体边界与官网缺口保留为待核实项。 |
+| [招商资本（China Merchants Capital）](companies/cmcapital.md) | 投资机构 | 央企与产业资本共同持股的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。 |
+| [同创伟业（Cowin Capital）](companies/cowin-capital.md) | 投资机构 | 本土老牌创投机构，按成熟机构建档；榜单主体与机构库工商主体的对应关系保留为待核项。 |
+| [CPE源峰（CPE）](companies/cpe.md) | 投资机构 | 已持续运作并连续进入 PE 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网缺口未补前不扩大人物与渠道搜集。 |
+| [达晨财智（Fortune Capital）](companies/fortune-capital.md) | 投资机构 | 本土老牌创投机构，按成熟机构建档；本档案严格区分达晨财智法人与达晨创投历史主体。 |
 | [高榕创投（Gaorong Ventures）](companies/gaorong.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
 | [金沙江创投（GSR Ventures）](companies/gsr-ventures.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [国新基金](companies/guoxin-fund.md) | 投资机构 | 国资运营公司体系内已运作多年的国家级基金平台，按成熟金融机构建档；集团与基金管理平台的层级、以及该平台自身成立年份仍待补证。 |
+| [高瓴投资（Hillhouse Investment）](companies/hillhouse.md) | 投资机构 | 已持续运作近二十年的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。 |
 | [红杉中国（HongShan / HSG）](companies/hongshan.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
 | [IDG资本（IDG Capital）](companies/idg-capital.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [金浦投资（金浦产业投资基金管理有限公司）](companies/jinpu-investment.md) | 投资机构 | 地方国资体系内运作多年的产业基金管理平台，按成熟金融机构建档；母体与子基金边界、成立年份口径均已标注待核。 |
+| [基石资本](companies/jishi-capital.md) | 投资机构 | 已运作二十余年的本土 PE，按成熟机构建档；成立年份的品牌口径与法人登记口径在本档案中分开记录。 |
 | [蓝驰创投（Lanchi Ventures）](companies/lanchi.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [君联资本（Legend Capital）](companies/legend-capital.md) | 投资机构 | 已持续运作二十余年的成熟 VC 平台，先按金融机构建档与打 Tier；官网缺口与人物、渠道留待后续任务。 |
+| [联想之星（Legend Star）](companies/legend-star.md) | 投资机构 | 联想控股体系内已运作十余年的早期投资与孵化平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。 |
 | [经纬创投（MPCi）](companies/mpci.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [东方富海（Oriental Fortune Capital）](companies/oriental-fortune.md) | 投资机构 | 已运作二十年的本土创投机构，按成熟机构建档；本轮补充主体、阶段与公开案例，人物与渠道留给后续任务。 |
+| [普华资本](companies/puhua-capital.md) | 投资机构 | 运作二十余年的杭州系综合 VC，按成熟机构建档；品牌年份与法人登记年份已分开记录。 |
+| [啟赋资本](companies/qifu-capital.md) | 投资机构 | 已持续运作十余年的早期投资平台，按成熟机构建档；本轮只确认主体、阶段与公开案例，不新增人物或渠道搜集。 |
 | [启明创投（Qiming Venture Partners）](companies/qiming.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
 | [顺为资本（Shunwei Capital）](companies/shunwei.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [中芯聚源](companies/smic-juyuan.md) | 投资机构 | 已运作十余年的半导体产业型投资机构，按成熟机构建档；股东结构与官网归属仍待补证。 |
 | [源码资本（Source Code Capital）](companies/source-code.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
+| [深创投集团（Shenzhen Capital Group, SCGC）](companies/szvc.md) | 投资机构 | 已持续运作二十余年的成熟国资创投平台，按“先圈定金融机构、再沿 portfolio 找公司”的顺序列为已有玩家；本轮只建档与打 Tier，不新增人物与渠道搜集。 |
 | [云启资本（Yunqi Partners）](companies/yunqi.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
 | [真格基金（ZhenFund）](companies/zhenfund.md) | 投资机构 | 现有材料为已持续运作的成熟投资平台；保留资料，后续按已有玩家中的AI团队研究，本轮不新增搜集。 |
 | [ABB（中国）](companies/abb-china.md) | 经营型机构 | ABB在华及上海业务集合，按成熟工业平台相关线索列入 later；集团、分公司和上海机器人超级工厂分别核验，不认定为同一法人。 |

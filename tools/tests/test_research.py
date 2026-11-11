@@ -234,6 +234,8 @@ class ResearchTests(unittest.TestCase):
         record["sources"] = [{"id": "s01", "title": "合成单元测试依据", "url": "https://www.bytedance.com/about",
                               "supports": "合成测试，不代表实际项目或真实股权关系", "published_date": None,
                               "checked_at": record["checked_at"]}]
+        # Replacing all evidence invalidates any copied person identities and profiles.
+        record["people"] = []
         record["targeting"]["source_ids"] = ["s01"]
         record["investment"] = {"summary": "合成的已确认内部单元，不适用独立主体股权融资。", "verification_status": "not_applicable"}
         record["organizational_context"] = {"form": "internal_team", "parent_platform_ids": ["bytedance"],

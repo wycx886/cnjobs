@@ -18,8 +18,79 @@
     ]
   },
   "investment": {
-    "summary": "启明创投2025年官方周报确认参与未来智能亿元级A轮；36氪融资表另记录万物资本、初心资本、启明创投、孚腾资本及后续产业方。以官方确认的启明投资关系为主。",
-    "verification_status": "partial"
+    "summary": "2025年1月、4月连续完成Pre-A、Pre-A+轮；其后完成亿元级A轮，蚂蚁集团领投、启明创投超额跟投；2026年5月8日完成亿元级A+轮，传音参投。Pre-A/Pre-A+轮金额与投资方未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-01",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪项目库记载2025年1月完成Pre-A轮，未披露金额与投资方。"
+      },
+      {
+        "round": "Pre-A+",
+        "announced_on": "2025-04",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪项目库记载2025年4月完成Pre-A+轮，未披露金额与投资方。"
+      },
+      {
+        "round": "A",
+        "announced_on": null,
+        "amount_text": "亿元级",
+        "investors": [
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01",
+              "s08"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s01",
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s08"
+        ],
+        "notes": "启明创投周报确认参与并“超额跟投”；36氪称蚂蚁集团领投。周报未标具体日期，故日期留空。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2026-05-08",
+        "amount_text": "亿元级",
+        "investors": [
+          {
+            "name": "传音",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪快讯：传音参投并达成战略合作，未披露领投方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.viaim.ai/",
@@ -29,7 +100,7 @@
     "other_email_purpose": "客户服务"
   },
   "notes": "未查到公开招聘邮箱，所列careersUrl为BOSS公司页而非公司官网招聘站。service@仅客服勿用于求职；不要与北京同名无人机公司混淆。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -70,6 +141,33 @@
       "supports": "公司实体、总部与招聘入口",
       "published_date": null,
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "腾讯新闻｜对话未来智能viaim创始人兼CEO马啸",
+      "url": "https://news.qq.com/rain/a/20260728A086D100",
+      "supports": "标题与正文均称「未来智能viaim创始人兼CEO马啸」",
+      "published_date": "2026-07-28",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "搜狐｜对话马啸：硬件将成为AI理解世界的眼睛和耳朵",
+      "url": "https://www.sohu.com/a/1027080680_136866",
+      "supports": "称马啸为未来智能CEO，并记其带viaim讯飞智能体耳机新品现身发布会",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "36氪项目库：未来智能 viaim",
+      "url": "https://pitchhub.36kr.com/project/3264263460172807",
+      "supports": "融资历史与快讯：2025年1月、4月连续完成Pre-A轮、Pre-A+轮；A轮亿元级由蚂蚁集团领投、启明创投超额跟投；A+轮于2026-05-08完成，亿元级，传音参投并达成战略合作。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -89,5 +187,21 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "马啸",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "未来智能（viaim）创始人兼CEO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与职务由两篇不同媒体的专访确认（2026-11-11核查）；公司工商主体为安徽艾德未来智能科技有限公司。"
+    }
+  ]
 }

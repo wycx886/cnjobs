@@ -18,8 +18,61 @@
     ]
   },
   "investment": {
-    "summary": "财新2025-03-25报道公司确认完成腾讯领投的B轮，跟投包括龙旗科技、卧龙电气、华发集团、蓝驰创投等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-03-24公司向财新证实完成新B轮，腾讯领投，龙旗科技、卧龙电气、华发集团、蓝驰创投等产业方及老股东跟投；该轮金额未披露。更早轮次本轮未取得可核验披露，未结构化。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2025-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "龙旗科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "卧龙电气",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华发集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "财新报道并注明“智元机器人向财新证实”；轮次为B轮，金额未披露，跟投名单报道用“等”表示不完整。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.agibot.com/",
@@ -29,7 +82,7 @@
     "other_email_purpose": "销售"
   },
   "notes": "未查到通用招聘邮箱；用官方飞书职位投递。agibot.cn 为敏捷医疗，不属于智元，已排除混淆。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +125,24 @@
       "supports": "公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "智元机器人官网「董事会&合伙人」",
+      "url": "https://www.agibot.com.cn/company/leadership",
+      "supports": "邓泰华任创始人/董事会主席/CEO，彭志辉任联合创始人/总裁/CTO，姜青松任联合创始人/联席总裁/COO，姚卯青任联合创始人/联席总裁、具身业务体系总裁",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "AGIBOT official Board & Partners",
+      "url": "https://www.agibot.com/company/leadership",
+      "supports": "英文官网同一页面：Deng Taihua 为 Founder/Chairman/CEO，Peng Zhihui 为 Co-Founder/President/CTO，Jiang Qingsong 为 Co-Founder/Co-President/COO，Yao Maoqing 为 Co-Founder/Co-President 兼 Embodied AI Business 总裁",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -127,6 +198,91 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "邓泰华",
+      "role": "创始人、董事会主席、CEO",
+      "previous_firms": [],
+      "background": "官网合伙人页列为创始人、董事会主席兼CEO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网董事会与合伙人页（2026-11-11核查）。",
+      "photo": {
+        "path": "assets/people/agibot-deng-taihua.png",
+        "source_url": "https://www.agibot.com.cn/public/static/index/images/Team/team-list-img1.png",
+        "page_url": "https://www.agibot.com.cn/company/leadership",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "彭志辉",
+      "role": "联合创始人、总裁、CTO",
+      "previous_firms": [],
+      "background": "官网合伙人页列为联合创始人、总裁兼CTO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网董事会与合伙人页（2026-11-11核查）；未在本轮另找个人社交主页。",
+      "photo": {
+        "path": "assets/people/agibot-peng-zhihui.png",
+        "source_url": "https://www.agibot.com.cn/public/static/index/images/Team/team-list-img2.png",
+        "page_url": "https://www.agibot.com.cn/company/leadership",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "姜青松",
+      "role": "联合创始人、联席总裁、COO",
+      "previous_firms": [],
+      "background": "官网合伙人页列为联合创始人、联席总裁兼COO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网董事会与合伙人页（2026-11-11核查）。",
+      "photo": {
+        "path": "assets/people/agibot-jiang-qingsong.png",
+        "source_url": "https://www.agibot.com.cn/public/static/index/images/Team/team-list-img3.png",
+        "page_url": "https://www.agibot.com.cn/company/leadership",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "姚卯青",
+      "role": "联合创始人、联席总裁、具身业务体系总裁",
+      "previous_firms": [],
+      "background": "官网合伙人页列为联合创始人、联席总裁，兼具身业务体系总裁。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网董事会与合伙人页（2026-11-11核查）。"
     }
   ]
 }

@@ -18,8 +18,154 @@
     ]
   },
   "investment": {
-    "summary": "官网公司介绍披露2024年B2轮由美团、金石投资、源码资本及深创投等参与。此处为历史投资背景，不将未核实的IPO或最新估值写为事实。另据2026-08 IPO 公开报道，DeepSeek／梁文锋相关主体参与宇树科创板战略配售（约1.41亿元量级口径见媒体）；这是上市战配，不等于本轮私募领投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网披露2024年2月完成B2轮，金额近10亿元人民币，美团、金石投资、源码资本投资，深创投、中网投、容亿、敦鸿、米达钧石跟投；2025年6月完成近7亿元C轮，中国移动、腾讯、锦秋、阿里、蚂蚁、吉利资本共同领投。公司已于2026年8月19日在上交所科创板上市（688836），故本轮改列现有巨头。历史投资背景不等于当前完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B2",
+        "announced_on": "2024-02",
+        "amount_text": "近10亿元人民币",
+        "investors": [
+          {
+            "name": "美团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "金石投资",
+            "firm_id": "citic-jinshi",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中网投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "容亿",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "敦鸿",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "米达钧石",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "宇树官网公司介绍：美团、金石投资、源码资本为B2轮投资方，深创投、中网投、容亿、敦鸿、米达钧石为老股东跟投。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-06",
+        "amount_text": "近7亿元",
+        "investors": [
+          {
+            "name": "中国移动",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "锦秋基金",
+            "firm_id": "jinqiu",
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "吉利资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "21世纪经济报道：六家机构共同领投，金额近7亿元。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2026-08-19",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "上交所科创板，证券代码 688836；上市日期 2026-08-19。上市发行价与募资额未在本轮核对，金额留空。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.unitree.com/",
@@ -29,15 +175,15 @@
     "other_email_purpose": "销售"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-11-09",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
       "title": "宇树公司介绍",
       "url": "https://www.unitree.com/operate/company/",
-      "supports": "业务及历史投资方",
+      "supports": "业务及历史投资方；宇树官网公司介绍：2024年2月完成B2轮融资，金额近10亿元人民币，投资方包括美团、金石投资、源码资本，老股东深创投、中网投、容亿、敦鸿和米达钧石跟投；同页载2024年2月工商变更股东名单。",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -80,6 +226,42 @@
       "supports": "DeepSeek／梁文锋相关主体参与宇树 IPO 战略配售及后续具身投资叙事",
       "published_date": null,
       "checked_at": "2026-11-09"
+    },
+    {
+      "id": "s07",
+      "title": "宇树科技官网 About / 公司发展",
+      "url": "https://www.unitree.com/about/",
+      "supports": "官网公司发展栏记载王兴兴硕士期间研发XDog、2016年毕业后创业，并称其为公司CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "36氪/投资界：十年，王兴兴逆袭：宇树4000亿",
+      "url": "https://www.36kr.com/p/3945791947357315",
+      "supports": "王兴兴1990年生于浙江宁波，上海大学读研期间做出四足机器人XDog，2016年毕业后入职大疆两个多月即辞职创业，创办宇树。",
+      "published_date": "2026-08-19",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资｜21私募投融资周报",
+      "url": "https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html",
+      "supports": "21世纪经济报道周报：宇树科技完成由中国移动、腾讯、锦秋、阿里、蚂蚁和吉利资本共同领投的近7亿元C轮融资。",
+      "published_date": "2025-06-23",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "上海证券交易所 上市公司列表（宇树科技 688836）",
+      "url": "https://query.sse.com.cn/sseQuery/commonQuery.do?sqlId=COMMON_SSE_CP_GPJCTPZ_GPLB_GP_L&isPagination=true&pageHelp.pageSize=2000&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1&pageHelp.endPage=2",
+      "supports": "上交所股票列表数据：公司简称“宇树科技”、A股代码688836、上市板块为科创板（LIST_BOARD=2）、上市日期20260819、公司全称“宇树科技股份有限公司”。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -92,12 +274,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2026年8月19日在上海证券交易所科创板上市（688836），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s10"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -135,6 +316,22 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "王兴兴",
+      "role": "创始人兼CEO",
+      "background": "宇树科技创始人兼CEO；上海大学机械工程硕士，硕士期间研发低成本四足机器人XDog，2016年创立公司。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色与创业经历据公司官网与36氪/投资界2026年报道。"
     }
   ]
 }

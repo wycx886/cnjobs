@@ -123,6 +123,47 @@
         ]
       }
     },
+    "photo": {
+      "type": "object",
+      "description": "Optional locally stored portrait; the file is a downloaded copy of the public image named by source_url.",
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^assets/people/[a-z0-9-]+\\.(jpg|jpeg|png|webp)$"
+        },
+        "source_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "page_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "checked_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^s[0-9]{2,}$"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "path",
+        "source_url",
+        "page_url",
+        "checked_at",
+        "source_ids"
+      ],
+      "additionalProperties": false
+    },
     "source_ids": {
       "type": "array",
       "minItems": 1,

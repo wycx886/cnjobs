@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/gaorong.json)
 
-机构 ID：`gaorong` · 核查日期：2026-10-30
+机构 ID：`gaorong` · 核查日期：2026-11-11
 
 **目标标记：** 已有玩家／后续 · incumbent（编辑归类，2026-10-31）
 
@@ -90,3 +90,7 @@ gaorongvc.com与历史banyanvc.com均承载机构官方内容；创始团队在I
 | s03 | [高榕资本 — 36氪机构档案](https://pitchhub.36kr.com/organization/1678204772758533) | 三位创始人前机构背景 | 未标明 | 2026-10-30 |
 | s04 | [Waffo Secures 30 Million USD](https://waffo.com/en/newsroom/waffo-secures-30m-funding-global-payment-infrastructure) | 2026年2月公司确认最新A轮超1500万美元，高榕为联合领投方；3000万美元为累计融资 | 2026-02-04 | 2026-10-30 |
 | s05 | [「高榕创投招聘」-BOSS直聘](https://www.zhipin.com/gongsi/ed4f653e22d766de1nN_2ti8.html) | 公开企业主页主体：高榕创投；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s06 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 高榕创投：清科2025年中国创业投资机构50强第8名 | 未标明 | 2026-11-11 |
+| s07 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 高榕创投：清科创业2024年中国创业投资机构100强第12名 | 未标明 | 2026-11-11 |
+| s08 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 高榕创投：投中2025年度中国最佳创业投资机构TOP100第20名 | 2026-04-24 | 2026-11-11 |
+| s09 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 高榕创投：投中2024年度中国最佳创业投资机构TOP100第34名 | 2025-04-18 | 2026-11-11 |

@@ -20,8 +20,233 @@
     ]
   },
   "investment": {
-    "summary": "2022-04完成1亿美元C轮，高盛及产业CVC领投，GGV、高瓴跟投；历史B轮Coatue领投。未核到红杉投资，删除原表该项。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2019年10月种子轮（盈动资本、良仓加速器）、2020年4月天使轮（初心资本、盈动资本）、2020年10月千万美元A轮、2021年8月5000万美元B轮（Coatue领投）、2022年4月1亿美元C轮（高盛与某产业CVC领投，GGV、高瓴创投等跟投）；两年累计融资近2亿美元。种子/天使轮金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2019-10",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "盈动资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "良仓加速器",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "亿邦动力融资历程表列示2019-10-01，金额“未披露”。"
+      },
+      {
+        "round": "天使",
+        "announced_on": "2020-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "盈动资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "亿邦动力融资历程表列示2020-04-01，金额“未披露”。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2020-10",
+        "amount_text": "千万美元",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "GGV纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "红点中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "盈动资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "亿邦动力融资历程表列示2020-10-22，未标领投方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-08",
+        "amount_text": "5000万美元",
+        "investors": [
+          {
+            "name": "Coatue Management",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "GGV纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "红点中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "曦域资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "亿邦动力：Coatue Management领投，其余跟投。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2022-04",
+        "amount_text": "1亿美元",
+        "investors": [
+          {
+            "name": "高盛",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "某产业CVC机构",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "GGV纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "亿邦动力：高盛与某产业CVC机构领投；融资历程表另列腾讯投资，正文未展开其角色。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.yingdao.com/",
@@ -31,7 +256,7 @@
     "other_email_purpose": "企业咨询/商务"
   },
   "notes": "fc为官网一般联系邮箱，不能当作投递邮箱。；未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -45,9 +270,9 @@
       "id": "s02",
       "title": "亿邦影刀C轮融资",
       "url": "https://m.ebrun.com/ebrungo/zb/482074.html",
-      "supports": "历史投资背景",
+      "supports": "历史投资背景；亿邦动力：影刀RPA 2022-04完成1亿美元C轮，高盛与某产业CVC领投，GGV、高瓴创投等跟投；并附融资历程表：种子轮2019-10（盈动资本、良仓加速器）、天使轮2020-04（初心资本、盈动资本）、A轮2020-10-22千万美元、B轮2021-08-31 5000万美元（Coatue领投）；称公司成立于2019年、两年累计融资近2亿美元。",
       "published_date": "2022-04-26",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s03",
@@ -82,6 +307,33 @@
       "supports": "公开企业主页主体：影刀RPA；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "百度百科·影刀",
+      "url": "https://baike.baidu.com/item/%E5%BD%B1%E5%88%80/61933581",
+      "supports": "影刀为杭州分叉智能科技有限公司2019年推出的RPA软件品牌，创始人金礼剑；品牌服务全球超1万家企业。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "36氪：影刀RPA金礼剑：好产品就是最好的商业模式",
+      "url": "https://m.36kr.com/p/1521338055643267",
+      "supports": "称金礼剑（花名“十布”）为影刀RPA创始人，讲述其以产品驱动商业化的理念。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "金礼剑 LinkedIn 主页（搜索结果摘要）",
+      "url": "https://cn.linkedin.com/in/%E7%A4%BC%E5%89%91-%E9%87%91-7a3151a9",
+      "supports": "DuckDuckGo 结果标题显示“金礼剑 - 影刀RPA创始人”，摘要列出工作经历为杭州分叉智能科技有限公司；页面正文未能直接抓取。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -138,5 +390,39 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "金礼剑",
+      "role": "创始人兼CEO",
+      "background": "花名“十布”；2019年10月创立杭州分叉智能科技，推出影刀RPA，主张“做一款普通用户玩得转的RPA产品”，推动低代码、可视化流程自动化在电商、金融、物流等行业的落地。",
+      "previous_firms": [],
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/%E7%A4%BC%E5%89%91-%E9%87%91-7a3151a9",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s08",
+            "s09"
+          ],
+          "notes": "搜索结果标题与摘要显示姓名为金礼剑、职务为“影刀RPA创始人”、经历为杭州分叉智能科技有限公司；LinkedIn 页面正文无法直接抓取，故标记 partial。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "人物身份由百科与36氪报道确认；LinkedIn 主页仅据搜索结果摘要登记，状态 partial。"
+    }
+  ],
+  "founded": {
+    "year": 2019,
+    "basis": "亿邦动力报道称影刀RPA（杭州分叉智能）成立于2019年。"
+  }
 }

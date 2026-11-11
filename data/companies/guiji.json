@@ -20,8 +20,30 @@
     ]
   },
   "investment": {
-    "summary": "Dealroom记录2019年B轮腾讯参与，2025年D轮扬州杭集高新区产业基金；最新融资及原表红杉/招银名单未获足够官方证据。",
-    "verification_status": "partial"
+    "summary": "2025年完成数亿元D轮，投资方为嘉兴高新区产业基金（嘉兴秀洲区）；澎湃新闻据招股书称IPO前共8轮融资，最后一轮于2025-05-26完成、融资2亿元、投后估值31.5亿元，腾讯通过B、C两轮持股16.59%。公司已递表港交所，尚未上市。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2025-05-26",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "嘉兴高新区产业基金（嘉兴秀洲区）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08",
+          "s09"
+        ],
+        "notes": "36氪2025-07-05报道完成数亿元D轮并给出投资方；澎湃据招股书称最后一轮于2025-05-26完成、融资2亿元，金额口径不一致。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.guiji.ai/",
@@ -30,8 +52,8 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "排除guijizhinengcn.com及苏州同名企业szguiji.cn，未采用个人工商邮箱作为招聘邮箱。；未查到通用招聘投递邮箱。；平台职位检索页，含南京硅基智能职位；非公司自建官招站。 展示名称按公司／业务主体整理，附加城市信息保留在 locations_text 与地区核查备注，不单列地区公司；原来源、日期和核验状态不变。",
-  "checked_at": "2026-10-30",
+  "notes": "排除guijizhinengcn.com及苏州同名企业szguiji.cn，未采用个人工商邮箱作为招聘邮箱。；未查到通用招聘投递邮箱。；平台职位检索页，含南京硅基智能职位；非公司自建官招站。 展示名称按公司／业务主体整理，附加城市信息保留在 locations_text 与地区核查备注，不单列地区公司；原来源、日期和核验状态不变；2026年公司二次递表港交所；本次未取得其已上市的证据，仍按未上市处理。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +96,40 @@
       "supports": "公开企业主页主体：南京硅基智能科技有限公司 (page title)；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "36氪专访：硅基智能创始人司马华鹏：硅基生命初露锋芒，AIGC未来乍现",
+      "url": "https://www.36kr.com/p/2170660509315331",
+      "supports": "司马华鹏为硅基智能创始人兼CEO；公司做AI数字人与智能交互。",
+      "published_date": "2023-03-15",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "亿欧网专访：硅基智能创始人司马华鹏：希望冲击成为首家收入利润双百亿的AI独角兽",
+      "url": "https://www.sohu.com/a/669504726_115035",
+      "supports": "称司马华鹏为硅基智能创始人&CEO，并回顾其连续创业经历。",
+      "published_date": "2023-04-24",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "36氪：硅基智能完成D轮融资，数字人业务营收数亿",
+      "url": "https://www.36kr.com/p/3362675516901129",
+      "supports": "报道2025年完成数亿元D轮，投资方为嘉兴高新区产业基金（嘉兴秀洲区）；称公司2017年成立、已完成10轮融资。",
+      "published_date": "2025-07-05",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "澎湃新闻：硅基智能冲刺港股“数字人第一股”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33245243",
+      "supports": "据招股书：IPO前共8轮融资，最后一轮于2025-05-26完成、融资2亿元、投后估值31.5亿元；腾讯通过B、C两轮持股。",
+      "published_date": "2026-05-28",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -130,5 +186,25 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "司马华鹏",
+      "role": "创始人兼CEO",
+      "background": "硅基智能创始人，连续创业者；公司2017年成立，主攻AI数字人与智能交互产品。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色据36氪2023年专访；部分工商资料称其任董事长，未在本条合并。未找到可核实的本人LinkedIn/X主页。"
+    }
+  ],
+  "founded": {
+    "year": 2017,
+    "basis": "36氪报道称公司自2017年成立以来已完成多轮融资；澎湃招股书报道亦载其经营记录。"
+  }
 }

@@ -20,8 +20,88 @@
     ]
   },
   "investment": {
-    "summary": "蓝驰官网确认早期领投；2025年11月B轮由Emergence、SBI、LG Technology Ventures、Pavilion、Uphonest等支持，老股东继续投资。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "蓝驰创投官方稿：2024年初完成种子轮合计约6000万美元，由蓝驰领投；2025-11-20完成2.75亿美元B轮，Emergence Capital、SBI Investment、LG Technology Ventures、Pavilion Capital、Uphonest Capital等支持，老股东全部加注。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2024",
+        "amount_text": "approximately $60 million",
+        "investors": [
+          {
+            "name": "蓝驰创投（Lanchi Ventures）",
+            "firm_id": "lanchi",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "蓝驰官方稿称公司于2024年初完成种子轮，合计约6000万美元，由蓝驰领投。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2025-11-20",
+        "amount_text": "$275 million",
+        "investors": [
+          {
+            "name": "Emergence Capital Partners",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "SBI Investment",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "LG Technology Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Pavilion Capital",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Uphonest Capital",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投（Lanchi Ventures）",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "蓝驰官方稿称B轮超额认购、投后估值12.5亿美元，老股东全部加注；未逐家标注领投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.genspark.ai/",
@@ -31,7 +111,7 @@
     "other_email_purpose": "用户支持邮箱（非招聘）"
   },
   "notes": "未查到公开招聘邮箱；通过官方招聘页连接职位系统投递，不使用同名genspark.net培训公司的邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -39,7 +119,7 @@
       "url": "https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/",
       "supports": "融资与模型编排方向",
       "published_date": "2025-11-20",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -56,6 +136,24 @@
       "supports": "support邮箱",
       "published_date": null,
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s04",
+      "title": "击败Manus？前百度AI高管创业1年多，放弃500万用户搜索产品，研发9个月转向“最强Agent” - InfoQ",
+      "url": "https://www.infoq.cn/article/LuHAffQaLe7PL9i7Qohu",
+      "supports": "MainFunc 成立于2023年年底，创始人为景鲲（Eric Jing）和朱凯华（Kay Zhu）；景鲲曾任小度科技CEO、百度集团副总裁，朱凯华曾任小度科技CTO、谷歌主任架构师。",
+      "published_date": "2025-04-07",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s05",
+      "title": "Eric Jing (@ericjing_ai) / X",
+      "url": "https://x.com/ericjing_ai",
+      "supports": "X 主页简介：Cofounder/CEO @Genspark_ai，Ex-CPO @Baidu Search，Ex-Principal Dev Mgr @Microsoft Bing；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -75,5 +173,52 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "景鲲（Eric Jing）",
+      "role": "联合创始人兼CEO",
+      "previous_firms": [
+        "百度",
+        "微软"
+      ],
+      "background": "曾任百度集团副总裁、小度科技CEO、百度智能生活事业群组总经理、百度人工智能产品委员会主席；加入百度前在微软负责必应搜索亚洲市场研发。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/ericjing_ai",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s04",
+            "s05"
+          ],
+          "notes": "X 页面需登录、未直接抓取；搜索结果快照显示简介为 Cofounder/CEO @Genspark_ai、Ex-CPO @Baidu Search。"
+        }
+      ],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "InfoQ 与 X 简介相互印证其 MainFunc／Genspark 联合创始人身份；公司无公开团队页。"
+    },
+    {
+      "name": "朱凯华（Kay Zhu）",
+      "role": "联合创始人",
+      "previous_firms": [
+        "百度",
+        "Google"
+      ],
+      "background": "曾任小度科技CTO；加入百度前为谷歌主任架构师，参与 Google Panda 等核心算法。",
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅 InfoQ 一篇报道确认其为联合创始人，未找到可核实的个人主页或公司团队页。"
+    }
+  ]
 }

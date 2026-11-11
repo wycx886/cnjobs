@@ -4,6 +4,9 @@ company_id,company,source_id,title,url,supports,published_date,checked_at
 01-ai,零一万物 01.AI,s03,李开复采访,https://36kr.com/p/3115390169927685,产业联合实验室与路线调整,,2026-10-30
 01-ai,零一万物 01.AI,s04,「北京零一万物信息技术招聘」-BOSS直聘,https://www.zhipin.com/gongsi/6604fa28d0b480c11X1y09-6FFc~.html,公开企业主页主体：北京零一万物信息技术；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 01-ai,零一万物 01.AI,s05,【零一万物招聘】-猎聘,https://www.liepin.com/company/13948001/,公开企业主页主体：零一万物；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+01-ai,零一万物 01.AI,s06,零一万物官网·管理团队,https://www.lingyiwanwu.com/about.html,管理团队页列出李开复（创始人兼CEO）、马杰、黄蕙雯、沈鹏飞、赵斌强、宁宁的照片、职务与履历。,,2026-11-11
+01-ai,零一万物 01.AI,s07,36氪：AI六小龙零一万物新一轮高管变动,https://m.36kr.com/p/3526684698713219,报道沈鹏飞以联合创始人身份加入、负责ToB/ToG销售体系，赵斌强与宁宁晋升副总裁。,,2026-11-11
+01-ai,零一万物 01.AI,s08,X 账号 @kaifulee,https://x.com/kaifulee,账号简介标注 Kai-Fu Lee 为 CEO of @01ai_yi 零一万物、创新工场董事长。,,2026-11-11
 alibaba,阿里巴巴集团 Alibaba,s01,阿里巴巴集团官方网站,https://www.alibabagroup.com/,集团官网身份,,2026-11-02
 alibaba,阿里巴巴集团 Alibaba,s02,Alibaba Group Careers,https://talent.alibaba.com/,集团招聘入口,,2026-11-02
 alibaba,阿里巴巴集团 Alibaba,s03,阿里云百炼：什么是阿里云百炼,https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio,云侧千问／模型服务主题证据,,2026-11-02
@@ -26,6 +29,8 @@ baichuan,百川智能 Baichuan,s02,百川官方招聘,https://careers.baichuan-i
 baichuan,百川智能 Baichuan,s03,第一财经：百川A轮,https://www.yicai.com/news/102205877.html,公司确认投资方,2024-07-25,2026-10-30
 baichuan,百川智能 Baichuan,s04,Crunchbase百川档案,https://www.crunchbase.com/organization/baichuan-intelligence,bd商务邮箱（第三方）,,2026-10-30
 baichuan,百川智能 Baichuan,s05,「百川智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/8d42a94fe13be56c03N43t-7GVU~.html,公开企业主页主体：百川智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+baichuan,百川智能 Baichuan,s06,维基百科：王小川,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E5%B7%9D,职业一栏为「百川智能创始人兼首席执行官（2023至今）」，并记其曾任搜狗首席执行官、搜狐高级副总裁兼CTO,,2026-11-11
+baichuan,百川智能 Baichuan,s07,百川智能校园招聘官网「关于我们」,https://careers.baichuan-inc.com/,「百川智能成立于2023年3月24日，由前搜狗公司创始人兼CEO王小川创立」,,2026-11-11
 baidu,百度 Baidu,s01,关于百度,https://home.baidu.com/,集团关于页／官网身份,,2026-11-02
 baidu,百度 Baidu,s02,百度招聘,https://talent.baidu.com/,官方招聘入口,,2026-11-02
 baidu,百度 Baidu,s03,百度智能云：文心大模型产品页,https://cloud.baidu.com/product/model.html,文心／ERNIE 主题证据,,2026-11-02
@@ -55,11 +60,18 @@ deepseek,深度求索 DeepSeek,s04,DeepSeek官方API文档,https://api-docs.deep
 deepseek,深度求索 DeepSeek,s05,DeepSeek官方API参考,https://api-docs.deepseek.com/api/deepseek-api/,明确列api-service@deepseek.com为DeepSeek Support,,2026-10-30
 deepseek,深度求索 DeepSeek,s06,「深度求索招聘」-BOSS直聘,https://www.zhipin.com/gongsi/ffd531b0cbd4133f1XN92Nm0EFU~.html,公开企业主页主体：深度求索；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 deepseek,深度求索 DeepSeek,s07,【DeepSeek招聘】-猎聘,https://www.liepin.com/company/21147967/,公开企业主页主体：DeepSeek；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+deepseek,深度求索 DeepSeek,s08,新浪财经转载：DeepSeek创始人梁文锋的独家采访（暗涌2024年7月）,https://www.sohu.com/a/857400339_122014422,梁文锋为DeepSeek创始人；受访谈模型架构、开源策略与团队组织。,2025-02-10,2026-11-11
+deepseek,深度求索 DeepSeek,s09,暗涌Waves/Founder Park 采访转载：DeepSeek创始人专访,https://www.sohu.com/a/853953863_121124362,转载暗涌对梁文锋的采访，明确其为DeepSeek创始人，并述其“只做研究、坚持开源”的表述。,2025-01-28,2026-11-11
 langboat,澜舟科技 Langboat,s01,澜舟官方介绍,https://www.langboat.com/about,产品、孵化背景、招聘邮箱,,2026-10-30
 langboat,澜舟科技 Langboat,s02,澜舟官方联系页,https://www.langboat.com/document/general/other/contact,招聘与商务邮箱,,2026-10-30
 langboat,澜舟科技 Langboat,s03,Eight Roads官方投资披露,https://eightroads.com/cn/news/our-investment-in-langboat,Pre-A投资方,,2026-10-30
 langboat,澜舟科技 Langboat,s04,澜舟科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f769f690e846c59e1XR70968FFc~.html,公开企业主页主体：澜舟科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 langboat,澜舟科技 Langboat,s05,【澜舟科技招聘】-猎聘,https://www.liepin.com/company/13173687/,公开企业主页主体：澜舟科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+langboat,澜舟科技 Langboat,s06,澜舟科技官方“关于我们/核心成员”（2026-11-11复核）,https://www.langboat.com/about,官方团队页列：周明博士为创始人、首席执行官；李京梅为合伙人、联席CEO；曾一杰为合伙人、首席技术官，并给出各自履历。,,2026-11-11
+langboat,澜舟科技 Langboat,s07,周明博士简介（澜舟科技官网）,https://www.langboat.com/about/resume,周明为北京澜舟科技有限公司创始人和CEO，哈工大计算机博士，曾任微软亚洲研究院副院长、ACL主席，2021年6月创立澜舟。,,2026-11-11
+langboat,澜舟科技 Langboat,s08,创新工场：北京澜舟科技完成近亿元Pre-A轮融资,https://www.chuangxin.com/blog/pre-a,Pre-A轮由联想创投、斯道资本共同领投，创新工场跟投；此前分别完成由创新工场人工智能工程院和前沿科技基金主导的种子轮和天使轮。,,2026-11-11
+langboat,澜舟科技 Langboat,s09,联想创投：领投北京澜舟科技近亿元Pre-A轮融资,https://capital.lenovo.com/news/detail/id/586.html,北京澜舟科技完成由联想创投、斯道资本共同领投和创新工场跟投的人民币近亿元Pre-A轮融资。,2022-02-10,2026-11-11
+langboat,澜舟科技 Langboat,s10,36氪：澜舟科技完成Pre-A+轮融资,https://www.36kr.com/p/2170962683015683,Pre-A+轮由北京中关村科学城公司领投，斯道资本和创新工场跟投；不到一年融资总额达数亿元。,2023-03-14,2026-11-11
 meituan,美团 Meituan,s01,美团官网,https://www.meituan.com/,集团官网身份,,2026-11-02
 meituan,美团 Meituan,s02,美团招聘,https://zhaopin.meituan.com/,官方招聘入口,,2026-11-02
 meituan,美团 Meituan,s03,美团新闻：发布 LongCat-2.5 大模型,https://www.meituan.com/news/NN261102280001343,LongCat 主题证据,,2026-11-02
@@ -75,15 +87,32 @@ meituan,美团 Meituan,s12,美团数字化升级 引领零售新趋势 创新型
 minimax,MiniMax,s01,MiniMax官方招聘,https://www.minimax.io/careers,官方投递入口与模型/产品方向,,2026-10-30
 minimax,MiniMax,s02,MiniMax公司报告,https://www.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202119_c.pdf,IR邮箱,2026-04-22,2026-10-30
 minimax,MiniMax,s03,第一财经全球：MiniMax上市,https://www2.yicaiglobal.com/news/chinese-ai-startup-minimaxs-stock-pops-in-hong-kong-trading-debut,投资方与消费产品,2026-01-09,2026-10-30
+minimax,MiniMax,s04,MiniMax 投资者关系「管理团队」,https://ir.minimax.cn/corporate-information/management,闫俊杰任创始人、董事会主席、CEO兼CTO；贠烨祎任执行董事兼COO；赵鹏宇任执行董事兼大语言模型研究与工程负责人，并附各自履历,,2026-11-11
+minimax,MiniMax,s05,MiniMax Investor Relations: Management Team (EN),https://ir.minimax.cn/en/corporate-information/management,英文管理团队页：Dr. Yan Junjie 为 Founder/Chairman/CEO/CTO，Ms. Yun Yeyi 为 Executive Director/COO，Mr. Zhao Pengyu 为 Executive Director 兼大语言模型研究负责人,,2026-11-11
+minimax,MiniMax,s06,HKEXnews｜MiniMax Group Inc. 最終發售價及配發結果公告,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0108/2026010801343_c.pdf,股份代號 00100、最終發售價 165.00 港元、上市日期 2026-01-09,2026-01-08,2026-11-11
+minimax,MiniMax,s07,MiniMax 投资者关系,https://ir.minimax.cn/,公司设有投资者关系站（公司公告、股价信息），确认其为港交所上市公司,,2026-11-11
 modelbest,面壁智能 ModelBest,s01,ModelBest官网,https://www.modelbest.cn/en/,端侧模型和产品,,2026-10-30
 modelbest,面壁智能 ModelBest,s02,中传就业信息：面壁招聘,https://ccs.cuc.edu.cn/2025/0918/c5547a260190/page.htm,投递邮箱与北京/上海,2025-09-18,2026-10-30
-modelbest,面壁智能 ModelBest,s03,36氪面壁融资档案,https://pitchhub.36kr.com/project/2214864842159235,2026部分融资方,,2026-10-30
+modelbest,面壁智能 ModelBest,s03,36氪面壁融资档案,https://pitchhub.36kr.com/project/2214864842159235,2026部分融资方,,2026-11-11
 modelbest,面壁智能 ModelBest,s04,面壁智能招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/fe9a46fa5cc595550nR63dS9EFs~.html,公开企业主页主体：面壁智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+modelbest,面壁智能 ModelBest,s05,百度百科·曾国洋,https://baike.baidu.com/item/%E6%9B%BE%E5%9B%BD%E6%B4%8B/65037092,曾国洋1998年生于四川成都，毕业于清华大学，现任面壁智能联合创始人兼首席技术官（CTO）。,,2026-11-11
+modelbest,面壁智能 ModelBest,s06,百度百科·刘知远,https://baike.baidu.com/item/%E5%88%98%E7%9F%A5%E8%BF%9C/65671043,刘知远为面壁智能联合创始人、首席科学家，清华大学计算机系副教授、博士生导师。,,2026-11-11
+modelbest,面壁智能 ModelBest,s07,清华大学：面壁智能首席科学家刘知远：大模型的“摩尔定律”是模型知识密度持续增强,https://www.tsinghua.edu.cn/info/1182/112713.htm,清华官网称刘知远为清华大学长聘副教授、面壁智能联合创始人兼首席科学家。,,2026-11-11
+modelbest,面壁智能 ModelBest,s08,搜狐：创始团队来自清华，面壁智能完成数亿元新一轮融资,https://www.sohu.com/a/943788678_439726,称面壁智能成立于2022年，创始团队来自清华大学自然语言处理实验室；原知乎CTO李大海于2023年出任面壁智能CEO。,,2026-11-11
+modelbest,面壁智能 ModelBest,s09,知乎专栏：26岁带着百人团队冲刺大模型，面壁智能天才CTO,https://zhuanlan.zhihu.com/p/696698347,文中称面壁智能CEO为李大海，并引述其“以小搏大”的端侧模型策略。,,2026-11-11
+modelbest,面壁智能 ModelBest,s10,InfoQ《大模型领航者》访谈：面壁智能CTO曾国洋,https://www.infoq.cn/article/Qc2Wfg8X8No3R7QpQlR7,以“面壁智能CTO曾国洋”具名访谈，谈大模型训练与工程效率。,,2026-11-11
+modelbest,面壁智能 ModelBest,s11,刘知远清华大学个人主页,https://nlp.csai.tsinghua.edu.cn/~lzy/,其清华个人主页（Zhiyuan Liu），列出研究方向（大语言模型、自然语言处理、知识图谱、社会计算）、论文与招生信息。,,2026-11-11
 moonshot,月之暗面 Kimi,s01,Moonshot官方介绍,https://www.moonshot.cn/about,愿景、地址、growth邮箱,,2026-10-30
 moonshot,月之暗面 Kimi,s02,Kimi官方招聘,https://careers.kimi.com/about-us,公司招聘入口,,2026-10-30
 moonshot,月之暗面 Kimi,s03,每经：月之暗面融资,https://www.nbd.com.cn/articles/2024-02-19/3247754.html,2024年2月历史投资方,2024-02-19,2026-10-30
 moonshot,月之暗面 Kimi,s04,官方Kimi Code仓库招聘帖,https://github.com/MoonshotAI/kimi-code/issues/2628,代码Agent与北京/上海,,2026-10-30
 moonshot,月之暗面 Kimi,s05,月之暗面招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f0fe9220123c051b03152d-4FVI~.html,公开企业主页主体：月之暗面；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+moonshot,月之暗面 Kimi,s06,Zhilin Yang 个人主页（kimiyoung.github.io）,https://kimiyoung.github.io/,杨植麟（Zhilin Yang）个人主页：2019年卡内基梅隆大学计算机博士，2015年清华大学本科（导师唐杰），曾在Meta AI与Google Brain工作，自述“working on a startup”；页面链接其GitHub与Google Scholar。,,2026-11-11
+moonshot,月之暗面 Kimi,s07,GitHub 个人账号 kimiyoung,https://github.com/kimiyoung,个人GitHub账号，托管Transformer-XL、Planetoid等项目，与个人主页所链账号一致。,,2026-11-11
+moonshot,月之暗面 Kimi,s08,GitHub API：/users/kimiyoung 实测返回,https://api.github.com/users/kimiyoung,接口实测返回 login=kimiyoung、name=Zhilin Yang、type=User、blog=http://kimiyoung.github.io/，确认是个人账号而非组织账号。,,2026-11-11
+moonshot,月之暗面 Kimi,s09,月之暗面（公司）（中文维基百科条目）,https://zh.wikipedia.org/wiki/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2_(%E5%85%AC%E5%8F%B8),条目记“创办人 杨植麟”“代表人物 杨植麟、周昕宇和吴育昕”，公司由清华大学交叉信息研究院的杨植麟、周昕宇和吴育昕等人于2023年3月创立。,,2026-11-11
+moonshot,月之暗面 Kimi,s10,Moonshot AI（English Wikipedia）,https://en.wikipedia.org/wiki/Moonshot_AI,"信息框记 Founders: Yang Zhilin, Zhou Xinyu, Wu Yuxin；Key people: Yang Zhilin (CEO)。",,2026-11-11
+moonshot,月之暗面 Kimi,s11,36氪项目库｜月之暗面,https://pitchhub.36kr.com/project/2298265962431748,融资历史：2024-08 B 轮超 3 亿美元、2025-12 C 轮 5 亿美元、2026-02 C+ 轮超 7 亿美元、2026-05 D 轮 20 亿美元、2026-06 D+ 轮及各自投资方,,2026-11-11
 shanghai-ai-lab,上海人工智能实验室,s01,上海人工智能实验室 公开入口,https://www.shlab.org.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 shanghai-ai-lab,上海人工智能实验室,s02,首页 - 上海人工智能实验室,https://www.shlab.org.cn/,公开官网主体观察：https://www.shlab.org.cn/；只核验入口归属。,,2026-11-02
 shanghai-ai-lab,上海人工智能实验室,s03,加入我们 - 上海人工智能实验室,https://www.shlab.org.cn/joinus,公开招聘入口主体观察：https://www.shlab.org.cn/joinus；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -91,12 +120,19 @@ shanghai-ai-lab,上海人工智能实验室,s04,【上海人工智能实验室�
 shanghai-ai-lab,上海人工智能实验室,s05,BOSS直聘企业主页 · 上海人工智能实验室,https://www.zhipin.com/gongsi/bff9220aa6f0bbb81nF82t20F1A~.html,公开企业主页主体：上海人工智能实验室；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 shanghai-ai-lab,上海人工智能实验室,s06,上海人工智能实验室官网,https://www.shlab.org.cn/,书生系列模型、OpenCompass、OpenDataLab、MinerU及招聘方向。,,2026-11-03
 shanghai-ai-lab,上海人工智能实验室,s07,维基百科：上海人工智能实验室,https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4,2020年7月11日揭牌、由上海人工智能创新中心发起设立、研究型机构定位。,,2026-11-03
+shanghai-ai-lab,上海人工智能实验室,s08,清华大学电子工程系：周伯文中文主页,https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm,周伯文为清华大学电子工程系讲席教授、上海人工智能实验室主任兼首席科学家、衔远科技创始人，IEEE Fellow、CAAI Fellow,,2026-11-11
+shanghai-ai-lab,上海人工智能实验室,s09,清华大学电子工程系 C3I 团队：周伯文,https://c3i.ee.tsinghua.edu.cn/zh/people/bowen_zhou/,个人介绍页写明周伯文为清华大学电子工程系讲席教授、上海人工智能实验室主任兼首席科学家,,2026-11-11
 stepfun,阶跃星辰 StepFun,s01,企业在南开发布2027招聘,https://career.nankai.edu.cn/correcruit/content/id/119440.html,产品方向、地点、官方网申链接,2026-09-30,2026-10-30
 stepfun,阶跃星辰 StepFun,s02,企业在湖南大学发布招聘,https://scc.hnu.edu.cn/detail/online?id=3604020,campus邮箱，仅校招/实习,,2026-10-30
 stepfun,阶跃星辰 StepFun,s03,泰伯企业融资档案,https://www.taibo.cn/company/101343,2024与2026融资投资方,,2026-10-30
 stepfun,阶跃星辰 StepFun,s04,阶跃官方模型页面,https://www.stepfun.com/step-3.7-flash,Step产品与API,,2026-10-30
 stepfun,阶跃星辰 StepFun,s05,上海阶跃星辰智能科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/0591ce5cac2618c303N43dm0F1o~.html,公开企业主页主体：上海阶跃星辰智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 stepfun,阶跃星辰 StepFun,s06,【阶跃星辰招聘】-猎聘,https://www.liepin.com/company/21236927/,公开企业主页主体：阶跃星辰；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+stepfun,阶跃星辰 StepFun,s07,百度百科·姜大昕,https://baike.baidu.com/item/%E5%A7%9C%E5%A4%A7%E6%98%95/64198380,姜大昕为纽约州立大学布法罗分校计算机科学博士，上海阶跃星辰创始人；2007年加入微软亚洲研究院任首席研究员，后升任微软全球副总裁。,,2026-11-11
+stepfun,阶跃星辰 StepFun,s08,百度百科·朱亦博,https://baike.baidu.com/item/%E6%9C%B1%E4%BA%A6%E5%8D%9A/67286892,朱亦博毕业于美国加州大学圣塔芭芭拉分校（UCSB）并获博士学位，现任阶跃星辰首席技术官、联合创始人；曾任微软亚洲研究院、谷歌研究员，并任字节跳动AI Infra负责人。,,2026-11-11
+stepfun,阶跃星辰 StepFun,s09,财新：大模型公司阶跃星辰融资超50亿元 印奇任董事长,https://www.caixin.com/2026-01-26/102407915.html,2026年1月公布融资的同时，印奇出任阶跃星辰董事长，与CEO姜大昕、首席科学家张祥雨、CTO朱亦博组成核心管理团队。,2026-01-26,2026-11-11
+stepfun,阶跃星辰 StepFun,s10,界面新闻：阶跃星辰完成数亿美元B轮融资,https://www.jiemian.com/article/12156161.html,2024-12 完成B轮，总金额数亿美元，核心投资方为上海国有资本投资有限公司及旗下基金，腾讯投资、五源资本、启明创投等参与。,2024-12-23,2026-11-11
+stepfun,阶跃星辰 StepFun,s11,澎湃新闻：阶跃星辰完成超50亿元B+轮融资，印奇出任董事长,https://www.thepaper.cn/newsDetail_forward_32463044,2026-01-26 完成超50亿元B+轮：上国投先导基金领投，国寿股权、浦东创投、徐汇资本、无锡梁溪基金、厦门国贸、华勤技术参与，腾讯、启明、五源跟投。,2026-01-26,2026-11-11
 tencent,腾讯 Tencent,s01,腾讯官网,https://www.tencent.com/,集团官网身份,,2026-11-02
 tencent,腾讯 Tencent,s02,腾讯招聘,https://careers.tencent.com/,官方招聘入口,,2026-11-02
 tencent,腾讯 Tencent,s03,腾讯云 TokenHub 大模型服务平台,https://cloud.tencent.com/product/tokenhub,混元／MaaS 主题证据,,2026-11-02
@@ -120,6 +156,14 @@ zhipu,智谱 Z.ai,s03,智谱投资者关系,https://www.zhipuai.cn/investor_rela
 zhipu,智谱 Z.ai,s04,36氪智谱档案,https://pitchhub.36kr.com/project/1958565851436035,历史融资方（非完整当前股东）,,2026-10-30
 zhipu,智谱 Z.ai,s05,智谱华章招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/18815b858c0b88250nd72N66Fw~~.html,公开企业主页主体：智谱华章；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 zhipu,智谱 Z.ai,s06,【智谱·AI招聘】-猎聘,https://www.liepin.com/company/10087865/,页面品牌为智谱·AI；简介列清华技术成果转化、GLM-130B、ChatGLM、Bigmodel.ai、CodeGeeX，与智谱业务对应。工商信息需登录，本轮未核验；只确认公开企业入口归属，不保证具体岗位持续开放。,,2026-11-01
+zhipu,智谱 Z.ai,s07,智谱（中文维基百科条目）,https://zh.wikipedia.org/wiki/%E6%99%BA%E8%B0%B1,信息框列“代表人物 张鹏（创始人兼CEO）”，并记2002年张鹏本科毕业于清华、后进入KEG实验室，2019年任CEO。,,2026-11-11
+zhipu,智谱 Z.ai,s08,从清华实验室到港交所，智谱CEO张鹏的七年AGI长跑（财联社/腾讯新闻）,https://news.qq.com/rain/a/20260108A06IQ700,2026-01-08 智谱在港交所上市；报道多处称“智谱CEO张鹏”，并述其技术创业路径与MaaS策略。,2026-01-08,2026-11-11
+zhipu,智谱 Z.ai,s09,智谱创始人唐杰清华开课爆火（瑞财经/腾讯新闻）,https://news.qq.com/rain/a/20260918A091RT00,报道称“唐杰现任清华大学计算机系教授，同时也是智谱AI的创始人兼首席科学家”。,2026-09-18,2026-11-11
+zhipu,智谱 Z.ai,s10,清华持股超17亿元！清华孵化的科技成果转化公司估值达400亿（搜狐）,https://www.sohu.com/a/911127547_121123735,报道称智谱第一实控人唐杰为清华大学计算机系教授、博士生导师，现任清华人工智能研究院基础模型研究中心主任。,2025-07-06,2026-11-11
+zhipu,智谱 Z.ai,s11,X 账号 @jietang 主页,https://x.com/jietang,"主页标题“jietang (@jietang) on X”，简介为“Professor @ Tsinghua, Founder of …”，与唐杰（清华教授、智谱创始人）身份一致。",,2026-11-11
+zhipu,智谱 Z.ai,s12,智谱 全球发售招股章程（北京智谱华章科技股份有限公司）,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1230/2025123000018_c.pdf,"港交所招股章程：列示天使轮至B6轮的首次公开发售前投资，逐轮载明认购人、代价金额与完成时间；并载公司自首次公开发售前投资收取所得款项约人民币8,364.20百万元。",2025-12-30,2026-11-11
+zhipu,智谱 Z.ai,s13,智谱 發售價及配發結果公告,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0107/2026010701799_c.pdf,"港交所公告：股份代号2513；全球发售37,419,500股H股，发行价每股H股116.20港元；预期H股于2026年1月8日上午九时正在联交所开始买卖。",2026-01-07,2026-11-11
+zhipu,智谱 Z.ai,s14,智谱官网「关于我们」,https://zhipuai.cn/zh/about,官网关于页：智谱（Z.AI）成立于2019年，由清华大学计算机系知识工程实验室（KEG）技术成果转化而来；页脚主体为北京智谱华章科技股份有限公司，并提供投资者关系邮箱。,,2026-11-11
 agora,声网 Agora,s01,声网 Agora 公开入口,https://www.shengwang.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 agora,声网 Agora,s02,全球领先的对话式AI与实时音视频云服务商 - 声网,https://www.shengwang.cn/,公开官网主体观察：https://www.shengwang.cn/；只核验入口归属。,,2026-11-02
 agora,声网 Agora,s03,声网 - 社会招聘,https://app.mokahr.com/apply/agora/6334,公开招聘入口主体观察：https://app.mokahr.com/apply/agora/6334；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -133,21 +177,38 @@ approaching-ai,趋境科技 Approaching.AI,s03,上证报：趋境B轮,https://fi
 approaching-ai,趋境科技 Approaching.AI,s04,BOSS趋境企业页,https://m.zhipin.com/companys/bd7696840f41eea403By3d66EFc~.html,公开招聘入口与岗位城市,,2026-10-30
 approaching-ai,趋境科技 Approaching.AI,s05,「北京趋境科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/4f0a4238ff013fd71HF62dW9E1I~.html,公开企业主页主体：北京趋境科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 approaching-ai,趋境科技 Approaching.AI,s06,【趋境科技招聘】-猎聘,https://www.liepin.com/company/13900641/,公开企业主页主体：趋境科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+approaching-ai,趋境科技 Approaching.AI,s07,量子位：趋境科技完成A轮融资，半年内募资10亿,https://www.qbitai.com/2026/07/448820.html,报道管理团队为董事长任旭阳、CEO艾智远、总裁武文洁、CTO陈祥麟；首席科学顾问郑纬民、首席科学家武永卫、联合发起人章明星。,2026-07-13,2026-11-11
+approaching-ai,趋境科技 Approaching.AI,s08,甲子光年专访趋境科技艾智远,https://news.qq.com/rain/a/20260715A08M0700,艾智远以趋境科技创始人兼CEO身份受访。,2026-07-15,2026-11-11
+approaching-ai,趋境科技 Approaching.AI,s09,2024全球机器学习技术大会讲者页：艾智远,https://ml-summit.org/speaker/1024?uid=c1041,讲者页载明艾智远为趋境科技CEO，清华大学博士，专长分布式系统优化、并行计算、分布式存储；前深信服大数据、数字化、AI应用等多个部门研发主管。,,2026-11-11
+approaching-ai,趋境科技 Approaching.AI,s10,量子位：趋境科技完成A轮融资，半年内募资10亿,https://www.qbitai.com/2026/07/448820.html,2026-07-13公司宣布完成A轮，河南投资集团汇融基金领投，并列出跟投方。,2026-07-13,2026-11-11
 biren,壁仞科技 Biren,s01,壁仞官方介绍,https://www.birentech.com/about,投资者阵容、产品、上市背景,,2026-10-30
 biren,壁仞科技 Biren,s02,壁仞官网,https://www.birentech.com/,商务与招聘邮箱,,2026-10-30
 biren,壁仞科技 Biren,s03,「壁仞科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/6851c83c2b8060271nVy2du_Flc~.html,公开企业主页主体：壁仞科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 biren,壁仞科技 Biren,s04,【上海壁仞智能科技有限公司招聘】-猎聘,https://www.liepin.com/company/12156121/,公开企业主页主体：上海壁仞智能科技有限公司 (page title); registered 上海壁仞科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+biren,壁仞科技 Biren,s05,张文 Wen Zhang｜香港大学中国商业学院 教职人员页,https://icb.hku.hk/chs/staff/detail/wen-zhang,张文为壁仞科技创始人、董事长兼CEO；曾任商汤科技总裁、LED芯片公司总裁兼CEO，哈佛法学博士、哥伦比亚商学院MBA。,,2026-11-11
+biren,壁仞科技 Biren,s06,从华尔街到港股敲钟：张文与900亿市值的壁仞科技（创业邦/搜狐）,https://www.sohu.com/a/971763898_403354,2026-01-02 壁仞港股上市；张文为创始人，前华为海思自研GPU负责人洪洲出任CTO、前AMD全球副总裁李新荣出任联席CEO。,2026-01-02,2026-11-11
+biren,壁仞科技 Biren,s07,壁仞科技官网·关于我们,https://www.birentech.com/about,载明公司2019年成立、2026年1月2日在香港联交所上市、股票代码06082.HK；并列“投资者阵容”。,,2026-11-11
+biren,壁仞科技 Biren,s08,壁仞科技投资者关系·上市文件,https://ir.birentech.com/en/investor-relations/listing-documents/,投资者关系页列出2025-12-22发布的全球发售文件（Global Offering），支持已进入公开招股与上市披露阶段。,2025-12-22,2026-11-11
 datacanvas,九章云极 DataCanvas,s01,DataCanvas官方介绍,https://www.datacanvas.com/about/,城市、业务与招聘/商务邮箱,,2026-10-30
 datacanvas,九章云极 DataCanvas,s02,官方D1轮融资公告,https://www.datacanvas.com/news/338.html,投资方,,2026-10-30
 datacanvas,九章云极 DataCanvas,s03,官方C+轮融资公告,https://www.datacanvas.com/news/468.html,历史投资方,,2026-10-30
 datacanvas,九章云极 DataCanvas,s04,「九章云极招聘」-BOSS直聘,https://www.zhipin.com/gongsi/34b673b79b565e071nJ_2ty_.html,公开企业主页主体：九章云极；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 datacanvas,九章云极 DataCanvas,s05,【九章云极招聘】-猎聘,https://www.liepin.com/company/5072181/,公开企业主页主体：九章云极；只核验入口归属，不表示具体岗位开放。,,2026-10-31
-enflame,燧原科技 Enflame,s01,上海政府新闻：燧原上市,https://touch.shio.gov.cn/jsp/zfxw_detail.jsp?id=20260913195158966,腾讯支持与芯片业务,2026-09-13,2026-10-30
+datacanvas,九章云极 DataCanvas,s06,九章云极官网·走近创始人：方磊,https://datacanvas.com/zw/PEG/zjcsr/821.html,官方人物页：方磊为九章云极创始人；清华大学学士、弗吉尼亚理工大学博士；曾任微软必应（Bing）搜索部门数据科学家，并作为早期团队成员参与开发 Windows Azure。,2025-07-24,2026-11-11
+datacanvas,九章云极 DataCanvas,s07,九章云极官网·走近创始人：尚明栋,https://datacanvas.com/zw/PEG/zjcsr/822.html,官方人物页：尚明栋2013年联合创立九章云极并担任COO；毕业于北京航空航天大学与美国雪城大学；原微软服务器高可用集群文件系统核心开发工程师，参与 Windows 7、Windows 8 发布，SMB 3.0 主要起草人之一。,2025-07-24,2026-11-11
+datacanvas,九章云极 DataCanvas,s08,界面新闻：九章云极亮相2026中国算力大会 方磊入选“新晋独角兽创始人TOP50”,https://www.jiemian.com/article/15087012.html,称方磊为九章云极创始人、董事长兼CEO。,,2026-11-11
+datacanvas,九章云极 DataCanvas,s09,搜狐：九章云极CEO方磊与CTO尚明栋持股比例一样,https://www.sohu.com/a/681404967_121146933,称尚明栋为公司副董事长兼CTO（与官网COO表述并存，本条未据此改写官方职务）。,,2026-11-11
+enflame,燧原科技 Enflame,s01,上海政府新闻：燧原上市,https://touch.shio.gov.cn/jsp/zfxw_detail.jsp?id=20260913195158966,腾讯支持与芯片业务,2026-09-13,2026-11-11
 enflame,燧原科技 Enflame,s02,上交所官方公司页,https://www.sse.com.cn/star/market/stocklist/info/overview/index.shtml?COMPANY_CODE=688801,公司身份与上市日期,,2026-10-30
 enflame,燧原科技 Enflame,s03,燧原官方LinkedIn招聘帖,https://www.linkedin.com/posts/enflame_燧原科技-社招岗位-更多职位及相关信息咨询请联系企业hr-hrenflame-techcom-activity-6534314198002958336-LiFW,hr招聘邮箱（历史帖子）,,2026-10-30
 enflame,燧原科技 Enflame,s04,上交所披露文件,https://static.sse.com.cn/stock/disclosure/announcement/c/202601/002175_20260122_654W.pdf,IR邮箱与公司业务,2026-01-22,2026-10-30
 enflame,燧原科技 Enflame,s05,「燧原科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/4810d76a541af10b1HZ73Nq-Flc~.html,公开企业主页主体：燧原科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 enflame,燧原科技 Enflame,s06,【燧原科技招聘】-猎聘,https://www.liepin.com/company/9609962/,公开企业主页主体：燧原科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+enflame,燧原科技 Enflame,s07,AI时代的清华电子力量｜燧原科技赵立东（清华大学电子工程系）,https://www.ee.tsinghua.edu.cn/info/1076/4920.htm,赵立东为燧原科技创始人、董事长兼CEO，清华电子工程学士、犹他州立大学硕士，2018年3月与AMD前同事张亚林在上海创立燧原。,2025-10-13,2026-11-11
+enflame,燧原科技 Enflame,s08,专访燧原科技董事长赵立东（新华社《经济参考报》）,https://www.jjckb.cn/20260716/b36446179abb4eb88bd128d7a532f554/c.html,2026年7月专访称赵立东为燧原科技董事长、首席执行官，公司即将登陆科创板。,2026-07-16,2026-11-11
+enflame,燧原科技 Enflame,s09,燧原科技上市敲钟，创始人现身（第一财经/新浪财经）,https://cj.sina.com.cn/articles/view/1702925432/6580947801901azr6,2026-09-11 科创板上市；燧原2018年由赵立东、张亚林在上海临港创立，赵立东任董事长兼CEO，张亚林任总经理。,2026-09-11,2026-11-11
+enflame,燧原科技 Enflame,s10,上海俩同事造芯，8年挣下100亿身家（21世纪商业评论）,https://m.21jingji.com/article/20260907/herald/ee1aec765d81ecd70eb42dd4b3fdd6e1.html,赵立东与AMD同事张亚林2018年回上海创立燧原科技；张亚林毕业于复旦大学信息系统专业，为联合创始人。,2026-09-07,2026-11-11
+enflame,燧原科技 Enflame,s11,上海证券交易所：关于上海燧原科技股份有限公司人民币普通股股票科创板上市交易的公告,https://www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20260910_10831789.shtml,上证公告（股票）[2026]29号：证券简称“燧原科技”，证券代码688801，1790.0325万股自2026年9月11日起上市交易。,2026-09-10,2026-11-11
 huawei,华为 Huawei,s01,华为官网,https://www.huawei.com/,集团官网身份,,2026-11-02
 huawei,华为 Huawei,s02,华为招聘官网,https://career.huawei.com/,官方招聘入口,,2026-11-02
 huawei,华为 Huawei,s03,华为云：盘古大模型产品页,https://www.huaweicloud.com/product/pangu,盘古大模型主题证据,,2026-11-02
@@ -166,28 +227,53 @@ iluvatar-corex,天数智芯,s04,【深圳市天数智芯科技有限责任公司
 iluvatar-corex,天数智芯,s05,BOSS直聘企业主页 · 上海天数智芯半导体,https://www.zhipin.com/gongsi/eca871c5822d742f1H1y3di9F1c~.html,公开企业主页主体：天数智芯；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 iluvatar-corex,天数智芯,s06,融资十轮、出货五万片 天数智芯披露十年造芯路,https://m.21jingji.com/article/20251223/herald/d55752bdac55c138f40e88d0fa195a15.html,天数智芯港交所资料集、累计交付5.2万片、2024年收入5.40亿元及产品代际。,2025-12-23,2026-11-03
 iluvatar-corex,天数智芯,s07,天数智芯官网,https://www.iluvatar.com/,天垓、智铠、彤央产品线与天数智算软件栈。,,2026-11-03
+iluvatar-corex,天数智芯,s08,百度百科·盖鲁江,https://baike.baidu.com/item/%E7%9B%96%E9%B2%81%E6%B1%9F/65166961,盖鲁江1981年9月生，中央财经大学本科学历，现任上海天数智芯半导体股份有限公司董事长兼首席执行官；任全国工商联人工智能委员会主席团成员、上海市第十四届政协委员。,,2026-11-11
+iluvatar-corex,天数智芯,s09,21财经：对话天数智芯董事长盖鲁江,https://m.21jingji.com/article/20230708/herald/631e9b0347809772740eb5e5ae204e7f.html,2023年世界人工智能大会期间以“天数智芯董事长兼CEO盖鲁江”具名采访，谈国产通用GPU对大模型算力的支持。,2023-07-08,2026-11-11
+iluvatar-corex,天数智芯,s10,上海天数智芯半导体股份有限公司 分配结果公告（港交所）,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0107/2026010701803_c.pdf,"股份代号9903、开始买卖日期2026年1月8日、发售价144.60港元、所得款项总额3,677.4百萬港元。",2026-01-07,2026-11-11
+iluvatar-corex,天数智芯,s11,天数智芯 投资者关系,https://ir.iluvatar.com,投关站载「上海天数智芯半导体股份有限公司（9903.HK）」，设招股文件、业绩报告、公告及通函栏目。,,2026-11-11
 infinigence,无问芯穹 Infinigence AI,s01,无问芯穹官方公司介绍,https://www.infinigence-ai.com/about-us.html,产品、城市、HR与业务邮箱,,2026-10-30
 infinigence,无问芯穹 Infinigence AI,s02,启明官方被投访谈,https://www.qimingvc.com/cn/news/启明星-无问芯穹夏立雪：打造“最高效的token工厂”,启明投资关系与融资,2026-05,2026-10-30
 infinigence,无问芯穹 Infinigence AI,s03,投资界C轮记录,https://vc.pedaily.cn/invest/427290.html,2026年10月投资方名单,2026-10-12,2026-10-30
 infinigence,无问芯穹 Infinigence AI,s04,北京无问芯穹科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/75e9c4e4f7940ab41XNz2dm-FVI~.html,公开企业主页主体：北京无问芯穹科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 infinigence,无问芯穹 Infinigence AI,s05,【上海无问芯穹智能科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/13818039/,公开企业主页主体：上海无问芯穹智能科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+infinigence,无问芯穹 Infinigence AI,s06,福布斯中国：超7亿！国内原生AGI Infra单笔最大融资诞生,https://www.forbeschina.com/investment/71513,无问芯穹2023年5月成立、脱胎于清华技术体系；发起人汪玉为清华电子工程系教授，CEO夏立雪、联合创始人兼首席科学家戴国浩、CTO李伯勋均曾师从汪玉。,2026-05-07,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s07,36氪/投资界：刚刚，上海最新独角兽诞生,https://www.36kr.com/p/2932283643894401,汪玉为无问芯穹发起人、清华大学电子工程系教授；夏立雪为联合创始人兼CEO、汪玉首位博士；戴国浩为联合创始人兼首席科学家。,2024-09-02,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s08,证券时报：再融23亿元！清华系独角兽刷新国内AI Infra赛道融资纪录,https://www.stcn.com/article/detail/4212949.html,载2023年5月创立；2023年9月天使轮百度、智谱、经纬创投、真格基金等入场；2026年10月完成23亿元C轮、累计43亿元。,2026-10-12,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s09,36氪：无问芯穹完成近5亿元A轮融资,https://www.36kr.com/p/2926572043361155,A轮近5亿元，社保基金中关村自主创新专项基金（君联资本管理）、启明创投、洪泰基金联合领投，联想创投、小米、顺为资本、达晨财智等跟投。,2024-09-02,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s10,澎湃新闻：无问芯穹A+轮融资近5亿元,https://www.thepaper.cn/newsDetail_forward_32053744,A+轮近5亿元，珠海科技集团、孚腾资本（元创未来基金）领投，惠远资本、尚颀资本、弘晖基金跟投，多家老股东追投。,2025-11-27,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s11,无问芯穹：再获超7亿融资,https://www.infinigence-ai.com/news-updates/186.html,官网新闻载再获超7亿元融资，杭州高新金投集团、惠远资本联合领投，国兴资本、秦淮数据等跟投，老股东追加。,2026-05-07,2026-11-11
+infinigence,无问芯穹 Infinigence AI,s12,凤凰科技：无问芯穹完成23亿元C轮融资,https://tech.ifeng.com/c/8xAE6lhragC,C轮23亿元，并列出国资、产业与财务投资方名单。,2026-10-12,2026-11-11
 infrawaves,基流科技 Infrawaves,s01,光速光合融资消息转载,https://finance.sina.com.cn/jjxw/2025-01-27/doc-inehmenv9274790.shtml,历史投资方,2025-01-27,2026-10-30
 infrawaves,基流科技 Infrawaves,s02,基流科技公开招聘转载,https://k.sina.com.cn/article_2674405451_9f68304b019015ivm.html,投递邮箱及产品方向,2024,2026-10-30
 infrawaves,基流科技 Infrawaves,s03,沙利文IPO材料解读,https://finance.sina.com.cn/roll/2026-05-07/doc-inhwzrtr5296412.shtml,业务、系统产品与公司身份,2026-05-07,2026-10-30
+infrawaves,基流科技 Infrawaves,s04,腾讯新闻：90后清北天团带队基流科技IPO,https://news.qq.com/rain/a/20260519A04UL100,报道胡效赫为创始人兼CEO；谢文奇为联合创始人、执行董事兼联席CEO；陈维为联合创始人兼研发副总裁。,2026-05-19,2026-11-11
+infrawaves,基流科技 Infrawaves,s05,百度百科：胡效赫,https://baike.baidu.com/item/%E8%83%A1%E6%95%88%E8%B5%AB/66304242,清华大学自动化系本科、博士、博士后，师从李军研究高性能网络系统，曾赴加州大学伯克利分校访学；北京基流科技创始人兼CEO。,,2026-11-11
+infrawaves,基流科技 Infrawaves,s06,36氪：基流科技连续完成Pre A+和A轮融资,https://www.36kr.com/p/3100682188279305,载公司成立于2023年2月；完成Pre A+和A轮，招商局创投、华泰创新、星连资本、国方创新联合投资，卓源亚洲、光速光合跟投，累计融资超亿元。,2024-12-31,2026-11-11
+infrawaves,基流科技 Infrawaves,s07,南京市创新投资集团：基流科技完成PreA+和A轮融资,https://www.njicg.com/article/166,同一轮由招商局创投、华泰数智、星连资本、国方创新联合投资，并载公司成立2023年2月。,2025-02-17,2026-11-11
+infrawaves,基流科技 Infrawaves,s08,投资界：基流科技完成近亿元B轮融资,https://news.pedaily.cn/202511/557323.shtml,B轮近亿元人民币，河南投资集团汇融基金与智谱生态基金星连资本联合领投，卓源亚洲跟投。,2025-11-14,2026-11-11
+infrawaves,基流科技 Infrawaves,s09,新浪财经（证券日报）：基流科技完成数亿元B+轮融资,https://finance.sina.com.cn/jjxw/2025-12-31/doc-inhesnwt3796149.shtml,B+轮数亿元，尚势资本、奥铭投资、华夏基金、泰有基金、清科控股、中科英智等联合投资，老股东跟投。,2025-12-31,2026-11-11
 kingsoft-cloud,金山云 Kingsoft Cloud,s01,金山云官网,https://www.ksyun.com/,公司官网身份,,2026-11-02
 kingsoft-cloud,金山云 Kingsoft Cloud,s02,金山云星流模型服务,https://www.ksyun.com/nv/product/KSP,星流模型服务主题证据,,2026-11-02
 kingsoft-cloud,金山云 Kingsoft Cloud,s03,【金山云网络招聘】-猎聘,https://www.liepin.com/company/3526408/,公开企业主页主体：金山云网络。,,2026-11-02
 kingsoft-cloud,金山云 Kingsoft Cloud,s04,「金山云网络技术」-BOSS直聘,https://www.zhipin.com/gongsi/b47cc77979caf7091nR70ti-EA~~.html,公开企业主页路径指向金山云网络技术；反爬未能完整渲染。,,2026-11-02
 luchentech,潞晨科技 Colossal-AI,s01,潞晨官方招聘,https://www.luchentech.com/join,产品研发方向及resume投递邮箱,,2026-10-30
-luchentech,潞晨科技 Colossal-AI,s02,36氪潞晨融资档案,https://pitchhub.36kr.com/project/1678554927068166,历轮投资背景,,2026-10-30
+luchentech,潞晨科技 Colossal-AI,s02,36氪潞晨融资档案,https://pitchhub.36kr.com/project/1678554927068166,历轮投资背景,,2026-11-11
 luchentech,潞晨科技 Colossal-AI,s03,潞晨科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/c547103fed7ec7641n1z2d20FFY~.html,公开企业主页主体：潞晨科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 luchentech,潞晨科技 Colossal-AI,s04,【北京潞晨科技有限公司招聘】-猎聘,https://www.liepin.com/company/12879599/,公开企业主页主体：北京潞晨科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+luchentech,潞晨科技 Colossal-AI,s05,潞晨科技官网「关于我们」团队介绍,https://www.luchentech.com/team,尤洋为潞晨科技创始人；加州大学伯克利分校博士，入选2021福布斯亚洲30岁以下精英等履历,,2026-11-11
+luchentech,潞晨科技 Colossal-AI,s06,搜狐｜清华校友尤洋创办潞晨科技，专注AI Infra赛道,https://www.sohu.com/a/1059369985_701814,报道称「清华校友尤洋创办潞晨科技」，并记其清华硕士、加州大学伯克利博士及新加坡国立大学教职背景,2026-08-06,2026-11-11
+luchentech,潞晨科技 Colossal-AI,s07,Yang You's Homepage (NUS Computer Science),https://www.comp.nus.edu.sg/~youy/,新加坡国立大学计算机系个人主页：Yang You，Presidential Young Professor，UC Berkeley 计算机博士（导师 James Demmel），业界经历列出 HPC-AI Tech（潞晨科技英文名）,,2026-11-11
 metax,沐曦股份 MetaX,s01,沐曦官方A轮公告,https://www.metax-tech.com/en/ndetail/29.html,历史投资方,,2026-10-30
 metax,沐曦股份 MetaX,s02,沐曦官方介绍,https://www.metax-tech.com/en/about/about.html,产品、上市、办公城市,,2026-10-30
 metax,沐曦股份 MetaX,s03,沐曦官方联系,https://www.metax-tech.com/contact.html,商务邮箱,,2026-10-30
 metax,沐曦股份 MetaX,s04,沐曦官方招聘,https://www.metax-tech.com/join,社招入口,,2026-10-30
 metax,沐曦股份 MetaX,s05,沐曦集成电路招聘-BOSS直聘,https://www.zhipin.com/gongsi/9efce839f9c116fd1nd639m7FVc~.html,公开企业主页主体：沐曦集成电路；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 metax,沐曦股份 MetaX,s06,【沐曦集成电路(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/12451581/,公开企业主页主体：沐曦集成电路(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+metax,沐曦股份 MetaX,s07,沐曦股份官网·关于我们·核心团队,https://www.metax-tech.com/about.html,核心团队页列陈维良（创始人、董事长兼CEO）、彭莉（联合创始人、CTO兼首席硬件架构师）、杨建（联合创始人、CTO兼首席软件架构师）及各自履历与照片。,,2026-11-11
+metax,沐曦股份 MetaX,s08,维基百科：沐曦股份,https://zh.wikipedia.org/wiki/%E6%B2%90%E6%9B%A6%E8%82%A1%E4%BB%BD,条目称公司由AMD前员工陈维良、彭莉、杨建等创立，陈维良任创始人兼CEO。,,2026-11-11
+metax,沐曦股份 MetaX,s09,腾讯新闻：沐曦创始人陈维良——芯片即生态，无应用则无价值,https://news.qq.com/rain/a/20260419A04DS200,报道陈维良以沐曦股份创始人、董事长兼CEO身份出席活动。,2026-04-19,2026-11-11
+metax,沐曦股份 MetaX,s10,沐曦股份｜公司介绍与里程碑,https://www.metax-tech.com/about/about.html,股票代码 688802.SH、2025-12 科创板上市，以及 2020-10 天使轮至 2024-12 C 轮各轮时间、领投方与上市进程,,2026-11-11
+metax,沐曦股份 MetaX,s11,MetaX | About - Milestones (English),https://www.metax-tech.com/en/about/about.html,英文里程碑页给出 A 轮与 Pre-B 轮金额均为「1Billion RMB」,,2026-11-11
 montage-technology,澜起科技,s01,澜起科技 公开入口,https://www.montage-tech.com/cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 montage-technology,澜起科技,s02,澜起科技,https://www.montage-tech.com/cn/,公开官网主体观察：https://www.montage-tech.com/cn/；只核验入口归属。,,2026-11-02
 montage-technology,澜起科技,s03,加入我们 | 澜起科技,https://www.montage-tech.com/cn/Open_Positions,公开招聘入口主体观察：https://www.montage-tech.com/cn/Open_Positions；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -199,12 +285,22 @@ moore-threads,摩尔线程 Moore Threads,s02,科创板日报：摩尔线程融�
 moore-threads,摩尔线程 Moore Threads,s03,摩尔线程官方招聘门户,https://mthreads.zhiye.com/campus,校园投递入口,,2026-10-30
 moore-threads,摩尔线程 Moore Threads,s04,摩尔线程招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/2f230e94edc2a9da1nZ93NS7Fls~.html,公开企业主页主体：摩尔线程；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 moore-threads,摩尔线程 Moore Threads,s05,【摩尔线程招聘】-猎聘,https://www.liepin.com/company/12566499/,公开企业主页主体：摩尔线程；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+moore-threads,摩尔线程 Moore Threads,s06,对话摩尔线程张建中：不做“偏科”GPU，一家民企的造“芯”路-中新网,https://www.chinanews.com.cn/gsztc/2026/09-14/10696017.shtml,报道称摩尔线程创始人、董事长兼首席执行官张建中2020年辞去英伟达全球副总裁、中国区总经理职务后创立公司。,2026-09-14,2026-11-11
+moore-threads,摩尔线程 Moore Threads,s07,对话摩尔线程张建中：不做“偏科”GPU，一家民企的造“芯”路_腾讯新闻（转载中新社）,https://news.qq.com/rain/a/20260914A06A2H00,转载中新社报道，称摩尔线程创始人、董事长兼首席执行官张建中接受采访，谈国产全功能 GPU 研发进展。,2026-09-14,2026-11-11
+moore-threads,摩尔线程 Moore Threads,s08,股票代码 688795！摩尔线程正式挂牌科创板！｜摩尔线程,https://www.mthreads.com/news/266,2025-12-05 在上海证券交易所科创板挂牌上市，股票代码 688795.SH,2025-12-05,2026-11-11
+moore-threads,摩尔线程 Moore Threads,s09,上海证券交易所｜关于摩尔线程智能科技（北京）股份有限公司人民币普通股股票科创板上市交易的公告,https://www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20251204_10800678.shtml,上证公告（股票）[2025]35号：证券简称「摩尔线程」、代码 688795，2025-12-05 起上市交易,2025-12-04,2026-11-11
 qingcheng-ai,清程极智 Qingcheng.AI,s01,清程官网,https://www.qc-ai.cn/,产品与商务邮箱,,2026-10-30
 qingcheng-ai,清程极智 Qingcheng.AI,s02,清程官方介绍,https://www.qc-ai.cn/about,系统软件路线,,2026-10-30
 qingcheng-ai,清程极智 Qingcheng.AI,s03,科创板日报融资报道,https://api3.cls.cn/share/article/2502686?app=stib&os=stibWeb&sv=143,A轮投资方,2026-10-12,2026-10-30
 qingcheng-ai,清程极智 Qingcheng.AI,s04,CCF会议手册企业招聘页,https://ccf-tc.oss-cn-beijing.aliyuncs.com/ConferenceManual-CCFHPCChina2024.pdf,career邮箱与办公城市,2024,2026-10-30
 qingcheng-ai,清程极智 Qingcheng.AI,s05,清程极智招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b97152d54ced29ea1HZ-3Nq5F1M~.html,公开企业主页主体：清程极智；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 qingcheng-ai,清程极智 Qingcheng.AI,s06,【北京清程极智科技有限公司招聘】-猎聘,https://www.liepin.com/company/13844083/,公开企业主页主体：北京清程极智科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+qingcheng-ai,清程极智 Qingcheng.AI,s07,清华大学：自带“冠军基因”的团队想让国产芯片“跑起来”,https://www.tsinghua.edu.cn/info/1182/126814.htm,2023年12月，清华大学计算机系高性能计算研究所的年轻人创立清程极智，清华大学教授翟季冬担任首席科学家。,,2026-11-11
+qingcheng-ai,清程极智 Qingcheng.AI,s08,百度百科·汤雄超,https://baike.baidu.com/item/%E6%B1%A4%E9%9B%84%E8%B6%85/69364885,汤雄超为清程极智创始人兼CEO；2013年获清华大学工学学士、2019年获工学博士；2019年加入深信服，2022年加入字节跳动任高级研发工程师，2023年12月成立清程极智。,,2026-11-11
+qingcheng-ai,清程极智 Qingcheng.AI,s09,搜狐：清程极智｜汤雄超：在算力革命中架起智能桥梁,https://www.sohu.com/a/933117821_121697575,称汤雄超为清程极智CEO，清华计算机系学士（2013）与博士（2019），研究并行程序性能分析、资源调度与异构计算。,,2026-11-11
+qingcheng-ai,清程极智 Qingcheng.AI,s10,搜狐：清华系AI明星创企清程极智再获过亿元融资,https://www.sohu.com/a/913777303_100032554,报道称2023年底清华计算机系团队创办清程极智，清华大学计算机系长聘教授翟季冬出任首席科学家（曾带领清华超算团队获十余个世界冠军）。,,2026-11-11
+qingcheng-ai,清程极智 Qingcheng.AI,s11,投资界：清程极智完成A轮融资，深耕国产算力软硬协同,https://news.pedaily.cn/202610/570337.shtml,2026年10月完成A轮：中国电信、瀚晖资本联合领投，老股东星连资本追加，领阳投资、华胜天成、建信（北京）投资、直真科技、商汤科技、苏州毅鸣跟投；未披露金额。,2026-10-15,2026-11-11
+qingcheng-ai,清程极智 Qingcheng.AI,s12,36氪：“清程极智”宣布完成Pre-A轮融资,https://eu.36kr.com/zh/newsflashes/3130687159949576,2025年1月20日报道完成Pre-A轮，投资方为北京市人工智能产业投资基金、中科创星、考拉基金；未披露金额。,2025-01-20,2026-11-11
 qiniu,七牛云,s01,七牛云 公开入口,https://www.qiniu.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 qiniu,七牛云,s02,七牛云 | 一站式中立音视频云 + AI,https://www.qiniu.com/,公开官网主体观察：https://www.qiniu.com/；只核验入口归属。,,2026-11-02
 qiniu,七牛云,s03,七牛云社会招聘,https://jobs.qiniu.com/,公开招聘入口主体观察：https://jobs.qiniu.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -224,11 +320,16 @@ shengsuanyun,胜算云 SSYCloud,s10,SSYCloud官方GitHub组织,https://github.co
 shengsuanyun,胜算云 SSYCloud,s11,胜算云亮相第八届长三角科交会（证券日报网报道转载）,https://field.10jqka.com.cn/20251016/c671777665.shtml,2025-10-15科交会上宣布完成天使轮融资，报道未披露金额；同时作为长三角国创中心重点培育科技成果转化项目签约。,2025-10-16,2026-11-03
 shengsuanyun,胜算云 SSYCloud,s12,南通市科技局2026年3月人工智能产业活动,https://kjj.nantong.gov.cn/ntskjj/bmdt/content/c573b5d3-ad63-4a2b-a13e-c8a10f076bf1.htm,公开活动记录提及如皋胜算云创始人周政军、OPC生态社区及多云并行AI规模化生产方案；支持园区合作活动，不能据此认定政府采购金额。,,2026-11-03
 shengsuanyun,胜算云 SSYCloud,s13,CogFoundry服务条款,https://cogfoundry.ai/en/legal/terms/,条款主体自述CogFoundry Pte. Ltd.及新加坡UEN 202603662E；本次未找到其与胜算云的股权、控制权或授权合同公开证明。,,2026-11-03
+shengsuanyun,胜算云 SSYCloud,s14,关于胜算云 - 企业级 AI 规模化执行基础设施｜胜算云官网,https://www.shengsuanyun.com/zh/about,关于页大事记两次称“胜算云创始人 & CEO 周政军”，并称创始人及核心团队拥有二十余年编译器与操作系统技术积累，公司2021年成立。,,2026-11-11
+shengsuanyun,胜算云 SSYCloud,s15,胜算云AI模型算力聚合超市云服务全球首发上线试用-中新社上海,https://www.sh.chinanews.com.cn/kjjy/2025-07-31/138626.shtml,报道称上海胜算速惠云科技有限公司（胜算云）创始人兼CEO周政军介绍其AI模型算力聚合超市云服务全球首发上线试用。,2025-07-31,2026-11-11
 siliconflow,硅基流动 SiliconFlow,s01,硅基流动官方融资公告,https://siliconflow.cn/news/dl5ov97pt579ortwy57woavu,阿里云领投、创新工场跟投,2025-06,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s02,硅基流动官方介绍,https://www.siliconflow.cn/about,定位、产品、地址,,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s03,硅基流动官网,https://www.siliconflow.cn/,市场合作邮箱,,2026-10-30
 siliconflow,硅基流动 SiliconFlow,s04,硅基流动招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/015ae67e8b3d5ee203173dm4ElE~.html,公开企业主页主体：硅基流动；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 siliconflow,硅基流动 SiliconFlow,s05,【硅基流动招聘】-猎聘,https://www.liepin.com/company/21146791/,公开企业主页主体：硅基流动；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+siliconflow,硅基流动 SiliconFlow,s06,硅基流动官网新闻：袁进辉出席2026中关村论坛年会,https://www.siliconflow.cn/news/pr1mj5zuhb7ocbxjs4pjx71s,官网新闻称袁进辉为硅基流动创始人兼CEO。,,2026-11-11
+siliconflow,硅基流动 SiliconFlow,s07,36氪首发：硅基流动获近亿元天使+轮融资,https://m.36kr.com/p/2844943140309637,报道袁进辉为创始人兼CEO，前光年之外联合创始人、一流科技创始人。,,2026-11-11
+siliconflow,硅基流动 SiliconFlow,s08,硅基流动：完成近亿元融资，加速生成式AI技术普惠进程,https://siliconflow.cn/news/wmqrg0qcwzp8z5qiq685l4q1,2024-07 完成总金额近亿元人民币天使+轮：某知名产业方领投，智谱AI、360、水木清华校友基金跟投，老股东耀途资本超额跟进。,2024-07-04,2026-11-11
 ucloud,优刻得,s01,优刻得 公开入口,https://www.ucloud.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 ucloud,优刻得,s02,UCloud优刻得-首家公有云科创板上市公司,https://www.ucloud.cn/,公开官网主体观察：https://www.ucloud.cn/；只核验入口归属。,,2026-11-02
 ucloud,优刻得,s03,UCloud,https://ucloud.zhiye.com/,公开招聘入口主体观察：https://ucloud.zhiye.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -242,10 +343,23 @@ aixcoder,硅心科技 / aiXcoder,s04,BOSS硅心科技公司招聘页,https://m.z
 aixcoder,硅心科技 / aiXcoder,s05,aiXcoder官网联系页,https://www.aixcoder.com/zh/contact,商务联系邮箱,,2026-10-30
 aixcoder,硅心科技 / aiXcoder,s06,「aiXcoder招聘」-BOSS直聘,https://www.zhipin.com/gongsi/b297b80edb5510881nd439i6Eg~~.html,公开企业主页主体：aiXcoder；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 aixcoder,硅心科技 / aiXcoder,s07,【北京硅心科技有限公司招聘】-猎聘,https://www.liepin.com/company/9604580/,公开企业主页主体：北京硅心科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
-dify,Dify / LangGenius,s01,Dify官方融资公告,https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents,2026年Pre-A投资方,2026-03,2026-10-30
+aixcoder,硅心科技 / aiXcoder,s08,李戈-北京大学计算机学院,https://cs.pku.edu.cn/info/1071/1679.htm,李戈为北京大学计算机学院长聘教授、博士生导师，研究程序理解、程序生成与深度学习；页面注明科研转化成果 aiXcoder 已服务航天、金融与IT企业。,,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s09,国产AI编程的明星选手，aiXcoder加速产业化落地-36氪,https://www.36kr.com/p/3115342939197191,aiXcoder 孵化自北大软件工程研究所，2013年起在李戈教授带领下研究将深度学习用于代码生成与理解，2017年决定让孵化成果走向市场、成立 aiXcoder。,2025-01-09,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s10,Yang LIU（刘洋）｜PreAngel,https://pre-angel.com/peoples/yang-liu/,人物页称刘洋为硅心科技联合创始人、COO，北大计算机硕士，曾就职于朗讯、黑莓。,,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s11,GitHub 账号 ligechina,https://github.com/ligechina,实查 GitHub 用户 API：login=ligechina，type=User，name=Ge Li，company=Peking University，与李戈的北大教授身份一致。,,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s12,GitHub API：users/ligechina,https://api.github.com/users/ligechina,接口实查返回 login=ligechina、type=User、name=Ge Li、company=Peking University，确认该 GitHub 账号为个人账号而非机构账号。,,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s13,Ge Li 个人主页（北京大学）,https://ligechina.github.io/,个人主页自述为北京大学计算机学院长聘教授 Ge Li，列有程序理解与生成方向论文，与北大计算机学院页面所列个人主页一致。,,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s14,金融界（创业邦）：硅心科技完成数千万元A轮融资，高瓴创投独家投资,https://biz.jrj.com.cn/2022/03/22180234861388.shtml,2022-03-22硅心科技宣布获数千万元A轮融资，高瓴创投投资。,2022-03-22,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s15,义柏资本：硅心科技aiXcoder完成数千万元A+轮融资,https://100summit.com/cn/details/id/4283,A+轮由彬复资本领投，清流资本、三七互娱跟投，义柏资本任独家财务顾问；稿件日期2023-09-04。,2023-09-04,2026-11-11
+dify,Dify / LangGenius,s01,Dify官方融资公告,https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents,2026年Pre-A投资方,2026-03,2026-11-11
 dify,Dify / LangGenius,s02,Dify官方招聘,https://join.dify.ai/,joinus邮箱、城市、总部与岗位,,2026-10-30
 dify,Dify / LangGenius,s03,Dify官方伙伴计划,https://dify.ai/partners,business邮箱与服务伙伴定位,,2026-10-30
 dify,Dify / LangGenius,s04,「Dify招聘」-BOSS直聘,https://www.zhipin.com/gongsi/0add7ea9160d6a401XN_2Nq5GFU~.html,公开企业主页主体：Dify；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+dify,Dify / LangGenius,s05,Luyu Zhang 个人主页,https://luyu.us/,"个人主页标注 Founder & CEO, Langgenius, Inc. / Dify.AI，并链接其 X、LinkedIn、GitHub 账号。",,2026-11-11
+dify,Dify / LangGenius,s06,株式会社LangGenius 新闻：日本法人代表取締役社长就任,https://langgenius.co.jp/news/new-president-gen-watanabe/,"官方新闻引述 LangGenius, Inc. CEO Luyu Zhang 的评论。",,2026-11-11
+dify,Dify / LangGenius,s07,GitHub API：用户 goocarlos,https://api.github.com/users/goocarlos,API 返回 type=User、name=Luyu Zhang、company=@langgenius。,,2026-11-11
+dify,Dify / LangGenius,s08,GitHub 账号 goocarlos,https://github.com/goocarlos,个人账号主页，与个人主页 luyu.us 链接的 GitHub 账号一致。,,2026-11-11
+dify,Dify / LangGenius,s09,LinkedIn：John Wang（Dify 联合创始人）,https://cn.linkedin.com/in/john-wang-takatost,档案自述为 Dify.AI Co-founder / Chief Engineer。,,2026-11-11
 aispeech,思必驰,s01,思必驰关于我们,https://www.aispeech.com/about/,官网关于页作为主体入口；草稿注明 web search 不可用，训练知识待独立核实。,,2026-11-02
 aispeech,思必驰,s02,思必驰官网,https://www.aispeech.com,公开官网主体与标题观察：思必驰|专业的大模型人机对话平台企业；只核验入口归属。,,2026-11-02
 aispeech,思必驰,s03,思必驰加入我们,https://www.aispeech.com/about/joinus,官方招聘／加入我们入口；页面披露招聘邮箱时同步 contacts，不猜测用途。,,2026-11-02
@@ -264,6 +378,9 @@ caiyun,彩云科技,s02,彩云官方招聘,https://www.caiyunapp.com/jobs/,hr邮
 caiyun,彩云科技,s03,钛媒体创始人采访转载,https://finance.sina.com.cn/cj/2024-11-17/doc-incwinct8191921.shtml,历史投资方,2024-11-17,2026-10-30
 caiyun,彩云科技,s04,「彩云科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/ee270ba65ab755ca03Zz2dm7Fg~~.html,公开企业主页主体：彩云科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 caiyun,彩云科技,s05,【彩云科技AI招聘】-猎聘,https://www.liepin.com/company/9497504/,公开企业主页主体：彩云科技AI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+caiyun,彩云科技,s06,钛媒体：对话彩云科技CEO袁行远：10年AI狂飙，中国大模型发展不应只有OpenAI一条路,https://www.tmtpost.com/baidu/7334360.html,彩云科技联合创始人、CEO袁行远；曾在阿里巴巴从事算法工作；主导彩云天气、彩云小译、彩云小梦。,2024-11-17,2026-11-11
+caiyun,彩云科技,s07,搜狐转载钛媒体：对话彩云科技CEO袁行远（同一采访的转载版本）,https://www.sohu.com/a/827522938_116132,转载文本同样称袁行远为彩云科技联合创始人、CEO，并载其阿里巴巴算法工作经历。,2024-11-17,2026-11-11
+caiyun,彩云科技,s08,36氪：宿华，投了一个“水下”AI项目,https://www.36kr.com/p/2796715314507395,梳理彩云科技5轮正式融资：天使轮云天使基金/宽带资本、A1五源资本、A2快手、B1大湾区共同家园基金、B2宿华个人，并给出相应估值口径。,,2026-11-11
 cloudwalk,云从科技,s01,云从科技（苏州） 公开入口,https://www.cloudwalk.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 cloudwalk,云从科技,s02,关联网站观察（原采集标签：云从科技（苏州）官网）,https://www.cloudwalk.com,公开官网主体与标题观察：云从科技；只核验入口归属。,,2026-11-02
 cloudwalk,云从科技,s03,【云从科技招聘】-猎聘,https://www.liepin.com/company/9144450/,公开企业主页主体：云从科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -280,13 +397,19 @@ deepglint,格灵深瞳,s01,格灵深瞳（苏州） 公开入口,https://www.dee
 deepglint,格灵深瞳,s02,【格灵深瞳招聘】-猎聘,https://www.liepin.com/company/8026723/,公开企业主页主体：格灵深瞳；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 deepglint,格灵深瞳,s03,BOSS直聘企业主页 · 北京格灵深瞳信息技术股份有限公司（集团页；无苏州专页）,https://www.zhipin.com/gongsi/e133cb4e607d0b7b1nd83N25FFI~.html,公开企业主页主体：格灵深瞳；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 deepglint,格灵深瞳,s04,新浪财经公司资料 · 北京格灵深瞳信息技术股份有限公司（688207）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688207.phtml,2013-08-16成立、2022-03-17上市、北京注册地址及计算机视觉应用主营。,,2026-11-03
-flowith,Flowith,s01,上海证券报：Flowith融资,https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml,投资方及产品定位,2026-03-04,2026-10-30
+flowith,Flowith,s01,上海证券报：Flowith融资,https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml,投资方及产品定位,2026-03-04,2026-11-11
 flowith,Flowith,s02,Flowith公司官方LinkedIn,https://www.linkedin.com/company/flowith,上海/旧金山招聘与产品,,2026-10-30
 flowith,Flowith,s03,Flowith官方招聘跳转,https://flowith.io/career,跳转Workable职位页,,2026-10-30
 flowith,Flowith,s04,Flowith官方条款,https://flowith.io/compliance/terms-of-service/,支持邮箱,,2026-10-30
-genspark,Genspark / MainFunc,s01,蓝驰官方被投融资稿,https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/,融资与模型编排方向,2025-11-20,2026-10-30
+flowith,Flowith,s05,Derek Nee 个人主页 About,https://dereknee.com/about,本人自述正在做AI生产力工具flowith，此前创办X ACADEMY（TechX）与Realm，并曾在YC China任PM。,2026-07-23,2026-11-11
+flowith,Flowith,s06,X 搜索结果：Derek Nee (@DerekNee),https://x.com/DerekNee,搜索结果摘要显示账号简介为“ceo @flowith to shape the interface for AGI”，此前创办X ACADEMY与Realm。,,2026-11-11
+flowith,Flowith,s07,TECH SHOW Newsletter：Meet Flowith AI,https://techshowasia.substack.com/p/ever-wish-for-a-fully-automated-digital,Flowith由Derek Nee（联合创始人兼CEO）与Yichen Wu（联合创始人兼COO）创办。,2025-10-14,2026-11-11
+flowith,Flowith,s08,LinkedIn 搜索结果：吴熠宸 Yichen Wu - Founder of Flowith and X ACADEMY,https://cn.linkedin.com/in/yichen-zionwu,搜索结果显示该档案为吴熠宸，标题写明Founder of Flowith and X ACADEMY，地点上海；页面未直接抓取。,,2026-11-11
+genspark,Genspark / MainFunc,s01,蓝驰官方被投融资稿,https://lanchiventures.com/lanchi-ventures-backed-genspark-raises-275m-series-b-launches-ai-workspace-to-put-busywork-on-autopilot/,融资与模型编排方向,2025-11-20,2026-11-11
 genspark,Genspark / MainFunc,s02,Genspark官方招聘,https://www.genspark.ai/business/careers,产品与招聘/办公地域,,2026-10-30
 genspark,Genspark / MainFunc,s03,Genspark官方帮助,https://www.genspark.ai/helpcenter/account-management,support邮箱,,2026-10-30
+genspark,Genspark / MainFunc,s04,击败Manus？前百度AI高管创业1年多，放弃500万用户搜索产品，研发9个月转向“最强Agent” - InfoQ,https://www.infoq.cn/article/LuHAffQaLe7PL9i7Qohu,MainFunc 成立于2023年年底，创始人为景鲲（Eric Jing）和朱凯华（Kay Zhu）；景鲲曾任小度科技CEO、百度集团副总裁，朱凯华曾任小度科技CTO、谷歌主任架构师。,2025-04-07,2026-11-11
+genspark,Genspark / MainFunc,s05,Eric Jing (@ericjing_ai) / X,https://x.com/ericjing_ai,X 主页简介：Cofounder/CEO @Genspark_ai，Ex-CPO @Baidu Search，Ex-Principal Dev Mgr @Microsoft Bing；据搜索结果快照核对。,,2026-11-11
 gstarsoft,苏州浩辰软件,s01,苏州浩辰软件 公开入口,https://www.gstarsoft.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 gstarsoft,苏州浩辰软件,s02,【浩辰软件招聘】-猎聘,https://www.liepin.com/company/7965554/,公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 gstarsoft,苏州浩辰软件,s03,BOSS直聘企业主页 · 浩辰软件（虎丘浩辰大厦，39岗）,https://www.zhipin.com/gongsi/1dab676601967f7c1XV-2t28GA~~.html,公开企业主页主体：浩辰软件；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -319,8 +442,11 @@ kedacom,苏州科达科技股份有限公司,s05,新浪财经公司资料 · 苏
 kedacom,苏州科达科技股份有限公司,s06,科达官网：联系我们,https://www.kedacom.com/cn/fwgs/663.jhtml,已读取官方联系页，苏州地址为高新区金山路131号；不是工业园区。只证明公布地址，不保证具体岗位地点。,,2026-11-03
 kedacom,苏州科达科技股份有限公司,s07,科达官网：公司概况,https://www.kedacom.com/cn/gongsigk/648.jhtml,官网具名苏州科达科技股份有限公司并列示603660上市身份；业务沿革1995年与法人登记年份2004年分开，不据此混为同一成立口径。,,2026-11-03
 kedacom,苏州科达科技股份有限公司,s08,BOSS直聘：苏州科达企业主页（实际读取工商信息）,https://www.zhipin.com/gongsi/a4b048155f44150d1HFy09S-.html,实际读取工商信息为苏州科达科技股份有限公司，注册及公司地址列苏州高新区金山路131号；只确认企业主页归属。,,2026-11-03
-manus,蝴蝶效应 / Manus,s01,Manus官方历史经营更新,https://www.manus.im/blog/manus-100m-arr,Benchmark历史融资、产品与办公城市,,2026-10-30
+manus,蝴蝶效应 / Manus,s01,Manus官方历史经营更新,https://www.manus.im/blog/manus-100m-arr,Benchmark历史融资、产品与办公城市,,2026-11-11
 manus,蝴蝶效应 / Manus,s02,Manus官方招聘,https://careers.manus.im/en,hiring@manus.ai与开放岗位,,2026-10-30
+manus,蝴蝶效应 / Manus,s03,36氪：对话Manus肖弘,https://m.36kr.com/p/3195813915884936,报道称2023年在投资人撮合下引入季逸超（原Peak Labs创始人兼CEO，现Manus AI首席科学家）、张涛（原光年之外产品负责人，现Manus AI产品负责人）等核心成员；肖弘为创始人。,,2026-11-11
+manus,蝴蝶效应 / Manus,s04,搜狐：Meta数十亿美元收购Manus，肖弘将出任Meta副总裁,https://www.sohu.com/a/970684001_121948396,称肖弘为Manus创始人兼CEO，并引述其本人就收购的表态。,,2026-11-11
+manus,蝴蝶效应 / Manus,s05,腾讯新闻：Manus宣布恢复独立运营,https://news.qq.com/rain/a/20260901A06WUB00,2026年9月1日Manus宣布恢复独立运营，创始团队肖弘、张涛、季逸超将继续领导公司。,2026-09-01,2026-11-11
 metasota,秘塔科技 MetaSota,s01,秘塔官方公司页,https://metasota.ai/,产品、地址与wutingting联系邮箱,,2026-10-30
 metasota,秘塔科技 MetaSota,s02,秘塔公司官方LinkedIn,https://www.linkedin.com/company/metasota/,历史投资方与法律AI定位,,2026-10-30
 metasota,秘塔科技 MetaSota,s03,秘塔官方隐私政策,https://files.metaso.cn/meta-private-policy,用户服务联系，支持邮箱另为support-1@metasota.ai,,2026-10-30
@@ -328,17 +454,22 @@ metasota,秘塔科技 MetaSota,s04,BOSS直聘上海秘塔网络科技有限公�
 metasota,秘塔科技 MetaSota,s05,猎聘上海秘塔网络科技有限公司企业页,https://m.liepin.com/company/9596565/,备用平台招聘入口，直接读取遇验证码，搜索索引可辨主体,,2026-10-30
 metasota,秘塔科技 MetaSota,s06,秘塔科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/61d379287be645371nFz39u8Ew~~.html,公开企业主页主体：秘塔科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 metasota,秘塔科技 MetaSota,s07,【上海秘塔网络科技有限公司招聘】-猎聘,https://www.liepin.com/company/9596565/,公开企业主页主体：上海秘塔网络科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+metasota,秘塔科技 MetaSota,s08,晚点聊 LateTalk 114：秘塔闵可锐2：“我不是演员”,https://podcast.latepost.com/114,闵可锐为秘塔科技创始人；访谈涉及其产品方法、融资与组织选择。,2025-05-06,2026-11-11
+metasota,秘塔科技 MetaSota,s09,智源社区转载极客公园：秘塔科技专访：AI搜索这件事，我们是怎么想的？,https://hub.baai.ac.cn/view/40734,称闵可锐为秘塔科技CEO、产品一号位，并介绍公司产品与团队分工。,2024-11-02,2026-11-11
+metasota,秘塔科技 MetaSota,s10,36氪项目库｜秘塔科技,https://pitchhub.36kr.com/project/1679673126081282,融资历史：天使轮 2018-08、Pre-A 轮 2021-05 数千万人民币及投资方；2024-08 超亿元新一轮（蚂蚁集团领投、光速光合跟投）,,2026-11-11
 sensetime,商汤科技,s01,商汤科技 公开入口,https://www.sensetime.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 sensetime,商汤科技,s02,商汤科技 SenseTime,https://www.sensetime.com/cn/,公开官网主体观察：https://www.sensetime.com/cn/；只核验入口归属。,,2026-11-02
 sensetime,商汤科技,s03,商汤科技招聘 | 坚持原创，让 AI 引领人类进步,https://hr.sensetime.com/,公开招聘入口主体观察：https://hr.sensetime.com/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 sensetime,商汤科技,s04,【商汤科技SenseTime招聘】-猎聘,https://www.liepin.com/company/8349238/,公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 sensetime,商汤科技,s05,BOSS直聘企业主页 · 商汤科技,https://www.zhipin.com/gongsi/c7ac76928d861b761nF-2dW1Fg~~.html,公开企业主页主体：商汤科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 sensetime,商汤科技,s06,商汤2024年净亏损43亿收窄33.7%，4月将发布日日新6.0大模型,https://news.qq.com/rain/a/20250327A01QM900,商汤2024年收入37.7亿元、生成式AI收入24.04亿元、净亏损43.07亿元及大装置算力。,2025-03-27,2026-11-03
-today-ai,此间无限 Today AI,s01,36氪转载IT桔子：此间无限,https://www.36kr.com/p/3719509378512261,早期投资背景,2026-03-12,2026-10-30
+today-ai,此间无限 Today AI,s01,36氪转载IT桔子：此间无限,https://www.36kr.com/p/3719509378512261,早期投资背景；36氪转载IT桔子：公司成立第三天（2026-03-06）宣布1000万美元天使轮，投资方为IDG资本与阶跃星辰；并述创始人齐俊元背景。,2026-03-12,2026-11-11
 today-ai,此间无限 Today AI,s02,Today_AI官方招募,https://weibo.com/2/detail/5348624412445354,hr@today.ai公开招聘,2026-09-29,2026-10-30
 today-ai,此间无限 Today AI,s03,Today官方产品介绍,https://today.ai/articles/blog/what-is-today,长期记忆/主动Agent,,2026-10-30
 today-ai,此间无限 Today AI,s04,Today官方支持,https://today.ai/support?language=en,support邮箱,,2026-10-30
 today-ai,此间无限 Today AI,s05,此间无限招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f2a3062321b01da303x73Nm8FVM~.html,公开企业主页主体：此间无限；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+today-ai,此间无限 Today AI,s06,36氪/IT桔子｜成立三天融资千万美元，此间无限创始人齐俊元,https://www.36kr.com/p/3719509378512261,报道此间无限（上海）智能科技有限公司2026年3月成立并完成天使轮，正文以「这位创始人——齐俊元」介绍其连续创业经历,2026-03-12,2026-11-11
+today-ai,此间无限 Today AI,s07,搜狐/猎云网｜前字节豆包负责人创业，Today AI累计完成超2亿美元融资,https://www.sohu.com/a/1090534607_118792,「Today AI是前Teambition创始人、前字节豆包PC端负责人齐俊元创办」，并记录融资与投资方,2026-10-21,2026-11-11
 tongcheng-ai,同程旅行AI部门,s01,同程旅行AI部门 公开入口,https://ir.ly.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 tongcheng-ai,同程旅行AI部门,s02,关联网站观察（原采集标签：同程旅行AI部门官网）,https://www.ly.com,公开官网主体与标题观察：同程旅行；只核验入口归属。,,2026-11-02
 tongcheng-ai,同程旅行AI部门,s03,【同程旅行招聘】-猎聘,https://www.liepin.com/company/3698161/,公开企业主页主体：同程旅行；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -360,6 +491,9 @@ xverse,元象科技,s02,元象科技官网,https://www.xverse.cn,公开官网主
 xverse,元象科技,s03,【元象唯思招聘】-猎聘,https://www.liepin.com/company/12741253/,公开企业主页主体：元象唯思；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 xverse,元象科技,s04,BOSS直聘企业主页 · 深圳元象信息科技有限公司（集团页，无苏州地址）,https://www.zhipin.com/gongsi/03b7a6b599ffafd31nF-2dm8GFc~.html,公开企业主页主体：元象科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 xverse,元象科技,s05,元象XVERSE2025届校园招聘正式启动-学生处,https://www.scfai.edu.cn/xsc/info/1015/3747.htm,高校转载元象 2025 届校招公告：官网投递 careers.xverse.cn，邮件投递 join@xverse.cn；工作地点深圳。,,2026-11-03
+xverse,元象科技,s06,元象XVERSE官网「关于我们」,https://www.xverse.cn/zh-cn,元象创始人姚星为前腾讯副总裁和腾讯 AI Lab 创始人、国家科技部新一代人工智能战略咨询委员会成员,,2026-11-11
+xverse,元象科技,s07,36氪独家｜前腾讯副总裁、AI Lab院长姚星创业，新公司「元象唯思」,https://www.36kr.com/p/1144447936185737,报道姚星从腾讯离职并创立元象唯思（元象XVERSE），任执行董事和总经理,2021-01-28,2026-11-11
+xverse,元象科技,s08,元象XVERSE官网「关于」,https://www.xverse.cn/zh-cn,官网关于页：元象在深圳成立，已完成A+轮融资，投资机构包括腾讯、高榕资本、五源资本、高瓴创投、红杉中国、淡马锡和CPE源峰；创始人姚星为前腾讯副总裁、腾讯AI Lab创始人。,,2026-11-11
 yitu,依图科技,s01,依图科技 公开入口,https://www.yitutech.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 yitu,依图科技,s02,依图科技 | YITU 拓展人工智能新疆界,https://www.yitutech.com/,公开官网主体观察：https://www.yitutech.com/；只核验入口归属。,,2026-11-02
 yitu,依图科技,s03,加入依图 | 依图科技,https://www.yitutech.com/cn/join-us,公开招聘入口主体观察：https://www.yitutech.com/cn/join-us；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -370,16 +504,27 @@ aisphere,爱诗科技 / PixVerse,s01,爱诗科技官网,https://aishiai.com/,产
 aisphere,爱诗科技 / PixVerse,s02,PixVerse官方Join Us,https://pixverse.ai/en/careers?trk=public_post_comment-text,招聘入口与开放团队,,2026-10-30
 aisphere,爱诗科技 / PixVerse,s03,「爱诗科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/846753040df0fa341XJ83NS0FFQ~.html,公开企业主页主体：爱诗科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 aisphere,爱诗科技 / PixVerse,s04,【北京爱诗科技有限公司招聘】-猎聘,https://www.liepin.com/company/13967181/,公开企业主页主体：北京爱诗科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+aisphere,爱诗科技 / PixVerse,s05,对话未来商业｜拿下亚洲AI视频最大单次融资 爱诗科技王长虎：小步快跑、先To C后To B（每日经济新闻）,https://news.qq.com/rain/a/20260320A07PM500,王长虎为爱诗科技创始人，2023年带团队创业；此前在微软亚洲研究院与字节跳动积累视觉技术经验。,2026-03-20,2026-11-11
+aisphere,爱诗科技 / PixVerse,s06,爱诗科技完成近30亿元C轮融资，阿里领投（今朝新闻/搜狐）,https://www.sohu.com/a/1050270331_122350775,爱诗科技创始人兼CEO王长虎，中国科学技术大学博士，2009年加入微软亚洲研究院，2017年加入字节跳动任AI Lab总监、视觉技术负责人。,2026-07-14,2026-11-11
+aisphere,爱诗科技 / PixVerse,s07,大河财立方（东方财富转载）：阿里巴巴领投，爱诗科技完成29.8亿元C轮融资,https://finance.eastmoney.com/a/202607143805095298.html,2026-07-14公司宣布完成整体C轮、累计融资29.8亿元；C+轮由阿里巴巴领投，并列明参与机构。,2026-07-14,2026-11-11
+aisphere,爱诗科技 / PixVerse,s08,投资界：爱诗科技完成6000万美元B轮融资，阿里巴巴领投,https://news.pedaily.cn/202509/554683.shtml,2025-09-10公司宣布完成超6000万美元B轮融资，阿里巴巴领投，达晨财智、深创投、北京市人工智能产业投资基金、湖南电广、巨人网络和Antler等跟投。,2025-09-10,2026-11-11
 avolution,鹿影科技 / Avolution.ai（历史项目）,s01,36氪鹿影科技档案,https://pitchhub.36kr.com/project/2587574655725317,投资方与产品,,2026-10-30
 avolution,鹿影科技 / Avolution.ai（历史项目）,s02,证券时报相关报道,https://epaper.stcn.com/att/202506/11/e1e0a9e1-7ac9-40ef-8bf2-7ace1e579c90.pdf,被MiniMax收购的媒体报道,2025-06-11,2026-10-30
 creativefitting,井英科技 / CreativeFitting,s01,井英科技官网,https://creativefitting.cn/,产品、方向与融资时间,,2026-10-30
 creativefitting,井英科技 / CreativeFitting,s02,36氪井英档案,https://pitchhub.36kr.com/project/1678270547325961,历史投资方,,2026-10-30
 creativefitting,井英科技 / CreativeFitting,s03,BOSS上海井英科技招聘页,https://m.zhipin.com/companys/7d2cdcbf5b86a8441Hd7292_F1Y~.html,招聘渠道与公司/品牌身份,,2026-10-30
 creativefitting,井英科技 / CreativeFitting,s04,「井英科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/88fc98c02751f6c51nN739m6E1M~.html,公开企业主页主体：井英科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+creativefitting,井英科技 / CreativeFitting,s05,井英科技（CreativeFitting）官网·关于我们,https://creativefitting.cn/aboutus.html,公司2021年创立，AI原生娱乐技术公司，AI短剧App Reel.AI；创始团队曾任美股上市公司创始人及高管。,,2026-11-11
+creativefitting,井英科技 / CreativeFitting,s06,投资界：井英科技完成数千万美元融资，打造AI短剧的Agent原生公司,https://news.pedaily.cn/202606/565034.shtml,报道原AWS上海AI研究院首席应用科学家王敏捷加入并担任首席科学家。,,2026-11-11
+creativefitting,井英科技 / CreativeFitting,s07,36氪首发：井英科技完成千万元种子轮融资,https://www.36kr.com/p/1500157503748741,报道朱江为井英科技创始人兼CEO。,,2026-11-11
+creativefitting,井英科技 / CreativeFitting,s08,AI Maker Summit 讲者页：王敏捷,https://aimakersummit.com/2026/shanghai/speaker/wangminjie.html,王敏捷为井英科技首席科学家，负责AI技术体系和Agent系统方向；上海交大ACM班本科、纽约大学博士，现任香港大学上海智能交叉创新研究院院长。,,2026-11-11
+creativefitting,井英科技 / CreativeFitting,s09,搜狐：井英科技朱江——从实习生到敲钟合伙人,https://www.sohu.com/a/791013839_355029,报道朱江毕业于上海交通大学计算机系，毕业后加入触宝科技，12年间从实习生成长为上市公司合伙人。,,2026-11-11
 deemos,影眸科技 / Deemos / Hyper3D,s01,泰伯影眸企业档案,https://www.taibo.cn/company/1327,早期投资背景,,2026-10-30
 deemos,影眸科技 / Deemos / Hyper3D,s02,影眸团队研究与招聘介绍,https://finance.sina.com.cn/stock/t/2026-07-23/doc-iniiuwti2117525.shtml,研究方向与公开投递邮箱,2026-07-23,2026-10-30
 deemos,影眸科技 / Deemos / Hyper3D,s03,Hyper3D官方链接与联络说明,https://hyper3d.ai/es/help/articles/official-hyper3d-links-and-scam-safety,官方产品域名及客服邮箱,,2026-10-30
 deemos,影眸科技 / Deemos / Hyper3D,s04,「影眸科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/c2648e580dbca8e51XV929q5GFY~.html,公开企业主页主体：影眸科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+deemos,影眸科技 / Deemos / Hyper3D,s05,校友代表吴迪在建校十周年科教融合创新发展大会上的发言（上海科技大学）,https://www.shanghaitech.edu.cn/2023/0929/c1001a1082696/page.htm,吴迪自述为上海科技大学孵化的初创公司“影眸科技”创始人，并提及联合创始人、2018级本科生张启煊。,2023-09-28,2026-11-11
+deemos,影眸科技 / Deemos / Hyper3D,s06,对话影眸科技CEO吴迪、CTO张启煊（网易科技《态度》）,https://www.163.com/tech/article/L069M6UL00098IEO.html,影眸科技创始人、CEO吴迪（1997年生）与联合创始人、CTO张启煊（1999年生）的现职与分工。,2026-06-24,2026-11-11
 gaoding,稿定科技 / 稿定设计,s01,稿定旗下咔神官网,https://carson.gaoding.com/cooperation,商业内容工具与合作入口,,2026-10-30
 gaoding,稿定科技 / 稿定设计,s02,牛客稿定企业页,https://www.nowcoder.com/enterprise/2336,招聘主体与融资标签，非融资公告,,2026-10-30
 gaoding,稿定科技 / 稿定设计,s03,稿定团队历史招聘帖,https://edge.v2ex.com/t/789028,公司与Moka招聘入口,2021-07-12,2026-10-30
@@ -390,12 +535,22 @@ guiji,硅基智能,s02,华为云合作企业资料,https://marketplace.huaweiclo
 guiji,硅基智能,s03,BOSS南京硅基智能职位检索页,https://www.zhipin.com/zhaopin/0e02877ac64324b81ndz3Nm6/,招聘渠道与公司主体,,2026-10-30
 guiji,硅基智能,s04,「南京硅基智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/e23cbde28317a54303R40tS0ElE~.html,公开企业主页主体：南京硅基智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 guiji,硅基智能,s05,【南京硅基智能科技有限公司招聘】-猎聘,https://www.liepin.com/company/9410150/,公开企业主页主体：南京硅基智能科技有限公司 (page title)；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+guiji,硅基智能,s06,36氪专访：硅基智能创始人司马华鹏：硅基生命初露锋芒，AIGC未来乍现,https://www.36kr.com/p/2170660509315331,司马华鹏为硅基智能创始人兼CEO；公司做AI数字人与智能交互。,2023-03-15,2026-11-11
+guiji,硅基智能,s07,亿欧网专访：硅基智能创始人司马华鹏：希望冲击成为首家收入利润双百亿的AI独角兽,https://www.sohu.com/a/669504726_115035,称司马华鹏为硅基智能创始人&CEO，并回顾其连续创业经历。,2023-04-24,2026-11-11
+guiji,硅基智能,s08,36氪：硅基智能完成D轮融资，数字人业务营收数亿,https://www.36kr.com/p/3362675516901129,报道2025年完成数亿元D轮，投资方为嘉兴高新区产业基金（嘉兴秀洲区）；称公司2017年成立、已完成10轮融资。,2025-07-05,2026-11-11
+guiji,硅基智能,s09,澎湃新闻：硅基智能冲刺港股“数字人第一股”,https://www.thepaper.cn/newsDetail_forward_33245243,据招股书：IPO前共8轮融资，最后一轮于2025-05-26完成、融资2亿元、投后估值31.5亿元；腾讯通过B、C两轮持股。,2026-05-28,2026-11-11
 jsdesign,即时设计 / JSDesign,s01,即时设计官网,https://js.design/,产品方向,,2026-10-30
 jsdesign,即时设计 / JSDesign,s02,即时设计官方教程,https://js.design/tutorial,公开联系邮箱,,2026-10-30
 jsdesign,即时设计 / JSDesign,s03,靖亚关于即时设计融资,https://www.emventures.cn/blog/vc,历史轮次与投资方,,2026-10-30
 jsdesign,即时设计 / JSDesign,s04,优设网即时设计企业招聘帖,https://www.uisdc.com/job/440540.html,招聘渠道与公司主体,,2026-10-30
 jsdesign,即时设计 / JSDesign,s05,即时设计招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b7ac160552afe5941nF709W9FVs~.html,公开企业主页主体：即时设计；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 jsdesign,即时设计 / JSDesign,s06,【即时设计招聘】-猎聘,https://www.liepin.com/company/12738537/,公开企业主页主体：即时设计；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+jsdesign,即时设计 / JSDesign,s07,Vol004 即时设计李国锐：设计平民化（Cloud Talk 播客/小宇宙）,https://www.xiaoyuzhoufm.com/episode/649d4e0ef5604aa55e29df87,节目页记“本期嘉宾：李国锐 即时设计创始人、CEO”，并述其湖南大学软件工程毕业、2013年任人人网前端技术主管、2015年底创业做云端协同设计平台。,,2026-11-11
+jsdesign,即时设计 / JSDesign,s08,即时设计CEO李国锐：即时AI会让设计能力大众化（凤凰网科技）,https://tech.ifeng.com/c/8RjhvlSf4Mt,报道配图说明称“即时设计创始人兼CEO李国锐”，并引述其关于即时AI产品定位的介绍。,2023-07-26,2026-11-11
+jsdesign,即时设计 / JSDesign,s09,靖亚资本：即时设计完成千万级美元A轮融资,https://www.emventures.cn/blog/figma-ui-a,A轮由靖亚资本和蓝驰创投联合领投，金额千万级美元。,2021-05-21,2026-11-11
+jsdesign,即时设计 / JSDesign,s10,靖亚资本：即时设计获A+轮融资，靖亚资本持续加注,https://www.emventures.cn/blog/ui-a,A+轮由SIG海纳亚洲创投基金和源码资本联合领投，老股东蓝驰创投跟投，靖亚资本加注；未载金额。,2021-08-12,2026-11-11
+jsdesign,即时设计 / JSDesign,s11,靖亚资本：即时设计再获两轮数千万美元融资,https://www.emventures.cn/blog/ui,A++轮由高瓴创投和SIG海纳亚洲联合领投，源码资本、靖亚资本跟投；「数千万美金」为A++与B两轮合计表述。,2021-10-21,2026-11-11
+jsdesign,即时设计 / JSDesign,s12,36氪：再获两轮数千万美元融资，即时设计发布2.0版本,https://www.36kr.com/p/1450315490224007,B轮由Coatue Management领投，高瓴创投、SIG海纳亚洲、源码资本、蓝驰创投跟投，元一资本任独家财务顾问。,2021-10-22,2026-11-11
 kuaishou,快手 Kuaishou,s01,快手,https://www.kuaishou.com/,产品／集团站点身份,,2026-11-02
 kuaishou,快手 Kuaishou,s02,快手招聘,https://zhaopin.kuaishou.cn/,官方招聘入口,,2026-11-02
 kuaishou,快手 Kuaishou,s03,快手 IR：可灵 AI 向全球用户开放内测,https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kuaishoukelingaixiangquanqiuyonghuquanmiankaifangneice,可灵 AI 主题证据,,2026-11-02
@@ -404,6 +559,11 @@ kuaishou,快手 Kuaishou,s05,【快手招聘】-猎聘,https://www.liepin.com/co
 liblib,LiblibAI / 哩布哩布,s01,LiblibAI官方加入我们,https://www.liblib.art/us/joinus,投资方、城市、公开投递邮箱,,2026-10-30
 liblib,LiblibAI / 哩布哩布,s02,LiblibAI协议,https://www.liblib.art/document/article_member,客服邮箱,,2026-10-30
 liblib,LiblibAI / 哩布哩布,s03,【LiblibAI招聘】-猎聘,https://www.liepin.com/company/21341713/,公开企业主页主体：LiblibAI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+liblib,LiblibAI / 哩布哩布,s04,晚点聊 LateTalk 175：对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻,https://podcast.latepost.com/175,陈冕为演语科技（Evoken）创始人；公司旗下有Liblib、Lovart、LibTV三个产品。,2026-07-30,2026-11-11
+liblib,LiblibAI / 哩布哩布,s05,36氪：LiblibAI融资1.3亿美金，红杉CMC领投,https://www.36kr.com/p/3531918453234569,B轮1.3亿美元，红杉中国、CMC资本及一大厂战投联合领投，老股东增持；并载天使轮350万美元由金沙江、高榕、源码投资。,2025-10-31,2026-11-11
+liblib,LiblibAI / 哩布哩布,s06,IPO早知道（新浪财经）：LiblibAI一年内连续完成四轮融资,https://finance.sina.com.cn/stock/hkstock/hkzmt/2025-02-24/doc-inemreny9702853.shtml,再次完成数亿元融资，最新两轮由渶策资本、顺为资本领投，明势创投等老股东跟投，巨人网络任产业投资方。,2025-02-24,2026-11-11
+liblib,LiblibAI / 哩布哩布,s07,飞象网（新浪财经）：LiblibAI完成1.3亿美元融资,https://finance.sina.com.cn/tech/roll/2025-10-23/doc-infuvvkt7234939.shtml,B轮1.3亿美元，红杉中国、CMC资本及一战略投资方联合领投，老股东顺为、源码、明势、渶策超额增持。,2025-10-23,2026-11-11
+liblib,LiblibAI / 哩布哩布,s08,36氪：LiblibAI融资总额达数亿元,https://www.36kr.com/p/2880308225184642,载公司成立于2023年5月；已完成三轮融资，天使轮投资方为源码资本、高榕创投和金沙江创投，第二轮由战略投资方领投，第三轮由明势资本领投。,2024-07-29,2026-11-11
 netease,网易 NetEase,s01,网易,https://www.163.com/,集团门户身份,,2026-11-02
 netease,网易 NetEase,s02,网易社会招聘,https://hr.163.com/,官方社招入口,,2026-11-02
 netease,网易 NetEase,s03,网易伏羲：AOP 与网易有灵平台介绍,https://fuxi.netease.com/database/1200,伏羲 AI 主题证据,,2026-11-02
@@ -414,16 +574,26 @@ shengshu,生数科技 / Vidu,s02,生数科技完成近20亿元B轮融资,https:/
 shengshu,生数科技 / Vidu,s03,生数官网隐私摘要,https://www.genspi.com/zh/privacy-summary/,招聘平台与HR联络邮箱,,2026-10-30
 shengshu,生数科技 / Vidu,s04,生数官网页脚与加入我们,https://www.genspi.com/zh/,现行官方招聘链接及marketing邮箱,,2026-10-30
 shengshu,生数科技 / Vidu,s05,生数科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f7c9e38b0683800a1Xx-2tW5FFY~.html,公开企业主页主体：生数科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+shengshu,生数科技 / Vidu,s06,生数科技完成近20亿元B轮融资（生数官网融资新闻）,https://www.genspi.com/zh/news/series-b-funding/,官方新闻稿引述“生数科技创始人朱军”谈世界模型路线，确认其创始人身份。,2026-04-10,2026-11-11
+shengshu,生数科技 / Vidu,s07,生数科技骆怡航出席外滩大会，阐释通用世界模型下一程（生数官网）,https://www.genspi.com/zh/news/luo-yihang-bund-summit/,官方新闻称“生数科技联合创始人、CEO骆怡航”发表主题演讲并介绍通用世界模型路线。,2026-09-10,2026-11-11
+shengshu,生数科技 / Vidu,s08,WAIC 2026｜生数科技骆怡航：从理解语言到理解世界（生数官网）,https://www.genspi.com/zh/news/waic-luobohang-understanding-world/,官方新闻称“生数科技联合创始人、首席执行官骆怡航”在WAIC 2026论坛分享世界模型判断。,2026-07-19,2026-11-11
+shengshu,生数科技 / Vidu,s09,生数科技完成近20亿元B轮融资（北京市科委/中关村官网转载）,https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202604/t20260414_243817.html,转载报道引述“生数科技创始人朱军”关于世界模型的表态，确认其创始人身份。,2026-04-14,2026-11-11
+shengshu,生数科技 / Vidu,s10,Shengshu Technology: Series B funding announcement (EN),https://www.genspi.com/en/news/series-b-funding/,2026-04-10 完成近20亿元人民币B轮：阿里云领投，中网投、九安海棠、好未来、光合创投战略投资；星连资本、达泰资本、建发新兴投资、BV百度风投、卓源亚洲追加。,2026-04-10,2026-11-11
 vast,VAST / Tripo,s01,VAST官方联系页,https://www.vastworld.ai/contact,官网、城市、商务及招聘邮箱,,2026-10-30
-vast,VAST / Tripo,s02,恒旭伙伴 VAST融资,https://www.hengxucapital.com/index.php?c=show&id=729,B/B+轮投资背景,2026-09-02,2026-10-30
+vast,VAST / Tripo,s02,恒旭伙伴 VAST融资,https://www.hengxucapital.com/index.php?c=show&id=729,B/B+轮投资背景；恒旭资本：VAST宣布完成B轮和B+轮融资，合计约30亿人民币，由经纬创投领投，完美世界、蓝色光标、芯动能投资、延趣游戏、中科创达、广电投资、三七互娱等产业资本，鼎晖VGC、中金资本、CMC资本、洪泰基金、三正健康投资、中平资本、福建产投基金、福创投、卓源亚洲、江西金控等财投参投，老股东达晨财智、春华资本、四三九九、慕华科创、绿洲资本、渶策资本、华控基金追投；并称恒旭资本于2025年11月参与A轮。,2026-09-02,2026-11-11
 vast,VAST / Tripo,s03,VAST官网导航,https://www.vastworld.ai/,当前Careers跳转至官方research页面,,2026-10-30
 vast,VAST / Tripo,s04,VAST招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/027f673ab6c1992e1HJy39q6GFQ~.html,公开企业主页主体：VAST；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 vast,VAST / Tripo,s05,【VAST招聘】-猎聘,https://www.liepin.com/company/21156495/,公开企业主页主体：VAST；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+vast,VAST / Tripo,s06,VAST 官网 About,https://www.vastworld.ai/about,About页记载 Forbes 30 Under 30 Asia 2026 入选者为 Simon Song（宋亚宸），并列出公司2022年成立、北京总部。,,2026-11-11
+vast,VAST / Tripo,s07,腾讯新闻：VAST创始人兼CEO宋亚宸——全世界最好的土壤就是北京,https://news.qq.com/rain/a/20260329A0341700,报道宋亚宸为VAST创始人兼CEO。,2026-03-29,2026-11-11
+vast,VAST / Tripo,s08,LinkedIn：Simon Song（VAST / Tripo 创始人）,https://www.linkedin.com/in/simon-yachen-song,档案自述 Founder - Tripo3d.ai（VAST）。,,2026-11-11
 xmov,魔珐科技 / Xmov,s01,魔珐官网,https://www.xmov.ai/,产品、总部、商务邮箱,,2026-10-30
 xmov,魔珐科技 / Xmov,s02,36氪魔珐档案,https://pitchhub.36kr.com/project/1688024582505735,A轮历史投资方,,2026-10-30
-xmov,魔珐科技 / Xmov,s03,2022年元宇宙研究融资表,https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAgyZ3llQYo48mJ0wY.pdf,C轮背景,2022-05,2026-10-30
+xmov,魔珐科技 / Xmov,s03,2022年元宇宙研究融资表,https://13115299.s21i.faiusr.com/61/1/ABUIABA9GAAgyZ3llQYo48mJ0wY.pdf,C轮背景；《2022中国元宇宙产业投资白皮书》魔珐科技案例页融资历程：天使轮2018-10-19数千万人民币（东方富海、五源资本、沈向洋）；A轮2019-06-25数亿人民币（五源资本、头头是道基金、红杉中国）；B轮2020-08-14 2000万美元（清新资本领投，红杉中国、五源资本）；C轮2022-04-06 1.1亿美元（软银愿景基金领投，北极光创投、指数资本）。,2022-05,2026-11-11
 xmov,魔珐科技 / Xmov,s04,鱼泡魔珐科技Xmov公司页,https://www.yupao.com/qiye/1846165860981542987.html,招聘渠道与公司主体,,2026-10-30
 xmov,魔珐科技 / Xmov,s05,魔珐科技Xmov招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/6641c9a76c022a8703F409q5GQ~~.html,公开企业主页主体：魔珐科技Xmov；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+xmov,魔珐科技 / Xmov,s06,魔珐科技官网 About：魔珐创始人&CEO 柴金祥教授,https://www.xmov.ai/about,官网介绍柴金祥为魔珐创始人兼CEO，美国卡内基梅隆大学人工智能与机器人学博士，曾任美国TAMU计算机科学与工程系终身教授。,,2026-11-11
+xmov,魔珐科技 / Xmov,s07,36氪：魔珐科技创始人兼CEO柴金祥：3D虚拟人原生产品，正在押注时代的“最大红利”,https://www.36kr.com/p/2546471289988870,36氪WISE2023大会演讲记录，称柴金祥为魔珐科技创始人兼CEO（教授）。,2023-12-04,2026-11-11
 abb-china,ABB（中国）,s01,ABB（中国）上海 公开入口,https://www.abb.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 abb-china,ABB（中国）,s02,ABB Group | Helping industries outrun – leaner and cleaner | ABB,https://www.abb.com/,公开官网主体观察：https://www.abb.com/；只核验入口归属。,,2026-11-02
 abb-china,ABB（中国）,s03,ABB的招聘 | ABB的职位,https://www.abb.com/careers,公开招聘入口主体观察：https://www.abb.com/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -437,6 +607,8 @@ ai-indeed,实在智能,s02,实在智能企业投融展资料,https://developer.c
 ai-indeed,实在智能,s03,实在智能主站加入我们,https://www.ai-indeed.com/apply,官方招聘入口及校园邮箱；主站未显示社会邮箱,,2026-10-30
 ai-indeed,实在智能,s04,「实在智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/d6af9f5c23af35ee1Xd-0ty7Fg~~.html,公开企业主页主体：实在智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 ai-indeed,实在智能,s05,【实在智能招聘】-猎聘,https://www.liepin.com/company/9629488/,公开企业主页主体：实在智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+ai-indeed,实在智能,s06,实在智能官网《孙林君简介》,https://www.ai-indeed.com/aboutNews/25491.html,官方人物页：孙林君现任浙江实在智能科技有限公司创始人兼CEO；原阿里巴巴资深算法专家（在阿里近10年，牵头打造诚信模型体系）；2018年在杭州创立实在智能；本科吉林大学信息与计算科学，硕士大连理工大学计算数学；更早任职摩托罗拉。,2026-07-30,2026-11-11
+ai-indeed,实在智能,s07,吉林大学数学学院：孙林君,https://math.jlu.edu.cn/info/1820/17328.htm,学院人物页列出其主要工作经历：浙江实在智能科技有限公司董事长、创始人、CEO（2018年至今），此前任职阿里巴巴智能服务部门。,,2026-11-11
 baosight,宝信软件,s01,宝信软件 公开入口,https://www.baosight.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 baosight,宝信软件,s02,上海宝信软件股份有限公司,https://www.baosight.com/,公开官网主体观察：https://www.baosight.com/；只核验入口归属。,,2026-11-02
 baosight,宝信软件,s03,【宝信招聘】-猎聘,https://www.liepin.com/company/182942/,公开企业主页主体：上海宝信软件股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -449,6 +621,8 @@ blacklake,黑湖科技,s04,【黑湖科技招聘】-猎聘,https://www.liepin.co
 blacklake,黑湖科技,s05,BOSS直聘企业主页 · 黑湖科技,https://www.zhipin.com/gongsi/5d86be45f29507461HZy3t67.html,公开企业主页主体：黑湖科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 blacklake,黑湖科技,s06,黑湖科技完成近10亿元D轮融资,https://www.blacklake.cn/news/d-round-financing-nearly-1-billion-yuan,黑湖科技近10亿元D轮、营收年增速超60%、全面盈利及3万多家工厂客户。,2026-04-23,2026-11-03
 blacklake,黑湖科技,s07,黑湖科技官网,https://www.blacklake.cn/,工业AI Agent、工程/报价/质检智能体与制造协同产品口径。,,2026-11-03
+blacklake,黑湖科技,s08,黑湖科技完成近10亿元D轮融资：已全面盈利，36岁创始人周宇翔曾任职华尔街投行_腾讯新闻,https://news.qq.com/rain/a/20260423A0321D00,报道称黑湖科技创始人、董事长为周宇翔，1989年8月生，毕业于美国达特茅斯学院，早年任职华尔街投行；公司2016年成立。,2026-04-23,2026-11-11
+blacklake,黑湖科技,s09,Yuxiang Zhou - Black Lake Technologies | 领英,https://cn.linkedin.com/in/yuxiangzhou,领英档案姓名 Yuxiang Zhou、任职 Black Lake Technologies、教育经历 Dartmouth College，与周宇翔公开履历一致；据搜索结果快照核对。,,2026-11-11
 bosch,博世（中国）,s01,博世（中国）苏州 公开入口,https://www.bosch.com.cn/our-company/bosch-in-china/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 bosch,博世（中国）,s02,关联网站观察（原采集标签：博世（中国）苏州官网）,https://www.bosch.com.cn,公开官网主体与标题观察：主页 | 博世在中国；只核验入口归属。,,2026-11-02
 bosch,博世（中国）,s03,【博世中国招聘】-猎聘,https://www.liepin.com/company/8179352/,公开企业主页主体：博世中国；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -461,18 +635,28 @@ cyclone,弘玑 Cyclone,s03,上海交大弘玑宣讲会,https://xsb.seiee.sjtu.ed
 cyclone,弘玑 Cyclone,s04,弘玑官方关于我们,https://www.cyclone-robotics.com/h-col-222.html,包含当前加入我们栏目；邮箱仍是历史高校公开入口,,2026-10-30
 cyclone,弘玑 Cyclone,s05,「CYCLONE RPA招聘」-BOSS直聘,https://www.zhipin.com/gongsi/025511600cbce33b03Ry2NW4Fg~~.html,公开企业主页主体：CYCLONE RPA；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 cyclone,弘玑 Cyclone,s06,【上海弘玑信息技术有限公司招聘】-猎聘,https://www.liepin.com/company/10040025/,公开企业主页主体：上海弘玑信息技术有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+cyclone,弘玑 Cyclone,s07,投资界人物页：高煜光（Vincent Gao）,https://vc.pedaily.cn/people/49122.html,高煜光为弘玑Cyclone公司创始人、CEO；上海交通大学计算机系毕业，新加坡国立大学计算机硕士，曾任HPE（中国）企业服务集团相关总经理职务,,2026-11-11
+cyclone,弘玑 Cyclone,s08,科创人·弘玑Cyclone CEO高煜光：从RPA到超自动化,https://www.cnblogs.com/heishao/p/15963879.html,标题与正文标注「上海弘玑Cyclone创始人兼CEO高煜光」，并记其曾负责惠普企业数据服务及业务发展大中华区,2022-03-29,2026-11-11
+cyclone,弘玑 Cyclone,s09,36氪独家：加速大模型+RPA产品落地，弘玑Cyclone获4000万美元C+轮融资,https://www.36kr.com/p/2370759802922752,2023年7月完成约4000万美元C+轮、华兴资本任独家财务顾问；并回顾2021年1.5亿美金C轮由CMC资本与国际金融投资机构领投。,,2026-11-11
 deepblue,深兰科技,s01,深兰科技 公开入口,https://www.deepblueai.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 deepblue,深兰科技,s02,深兰科技——致力于人工智能基础研究和应用开发,https://www.deepblueai.com/,公开官网主体观察：https://www.deepblueai.com/；只核验入口归属。,,2026-11-02
 deepblue,深兰科技,s03,【深兰科技(上海)有限公司招聘】-猎聘,https://www.liepin.com/company/9496603/,公开企业主页主体：深兰人工智能科技(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 deepblue,深兰科技,s04,BOSS直聘企业主页 · 深兰科技,https://www.zhipin.com/gongsi/94a237f837ad41040nJ92tS5.html,公开企业主页主体：深兰科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 deepblue,深兰科技,s05,深兰科技获浦东创投集团数亿元Pre-IPO轮融资,https://news.qq.com/rain/a/20250403A04P4K00,深兰科技Pre-IPO轮、浦东创投参与及自动驾驶/机器人/工业智能/AI医疗业务。,2025-04-03,2026-11-03
 deepblue,深兰科技,s06,深兰科技官网,https://www.deepblueai.com/,清洁机器人、数字健康机器人、智能公交与行业智能体等产品口径。,,2026-11-03
+deepblue,深兰科技,s07,科创板日报：深兰科技创始人陈海波：要给人工智能产业化发展更多耐心,https://www.cls.cn/detail/1215285,陈海波为深兰科技创始人、董事长，深兰科学院创始院长；2014年创立深兰科技。,2022-12-16,2026-11-11
+deepblue,深兰科技,s08,中国经营报（中经TMT）：深兰科技陈海波：希望成为“综合格斗王” 打造软硬兼备的AI公司,https://www.sohu.com/a/934787936_120044912,称陈海波为深兰科技创始人、董事长兼CEO，并介绍其“看、听、算、动”技术布局与深兰科学院。,2025-09-14,2026-11-11
+deepblue,深兰科技,s09,深兰科技官网：浦东创投集团参与完成深兰科技数亿元Pre-IPO轮投资,https://www.deepblueai.com/api/News/newsdetail?id=200,公司官网转载浦东创投公众号：2025-04完成数亿元Pre-IPO轮投资，浦东创投集团参与；文中并称公司创立于2014年。,2025-04-03,2026-11-11
 deepexi,滴普科技 / Deepexi,s01,滴普官方投资者关系,https://www.deepexi.com/investor-relations,上市及资本背景,,2026-10-30
 deepexi,滴普科技 / Deepexi,s02,天津大学滴普2027招聘简章,https://job.tju.edu.cn/recruitment/content/type/2/id/6673.html,产品框架、城市和投递邮箱,2026-10,2026-10-30
 deepexi,滴普科技 / Deepexi,s03,滴普官方招聘职位,https://www.deepexi.com/join-us/campus/c5,招聘入口,,2026-10-30
 deepexi,滴普科技 / Deepexi,s04,21财经滴普A轮融资,https://m.21jingji.com/article/20190924/herald/55cdc0794c1004069ea3d54a60d20f6a.html,历史轮次和投资方,2019-09-24,2026-10-30
 deepexi,滴普科技 / Deepexi,s05,「滴普科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/cac78b09c82e4f6d0nJ539W0FA~~.html,公开企业主页主体：滴普科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 deepexi,滴普科技 / Deepexi,s06,【滴普科技招聘】-猎聘,https://www.liepin.com/company/21242291/,公开企业主页主体：滴普科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+deepexi,滴普科技 / Deepexi,s07,直击WAIC｜对话滴普科技创始人赵杰辉：Agent竞争不在办公，而在复杂产业中的“智能复利”_新浪财经,https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0317361.shtml,新浪科技报道称滴普科技创始人、董事长赵杰辉在2026年用户大会后接受采访，公司开放 DeepWorks 企业智能体平台首批公开测试。,2026-07-19,2026-11-11
+deepexi,滴普科技 / Deepexi,s08,对话滴普科技创始人赵杰辉：企业大模型不是“养龙虾”，是给AI员工划数据围栏_新浪财经,https://finance.sina.com.cn/roll/2026-03-17/doc-inhrhxzs3901901.shtml,新浪财经2026年3月报道称赵杰辉为滴普科技创始人，介绍公司升级 Deepexi 企业大模型与 Deepexi OS。,,2026-11-11
+deepexi,滴普科技 / Deepexi,s09,港交所：滴普科技最终发售价及配发结果公告,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1027/2025102701435_c.pdf,公告载股份代号1384、发售价每股26.66港元，上市日期预计为2025年10月28日。,2025-10-27,2026-11-11
+deepexi,滴普科技 / Deepexi,s10,港交所：滴普科技全球发售招股章程,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1020/2025102000016_c.pdf,“历史、发展及公司架构－首次公开发售前投资”披露天使、Pre-A、A、A+、B1、B2轮的时间、金额与投资方。,2025-10-20,2026-11-11
 eucs,苏州优科斯,s01,苏州优科斯 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 gcl-energy,协鑫能科,s01,协鑫能科 公开入口,https://www.gcl-et.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 gcl-energy,协鑫能科,s02,协鑫能科官网,https://www.gcl-et.com,公开官网主体与标题观察：协鑫能源科技股份有限公司；只核验入口归属。,,2026-11-02
@@ -497,6 +681,12 @@ laiye,来也科技 / Laiye,s02,来也关于我们,https://laiye.com/about,城市
 laiye,来也科技 / Laiye,s03,动脉网来也档案,https://www.vbdata.cn/companyDetail/efd50b329ed651930a793e9c79341fa8,历史A轮融资,,2026-10-30
 laiye,来也科技 / Laiye,s04,来也科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/4094c3f06bfd243a1nV52N28.html,公开企业主页主体：来也科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 laiye,来也科技 / Laiye,s05,【来也科技招聘】-猎聘,https://www.liepin.com/company/9224242/,公开企业主页主体：来也科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+laiye,来也科技 / Laiye,s06,百度百科·汪冠春,https://baike.baidu.com/item/%E6%B1%AA%E5%86%A0%E6%98%A5/3324876,汪冠春为来也科技联合创始人、董事长兼CEO；上海交通大学本科、普林斯顿大学博士；2011年与胡一川回国创立阿甘网并转型为“今晚看啥”，2012年被百度收购；2015年创办来也科技。,,2026-11-11
+laiye,来也科技 / Laiye,s07,来也科技官网：他，“来也”！,https://laiye.com/news/post/2803.html,官方人物报道：汪冠春与胡一川2011年创立今晚看啥，2012年被百度收购；汪冠春在百度任智能交互应用团队负责人；2015年6月创立来也，后转向RPA+AI。,2024-05-13,2026-11-11
+laiye,来也科技 / Laiye,s08,来也科技官网：来也科技CTO胡一川：高价值场景是AI商业化的起点,https://laiye.com/news/post/2953.html,官方文章称胡一川为来也科技联合创始人兼CTO。,,2026-11-11
+laiye,来也科技 / Laiye,s09,来也科技 关于我们（发展历程）,https://www.laiye.com/about,载2015年7月1日成立并获天使轮2546万元，其后A轮数千万元、B轮千万美元、B+轮3500万美元、C轮4200万美元、C+轮5000万美元、C++轮7000万美元。,,2026-11-11
+laiye,来也科技 / Laiye,s10,来也科技完成C轮4200万美金融资,https://laiye.com/news/post/493.html,2020年2月24日完成C轮4200万美元，光速全球基金和光速中国成长基金联合领投，凯辉创新基金和双湖资本继续跟投。,,2026-11-11
+laiye,来也科技 / Laiye,s11,36氪：助理来也完成数千万元A轮融资，微软领投,https://www.36kr.com/p/1721286885377,A轮数千万元人民币，微软领投，光速中国和红杉资本跟投。,2016-12-13,2026-11-11
 midea-building-technologies,美的楼宇科技,s01,美的楼宇科技苏州 公开入口,https://www.mdbt.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 midea-building-technologies,美的楼宇科技,s02,【苏州美的楼宇设备销售有限公司招聘】-猎聘,https://www.liepin.com/company/21440641/,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 midea-building-technologies,美的楼宇科技,s03,BOSS直聘企业主页 · 苏州美的楼宇设备销售有限公司（优先于荆州工厂页）,https://www.zhipin.com/gongsi/73348f2f1ecb05831H1-09-8EVI~.html,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -507,6 +697,9 @@ powerlaw,幂律智能 / PowerLaw AI,s02,蓝驰幂律融资公告,https://www.lan
 powerlaw,幂律智能 / PowerLaw AI,s03,幂律官网加入我们导航,https://www.milvai.cn/,直接跳转BOSS官方公司职位页,,2026-10-30
 powerlaw,幂律智能 / PowerLaw AI,s04,幂律科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/25a357d750036d3e1XV53du7FA~~.html,公开企业主页主体：幂律科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 powerlaw,幂律智能 / PowerLaw AI,s05,【北京幂律智能科技有限责任公司招聘】-猎聘,https://www.liepin.com/company/13286763/,公开企业主页主体：北京幂律智能科技有限责任公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+powerlaw,幂律智能 / PowerLaw AI,s06,蓝驰创投｜幂律智能融资公告,https://www.lanchivc.com/7296/,公告引述「幂律智能创始人 涂存超」的表态,,2026-11-11
+powerlaw,幂律智能 / PowerLaw AI,s07,搜狐｜幂律智能｜涂存超：与法律人一起服务100万家企业,https://www.sohu.com/a/936529738_121697575,「涂存超 幂律智能创始人兼CEO」；清华大学计算机系2009级本科、2013级博士，研究方向为人工智能及自然语言处理,2025-09-19,2026-11-11
+powerlaw,幂律智能 / PowerLaw AI,s08,36氪项目库｜幂律智能,https://pitchhub.36kr.com/project/1678414785033223,融资历史：天使轮 2018-03、Pre-A 轮 2019-12、A 轮 2021-04、Pre-B 轮 2023-12 及各自金额与投资方,,2026-11-11
 qisda,苏州佳世达电通有限公司,s01,佳世达科技（苏州） 公开入口,https://www.qisda.com/About-Qisda,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 qisda,苏州佳世达电通有限公司,s02,关联网站观察（原采集标签：佳世达科技（苏州）官网）,https://www.qisda.com,公开官网主体与标题观察：Qisda；只核验入口归属。,,2026-11-02
 qisda,苏州佳世达电通有限公司,s03,【佳世达电通招聘】-猎聘,https://www.liepin.com/company/949828/,公开企业主页主体：佳世达电通；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -517,6 +710,8 @@ recurrent-ai,循环智能 / Recurrent AI,s01,循环智能官网关于我们,http
 recurrent-ai,循环智能 / Recurrent AI,s02,36氪循环智能档案,https://pitchhub.36kr.com/project/1745257247972481,历史投资方,,2026-10-30
 recurrent-ai,循环智能 / Recurrent AI,s03,循环智能招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/cd23d6c21b1975da0XR50t69EA~~.html,公开企业主页主体：循环智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 recurrent-ai,循环智能 / Recurrent AI,s04,【循环智能招聘】-猎聘,https://www.liepin.com/company/12197849/,公开企业主页主体：循环智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+recurrent-ai,循环智能 / Recurrent AI,s05,和讯网：循环智能：一群超级学霸的AI创业路,https://www.sohu.com/a/560442254_639898,循环智能四位联合创始人：CEO陈麒聪（CMU计算机硕士、连续创业者）、CTO张宇韬、AI与产品负责人杨植麟、COO揭发。,2022-06-24,2026-11-11
+recurrent-ai,循环智能 / Recurrent AI,s06,36氪首发：循环智能完成3800万美元新一轮融资，博裕投资和红杉中国联合领投,https://www.36kr.com/p/1529990716346377,2021-12-20 完成3800万美元B轮，博裕投资、红杉中国联合领投，老股东金沙江创投、靖亚资本、真格基金、万物资本跟投。,2021-12-20,2026-11-11
 schneider-electric-china,施耐德电气（中国）,s01,施耐德电气（中国）上海 公开入口,https://www.schneider-electric.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 schneider-electric-china,施耐德电气（中国）,s02,【施耐德电气招聘】-猎聘,https://www.liepin.com/company/2547498/,公开企业主页主体：施耐德；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 schneider-electric-china,施耐德电气（中国）,s03,Schneider Electric 中国 | 您的能源科技伙伴,https://www.schneider-electric.cn/zh/,公开官网主体观察：https://www.schneider-electric.cn/zh/；只核验入口归属。,,2026-11-02
@@ -543,6 +738,9 @@ synyi,森亿智能,s02,首页 | 森亿智能,https://www.synyi.com/,公开官网
 synyi,森亿智能,s03,【森亿智能招聘】-猎聘,https://www.liepin.com/company/8892437/,公开企业主页主体：森亿智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 synyi,森亿智能,s04,BOSS直聘企业主页 · 上海森亿智慧信息科技,https://www.zhipin.com/gongsi/d4848fc5c02d4d6203x429u0F1I~.html,公开企业主页主体：森亿；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 synyi,森亿智能,s05,8年超13亿！潜力独角兽森亿智能再获融资,https://www.163.com/dy/article/J7N90KPE0511DLVT.html,森亿智能2024年战略融资、投资方、2016年成立及累计融资超13亿元。,2024-07-22,2026-11-03
+synyi,森亿智能,s06,森亿智能官网“关于我们/核心团队”,https://www.synyi.com/about/company,官方团队页列：张少典博士为创始人/董事长/首席执行官；马汉东博士为联合创始人/副总裁，并给出两人学历与创业经历。,,2026-11-11
+synyi,森亿智能,s07,8年超13亿！潜力独角兽森亿智能再获融资（网易号，2026-11-11复核）,https://www.163.com/dy/article/J7N90KPE0511DLVT.html,报道称张少典为森亿智能创始人兼董事长，本科上海交通大学AI与计算机、博士哥伦比亚大学医学信息学。,,2026-11-11
+synyi,森亿智能,s08,投资界：森亿智能获腾讯、国药资本2.5亿元C轮投资,https://pe.pedaily.cn/201907/444475.shtml,2019-07 完成2.5亿元C轮，腾讯领投，国药资本跟投；成立三年累计融资超5.5亿元。,2019-07-03,2026-11-11
 transwarp,星环科技,s01,星环科技 公开入口,https://www.transwarp.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 transwarp,星环科技,s02,星环科技-构建新一代AI基础设施软件,https://www.transwarp.cn/,公开官网主体观察：https://www.transwarp.cn/；只核验入口归属。,,2026-11-02
 transwarp,星环科技,s03,【星环科技招聘】-猎聘,https://www.liepin.com/company/7979550/,公开企业主页主体：星环科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -557,8 +755,11 @@ uii,联影智能,s02,联影智能官方网站-AI医疗诊断-医疗AI大模型-�
 uii,联影智能,s03,联影智能社会招聘,https://uii-ai.zhiye.com/social/jobs,公开招聘入口主体观察：https://uii-ai.zhiye.com/social/jobs；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 uii,联影智能,s04,【联影智能招聘】-猎聘,https://www.liepin.com/company/9761547/,公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 uii,联影智能,s05,BOSS直聘企业主页 · 联影智能,https://www.zhipin.com/gongsi/76efa3ea6d08658503F42N60EFE~.html,公开企业主页主体：联影智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
-uii,联影智能,s06,69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资,https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html,联影智能10亿元A轮、领投/跟投方、2017年成立及联影集团关系。,2025-06-23,2026-11-03
+uii,联影智能,s06,69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资,https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html,联影智能10亿元A轮、领投/跟投方、2017年成立及联影集团关系；21世纪经济报道投融资周报：2025-06-20联影智能完成10亿元A轮，易方达私募与上国投资共同领投，上海联和、盛石资本、苏创投、均为创投、清松资本、张家港创投、联影医疗共同出资；并载公司成立于2017年。,2025-06-23,2026-11-11
 uii,联影智能,s07,联影智能官网,https://www.uii-ai.com/,医疗AI诊断、影像大模型与临床/科研产品矩阵。,,2026-11-03
+uii,联影智能,s08,联影智能联席CEO沈定刚：探索脑影像AI的无限可能（联影智能官网）,https://www.uii-ai.com/article/201.html,官方文章称“作为联影智能联席CEO，沈定刚教授也是上海科技大学生物医学工程学院创始院长”，并述其2018年回国前任美国北卡罗来纳大学终身教授。,2024-08-11,2026-11-11
+uii,联影智能,s09,联影智能沈定刚、周翔共同发布「元智」医疗大模型（联影智能官网）,https://www.uii-ai.com/article/458.html,官方文章称“联影智能联席CEO周翔博士”，并记沈定刚、周翔两位联席CEO共同发布元智医疗大模型。,2025-11-27,2026-11-11
+uii,联影智能,s10,周翔｜上海科技大学生物医学工程学院师资页,https://bme.shanghaitech.edu.cn/2021/0205/c8205a63530/page.htm,页面记周翔为上海联影智能医疗科技有限公司联席CEO，清华双学士、伊利诺伊大学香槟分校博士，曾在西门子研究院与美国西门子医疗任职近二十年。,,2026-11-11
 uzero-intelligence,苏州优智汇,s01,苏州优智汇 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 uzero-intelligence,苏州优智汇,s02,关联网站观察（原采集标签：苏州优智汇官网）,https://www.uzero.ai,公开官网主体与标题观察：uZero | AI for Producers；只核验入口归属。,,2026-11-02
 westwell,西井科技,s01,西井科技 公开入口,https://www.westwell.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
@@ -566,13 +767,18 @@ westwell,西井科技,s02,Westwell 西井科技 | 以 AI + 新能源技术重塑
 westwell,西井科技,s03,加入我们 | 西井科技,https://www.westwell-lab.com/about/careers,公开招聘入口主体观察：https://www.westwell-lab.com/about/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 westwell,西井科技,s04,【西井科技招聘】-猎聘,https://www.liepin.com/company/8617067/,公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 westwell,西井科技,s05,BOSS直聘企业主页 · 上海西井科技,https://www.zhipin.com/gongsi/a9c46db75720c8e403Zy290~.html,公开企业主页主体：西井科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
-westwell,西井科技,s06,西井科技重启IPO辅导 辅导机构变更为国泰海通证券 复星集团、平安资本等投了,https://www.cls.cn/detail/2002105,西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导。,2025-04-12,2026-11-03
+westwell,西井科技,s06,西井科技重启IPO辅导 辅导机构变更为国泰海通证券 复星集团、平安资本等投了,https://www.cls.cn/detail/2002105,西井科技14轮融资、E轮6亿元、平安资本/中移资本、18国业务及IPO辅导；财联社：西井科技2025-04-11更新上市辅导备案、重启A股IPO（辅导机构改为国泰海通）；天眼查显示其经历14轮融资，2023年完成D+轮与E轮，E轮融资额6亿元，引入平安资本、中移资本等战略资本。,2025-04-12,2026-11-11
+westwell,西井科技,s07,百度百科·谭黎敏,https://baike.baidu.com/item/%E8%B0%AD%E9%BB%8E%E6%95%8F/62440815,谭黎敏为上海西井科技股份有限公司创始人兼首席执行官，2015年创立西井（原上海西井信息科技），以港口场景切入AI驱动的智慧物流解决方案。,,2026-11-11
+westwell,西井科技,s08,人民网上海：西井科技CEO谭黎敏：取人有道，以“智”服人,https://sh.people.com.cn/n2/2022/0926/c134768-40139529.html,以“西井科技CEO谭黎敏”具名报道其创业经历、团队管理与公司全栈自研能力。,2022-09-26,2026-11-11
 yingdao,影刀 / 杭州分叉智能,s01,影刀官网联系页,https://www.yingdao.com/contactus/?from=community,官网、总部、商务邮箱,,2026-10-30
-yingdao,影刀 / 杭州分叉智能,s02,亿邦影刀C轮融资,https://m.ebrun.com/ebrungo/zb/482074.html,历史投资背景,2022-04-26,2026-10-30
+yingdao,影刀 / 杭州分叉智能,s02,亿邦影刀C轮融资,https://m.ebrun.com/ebrungo/zb/482074.html,历史投资背景；亿邦动力：影刀RPA 2022-04完成1亿美元C轮，高盛与某产业CVC领投，GGV、高瓴创投等跟投；并附融资历程表：种子轮2019-10（盈动资本、良仓加速器）、天使轮2020-04（初心资本、盈动资本）、A轮2020-10-22千万美元、B轮2021-08-31 5000万美元（Coatue领投）；称公司成立于2019年、两年累计融资近2亿美元。,2022-04-26,2026-11-11
 yingdao,影刀 / 杭州分叉智能,s03,影刀AI官网,https://www.yingdao.com/ai,AI与自动化产品,,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s04,影刀主站加入我们链接,https://www.yingdao.com/,现行招聘入口,,2026-10-30
 yingdao,影刀 / 杭州分叉智能,s05,分叉智能科技(影刀)招聘-BOSS直聘,https://www.zhipin.com/gongsi/17a964cf8a8f963c0XZ83N-8FQ~~.html,公开企业主页主体：分叉智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 yingdao,影刀 / 杭州分叉智能,s06,【影刀RPA招聘】-猎聘,https://www.liepin.com/company/10239799/,公开企业主页主体：影刀RPA；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+yingdao,影刀 / 杭州分叉智能,s07,百度百科·影刀,https://baike.baidu.com/item/%E5%BD%B1%E5%88%80/61933581,影刀为杭州分叉智能科技有限公司2019年推出的RPA软件品牌，创始人金礼剑；品牌服务全球超1万家企业。,,2026-11-11
+yingdao,影刀 / 杭州分叉智能,s08,36氪：影刀RPA金礼剑：好产品就是最好的商业模式,https://m.36kr.com/p/1521338055643267,称金礼剑（花名“十布”）为影刀RPA创始人，讲述其以产品驱动商业化的理念。,,2026-11-11
+yingdao,影刀 / 杭州分叉智能,s09,金礼剑 LinkedIn 主页（搜索结果摘要）,https://cn.linkedin.com/in/%E7%A4%BC%E5%89%91-%E9%87%91-7a3151a9,DuckDuckGo 结果标题显示“金礼剑 - 影刀RPA创始人”，摘要列出工作经历为杭州分叉智能科技有限公司；页面正文未能直接抓取。,,2026-11-11
 yuanzhi-ai,苏州远志科技,s01,苏州远志科技 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 zpmc,振华重工,s01,振华重工 公开入口,https://www.zpmc.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 zpmc,振华重工,s02,"Shanghai Zhenhua Heavy Industries Co., Ltd. (ZPMC) - Shanghai Zhenhua ...",https://www.zpmc.com/,公开官网主体观察：https://www.zpmc.com/；只核验入口归属。,,2026-11-02
@@ -586,6 +792,13 @@ deepdraw,深绘智能 / Deepdraw,s04,【深绘智能招聘】-猎聘,https://www
 infimind,极睿科技 / Infimind,s01,极睿官方关于我们,https://www.infimind.com/about,产品、投资背景、城市与商务邮箱,,2026-10-30
 infimind,极睿科技 / Infimind,s02,极睿旗下AIFashion官网,https://www.aifashion.com/,历史公开求职邮箱,,2026-10-30
 infimind,极睿科技 / Infimind,s03,【北京极睿科技有限责任公司招聘】-猎聘,https://www.liepin.com/company/9960391/,公开企业主页主体：北京极睿科技有限责任公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+infimind,极睿科技 / Infimind,s04,时代面孔 | 极睿科技武彬：用AI改变世界的“钢铁侠”_澎湃新闻,https://www.thepaper.cn/newsDetail_forward_30847906,报道称武彬为极睿科技创始人，清华计算机系本硕，从程序员成长为企业家，公司以 AI 生成电商内容为主要业务。,2025-07-30,2026-11-11
+infimind,极睿科技 / Infimind,s05,AI领域必追的「技术+商业」双料导师：极睿科技武彬的硬核知识输出法则-阿里云开发者社区,https://developer.aliyun.com/article/1691295,文章称武彬为极睿科技创始人兼CEO，清华计算机系本硕，有十余年 AI 创业经验。,,2026-11-11
+infimind,极睿科技 / Infimind,s06,36氪：用AI提升线上线下购物体验，极睿科技从时尚领域切入,https://www.36kr.com/p/1722644873217,称极睿科技曾获金沙江创投天使轮融资，公司成立于2017年。,2018-07-12,2026-11-11
+infimind,极睿科技 / Infimind,s07,36氪：极睿科技获红杉领投的亿元级A轮融资,https://www.36kr.com/p/1724478111745,称完成亿元级A轮，红杉资本中国基金领投、图灵创投跟投；此前获金沙江创投、魔量资本数千万元Pre-A轮。,2019-10-16,2026-11-11
+infimind,极睿科技 / Infimind,s08,36氪：极睿科技获顺为B轮融资,https://www.36kr.com/p/2514166173913345,称完成数千万美元B轮融资，投资方为顺为资本，浅月资本任独家财务顾问。,2023-11-14,2026-11-11
+infimind,极睿科技 / Infimind,s09,新浪财经（投资界）：极睿科技完成亿元级B系列多轮融资,https://finance.sina.com.cn/jjxw/2025-02-25/doc-inemrzsp1520891.shtml,称连续完成亿元级B系列多轮融资，投资方包括用友产投、百度、红蜻蜓、卓源亚洲。,2025-02-25,2026-11-11
+infimind,极睿科技 / Infimind,s10,指数资本：极睿科技连续完成B系列多轮融资,https://www.indexvc.com/service/trade/8456.html,财务顾问官网载同一「亿元级B系列多轮融资」及投资方名单。,,2026-11-11
 jd,京东 JD.com,s01,关于京东,https://about.jd.com/company/,集团关于页身份,,2026-11-02
 jd,京东 JD.com,s02,京东招聘-首页,https://zhaopin.jd.com/home,官方招聘入口,,2026-11-02
 jd,京东 JD.com,s03,JoyAI 官网：京东 AIGC 平台,https://jdai.jd.com/portal,JoyAI 主题证据,,2026-11-02
@@ -596,11 +809,19 @@ kuaizi,筷子科技 / Kuaizi,s02,36氪筷子档案,https://pitchhub.36kr.com/pro
 kuaizi,筷子科技 / Kuaizi,s03,筷子官网根域,https://kuaizi.ai/,现行官网跳转，避免旧目录404,,2026-10-30
 kuaizi,筷子科技 / Kuaizi,s04,BOSS筷子科技公司招聘页,https://m.zhipin.com/companys/1daa18f2ebdeb5cd1nx-0tW4.html,招聘渠道与公司主体,,2026-10-30
 kuaizi,筷子科技 / Kuaizi,s05,筷子科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/3ed6a6a8aef43fcd1nZ72N0~.html,公开企业主页主体：筷子科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+kuaizi,筷子科技 / Kuaizi,s06,腾讯新闻｜筷子科技陈万锋：AIGC必须能带来确定性结果才算真有价值,https://news.qq.com/rain/a/20240328A07AMY00,嘉宾身份标注为「筷子科技创始人兼CEO陈万锋」,2024-03-28,2026-11-11
+kuaizi,筷子科技 / Kuaizi,s07,RTBChina 微访谈：筷子科技联合创始人和CEO陈万锋谈程序化创意技术,https://www.rtbchina.com/interview-of-programmatic-creative-company-kuaizi-tech-ceo-winder-chen.html,较早的英文访谈，称陈万锋（Winder Chen）为筷子科技联合创始人兼CEO,,2026-11-11
+kuaizi,筷子科技 / Kuaizi,s08,36氪：筷子科技完成近5000万元B1轮融资,https://www.36kr.com/p/2726136547976201,B1轮近5000万元，由金沙江创投、海珠城发集团、明辉懿德、海南比芯共同投资，非凡资本任独家财务顾问。,2024-04-12,2026-11-11
+kuaizi,筷子科技 / Kuaizi,s09,投资界：筷子科技完成近亿元B轮融资,https://news.pedaily.cn/202506/551375.shtml,称近亿元B轮由B1及B2轮组成，B1轮由金沙江创投、海珠城发、明辉懿德、海南比芯投资，B2轮由追远创投、海珠城发、赛意产业基金和清智资本联合投资。,2025-06-23,2026-11-11
 leyan,乐言科技,s01,乐言官网,https://www.leyantech.com/portal/,D轮领投与产品,,2026-10-30
 leyan,乐言科技,s02,乐言官方招聘页,https://www.leyantech.com/joinUS.html,投递邮箱与城市,,2026-10-30
 leyan,乐言科技,s03,乐言关于我们,https://www.leyantech.com/aboutUs.html,方向与覆盖区域,,2026-10-30
 leyan,乐言科技,s04,乐言科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/bfb355f61045ec851ndy39S_GFs~.html,公开企业主页主体：乐言科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 leyan,乐言科技,s05,【乐言科技招聘】-猎聘,https://www.liepin.com/company/8826410/,公开企业主页主体：乐言科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+leyan,乐言科技,s06,36氪首发|AI SaaS 服务商「乐言科技」完成数亿元D轮融资，中金资本、上海人工智能产业投资基金领投,https://www.36kr.com/p/1196800358811907,报道称乐言科技创始人兼CEO沈李斌博士从事自然语言处理研究20多年；联合创始人兼COO赵兴斌曾任淘宝天下事业部总经理。,2021-04-25,2026-11-11
+leyan,乐言科技,s07,沈李斌｜投资界人物库,https://vc.pedaily.cn/people/46528.html,人物资料称沈李斌为乐言科技创始人兼CEO，U Penn 博士，从事自然语言处理与机器学习二十多年，前 IBM Watson 资深研究员，人工智能正高级工程师。,,2026-11-11
+leyan,乐言科技,s08,赵兴斌 - 联合创始人&COO - 乐言科技 | 领英,https://cn.linkedin.com/in/%E5%85%B4%E6%96%8C-%E8%B5%B5-615869139,领英档案显示赵兴斌为乐言科技联合创始人&COO，地点杭州；据搜索结果快照核对。,,2026-11-11
+leyan,乐言科技,s09,乐言科技完成数亿元人民币D轮融资，中金资本、上海人工智能产业投资基金领投,https://www.leyantech.com/portal/article/index/id/107/cid/1.html,2021年4月25日完成数亿元人民币D轮，中金资本旗下基金、上海人工智能产业投资基金领投，老股东跟投。,2021-04-26,2026-11-11
 pdd-holdings,拼多多集团 PDD Holdings,s01,拼多多,https://www.pinduoduo.com/,中国区电商品牌站身份,,2026-11-02
 pdd-holdings,拼多多集团 PDD Holdings,s02,拼多多集团-PDD校园招聘官网,https://careers.pinduoduo.com/,官方招聘入口（校招站同时承载集团招聘入口）,,2026-11-02
 pdd-holdings,拼多多集团 PDD Holdings,s03,PDD Holdings Form 20-F FY2025 (SEC),https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm,年报披露平台使用 AI 的主题证据,,2026-11-02
@@ -613,6 +834,10 @@ quickcep,快牛智营 / QuickCEP,s03,复星锐正融资动态,https://www.frzcap
 quickcep,快牛智营 / QuickCEP,s04,36氪QuickCEP档案,https://pitchhub.36kr.com/project/1958431415880964,历史投资方,,2026-10-30
 quickcep,快牛智营 / QuickCEP,s05,鱼泡快牛智营公司招聘页,https://www.yupao.com/qiye/202334541.html,招聘渠道与公司主体,,2026-10-30
 quickcep,快牛智营 / QuickCEP,s06,快牛智营招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/2d2c761c14eec83b1XR72tu5F1E~.html,公开企业主页主体：快牛智营；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+quickcep,快牛智营 / QuickCEP,s07,对话快牛QuickCEP CEO：领跑中国品牌出海消费者运营Agent赛道（爱分析/搜狐）,https://www.sohu.com/a/876523382_545428,访谈称“快牛QuickCEP创始人兼CEO陈光”，并述2021年为创业关键节点、公司服务泡泡玛特、荣耀、Ulike等出海品牌。,2025-03-27,2026-11-11
+quickcep,快牛智营 / QuickCEP,s08,品牌出海服务商快牛智营完成数千万元融资（投资界/pedaily）,https://news.pedaily.cn/202306/516211.shtml,报道引述“QuickCEP CEO 陈光”介绍产品与出海策略，并记公司2021年底成立、团队前身有十余年客服与营销SaaS经验。,2023-06-01,2026-11-11
+quickcep,快牛智营 / QuickCEP,s09,36氪出海：品牌出海服务商QuickCEP快牛智营完成数千万元融资，源数创投领投,https://www.36kr.com/p/2316686522904071,2023年6月完成数千万元战略融资，源数创投领投，老股东复星锐正、初心资本跟投；并提及2022年6月完成数千万人民币Pre-A轮。,2023-06-26,2026-11-11
+quickcep,快牛智营 / QuickCEP,s10,搜狐（深圳市跨境电商协会会员动态）：QuickCEP完成近亿元融资,https://www.sohu.com/a/960439798_121123831,2025年完成近亿元融资，啟赋资本领投、老股东复星锐正超额跟投，源合资本担任独家财务顾问。,2025-12-01,2026-11-11
 shoplazza,店匠科技 / Shoplazza,s01,店匠官网关于我们,https://www.shoplazza.cn/pages/about-us,投资方和产品,,2026-10-30
 shoplazza,店匠科技 / Shoplazza,s02,BOSS店匠企业招聘页,https://m.zhipin.com/companys/ddcf41eb4e9388b21HR939q5FA~~.html,深圳主体与公开岗位,,2026-10-30
 shoplazza,店匠科技 / Shoplazza,s03,店匠官方招聘页,https://www.shoplazza.cn/pages/join-us,招聘入口有效,,2026-10-30
@@ -626,31 +851,46 @@ shulex,Shulex / 杭州数里行间科技有限公司,s04,投资界Shulex档案,h
 shulex,Shulex / 杭州数里行间科技有限公司,s05,Shulex官网页脚,https://www.shulex.com/,明确将marketing@shulex-tech.com标为商务合作,,2026-10-30
 shulex,Shulex / 杭州数里行间科技有限公司,s06,谈职数里行间公司招聘页,https://www.tanzhi.cn/companies/8554cd7e-6bc6-4bb1-bc47-1c79232c15a7/,招聘渠道与公司/品牌身份,,2026-10-30
 shulex,Shulex / 杭州数里行间科技有限公司,s07,数里行间招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/32c0cc606c28738a1n1-2d24FVI~.html,公开企业主页主体：数里行间；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+shulex,Shulex / 杭州数里行间科技有限公司,s08,亿邦动力/增长工场：对话郭辰璐：从钉钉到Shulex 一个To B老兵对SaaS出海的“冷思考”,https://www.ebrun.com/20250505/578617.shtml,郭辰璐为Shulex联合创始人，前钉钉核心成员（在钉钉八年）；郭振（Hunter）为创始人；2021年共同创立数里行间。,2025-05-05,2026-11-11
+shulex,Shulex / 杭州数里行间科技有限公司,s09,雨果跨境：数里行间创始人郭辰璐：AI+SAAS创业是场团队马拉松,https://www.cifnews.com/article/149128,郭辰璐为数里行间（Shulex）创始人，前钉钉创始团队成员（花名天蓬）；2021年与郭振共同创业。,2023-09-04,2026-11-11
 tabcut,特看科技 / Tabcut,s01,36氪特看科技融资档案,https://pitchhub.36kr.com/project/2011456818382086,产品、投资方与法人主体,,2026-10-30
 tabcut,特看科技 / Tabcut,s02,特看公司档案,https://www.innohere.com/ir/100532/frame.html,泉州主体、杭州子公司、广州分支,,2026-10-30
 tabcut,特看科技 / Tabcut,s03,Tabcut官网页脚,https://www.tabcut.com/,公开客服邮箱,,2026-10-30
 tabcut,特看科技 / Tabcut,s04,猎聘杭州特看科技公司招聘页,https://m.liepin.com/company/13969591/,招聘渠道与公司/品牌身份,,2026-10-30
 tabcut,特看科技 / Tabcut,s05,特看科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/5344ded464abd0e91XZ-39y5E1M~.html,公开企业主页主体：特看科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tabcut,特看科技 / Tabcut,s06,36氪首发 | 获数千万天使轮融资，「特看科技」用AI+数据打造视频生产SaaS平台,https://www.36kr.com/p/2042191495597312,报道称特看科技成立于2022年6月，创始人兼CEO吴春松（花名乐乘）为前阿里资深产品专家、阿里巴巴智能设计实验室负责人；联合创始人兼CTO陈炳辉为前阿里资深技术专家、UC浏览器内核技术负责人。,2022-12-15,2026-11-11
+tabcut,特看科技 / Tabcut,s07,特看科技创始人&CEO吴春松确认出席2024（深圳）CCEE雨果跨境展_跨境魔方,https://www.upkuajing.com/knowledge/zixun/12155,活动信息页标题与正文标注“特看科技创始人&CEO吴春松”，并介绍其 TikTok 电商数据工具 tabcut.com 与数字人直播业务。,,2026-11-11
 tec-do,钛动科技 / Tec-Do,s01,钛动官方企业介绍,https://www.tec-do.com/about.html,产品、发展背景和媒体邮箱,,2026-10-30
 tec-do,钛动科技 / Tec-Do,s02,钛动官方发布新闻稿,https://www.globenewswire.com/news-release/2026/08/20/3348067/0/zh-hans/%E9%92%9B%E5%8A%A8%E7%A7%91%E6%8A%80%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%90%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84.html,投资背景,2026-08-20,2026-10-30
 tec-do,钛动科技 / Tec-Do,s03,钛动领英职位页,https://cn.linkedin.com/company/tecdocn/jobs,公开招聘入口,,2026-10-30
 tec-do,钛动科技 / Tec-Do,s04,钛动官网加入我们,https://www.tec-do.com/,当前官方Moka招聘链接,,2026-10-30
 tec-do,钛动科技 / Tec-Do,s05,钛动科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/08cb1a1a6e6b5e271HR809i6Fg~~.html,公开企业主页主体：钛动科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 tec-do,钛动科技 / Tec-Do,s06,【钛动科技招聘】-猎聘,https://www.liepin.com/company/8922908/,公开企业主页主体：钛动科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tec-do,钛动科技 / Tec-Do,s07,钛动科技官网·企业介绍,https://www.tec-do.com/about/,发展历程多处记载CEO李述昊：2019年获天河区创新领军人才、2024年当选广州市第十六届人大代表。,,2026-11-11
+tec-do,钛动科技 / Tec-Do,s08,维基百科：李述昊,https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%BF%B0%E6%98%8A,1989年生，钛动科技创始人兼首席执行官，曾任UC、华为；2017年创立钛动科技。,,2026-11-11
+tec-do,钛动科技 / Tec-Do,s09,LinkedIn：Shuhao Li（Tec-Do 创始人兼CEO）,https://cn.linkedin.com/in/shuhaoli-tec-do,档案自述 Founder & CEO of Tec-Do。,,2026-11-11
+tec-do,钛动科技 / Tec-Do,s10,钛动科技官网新闻：钛动科技宣布完成新一轮融资,https://www.tec-do.com/news/318,2026-08-20 完成新一轮融资，华泰泛大西洋基金领投，鲲鹏光远、广汽资本、金沙江联合资本跟投；未披露金额。,2026-08-20,2026-11-11
 xiaoduo,晓多科技 / Xiaoduo AI,s01,晓多官网,https://www.xiaoduoai.com/,产品方向,,2026-10-30
 xiaoduo,晓多科技 / Xiaoduo AI,s02,晓多官方招聘系统,https://xiaoduoai.zhiye.com/Social,社招入口,,2026-10-30
-xiaoduo,晓多科技 / Xiaoduo AI,s03,晓多官方产品方案,https://cdnpic.xiaoduoai.com/uploads/20240919/58b97269ce1283af6c57087155af42ff.pdf,历史轮次,,2026-10-30
+xiaoduo,晓多科技 / Xiaoduo AI,s03,晓多官方产品方案,https://cdnpic.xiaoduoai.com/uploads/20240919/58b97269ce1283af6c57087155af42ff.pdf,历史轮次；晓多官方产品方案（公司介绍页）：晓多科技成立于2014年；2020年连续完成B+轮（硅港资本）与C轮（嘉御基金领投，祥峰投资、元禾原点跟投），两轮融资金额合计超2亿元人民币；2021年完成D轮，腾讯领投。,,2026-11-11
 xiaoduo,晓多科技 / Xiaoduo AI,s04,晓多科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/7a6c3a5ab18fb8f81HZ729-6FA~~.html,公开企业主页主体：晓多科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 xiaoduo,晓多科技 / Xiaoduo AI,s05,【成都晓多科技有限公司招聘】-猎聘,https://www.liepin.com/company/9726000/,公开企业主页主体：成都晓多科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+xiaoduo,晓多科技 / Xiaoduo AI,s06,AI成都 | “晓模型XPT”迭代智能客服能力体系，「晓多科技」研发+业务突破正当时-36氪,https://www.36kr.com/p/2789769142715269,报道引述「晓多科技」创始人兼CEO江岭，介绍其行业大模型“晓模型XPT”通过国家生成式人工智能服务备案。,2024-05-27,2026-11-11
+xiaoduo,晓多科技 / Xiaoduo AI,s07,Ai客服成市场刚需 晓多科技要做“人类专家级别”智能客服？-36氪,https://www.36kr.com/p/1723651604481,报道配图说明与正文多次称江岭为晓多科技创始人兼CEO，并引述其谈深度学习客服引擎与产品线。,,2026-11-11
 agibot,智元机器人,s01,智元完成B轮融资,https://www.caixin.com/2025-03-25/102301793.html,投资背景,2025-03-25,2026-10-30
 agibot,智元机器人,s02,智元官方商店联系页,https://store.agibot.com/pages/contact,产品应用及销售邮箱,,2026-10-30
 agibot,智元机器人,s03,智元官方招聘,https://agirobot.jobs.feishu.cn/,招聘入口及公司业务,,2026-10-30
 agibot,智元机器人,s04,「智元机器人招聘」-BOSS直聘,https://www.zhipin.com/gongsi/07b072ef03f6aac71XN629m-E1M~.html,公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 agibot,智元机器人,s05,【智元机器人招聘】-猎聘,https://www.liepin.com/company/13530971/,公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+agibot,智元机器人,s06,智元机器人官网「董事会&合伙人」,https://www.agibot.com.cn/company/leadership,邓泰华任创始人/董事会主席/CEO，彭志辉任联合创始人/总裁/CTO，姜青松任联合创始人/联席总裁/COO，姚卯青任联合创始人/联席总裁、具身业务体系总裁,,2026-11-11
+agibot,智元机器人,s07,AGIBOT official Board & Partners,https://www.agibot.com/company/leadership,英文官网同一页面：Deng Taihua 为 Founder/Chairman/CEO，Peng Zhihui 为 Co-Founder/President/CTO，Jiang Qingsong 为 Co-Founder/Co-President/COO，Yao Maoqing 为 Co-Founder/Co-President 兼 Embodied AI Business 总裁,,2026-11-11
 agve,苏州艾吉威机器人,s01,苏州艾吉威机器人 公开入口,https://www.agve.com.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 agve,苏州艾吉威机器人,s02,【苏州艾吉威机器人有限公司招聘】-猎聘,https://www.liepin.com/company/9806813/,公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 agve,苏州艾吉威机器人,s03,BOSS直聘企业主页 · 苏州艾吉威机器人有限公司（21岗）,https://www.zhipin.com/gongsi/874c6b1e202fddd31X1639q7Eg~~.html,公开企业主页主体：苏州艾吉威机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 agve,苏州艾吉威机器人,s04,关于我们 - 艾吉威机器人,https://www.agvsz.com/about-us/,苏州艾吉威机器人有限公司成立于2011年，专注移动机器人（AGV）研产销，获相关专利180余项，总部苏州工业园区、生产基地湖北天门。,,2026-11-03
+agve,苏州艾吉威机器人,s05,苏州艾吉威机器人有限公司-关于我们（团队介绍）,https://www.agvsz.com/about-us/,官网团队页列出：刘胜明 创始人＆总裁（上海交通大学博士、安泰EMBA，无反射板激光导航技术中国&美国专利发明人之一）；司秀芬 联合创始人＆董事长（中南大学工学博士）；周航 联席CTO（华中科技大学本硕）。,,2026-11-11
+agve,苏州艾吉威机器人,s06,苏州艾吉威机器人有限公司-公司介绍（RoboInd 企业档案）,https://agvsz.roboind.com/introduce/,企业档案页转载艾吉威团队信息，注明官网来源：刘胜明 创始人＆总裁、司秀芬 联合创始人＆董事长、周航 联席CTO，与官网一致。,,2026-11-11
+agve,苏州艾吉威机器人,s07,36氪项目库·艾吉威机器人,https://pitchhub.36kr.com/project/2002545715421059,融资历史表列A轮、战略融资、A+轮、B轮的时间、金额与投资方；工商信息载成立时间2011-12-12。,,2026-11-11
 bozhong,苏州博众精工,s01,苏州博众精工 公开入口,https://www.bozhong.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 bozhong,苏州博众精工,s02,【博众精工招聘】-猎聘,https://www.liepin.com/company/9793213/,公开企业主页主体：博众精工；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 bozhong,苏州博众精工,s03,BOSS直聘企业主页 · 博众精工科技股份有限公司（吴江湖心西路，373岗）,https://www.zhipin.com/gongsi/8ebcd2ab59df0c691HZ_3Nm9GVE~.html,公开企业主页主体：博众精工科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -663,21 +903,29 @@ didi,滴滴 DiDi,s05,【滴滴招聘】-猎聘,https://www.liepin.com/company/80
 elite-robots,苏州艾利特机器人,s01,苏州艾利特机器人 公开入口,https://www.elite-robots.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 elite-robots,苏州艾利特机器人,s02,【艾利特机器人招聘】-猎聘,https://www.liepin.com/company/9751741/,公开企业主页主体：艾利特机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 elite-robots,苏州艾利特机器人,s03,BOSS直聘企业主页 · 艾利特智能机器人股份有限公司（苏州）,https://www.zhipin.com/gongsi/c4f6c7b9b99ce2a503By2du5GVc~.html,公开企业主页主体：艾利特机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
-elite-robots,苏州艾利特机器人,s04,艾利特机器人完成6亿元D+轮融资,https://www.elibot.com/about/news/170,2026-03-25宣布完成6亿元D+轮，投资方含LHCP、达晨财智、元禾控股、园丰资本等；苏州全球总部+郑州中原总部。,2026-03-25,2026-11-03
+elite-robots,苏州艾利特机器人,s04,艾利特机器人完成6亿元D+轮融资,https://www.elibot.com/about/news/170,2026-03-25宣布完成6亿元D+轮，投资方含LHCP、达晨财智、元禾控股、园丰资本等；苏州全球总部+郑州中原总部。,2026-03-25,2026-11-11
 elite-robots,苏州艾利特机器人,s05,艾利特机器人品牌介绍,https://www.elibot.com/about/news/58,2016年北京艾利特科技成立、2018年苏州工业园区全球生产基地设立等发展历程。,,2026-11-03
 elite-robots,苏州艾利特机器人,s06,艾利特机器人官网 - 智能操作机器人专家，赋能具身智能未来,https://www.elibot.com/,官方官网主体：艾利特机器人；页脚公开市场合作邮箱 market@elibot.cn、售后技术支持邮箱 technical@elibot.cn。,,2026-11-03
 elite-robots,苏州艾利特机器人,s07,加入我们-艾利特官网,https://www.elibot.com/about/join,官方加入我们页两处公开招聘邮箱 hr@elibot.cn；不表示具体岗位开放。,,2026-11-03
+elite-robots,苏州艾利特机器人,s08,百度百科·曹宇男,https://baike.baidu.com/item/%E6%9B%B9%E5%AE%87%E7%94%B7/49741131,曹宇男为博士，曾任北京交通大学机械与电子控制工程学院副教授，现任艾利特机器人董事长兼CEO；北京航空航天大学宇航学院学士、北航机器人研究所博士，清华大学精密仪器与机械学系博士后。,,2026-11-11
+elite-robots,苏州艾利特机器人,s09,中证网：艾利特董事长曹宇男：深耕产业场景 让机器人在真实需求中进化,https://www.cs.com.cn/ssgs/01/2026/07/13/detail_2026071310023931.html,以“艾利特董事长曹宇男”具名报道，并称公司2016年在北京成立、2018年将总部迁至苏州。,2026-07-13,2026-11-11
+elite-robots,苏州艾利特机器人,s10,艾利特官网·关于艾利特,https://www.elibot.com/about/profile,官方介绍：创始团队源自北航、清华，师从国家机器人首席科学家王田苗教授，2016年创立；官网荣誉列表中载有曹宇男获行业“产业领袖经营创新奖”“杰出创业者奖”等记录。,,2026-11-11
 flexiv,非夕科技,s01,非夕科技 公开入口,https://www.flexiv.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 flexiv,非夕科技,s02,非夕科技官网,https://www.flexiv.com,公开官网主体与标题观察：Home | Flexiv；只核验入口归属。,,2026-11-02
 flexiv,非夕科技,s03,【上海非夕机器人科技有限公司招聘】-猎聘,https://www.liepin.com/company/9416705/,公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 flexiv,非夕科技,s04,招贤纳士 | 非夕科技 | Flexiv,https://www.flexiv.cn/join,官方招聘／加入我们入口。,,2026-11-02
 flexiv,非夕科技,s05,BOSS直聘企业主页 · 上海非夕机器人科技有限公司（集团页，仅上海地址）,https://www.zhipin.com/gongsi/03872f27297614c01nd939S1FQ~~.html,公开企业主页主体：上海非夕机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
+flexiv,非夕科技,s06,非夕科技创始人兼CEO王世全入选2025全球青年领袖｜非夕科技官网,https://www.flexiv.cn/news/flexiv_ceo_was_selected_as_a_world_economic_forum_young_global_leader,公司官网新闻称王世全为非夕创始人兼CEO，博士毕业于斯坦福大学仿生与灵巧操作实验室及人工智能实验室，2016年创立非夕科技。,2025-04-15,2026-11-11
+flexiv,非夕科技,s07,王世全：非夕科技创始人兼CEO｜明人堂,https://www.mingrentai.com/people/wangshiquan,人物页称王世全为非夕科技创始人兼CEO，1988年生，浙江大学机械工程系本科、斯坦福大学博士，2025年世界经济论坛全球青年领袖。,,2026-11-11
+flexiv,非夕科技,s08,非夕科技官网：非夕历程,https://www.flexiv.cn/history,历程页披露2016年6月成立、2020年12月超1亿美金B轮、2022年6月近亿美金B+轮、2025年6月亿级美元C轮。,,2026-11-11
 fourier,傅利叶,s01,傅利叶官网,https://www.fftai.com/en/,当前产品方向,,2026-10-30
-fourier,傅利叶,s02,傅利叶完成近8亿元E轮,https://www.yicai.com/news/102430454.html,投资方,2025-01-07,2026-10-30
+fourier,傅利叶,s02,傅利叶完成近8亿元E轮,https://www.yicai.com/news/102430454.html,投资方,2025-01-07,2026-11-11
 fourier,傅利叶,s03,傅利叶产品资料,https://www.fftai.com/uploads/upload/files/20250519/9367c1adcb832047765641f301645c90.pdf,商务邮箱,,2026-10-30
 fourier,傅利叶,s04,傅利叶校招材料转载,https://www.91-tanhua.net/news/detail/103,招聘邮箱及官方摩卡入口,,2026-10-30
 fourier,傅利叶,s05,「傅利叶智能招聘」-BOSS直聘,https://www.zhipin.com/gongsi/d26254c33e8b964d03R_2965Fg~~.html,公开企业主页主体：傅利叶智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 fourier,傅利叶,s06,【傅利叶智能招聘】-猎聘,https://www.liepin.com/company/9311236/,公开企业主页主体：傅利叶智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+fourier,傅利叶,s07,人民网上海：顾捷——做中国人自己的机器人，让技术真正服务于民,https://sh.people.com.cn/n2/2026/0518/c134768-41583210.html,报道顾捷为傅利叶创始人兼首席执行官，深耕机器人赛道二十余年。,2026-05-18,2026-11-11
+fourier,傅利叶,s08,新浪财经：对话傅利叶创始人顾捷,https://finance.sina.cn/2026-02-02/detail-inhkmsfz0809467.d.html,报道顾捷为傅利叶创始人兼CEO，2015年在上海张江创立公司。,2026-02-02,2026-11-11
 galaxea,星海图,s01,星海图官网新闻,https://galaxea-ai.com/cn,A4/A5投资方,2025-07-16,2026-10-30
 galaxea,星海图,s02,关于星海图,https://www.galaxea-ai.com/zh/company.html,模型、本体与融资历史,,2026-10-30
 galaxea,星海图,s03,加入星海图,https://www.galaxea-ai.com/zh/jobs.html,招聘岗位与城市,,2026-10-30
@@ -685,12 +933,25 @@ galaxea,星海图,s04,星海图官方招聘站,https://galaxea.zhiye.com/campus/
 galaxea,星海图,s05,星海图申请页,https://galaxea-ai.com/zh/apply.html,产品联系邮箱,,2026-10-30
 galaxea,星海图,s06,「星海图招聘」-BOSS直聘,https://www.zhipin.com/gongsi/da0d0fc9657d8f8503J82tu4F1A~.html,公开企业主页主体：星海图；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 galaxea,星海图,s07,【星海图招聘】-猎聘,https://www.liepin.com/company/13784555/,公开企业主页主体：星海图；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+galaxea,星海图,s08,星海图官网「核心团队」,https://galaxea-ai.com/leadership.html,高继扬任创始人&CEO，赵行任联合创始人&首席科学家，李天威任联合创始人&COO,,2026-11-11
+galaxea,星海图,s09,LinkedIn：Jiyang Gao（高继扬）,https://www.linkedin.com/in/jiyanggao,个人主页显示 Jiyang Gao（高继扬）为 Galaxea CEO，履历含 Momenta、南加州大学,,2026-11-11
+galaxea,星海图,s10,Galaxea official Leadership (EN),https://galaxea-ai.com/en/leadership.html,英文官网核心团队页：Jiyang Gao 为 Founder & CEO，Hang Zhao 为 Co-founder & Chief Scientist，Tianwei Li 为 Co-founder & COO,,2026-11-11
+galaxea,星海图,s11,"China Robotics Insider｜Gao Jiyang, Founder & CEO, Galaxea AI",https://www.robotichina.com/person-gao-jiyang.html,人物条目记高继扬（Gao Jiyang）为 Galaxea AI 创始人兼CEO，曾任 Waymo 高级工程师与 Momenta 高管，毕业于清华大学,,2026-11-11
+galaxea,星海图,s12,星海图官网：关于我们（公司历程）,https://www.galaxea-ai.com/zh/company.html,公司历程披露2023-09成立并完成首轮融资、2024-01天使轮、2024-11 Pre-A、2025-04 A2/A3、2025-07 A4/A5、2026-02 B、2026-04 B+及2026年B/C轮融资节奏与金额。,,2026-11-11
+galaxea,星海图,s13,北京日报：星海图完成10亿元融资，具身智能再添百亿独角兽,https://news.bjd.com.cn/2026/02/11/11578993.shtml,报道2026-02-11 B轮10亿元及投资方；并称公司已完成股改、尚未上市。,2026-02-11,2026-11-11
 galbot,银河通用,s01,银河通用官网,https://www.galbot.com/,产品与官方招聘跳转,,2026-10-30
 galbot,银河通用,s02,银河通用完成11亿元融资,https://finance.people.com.cn/n1/2025/0623/c1004-40507025.html,投资背景,2025-06-23,2026-10-30
 galbot,银河通用,s03,银河通用再融25亿元,https://companies.caixin.com/m/2026-03-02/102418622.html,2026轮投资方,2026-03-02,2026-10-30
 galbot,银河通用,s04,银河通用2027校招,https://career.nankai.edu.cn/correcruit/content/id/116497.html,招聘邮箱及工作地域,2026-07-27,2026-10-30
 galbot,银河通用,s05,「银河通用机器人招聘」-BOSS直聘,https://www.zhipin.com/gongsi/274adc549f8801231Xxy2Nq4GVY~.html,公开企业主页主体：银河通用机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 galbot,银河通用,s06,【北京银河通用机器人有限公司招聘】-猎聘,https://www.liepin.com/company/13921475/,公开企业主页主体：北京银河通用机器人有限公司 (page title)；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+galbot,银河通用,s07,北京大学计算机学院·王鹤,https://cs.pku.edu.cn/info/1083/1707.htm,王鹤为北京大学计算机学院前沿计算研究中心助理教授、博士生导师，北京大学博雅青年学者，创立并领导北大具身感知与交互实验室（EPIC Lab）；页面列出其个人主页 https://hughw19.github.io/。,,2026-11-11
+galbot,银河通用,s08,百度百科·王鹤,https://baike.baidu.com/item/%E7%8E%8B%E9%B9%A4/67851593,王鹤1992年生，2014年获清华大学学士、2021年获斯坦福大学博士，现任北京大学助理教授、银河通用机器人创始人兼首席技术官。,,2026-11-11
+galbot,银河通用,s09,百度百科·姚腾洲,https://baike.baidu.com/item/%E5%A7%9A%E8%85%BE%E6%B4%B2/64403595,姚腾洲为银河通用联合创始人，硕士毕业于北京航空航天大学机器人研究所（师从王田苗教授），曾就职于ABB集团上海机器人研发中心，后在ROOBO担任研发负责人；2023年5月与王鹤共同创立银河通用。,,2026-11-11
+galbot,银河通用,s10,百度百科·北京银河通用机器人股份有限公司,https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E9%93%B6%E6%B2%B3%E9%80%9A%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/67950222,公司成立于2023年5月19日；核心管理团队包括董事长郭小亮，法定代表人、董事、经理姚腾洲。,,2026-11-11
+galbot,银河通用,s11,王鹤个人学术主页（GitHub Pages）,https://hughw19.github.io/,其本人学术主页（He Wang），列出研究方向、论文与项目；北京大学计算机学院官方教师页将本链接列为他的个人主页。,,2026-11-11
+galbot,银河通用,s12,国际科技创新中心网络服务平台（中关村科学城）：银河通用完成新一轮11亿元融资,https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202506/t20250624_208522.html,2025-06-24发布：本轮11亿元由宁德时代及溥泉资本领投，国开科创、北京机器人产业基金、纪源资本等参与。,2025-06-24,2026-11-11
+galbot,银河通用,s13,财新：银河通用再融25亿元 称是估值最高未上市机器人公司,https://companies.caixin.com/m/2026-03-02/102418622.html,2026-03-02报道25亿元融资及投资方名单；称公司为估值最高的未上市人形机器人企业。,2026-03-02,2026-11-11
 gaussian-robotics,高仙机器人,s01,高仙机器人 公开入口,https://www.gs-robot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 gaussian-robotics,高仙机器人,s02,高仙机器人_商用清洁机器人_智能洗地机器人_工业智能清洁解决方案,https://www.gs-robot.com/,公开官网主体观察：https://www.gs-robot.com/；只核验入口归属。,,2026-11-02
 gaussian-robotics,高仙机器人,s03,【苏州高仙机器人科技有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs93533663/,公开企业主页主体：苏州高仙机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -699,6 +960,9 @@ gaussian-robotics,高仙机器人,s05,融资12亿！高仙机器人完成C轮融
 gaussian-robotics,高仙机器人,s06,清洁机器人企业高仙完成D++轮融资,https://robot.ofweek.com/2023-01/ART-8321200-8500-30584542.html,高仙完成D++轮融资及商用清洁机器人业务。,2023-01-11,2026-11-03
 gaussian-robotics,高仙机器人,s07,高仙机器人官网,https://www.gs-robot.com/,奂影S1、Scrubber、Vacuum等产品线。,,2026-11-03
 gaussian-robotics,高仙机器人,s08,Careers - 高仙,https://www.gs-robot.com/careers/,官方职业页与 Our vacancies 列表（当日 10 个岗位，含 Channel Commercial Manager 上海、Overseas Market Strategy Manager）；未公开招聘邮箱。,,2026-11-03
+gaussian-robotics,高仙机器人,s09,高仙完成A轮千万级美元融资，自主移动导航系统独角兽浮现（新智元/腾讯云开发者社区）,https://cloud.tencent.com/developer/article/1138889,高仙创始人程昊天，毕业于英国剑桥大学，曾主导上海世博会“海宝机器人”立项与技术方案；公司2013年成立。,2018-05-30,2026-11-11
+gaussian-robotics,高仙机器人,s10,Gausium Ranked World's No.1 Commercial Cleaning Robot Supplier by IDC（Gausium官网）,https://gausium.com/news/idc-2025-worlds-no1-commercial-cleaning-robot-supplier/,"官方新闻稿引述“Edward Cheng, Founder and CEO, Gausium”，确认高仙（Gausium）创始人兼CEO现职。",,2026-11-11
+gaussian-robotics,高仙机器人,s11,高仙机器人官网转载：今日资本、软银愿景联合领投，高仙机器人完成12亿元C轮融资,https://www.gs-robot.com/news/%E8%BD%AC%E8%BD%BD%E4%B8%A8%E4%BB%8A%E6%97%A5%E8%B5%84%E6%9C%AC%E3%80%81%E8%BD%AF%E9%93%B6%E6%84%BF%E6%99%AF%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95%EF%BC%8C%E9%AB%98%E4%BB%99%E6%9C%BA%E5%99%A8%E4%BA%BA/,公司官网转载稿：2021-11-10完成12亿元C轮，今日资本、软银愿景基金联合领投，金镒资本跟投，老股东美团超额认购、蓝驰创投与远翼投资持续跟投；并称公司成立于2013年10月。,2021-11-10,2026-11-11
 hikrobot,海康机器人,s01,海康机器人（苏州） 公开入口,https://www.hikrobotics.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 hikrobot,海康机器人,s02,关联网站观察（原采集标签：海康机器人（苏州）官网）,https://www.hikrobotics.com,公开官网主体与标题观察：海康机器人；只核验入口归属。,,2026-11-02
 hikrobot,海康机器人,s03,【杭州海康机器人股份有限公司招聘】-猎聘,https://www.liepin.com/company/9851123/,公开企业主页主体：杭州海康机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -713,6 +977,12 @@ im-motors,智己汽车,s02,智己汽车-智能时代出行的变革者-IM智己�
 im-motors,智己汽车,s03,【智己汽车科技有限公司招聘】-猎聘,https://www.liepin.com/company/12520237/,公开企业主页主体：智己汽车科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 im-motors,智己汽车,s04,BOSS直聘企业主页 · 智己汽车,https://www.zhipin.com/gongsi/5f7561bbc87f23e21nd_3tS-FFc~.html,公开企业主页主体：智己汽车；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 im-motors,智己汽车,s05,94亿融资到手 智己汽车能上岸吗,https://finance.sina.com.cn/zmt/2025-01-16/doc-inefcrkf6388972.shtml,智己B1轮及B轮合计94亿元、2020年由上汽/张江高科/阿里巴巴设立、注册资本100亿元。,2025-01-16,2026-11-03
+im-motors,智己汽车,s06,智己汽车（维基百科条目）,https://zh.wikipedia.org/wiki/%E6%99%BA%E5%B7%B1%E6%B1%BD%E8%BD%A6,条目信息框列“代表人物 刘涛（CEO）”，并记载其以联席CEO身份回应车主与用户问题。,,2026-11-11
+im-motors,智己汽车,s07,94亿融资到手 智己汽车能上岸吗（每日财报/新浪财经，2026-11-11复核）,https://finance.sina.com.cn/zmt/2025-01-16/doc-inefcrkf6388972.shtml,报道称“智己汽车联席CEO刘涛担任起了营销代言人的角色”，并记载2024年12月贾健旭接任法定代表人、董事长。,2025-01-16,2026-11-11
+im-motors,智己汽车,s08,智己汽车成功获得超80亿元B轮股权融资,https://www.immotors.com/website/news_detail/166,2024年3月1日宣布B轮超80亿元，中银资产领投，农银投资、临港集团参与，宁德时代、Momenta、清陶能源跟投，上汽集团、工银投资、交银投资追加；并载公司成立于2020年12月25日。,2024-03-04,2026-11-11
+im-motors,智己汽车,s09,完美收官！智己汽车完成94亿元B轮融资,https://www.immotors.com/website/news_detail/212,2024年12月25日宣布完成B1轮，整体B轮融资共募集资金94亿元。,2024-12-25,2026-11-11
+im-motors,智己汽车,s10,36氪：A轮融资30亿元，智己汽车估值300亿,https://www.36kr.com/p/1855424186371716,称智己汽车A轮共获30亿元融资、投后估值接近300亿元，金额引述知情人士。,2022-08-03,2026-11-11
+im-motors,智己汽车,s11,界面新闻：智己汽车完成A轮股权融资,https://www.jiemian.com/article/7846169.html,2022年8月1日完成A轮协议签署，交银资本领投，上汽集团追加投资，工银投资、国家绿色发展基金、知友创投、上海国资国企综改基金、中信证券投资等参与。,2022-08-02,2026-11-11
 innovusion,图达通,s01,图达通 公开入口,https://www.innovusion.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 innovusion,图达通,s02,图达通官网,https://www.seyond.cn/,公开官网主体与标题观察：图达通官网 / Seyond；只核验入口归属。,,2026-11-02
 innovusion,图达通,s03,【Seyond图达通招聘】-猎聘,https://www.liepin.com/company/9973591/,公开企业主页主体：Seyond图达通；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -720,6 +990,10 @@ innovusion,图达通,s04,BOSS直聘企业主页 · 图达通／Seyond（苏州�
 innovusion,图达通,s05,Seyond Holdings Ltd. 完成De-SPAC交易公告（港交所）,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1210/2025121000287.pdf,2025-12-10 De-SPAC交割，股份代号2665于港交所主板开始买卖。,2025-12-10,2026-11-03
 innovusion,图达通,s06,图达通官网,https://www.seyond.cn/,Seyond图达通成立于硅谷、激光雷达及解决方案提供商。,,2026-11-03
 innovusion,图达通,s07,Learn more about Seyond Career Opportunity,https://www.seyond.cn/careers/,官方招聘介绍页；联系区仅列 info@cn.seyond.com 与合规邮箱，未公开专门招聘邮箱；校招入口另见 seyond.zhiye.com。,,2026-11-03
+innovusion,图达通,s08,北京大学校友网｜校友企业图达通港股上市,https://pku.org.cn/info/1013/38592.htm,图达通创始人兼CEO鲍君威、创始人兼CTO李义民，二人于2016年共同创立公司,2025-12-11,2026-11-11
+innovusion,图达通,s09,图达通官网新闻｜Innovusion斩获LiDAR AWARDS领军企业,https://www.seyond.cn/seyond-lidar-awards-news/,引述「Innovusion CTO，联合创始人李义民博士」的表态,,2026-11-11
+innovusion,图达通,s10,图达通官网｜Innovusion鲍君威：创业物理家的初心，做有价值的事,https://www.seyond.cn/seyond%E9%B2%8D%E5%90%9B%E5%A8%81%E5%88%9B%E4%B8%9A%E7%89%A9%E7%90%86%E5%AE%B6%E7%9A%84%E5%88%9D%E5%BF%83%E5%81%9A%E6%9C%89%E4%BB%B7%E5%80%BC%E7%9A%84%E4%BA%8B/,官网转载专访，称「Innovusion CEO、联合创始人鲍君威」,2023-02-22,2026-11-11
+innovusion,图达通,s11,LinkedIn：Yimin Li,https://www.linkedin.com/in/yimin-li-a1189910,个人主页显示 Yimin Li 为 Seyond（图达通）Cofounder and CTO，履历含硅谷光通信与激光雷达经历,,2026-11-11
 inovance-technology,苏州汇川技术有限公司,s01,苏州汇川技术 公开入口,https://www.inovance.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 inovance-technology,苏州汇川技术有限公司,s02,苏州汇川技术官网,https://www.inovance.com,公开官网主体与标题观察：汇川技术官网；只核验入口归属。,,2026-11-02
 inovance-technology,苏州汇川技术有限公司,s03,【汇川技术招聘】-猎聘,https://www.liepin.com/company/1938395/,公开企业主页主体：汇川技术；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -737,22 +1011,39 @@ jaka,节卡机器人,s04,节卡招贤纳士／加入我们,https://www.jaka.com/
 jaka,节卡机器人,s05,BOSS直聘企业主页 · 节卡机器人股份有限公司（上海母公司页）,https://www.zhipin.com/gongsi/81990c218f4828221nd50t28GA~~.html,公开企业主页主体：节卡机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 jaka,节卡机器人,s06,科创板一IPO审议会议取消 原定8月8日召开（证券时报）,https://stcn.com/article/detail/3003922.html,节卡股份成立于2014年，2022-2024年营收2.81/3.5/4亿元，审议会因需进一步核查被取消。,2025-08-08,2026-11-03
 jaka,节卡机器人,s07,节卡股份撤回科创板IPO 原计划募资近7亿元（证券时报）,https://www.stcn.com/article/detail/3548994.html,2025-12-19上交所终止其科创板IPO审核。,2025-12-19,2026-11-03
+jaka,节卡机器人,s08,搜狐：深度专访JAKA创始人、董事长李明洋,https://www.sohu.com/a/386998691_489960,报道李明洋为节卡机器人创始人、董事长。,,2026-11-11
+jaka,节卡机器人,s09,新浪财经：节卡机器人IPO终止报道,https://cj.sina.com.cn/articles/view/7405682050/1b969bd8200101cchy,报道李明洋为节卡机器人董事长、总经理（实控人）。,,2026-11-11
+jaka,节卡机器人,s10,LinkedIn：JAKA Robotics 创始人兼CEO,https://cn.linkedin.com/in/jakarobot,档案自述 JAKA Robotics - Founder/CEO。,,2026-11-11
+jaka,节卡机器人,s11,爱企查：李明洋（节卡机器人）人物页,https://aiqicha.baidu.com/person?personId=e34d05529d6d5ec4fc876c3f004fde12,人物页载明李明洋为节卡机器人创始人兼董事长，曾在可口可乐、瑞典利乐包装等乳品饮料及设备公司工作近10年，长期从事技术及工厂规划。,,2026-11-11
+jaka,节卡机器人,s12,投资界：节卡机器人完成超3亿元C轮融资,https://m.pedaily.cn/news/465204,C轮超3亿元，CPE源峰和国投招商共同领投，老股东方广资本跟投，华兴资本任独家财务顾问。,2021-01-14,2026-11-11
+jaka,节卡机器人,s13,投资界：节卡机器人获C+轮融资,https://m.pedaily.cn/news/481372,宣布已于2021年上半年完成C+轮，由某全球工业巨头与普罗资本旗下国开装备基金联合投资，金额未披露。,2021-11-15,2026-11-11
+jaka,节卡机器人,s14,36氪：节卡机器人完成D轮10亿元融资,https://www.36kr.com/p/1832401903165696,D轮折合人民币约10亿元，淡马锡、淡明（True Light）、软银愿景基金二期、Prosperity7 Ventures联合领投；公司成立于2014年。,2022-07-20,2026-11-11
+jaka,节卡机器人,s15,上海证券报：节卡机器人获新一轮股权融资 临港数科基金领投,https://finance.sina.com.cn/stock/relnews/cn/2026-03-30/doc-inhsuvau2583091.shtml,新一轮股权融资由临港数科基金领投，鸿海集团关联方广宇科技与星宇股份跟投，未披露金额。,2026-03-30,2026-11-11
 jundo,苏州钧舵机器人,s01,苏州钧舵机器人 公开入口,https://www.itjuzi.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 jundo,苏州钧舵机器人,s02,【苏州钧舵机器人有限公司招聘】-猎聘,https://www.liepin.com/company/12160493/,公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 jundo,苏州钧舵机器人,s03,BOSS直聘企业主页 · 苏州钧舵机器人有限公司（吴江，76岗）,https://www.zhipin.com/gongsi/03ee3ece1be410ca1HV93Nq0EQ~~.html,公开企业主页主体：苏州钧舵机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 jundo,苏州钧舵机器人,s04,创投观察站｜给机器人造更灵巧手，哈工大博士领衔团队获B+轮融资,https://www.xhby.net/content/s68e8f5fce4b0c463b33c1e06.html,苏州钧舵机器人完成B+轮融资，创始人介党阳来自哈工大机器人研究所。,2025-10-10,2026-11-03
 jundo,苏州钧舵机器人,s05,苏州“潜在独角兽”，获美的集团战略入股,https://finance.sina.com.cn/stock/relnews/hk/2026-08-11/doc-inimyaai4196010.shtml,钧舵机器人新一轮战略融资，投资方含硅港资本、点亮资本、美的集团等，注册资本增至约1235.4万元。,2026-08-11,2026-11-03
+jundo,苏州钧舵机器人,s06,介党阳 - 虹桥国际科技周演讲嘉宾,https://www.hongqiaotechweek.com/speaker/%E4%BB%8B%E5%85%9A%E9%98%B3/,嘉宾页称介党阳为苏州钧舵机器人创始人/CEO，哈工大机器人研究所博士，苏州大学客座教授；国内首批空间站机械臂方向博士，曾任中国运载火箭技术研究院长征火箭总体副主任设计师。,,2026-11-11
+jundo,苏州钧舵机器人,s07,苏州一家科技公司获得新一轮融资，创始人哈工大本硕博连读！_网易,https://www.163.com/dy/article/L2KA4V5T05119596.html,报道称钧舵机器人成立于2018年1月，创始人为介党阳，哈工大机器人研究所本硕博连读，曾任职中国航天科技集团运载火箭技术研究院并参与空间轻型机械臂项目。,2026-07-24,2026-11-11
+jundo,苏州钧舵机器人,s08,投资界：钧舵机器人完成近亿元B轮融资,https://m.sohu.com/a/648991039_439726/,B轮近亿元，温润投资领投，敦鸿资产、创业工场等跟投，分享投资加持；2022年3月完成近5000万A+轮；公司创立于2018年。,2023-03-03,2026-11-11
+jundo,苏州钧舵机器人,s09,投资界：钧舵机器人完成B+轮融资,https://3g.163.com/news/article/KANJFDDL05198R3E.html,完成B+轮融资，由新晋投资方与老股东共同加持，未披露金额与投资方名称。,2025-09-30,2026-11-11
 keenon,擎朗智能,s01,擎朗智能 公开入口,https://www.keenon.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 keenon,擎朗智能,s02,KEENON Robotics - Smart Service Robots & Solutions,https://www.keenon.com/,公开官网主体观察：https://www.keenon.com/；只核验入口归属。,,2026-11-02
 keenon,擎朗智能,s03,【深圳市擎朗智能科技有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs130194987/,公开企业主页主体：深圳市擎朗智能科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 keenon,擎朗智能,s04,BOSS直聘企业主页 · 擎朗智能,https://www.zhipin.com/gongsi/256dd9a902bb05381Hx-2dq6EA~~.html,公开企业主页主体：擎朗智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 keenon,擎朗智能,s05,机器人企业擎朗智能完成2亿美元D轮融资,https://www.cls.cn/detail/835614,擎朗2亿美元D轮、软银愿景领投、中金甲子/Prosperity7跟投。,2021-09-15,2026-11-03
 keenon,擎朗智能,s06,擎朗智能官网,https://www.keenon.com/,送餐/酒店/清洁等服务机器人产品与具身AI定位。,,2026-11-03
+keenon,擎朗智能,s07,经济参考报：擎朗智能CEO李通：让人形机器人真正干活才是商业化的本质,https://www.jjckb.cn/20260719/448a46080fa24d0ca4c2dbcad8ca606c/c.html,李通为擎朗智能创始人兼CEO；公司有16年商用机器人积累，推进岗位化人形机器人落地。,2026-07-19,2026-11-11
+keenon,擎朗智能,s08,界面新闻：擎朗智能CEO李通：中国在服务机器人领域领先全球,https://m.jiemian.com/article/11974580.html,李通为擎朗智能创始人兼CEO；2010年与三位伙伴凑20万元在上海创业，华中科技大学电气工程自动化专业毕业。,2024-11-12,2026-11-11
+keenon,擎朗智能,s09,36氪：擎朗智能完成2亿美元D轮融资,https://www.36kr.com/p/1397821032561417,D轮2亿美元，软银愿景基金领投，中金甲子、Prosperity7 Ventures跟投；公司成立于2010年；并回溯2020年12月数亿元C轮投资方为软银亚洲风险投资公司与阿里巴巴集团。,2021-09-15,2026-11-11
 kepler-robotics,开普勒机器人,s01,开普勒机器人 公开入口,https://www.keplerbot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 kepler-robotics,开普勒机器人,s02,【开普勒机器人招聘】-猎聘,https://www.liepin.com/company/13928431/,公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 kepler-robotics,开普勒机器人,s03,BOSS直聘企业主页 · 开普勒机器人有限公司,https://www.zhipin.com/gongsi/df65785ecc0b2c9003R629W4FVQ~.html,公开企业主页主体：上海开普勒机器人有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 kepler-robotics,开普勒机器人,s04,“70后”全球化老兵入局人形机器人，开普勒完成Pre-A轮融资,https://m.rccaijing.com/news-7324687326767674663.html,开普勒2023年8月成立、Pre-A投资方、先行者K2工业场景训练。,2025-05-06,2026-11-03
 kepler-robotics,开普勒机器人,s05,Kepler Forerunner Series General-Purpose Humanoid Robot · Contact,https://www.gotokepler.com/contact,官方联系页：contact@gotokepler.com（联系）、sales@/business@/pr@/investor@gotokepler.com 分用途列出；未公开招聘邮箱。,,2026-11-03
+kepler-robotics,开普勒机器人,s06,新京报：CEO出走后，开普勒机器人被“卖”给上市公司,https://m.bjnews.com.cn/detail/1779279357129638.html,报道2026年4月公司官方宣传中CEO由胡德波变为原副总裁宋华；杨华为创始人兼实际控制人、纯米科技创始人；胡德波已离职创办索塔无界。,2026-05-20,2026-11-11
+kepler-robotics,开普勒机器人,s07,电子产品世界：开普勒机器人完成A轮融资，携手三家行业头部企业,https://finance.sina.cn/tech/2025-07-01/detail-infcxsmn9045591.d.html,开普勒与兆丰机电、汉威科技、乔锋智能完成A轮融资签约，未披露金额。,2025-07-01,2026-11-11
 leader-drive,苏州绿的谐波,s01,苏州绿的谐波 公开入口,https://www.leader-drive.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 leader-drive,苏州绿的谐波,s02,BOSS直聘企业主页 · 苏州绿的谐波传动科技股份有限公司（木渎，13岗）,https://www.zhipin.com/gongsi/1576c829fe8024871nZ-3N20GFI~.html,公开企业主页主体：苏州绿的谐波传动科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 leader-drive,苏州绿的谐波,s03,新浪财经公司资料 · 苏州绿的谐波传动科技股份有限公司（688017）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/688017.phtml,2011-01-13成立、2020-08-28上市、精密传动装置主营、苏州吴中注册地址。,,2026-11-03
@@ -760,14 +1051,25 @@ leader-drive,苏州绿的谐波,s04,猎聘：绿的谐波（检索命中，正�
 lige-wanwu,理格万物,s01,雷峰网鲸犀｜梁文锋、红杉、砺思资本投了俞涛做的通用具身大脑,https://www.bianews.com/news/details?id=247966,亲友轮投资方（红杉中国、砺思、DeepSeek）、业务定位与创始人履历,,2026-11-09
 lige-wanwu,理格万物,s02,投资界｜理格万物公司页,https://vc.pedaily.cn/company/907191.html,北京海淀主体、成立时间与注册信息、天使轮日期口径,,2026-11-09
 lige-wanwu,理格万物,s03,SVTR｜理格万物,https://svtr.ai/orgs/ligewanwu,北京、通用具身大脑定位、投资方名单交叉,,2026-11-09
+lige-wanwu,理格万物,s04,雷峰网·鲸犀｜梁文锋、红杉、砺思资本投了俞涛做的通用具身大脑,https://www.bianews.com/news/details?id=247966,俞涛创办理格万物，方向为通用具身大脑；此前任逐际动力基础模型负责人、腾讯 AI Lab「绝悟」团队高级研究员,2026-10-26,2026-11-11
+lige-wanwu,理格万物,s05,SVTR｜理格万物,https://svtr.ai/orgs/ligewanwu,机构条目记「延续创始人俞涛在逐际动力搭建全身运动跟踪系统与动作生成体系的技术路线」,,2026-11-11
+lige-wanwu,理格万物,s06,投资界｜理格万物 公司页,https://vc.pedaily.cn/company/907191.html,记种子轮 2026-10-26、投资方红杉中国／砺思资本／DeepSeek、金额未披露；工商成立时间 2026-09-21,,2026-11-11
 limx,逐际动力,s01,逐际Pre-IPO融资公告,https://www.limxdynamics.com/en/news/BK000064,投资方与产品,2026-07-14,2026-10-30
 limx,逐际动力,s02,逐际FAQ,https://www.limxdynamics.com/en/faq,技术定位、总部、招聘及商务邮箱,,2026-10-30
 limx,逐际动力,s03,逐际动力招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/f175c119152444b31XZ_39W8E1I~.html,公开企业主页主体：逐际动力；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 limx,逐际动力,s04,【深圳逐际动力科技股份有限公司招聘】-猎聘,https://www.liepin.com/company/13423055/,公开企业主页主体：深圳逐际动力科技股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+limx,逐际动力,s05,LimX Dynamics 官网 About Us,https://www.limxdynamics.com/en/about,官网About页媒体栏将 Will Zhang 标为 Founder，并列出 CFO Jesse Liu 的 Bloomberg 访谈。,,2026-11-11
+limx,逐际动力,s06,量子位：逐际动力再融2亿美元提速港股IPO,https://www.qbitai.com/2026/07/449474.html,报道张巍为逐际动力创始人兼CEO。,2026-07-14,2026-11-11
+limx,逐际动力,s07,逐际动力获近 2 亿元投资，推动四轮足、人形双足、AI 的研发落地丨逐际动力官方网站,https://www.limxdynamics.com/zh/news/BK000004,天使轮与 Pre-A 轮合计近 2 亿元，及两轮投资方名单（峰瑞、智数、明势、昆仲；绿洲领投 Pre-A、联想创投参与）,2023-10-17,2026-11-11
+limx,逐际动力,s08,逐际动力半年完成 5 亿元 A 轮系列融资丨逐际动力官方网站,https://www.limxdynamics.com/zh/news/BK000018,A+ 轮完成、A 轮系列半年累计 5 亿元及参与机构名单,2025-03-06,2026-11-11
+limx,逐际动力,s09,逐际动力完成 2 亿美元 B 轮融资丨逐际动力官方网站,https://www.limxdynamics.com/zh/news/BK000056,2026-02-02 的 2 亿美元 B 轮及新老投资方名单,2026-02-02,2026-11-11
 microport-medbot,微创机器人,s01,微创机器人 公开入口,https://www.medbotics.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 microport-medbot,微创机器人,s02,【微创机器人招聘】-猎聘,https://www.liepin.com/company/9755879/,公开企业主页主体：上海微创医疗机器人(集团)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 microport-medbot,微创机器人,s03,BOSS直聘企业主页 · 微创机器人,https://www.zhipin.com/gongsi/80b1e114613885391ndy2N64FVQ~.html,公开企业主页主体：微创机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 microport-medbot,微创机器人,s04,2.57亿，增长146%，微创机器人最新年报,https://www.vbdata.cn/newsDetail/52f969000bfc11f0b7af00163e034e34,微创机器人2024年收入2.57亿元、同比增长146%、净亏损6.47亿元及产品订单。,2025-03-28,2026-11-03
+microport-medbot,微创机器人,s05,证券时报专访微创机器人创始人、首席执行官何超,https://www.stcn.com/article/detail/3593591.html,2026年1月专访称何超为微创机器人创始人、首席执行官；公司已实现腔镜、骨科、血管介入全赛道产品商业化，累计订单超230台。,2026-01-15,2026-11-11
+microport-medbot,微创机器人,s06,合肥工业大学：国产手术机器人产业领军者——何超校友,https://news.hfut.edu.cn/info/1022/60564.htm,何超为合肥工业大学2007届机械和电子专业校友，现任上海微创医疗机器人（集团）股份有限公司总裁、中国医疗器械行业协会医用机器人分会副会长、上海微创手术机器人工程技术研究中心主任。,,2026-11-11
+microport-medbot,微创机器人,s07,微创集团｜上海微创医疗机器人（集团）股份有限公司于香港联交所主板成功上市,https://www.microport.com.cn/news/xinwendongtai/1741.html,2021-11-02 微创机器人在香港联交所主板上市，股份代号 02252.HK,2021-11-02,2026-11-11
 nio,蔚来,s01,蔚来 公开入口,https://www.nio.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 nio,蔚来,s02,NIO蔚来汽车官方网站,http://www.nio.cn/,公开官网主体观察：http://www.nio.cn/；只核验入口归属。,,2026-11-02
 nio,蔚来,s03,【NIO蔚来招聘】-猎聘,https://www.liepin.com/company/8524725/,公开企业主页主体：蔚来；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -778,6 +1080,10 @@ noematrix,穹彻智能,s02,关于穹彻,https://www.noematrix.ai/about,技术方
 noematrix,穹彻智能,s03,加入穹彻,https://www.noematrix.ai/join-us,招聘邮箱、岗位及城市,,2026-10-30
 noematrix,穹彻智能,s04,上海穹彻智能科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/5c10d1143d91fc941Hx50tu7FlA~.html,公开企业主页主体：上海穹彻智能科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 noematrix,穹彻智能,s05,【上海穹彻智能科技有限公司招聘】-猎聘,https://www.liepin.com/company/21172769/,公开企业主页主体：上海穹彻智能科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+noematrix,穹彻智能,s06,穹彻智能官网新闻：穹彻智能亮相 FII9，获奖 + 演讲解读“技术+资本”新机遇,https://www.noematrix.ai/news/Noematrix-FII9,官网称“穹彻智能CEO卢策吾”在FII9发表演讲。,2025-11-11,2026-11-11
+noematrix,穹彻智能,s07,上海交通大学 MVIG 实验室主页：Cewu Lu 卢策吾,https://www.mvig.org/,卢策吾为上海交通大学人工智能学院教授，斯坦福AI实验室博士后，研究方向为具身智能与计算机视觉；页面链接其Google Scholar主页。,,2026-11-11
+noematrix,穹彻智能,s08,穹彻智能再获数亿元战略投资，上海交大、创智学院、无锡数据集团等联合注资,https://www.noematrix.ai/news/Noematrix-A++,2026-06-18 新一轮数亿元融资及投资方：上海交通大学AI未来基金、上海创之智（上海创智学院全资子公司）、无锡数据集团、一村资本等,2026-06-18,2026-11-11
+noematrix,穹彻智能,s09,穹彻智能官网新闻页（含 A 轮融资消息）,https://www.noematrix.ai/news/Noematrix-FII9,页面新闻列表记「穹彻智能完成A轮融资」2026-02-10：数亿元人民币，C资本领投，Sea Limited、普华资本等跟投，老股东Prosperity7 Ventures超额追投,2026-02-10,2026-11-11
 nullmax,纽劢科技,s01,纽劢科技 公开入口,https://www.nullmax.ai,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 nullmax,纽劢科技,s02,Nullmax - Bring AI-First Mobility to Life,https://www.nullmax.ai/,公开官网主体观察：https://www.nullmax.ai/；只核验入口归属。,,2026-11-02
 nullmax,纽劢科技,s03,Join Us - Nullmax,https://www.nullmax.ai/careers,公开招聘入口主体观察：https://www.nullmax.ai/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -785,6 +1091,10 @@ nullmax,纽劢科技,s04,【Nullmax 纽劢科技招聘】-猎聘,https://www.lie
 nullmax,纽劢科技,s05,BOSS直聘企业主页 · 纽劢科技,https://www.zhipin.com/gongsi/6a532e5fe11431ff0X143NW5.html,公开企业主页主体：纽劢科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 nullmax,纽劢科技,s06,Nullmax获得近7.8亿元B轮融资，加速智驾落地,https://chedongxi.com/news/39878.html,Nullmax约7.8亿元B轮、岩山科技独家领投及控股安排。,2023-10-12,2026-11-03
 nullmax,纽劢科技,s07,Nullmax获得近7.8亿元B轮融资，加速推进自动驾驶落地,https://www.stcn.com/article/detail/1001750.html,B轮金额、投资方与MaxDrive/MaxVision产品线。,2023-10-12,2026-11-03
+nullmax,纽劢科技,s08,Nullmax创始人兼CEO&CTO徐雷博士入选「2023中国科技出行产业科学企业家TOP10」（纽劢官网）,https://www.nullmax.cn/20231206_4098.html,官网新闻称“Nullmax创始人兼CEO&CTO徐雷博士”，并记其2005年中国科技大学计算机学士、2012年纽约州立大学布法罗分校计算机博士，曾任职高通、特斯拉并任Tesla Vision深度学习负责人。,2023-12-06,2026-11-11
+nullmax,纽劢科技,s09,About - Nullmax（英文官网团队介绍）,https://www.nullmax.ai/about,官方团队页列“Lei Xu Founder/CEO/CTO”，PhD SUNY Buffalo、B.S. USTC，曾在Qualcomm与Tesla任职、Tesla Autopilot核心成员。,,2026-11-11
+nullmax,纽劢科技,s10,Nullmax获得近7.8亿元B轮融资，加速推进自动驾驶落地,https://www.nullmax.cn/20231012_3733.html,2023-10-12 B 轮约 7.8 亿人民币，岩山科技独家领投、老股东 Stonehill 追加投资，交易后成为岩山科技控股子公司,2023-10-12,2026-11-11
+nullmax,纽劢科技,s11,Nullmax 完成 C1 轮千万美元融资，国内头部车规级芯片公司战略加持,https://www.nullmax.cn/20251206_7274.html,2025-12-05 宣布完成 C1 轮，某国内头部车规级芯片公司增资千万美元,2025-12-06,2026-11-11
 qianjing-rehabilitation,钱璟康复,s01,苏州钱璟康复 公开入口,https://www.qianjingkang.com/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 qianjing-rehabilitation,钱璟康复,s02,BOSS直聘企业主页 · 常州市钱璟康复股份有限公司（武进；无苏州专页）,https://www.zhipin.com/gongsi/4af0faaff75433911HN42tm1.html,公开企业主页主体：常州市钱璟康复股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 qianjing-rehabilitation,钱璟康复,s03,关于我们 - 常州市钱璟康复股份有限公司,https://www.qjrehab.com/profile.html,常州市钱璟康复股份有限公司始建于1996年，致力于康复器材、辅具及康复医疗器械，下辖子公司近二十家。,,2026-11-03
@@ -797,10 +1107,18 @@ quicktron,快仓智能,s05,快仓智能完成D轮过亿美元融资,https://www.
 quicktron,快仓智能,s06,关于我们 - 快仓智能,https://www.quicktron.com.cn/about-us,快仓2014年成立、AMR产品线、全球部署与500多名员工。,,2026-11-03
 quicktron,快仓智能,s07,关于快仓,https://www.quicktron.com/zh_CN/about-us,官方关于页含“加入我们”招聘介绍段落；页面未列邮箱。,,2026-11-03
 quicktron,快仓智能,s08,快仓 2026 届校园招聘简章,https://myjob.dlmu.edu.cn/attachment/myjob/ueditor/file/20251013/6206_2026%E5%BF%AB%E4%BB%93%E6%8B%9B%E8%81%98%E7%AE%80%E7%AB%A0.pdf,公司 2026 届校招简章（高校就业网托管）“校招答疑”列邮箱 career@quicktron.com、电话 021-54560716。,2025-10-13,2026-11-03
+quicktron,快仓智能,s09,对话快仓CEO杨威：技术改造世界，理工男的浪漫与想象-36氪,https://www.36kr.com/p/1053030348995845,报道标题与正文称杨威为快仓CEO，文中提及其曾任职振华重工。,2021-01-14,2026-11-11
+quicktron,快仓智能,s10,杨威 - 快仓 - 首席执行官 (Quicktron Robotics) | 领英,https://cn.linkedin.com/in/%E5%A8%81-%E6%9D%A8-5ba6a92b3,"领英档案显示杨威为快仓首席执行官，自述 Founder & CEO of Shanghai Quicktron Intelligent Technology Co., Ltd.（2014年创立）；据搜索结果快照核对。",,2026-11-11
+quicktron,快仓智能,s11,快仓官网新闻：快仓机器人宣布完成超1亿美元D轮融资,https://www.quicktron.com.cn/zh_CN/blogs/197,2024-09-12公司宣布完成超1亿美元D轮融资。,2024-09-12,2026-11-11
 robotera,星动纪元,s01,星动纪元官网,https://www.robotera.com/en/,产品、投资方及招聘/商务邮箱,2026-05-08,2026-10-30
 robotera,星动纪元,s02,星动纪元官方招聘,https://k0fqxcszc9.jobs.feishu.cn/,招聘入口及城市,,2026-10-30
 robotera,星动纪元,s03,星动纪元招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/21a13d36251e40d41X152ti1ElQ~.html,公开企业主页主体：星动纪元；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 robotera,星动纪元,s04,【北京星动纪元科技有限公司招聘】-猎聘,https://www.liepin.com/company/13746241/,公开企业主页主体：北京星动纪元科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+robotera,星动纪元,s05,星动纪元公司介绍（RoboInd企业档案）,https://robotera.roboind.com/introduce/,公司2023年8月由清华大学交叉信息研究院孵化，创始人陈建宇为清华大学助理教授、博士生导师。,,2026-11-11
+robotera,星动纪元,s06,腾讯新闻：对话星动纪元陈建宇,https://news.qq.com/rain/a/20260313A03KO000,报道陈建宇为星动纪元创始人、CEO。,2026-03-13,2026-11-11
+robotera,星动纪元,s07,Jianyu Chen 清华交叉信息研究院个人学术主页,https://people.iiis.tsinghua.edu.cn/~jychen/,陈建宇（Jianyu Chen）为清华大学交叉信息研究院助理教授，2020年获加州大学伯克利分校博士（导师Masayoshi Tomizuka），2015年本科毕业于清华大学。,,2026-11-11
+robotera,星动纪元,s08,福布斯中国：星动纪元再获超2亿美元融资,https://www.forbeschina.com/investment/71473,2026-04-27 完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本等联合注资，老股东清控天诚、鸿瑞达加码；并称2026年3月完成10亿元人民币战略轮。,2026-04-27,2026-11-11
+robotera,星动纪元,s09,新浪财经（投资界）：顺丰红杉IDG联手，星动纪元融资2亿美金,https://finance.sina.com.cn/jjxw/2026-04-27/doc-inhvwwmp2515059.shtml,2026-04-27 完成2亿美元新一轮：顺丰集团领投，红杉中国、IDG资本、中金资本、京铭资本、朝希资本、鲁信创投、聚合资本、隆启投资联合注资；科捷智能、东风产投、工银资本、联通旗下基金参与。,2026-04-27,2026-11-11
 rokae-liqtech,苏州李群自动化,s01,苏州李群自动化 公开入口,https://www.liqtech.com.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 rokae-liqtech,苏州李群自动化,s02,BOSS直聘企业主页 · 李群智能机器人股份有限公司（东莞松山湖；无苏州专页）,https://www.zhipin.com/gongsi/b0480a1f1da1642d1nN839m6GA~~.html,公开企业主页主体：李群智能机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 rokae-liqtech,苏州李群自动化,s03,李群官方公司简介（官方检索摘要；正文未读到）,https://www.qkmtech.com/company-profile,官方检索摘要将李群自动化标为QKM，主营工业机器人；页面正文404，不据此确认苏州法人。,,2026-11-03
@@ -816,6 +1134,10 @@ spirit-ai,千寻智能,s01,顺为资本动态,https://shunwei.com/?taxonomy=&ter
 spirit-ai,千寻智能,s02,千寻关于我们,https://www.spirit-ai.com/about,办公地及商业邮箱,,2026-10-30
 spirit-ai,千寻智能,s03,千寻加入我们,https://www.spirit-ai.com/career,模型与机器人招聘方向,,2026-10-30
 spirit-ai,千寻智能,s04,千寻智能招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/c5a3fedbe7332abf1Hd_0t67EVc~.html,公开企业主页主体：千寻智能；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+spirit-ai,千寻智能,s05,千寻智能官网新闻｜核心团队介绍,https://www.spirit-ai.com/news/8,「公司创始人兼CEO 韩峰涛」「联合创始人兼首席科学家 高阳」，并附二人履历,,2026-11-11
+spirit-ai,千寻智能,s06,千寻智能官网新闻｜「铁三角」核心团队,https://www.spirit-ai.com/news/17,「创始人兼CEO韩峰涛」「联合创始人高阳」「联合创始人郑灵茵」，分述三人背景,,2026-11-11
+spirit-ai,千寻智能,s07,千寻智能官网新闻｜与舍弗勒战略合作签约,https://www.spirit-ai.com/news/35,文中标注「千寻智能创始人兼CEO韩峰涛」「千寻智能联合创始人兼COO郑灵茵」,,2026-11-11
+spirit-ai,千寻智能,s08,新浪财经：千寻智能3个月融资近50亿元（含2026-04与2026-06两轮明细）,https://finance.sina.cn/2026-06-03/detail-iniacnup0880362.d.html,2026-04-07 完成10亿元新一轮，顺为资本、云锋基金联合领投，达晨财智、银河源汇、图灵基金、新鼎资本、庚辛资本加持；2026-06-03 官宣15亿元A+轮；2026年2月两轮合计近20亿元。,2026-06-03,2026-11-11
 step-electric,新时达,s01,新时达 公开入口,https://www.stepelectric.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 step-electric,新时达,s02,【上海新时达电气股份有限公司招聘】-猎聘,https://www.liepin.com/company/963703/,公开企业主页主体：新时达；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 step-electric,新时达,s03,上海新时达电气股份有限公司-专注于生产力创新的工业智能化科技企业,https://www.stepelectric.com/,公开官网主体观察：https://www.stepelectric.com/；只核验入口归属。,,2026-11-02
@@ -826,6 +1148,9 @@ tars,它石智航,s01,恒旭资本投资公告,https://eng.hengxucapital.com/ind
 tars,它石智航,s02,它石智航2027校招,https://job.ustc.edu.cn/Recruitment/info.aspx?itemid=80004,官方投递入口、产品及公司信息,2026-08-17,2026-10-30
 tars,它石智航,s03,它石智航招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/b5d335b06c1161fd1HNy3tW_F1Y~.html,公开企业主页主体：它石智航；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 tars,它石智航,s04,【它石智航招聘】-猎聘,https://www.liepin.com/company/21147939/,公开企业主页主体：它石智航；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+tars,它石智航,s05,新京报：它石智航完成1.2亿美元天使轮融资，创始团队出自华为和百度,https://m.bjnews.com.cn/detail/1742970143168030.html,它石智航2025年2月5日成立；CEO陈亦伦曾任清华AIR智能机器人方向首席科学家、华为自动驾驶CTO、大疆机器视觉总工程师；董事长李震宇曾任百度智能驾驶事业群总裁；首席科学家丁文超为原华为“天才少年”。,2025-03-26,2026-11-11
+tars,它石智航,s06,澎湃新闻：陈亦伦、李震宇领衔，它石智航完成1.2亿美元国内具身智能最大天使轮融资,https://m.thepaper.cn/baijiahao_30491402,公司CEO陈亦伦、董事长李震宇、首席科学家丁文超的职务与履历；公司2025年2月5日成立。,2025-03-26,2026-11-11
+tars,它石智航,s07,澎湃新闻：它石智航完成1.2亿美元国内具身智能最大天使轮融资,https://www.thepaper.cn/newsDetail_forward_30491402,2025-03-26 完成天使轮1.2亿美元，蓝驰创投、启明创投共同领投，线性资本、恒旭资本、洪泰基金、联想创投、襄禾资本、高瓴创投跟投。,2025-03-26,2026-11-11
 tesla,特斯拉 Tesla,s01,特斯拉上海研发创新中心 公开入口,https://www.tesla.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 tesla,特斯拉 Tesla,s02,纯电动车、太阳能和清洁能源 | 特斯拉中国,https://www.tesla.cn/,公开官网主体观察：https://www.tesla.cn/；只核验入口归属。,,2026-11-02
 tesla,特斯拉 Tesla,s03,工作机会 | 特斯拉中国,https://www.tesla.cn/careers,公开招聘入口主体观察：https://www.tesla.cn/careers；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -836,34 +1161,50 @@ timi-robot,钛米机器人,s01,钛米机器人 公开入口,https://www.timirobo
 timi-robot,钛米机器人,s02,首页 - 上海钛米机器人股份有限公司,http://www.tmirob.com/,公开官网主体观察：http://www.tmirob.com/；只核验入口归属。,,2026-11-02
 timi-robot,钛米机器人,s03,【上海钛米机器人科技有限公司招聘】-猎聘,https://www.liepin.com/company/9103656/,公开企业主页主体：钛米；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 timi-robot,钛米机器人,s04,BOSS直聘企业主页 · 钛米机器人,https://www.zhipin.com/gongsi/b19d837cf4c97e781XR82Nm6Ew~~.html,公开企业主页主体：钛米机器人；只核验入口归属，不表示具体岗位开放。,,2026-11-02
-timi-robot,钛米机器人,s05,「钛米」完成2亿B轮融资，或是医疗服务机器人领域最大单笔融资,https://www.36kr.com/p/1721985122305,钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品。,2018-07-17,2026-11-03
+timi-robot,钛米机器人,s05,「钛米」完成2亿B轮融资，或是医疗服务机器人领域最大单笔融资,https://www.36kr.com/p/1721985122305,钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品；钛米2亿元B轮（金浦领投、鼎晖跟投，IDG/科沃斯/国科嘉和参与）；同文披露2016-09国科嘉和与上海创徒1000万元天使轮、2017-05 IDG领投4000万元A轮，及公司2015年1月成立。,2018-07-17,2026-11-11
+timi-robot,钛米机器人,s06,潘晶｜上海第二工业大学智能医学与健康工程学院,https://imhe.sspu.edu.cn/2026/0107/c6016a167293/page.htm,教师页称潘晶现任上海钛米机器人股份有限公司董事长、党支部书记，上海首批人工智能正高级工程师，上海市第十六届人大代表，上海交通大学毕业。,2026-03-04,2026-11-11
+timi-robot,钛米机器人,s07,"Godpheray Pan - Chairman of the Board, CEO at TMI Robotics | 领英",https://cn.linkedin.com/in/godpheray-pan-39a77053,领英档案显示 Godpheray Pan 任 TMI Robotics（上海钛米机器人）董事长兼CEO，教育经历 CEIBS；据搜索结果快照核对。,,2026-11-11
 udit,友道智途,s01,友道智途 公开入口,https://www.udit.com.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 udit,友道智途,s02,【上海友道智途科技有限公司招聘】-猎聘,https://www.liepin.com/company/13130971/,公开企业主页主体：友道智途；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 udit,友道智途,s03,友道智途_上海友道智途科技公司官网,https://www.utopilot.com.cn/,公开官网主体观察：https://www.utopilot.com.cn/；只核验入口归属。,,2026-11-02
 udit,友道智途,s04,加入上海友道智途科技有限公司,https://utopilot.jobs.feishu.cn/,公开招聘入口主体观察：https://utopilot.jobs.feishu.cn/；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 udit,友道智途,s05,BOSS直聘企业主页 · 友道智途,https://www.zhipin.com/gongsi/1722e8fc1861cecc1XR-3t26EVA~.html,公开企业主页主体：友道智途；只核验入口归属，不表示具体岗位开放。,,2026-11-02
-udit,友道智途,s06,上汽集团成立商用车智能驾驶科创公司，推进自动驾驶在多场景下的商业化应用,https://www.utopilot.com.cn/news/99.html,友道智途2021年成立、临港落户及港口/厂区/干线L3-L4业务。,2021-08-27,2026-11-03
+udit,友道智途,s06,上汽集团成立商用车智能驾驶科创公司，推进自动驾驶在多场景下的商业化应用,https://www.utopilot.com.cn/news/99.html,友道智途2021年成立、临港落户及港口/厂区/干线L3-L4业务；上汽集团成立商用车智能驾驶科创公司的官方转载：与上港集团、上汽恒旭共同设立6.43亿元专项基金（上汽认缴5.4153亿元、上港1.0047亿元、恒旭0.01亿元），用于投资友道智途；属设立出资，不是友道智途的独立股权融资轮次。,2021-08-27,2026-11-11
 udit,友道智途,s07,上汽集团上半年赚133亿元，新设商用车智能驾驶公司,https://www.yicai.com/news/101154080.html,6.43亿元专项基金、上汽/上港/恒旭出资及友道智途投资结构。,2021-08-26,2026-11-03
+udit,友道智途,s08,澎湃新闻：王瑞履新友道智途CEO，上汽大通总经理又来一位70后,https://www.thepaper.cn/newsDetail_forward_15112775,上汽商用车板块人事调整：上汽大通总经理王瑞与上汽大通技术中心总经理兼上海友道智途科技公司CEO郝景贤职务互换，王瑞出任友道智途CEO。,,2026-11-11
+udit,友道智途,s09,腾讯新闻：2026实现年入10亿？王瑞带领友道智途为自动驾驶找到新模式,https://news.qq.com/rain/a/20240725A07EXA00,以“上海友道智途科技有限公司CEO王瑞”具名采访，谈港口、矿区等场景的自动驾驶商业化与盈利目标。,2024-07-25,2026-11-11
 uls-robotics,傲鲨智能,s01,傲鲨智能 公开入口,https://www.ulsrobotics.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 uls-robotics,傲鲨智能,s02,【傲鲨智能招聘】-猎聘,https://www.liepin.com/company/9703235/,公开企业主页主体：傲鲨智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 uls-robotics,傲鲨智能,s03,ULSROBOTICS傲鲨_外骨骼机器人科技公司官网,https://www.ulsrobotics.com/,公开官网主体观察：https://www.ulsrobotics.com/；只核验入口归属。,,2026-11-02
 uls-robotics,傲鲨智能,s04,傲鲨招聘_傲鲨智能ULS Robotics,https://www.ulsrobotics.com/h-col-115.html,公开招聘入口主体观察：https://www.ulsrobotics.com/h-col-115.html；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 uls-robotics,傲鲨智能,s05,BOSS直聘企业主页 · 傲鲨智能,https://www.zhipin.com/gongsi/99361d1fc989b7261XN-09u_Fg~~.html,公开企业主页主体：傲鲨智能；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 uls-robotics,傲鲨智能,s06,国仪投资与彬复资本共同领投B轮，助力傲鲨智能科技发展,https://www.163.com/dy/article/JV2O3CH305118K7K.html,傲鲨智能2025年5月B轮、国仪投资/彬复资本领投及外骨骼业务。,2025-05-08,2026-11-03
-unitree,宇树科技,s01,宇树公司介绍,https://www.unitree.com/operate/company/,业务及历史投资方,,2026-10-30
+uls-robotics,傲鲨智能,s07,关于我们｜傲鲨智能官网,https://www.ulsrobotics.com/h-col-101.html,团队介绍称徐振华（Eric）为创始人兼CEO，毕业于上海交通大学，曾在 FANUC 机器人与 GM 泛亚汽车研发中心任高级研发工程师，曾联合创办璟和技创、傅利叶智能并任 CTO，2018年创立傲鲨智能。,,2026-11-11
+uls-robotics,傲鲨智能,s08,"徐振华 - 上海傲鲨智能科技有限公司 - 创始人CEO, CTO | 领英",https://cn.linkedin.com/in/%E6%8C%AF%E5%8D%8E-%E5%BE%90-a3203436,领英档案显示徐振华为上海傲鲨智能科技有限公司创始人CEO、CTO，教育经历上海交通大学；据搜索结果快照核对。,,2026-11-11
+uls-robotics,傲鲨智能,s09,关于我们｜傲鲨智能官网,https://www.ulsrobotics.com/h-col-101.html,官网发展历程：2018-04-08成立；2019-02完成数百万元天使轮（明势资本、险峰长青）；Pre-A轮（九合创投、英诺天使、明势资本）；2024-06敦鸿资产A+轮；2024-07国仪资本A轮。,,2026-11-11
+unitree,宇树科技,s01,宇树公司介绍,https://www.unitree.com/operate/company/,业务及历史投资方；宇树官网公司介绍：2024年2月完成B2轮融资，金额近10亿元人民币，投资方包括美团、金石投资、源码资本，老股东深创投、中网投、容亿、敦鸿和米达钧石跟投；同页载2024年2月工商变更股东名单。,,2026-11-11
 unitree,宇树科技,s02,宇树联系我们,https://www.unitree.com/cn/contact/,招聘和商务邮箱及地址,,2026-10-30
 unitree,宇树科技,s03,宇树加入我们,https://www.unitree.com/position/,招聘入口与产品研发方向,,2026-10-30
 unitree,宇树科技,s04,宇树科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/fb3f028badcf880b1nZ409u5FVc~.html,公开企业主页主体：宇树科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 unitree,宇树科技,s05,【宇树科技招聘】-猎聘,https://www.liepin.com/company/9328741/,公开企业主页主体：宇树科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 unitree,宇树科技,s06,钛媒体／公开报道｜DeepSeek 布局具身与宇树战配,https://www.tmtpost.com/8193897.html,DeepSeek／梁文锋相关主体参与宇树 IPO 战略配售及后续具身投资叙事,,2026-11-09
+unitree,宇树科技,s07,宇树科技官网 About / 公司发展,https://www.unitree.com/about/,官网公司发展栏记载王兴兴硕士期间研发XDog、2016年毕业后创业，并称其为公司CEO。,,2026-11-11
+unitree,宇树科技,s08,36氪/投资界：十年，王兴兴逆袭：宇树4000亿,https://www.36kr.com/p/3945791947357315,王兴兴1990年生于浙江宁波，上海大学读研期间做出四足机器人XDog，2016年毕业后入职大疆两个多月即辞职创业，创办宇树。,2026-08-19,2026-11-11
+unitree,宇树科技,s09,69.72亿元资金流向：机器人、生物医药赛道融资活跃，联影智能完成10亿元A轮融资｜21私募投融资周报,https://www.21jingji.com/article/20250623/herald/a5517493cf2a0ac7c47702b8c9cf46d0.html,21世纪经济报道周报：宇树科技完成由中国移动、腾讯、锦秋、阿里、蚂蚁和吉利资本共同领投的近7亿元C轮融资。,2025-06-23,2026-11-11
+unitree,宇树科技,s10,上海证券交易所 上市公司列表（宇树科技 688836）,https://query.sse.com.cn/sseQuery/commonQuery.do?sqlId=COMMON_SSE_CP_GPJCTPZ_GPLB_GP_L&isPagination=true&pageHelp.pageSize=2000&pageHelp.pageNo=2&pageHelp.beginPage=2&pageHelp.cacheSize=1&pageHelp.endPage=2,上交所股票列表数据：公司简称“宇树科技”、A股代码688836、上市板块为科创板（LIST_BOARD=2）、上市日期20260819、公司全称“宇树科技股份有限公司”。,,2026-11-11
 winverse-ai,Winverse AI,s01,华尔街见闻｜DeepSeek拟领投Winverse AI,https://wallstreetcn.com/articles/3783467,拟领投种子轮、估值口径、创始人背景、美团龙珠跟投及交易未最终敲定提示,2026-10-12,2026-11-09
 winverse-ai,Winverse AI,s02,物理智能观察｜Winverse AI 公司页,https://www.physicaldaily.com/company/winverse-ai,杭州注册／隐身模式、具身大脑与世界模型方向、不做整机,,2026-11-09
 winverse-ai,Winverse AI,s03,东方财富｜拟投Winverse AI，DeepSeek具身智能又落一子,https://finance.eastmoney.com/a/202610133894294380.html,胡瀚履历与隐身模式、DeepSeek拟领投报道,2026-10-13,2026-11-09
+winverse-ai,Winverse AI,s04,腾讯新闻/IT桔子：Winverse AI获得数千万美元种子轮融资，DeepSeek领投，美团龙珠参投,https://news.qq.com/rain/a/20261014A06HF300,Winverse AI由前腾讯AI科学家胡瀚创立，方向为机器人AI底层infra与模型加速。,2026-10-14,2026-11-11
+winverse-ai,Winverse AI,s05,Han Hu 个人主页（Swin Transformer 作者页）,https://ancientmooner.github.io/,页面署名Han Hu，列出Swin Transformer等论文，与报道中胡瀚的研究背景一致；页面标题仍为Microsoft Research Asia，未显示Winverse。,,2026-11-11
+winverse-ai,Winverse AI,s06,腾讯新闻/IT桔子：Winverse AI获得数千万美元种子轮融资，DeepSeek领投，美团龙珠参投,https://news.qq.com/rain/a/20261014A06HF300,IT桔子稿件：DeepSeek已同意领投Winverse AI种子轮，金额数千万美元，美团龙珠参投，投后估值约4亿美元；并载创始人胡瀚为前腾讯AI科学家。,2026-10-14,2026-11-11
 x-square,自变量机器人,s01,自变量公司融资公告,https://www.prnewswire.com/news-releases/x-square-robot-secures-four-consecutive-financing-rounds-surpasses-us2-8-billion-valuation-in-push-for-physical-ai-foundation-models-302813091.html,投资背景、业务与城市,2026-06-29,2026-10-30
 x-square,自变量机器人,s02,自变量加入我们,https://x2robot.com/join,官网、产品及招聘跳转,,2026-10-30
 x-square,自变量机器人,s03,自变量社会招聘,https://x2-robot.jobs.feishu.cn/,招聘邮箱与商务邮箱,,2026-10-30
 x-square,自变量机器人,s04,自变量机器人招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/859fcb4d7a9bef4a1HZ43dy4ElQ~.html,公开企业主页主体：自变量机器人；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 x-square,自变量机器人,s05,【自变量机器人科技(深圳)有限公司招聘】-猎聘,https://www.liepin.com/company/13737447/,公开企业主页主体：自变量机器人科技(深圳)有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+x-square,自变量机器人,s06,自变量机器人官网新闻动态（中文站）,https://x2robot.com/cn/news,公司新闻记“2026年7月…深圳自变量机器人亮相APEC数字和人工智能部长会议…创始人王潜发表演讲并提出行业倡议”，确认王潜创始人身份。,,2026-11-11
+x-square,自变量机器人,s07,X Square Robot Secures Four Consecutive Financing Rounds（PR Newswire，公司发布）,https://www.prnewswire.com/news-releases/x-square-robot-secures-four-consecutive-financing-rounds-surpasses-us2-8-billion-valuation-in-push-for-physical-ai-foundation-models-302813091.html,"公司新闻稿引述“Wang Qian, founder and CEO of X Square Robot”，并记公司2023年成立、总部深圳、2026年4月发布WALL-B。",2026-06-29,2026-11-11
 acm-research,盛美半导体,s01,盛美半导体 公开入口,https://www.acmrcsh.com/investors,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 acm-research,盛美半导体,s02,盛美半导体官网,https://www.acmrcsh.com,公开官网主体与标题观察：ACM Research；只核验入口归属。,,2026-11-02
 acm-research,盛美半导体,s03,【盛美半导体设备(上海)股份有限公司招聘】-猎聘,https://www.liepin.com/company/12182817/,公开企业主页主体：盛美半导体设备(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -914,12 +1255,14 @@ good-ark-semiconductor,苏州固锝电子,s02,【苏州固锝电子股份有限�
 good-ark-semiconductor,苏州固锝电子,s03,新浪财经公司资料 · 苏州固锝电子股份有限公司（002079）,https://vip.stock.finance.sina.com.cn/corp/go.php/vCI_CorpInfo/stockid/002079.phtml,公司全称、1990-11-12成立、2006-11-16上市、分立器件和集成电路封装主营、苏州通安注册地址。,,2026-11-03
 good-ark-semiconductor,苏州固锝电子,s04,苏州固锝官方联系页（官方检索摘要；正文访问超时）,https://twn.goodark.com/contact.php,官方联系页检索摘要列示苏州高新区通安经济开发区华金路200号；正文访问超时，不证明昆山基地或具体岗位地点。,,2026-11-03
 good-ark-semiconductor,苏州固锝电子,s05,BOSS直聘：苏州固锝电子股份有限公司（实际读取）,https://m.zhipin.com/companys/d2487b2cbc1122e91nJ_2dy4EA~~.html,已实际读取同名企业主页和通安／华金路公司地址；页面所招职位显示已过期，不能据入口确认当前有空缺。,,2026-11-03
-haivivi,跃然创新 Haivivi,s01,跃然创新完成2亿元A轮系列融资,https://m.jiemian.com/article/13234208.html,投资方及CocoMate,2025-08-25,2026-10-30
+haivivi,跃然创新 Haivivi,s01,跃然创新完成2亿元A轮系列融资,https://m.jiemian.com/article/13234208.html,投资方及CocoMate,2025-08-25,2026-11-11
 haivivi,跃然创新 Haivivi,s02,Haivivi官网,https://www.haivivi.cn/,产品与业务方向,,2026-10-30
 haivivi,跃然创新 Haivivi,s03,Haivivi联系我们,https://www.haivivi.cn/contact-us,总部与商务邮箱,,2026-10-30
 haivivi,跃然创新 Haivivi,s04,BOSS直聘：深圳跃然创新科技有限公司,https://m.zhipin.com/companys/ff637f836e8ccf6b03B43N69FlE~.html,HAIVIVI品牌与招聘者、投递入口,,2026-10-30
 haivivi,跃然创新 Haivivi,s05,HAIVIVI招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/8bb3ae416db67d351nx93t-6F1o~.html,公开企业主页主体：HAIVIVI；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 haivivi,跃然创新 Haivivi,s06,【深圳跃然创新科技有限公司招聘】-猎聘,https://www.liepin.com/company/21354707/,公开企业主页主体：深圳跃然创新科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+haivivi,跃然创新 Haivivi,s07,36氪：天猫精灵合伙人创业，用AI大模型复活毛绒玩具,https://m.36kr.com/p/2879147157099137,报道李勇为跃然创新（Haivivi）创始人，原天猫精灵创始人之一。,,2026-11-11
+haivivi,跃然创新 Haivivi,s08,钛媒体：Haivivi完成2亿元A轮融资，创始人李勇,https://www.tmtpost.com/7670444.html,报道李勇为Haivivi创始人，并引述其对AI玩具产品路线的判断。,,2026-11-11
 hesai,禾赛科技,s01,禾赛科技 公开入口,https://www.hesaitech.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 hesai,禾赛科技,s02,【禾赛科技招聘】-猎聘,https://www.liepin.com/company/8399607/,公开企业主页主体：上海禾赛科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 hesai,禾赛科技,s03,BOSS直聘企业主页 · 上海禾赛科技有限公司,https://www.zhipin.com/gongsi/065fb86d5d93aefb1nJ-3d27GFE~.html,公开企业主页主体：上海禾赛科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -930,13 +1273,15 @@ hua-hong-semiconductor,华虹半导体,s03,华虹宏力半导体有限公司,htt
 hua-hong-semiconductor,华虹半导体,s04,【华虹半导体有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs133577005/,公开企业主页主体：华虹半导体有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 hua-hong-semiconductor,华虹半导体,s05,BOSS直聘企业主页 · 上海华虹宏力半导...,https://www.zhipin.com/gongsi/dcd998755e3305bc1Hx92tW-Eg~~.html,公开企业主页主体：华虹；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 hua-hong-semiconductor,华虹半导体,s06,华虹半导体2024年营收143亿元 特色工艺各平台产品持续放量,https://www.cls.cn/detail/1986517,华虹半导体2024年营收143.88亿元、归母净利润3.81亿元及特色工艺平台。,2025-03-28,2026-11-03
-hypershell,极壳科技 Hypershell,s01,极壳B+轮融资,https://www.nbd.com.cn/articles/2026-05-18/4396408.html,投资方及历史资本背景,2026-05-18,2026-10-30
+hypershell,极壳科技 Hypershell,s01,极壳B+轮融资,https://www.nbd.com.cn/articles/2026-05-18/4396408.html,投资方及历史资本背景,2026-05-18,2026-11-11
 hypershell,极壳科技 Hypershell,s02,Hypershell官方联系页,https://hypershell.tech/pages/contact-us/_%7Burl%7D,商务及客服邮箱,,2026-10-30
 hypershell,极壳科技 Hypershell,s03,Hypershell官方公司页,https://www.linkedin.com/company/hypershell-tech,产品定位与深圳总部,,2026-10-30
 hypershell,极壳科技 Hypershell,s04,极壳中国官网,https://hypershell.cn/,当前产品与加入我们跳转,,2026-10-30
 hypershell,极壳科技 Hypershell,s05,极壳官方招聘站,https://career.hypershell.cn/,官方投递入口,,2026-10-30
 hypershell,极壳科技 Hypershell,s06,极壳科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/080d7abb4ba64b261XRy2d-5FlY~.html,公开企业主页主体：极壳科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 hypershell,极壳科技 Hypershell,s07,【极壳科技招聘】-猎聘,https://www.liepin.com/company/21135601/,公开企业主页主体：极壳科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+hypershell,极壳科技 Hypershell,s08,腾讯新闻｜对话Hypershell极壳：融资7000万美元后，消费级外骨骼如何走得更远,https://news.qq.com/rain/a/20251201A08U7I00,报道称「极壳Hypershell创始人孙宽」，并记录其就融资与招聘对外发声,2025-12-01,2026-11-11
+hypershell,极壳科技 Hypershell,s09,晚点聊 LateTalk 145：极壳孙宽：首个「消费级外骨骼」的诞生,https://podcast.latepost.com/145,节目页标题与简介以「极壳孙宽」为主角，介绍极壳2021年成立及消费级外骨骼产品历程,2025-12-17,2026-11-11
 innolight,苏州旭创科技有限公司,s01,旭创科技 公开入口,https://www.innolight.com.cn/investors,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 innolight,苏州旭创科技有限公司,s02,【苏州旭创科技招聘】-猎聘,https://www.liepin.com/company/7918125/,公开企业主页主体：苏州旭创科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 innolight,苏州旭创科技有限公司,s03,BOSS直聘企业主页 · 苏州旭创科技有限公司（320岗；排除产业园公司）,https://www.zhipin.com/gongsi/ebcb394e3577d4b633Z_2d6_.html,公开企业主页主体：苏州旭创科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -987,6 +1332,9 @@ plaud,Plaud / 机智连接,s04,Plaud官方联系信息,https://eu.plaud.ai/polic
 plaud,Plaud / 机智连接,s05,Plaud官方Ashby招聘站,https://jobs.ashbyhq.com/plaud,官方招聘入口,,2026-10-30
 plaud,Plaud / 机智连接,s06,Plaud招聘-BOSS直聘,https://www.zhipin.com/gongsi/fe2eb5ce48f3cab603d90tm5FFA~.html,公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 plaud,Plaud / 机智连接,s07,【Plaud招聘】-猎聘,https://www.liepin.com/company/21321599/,公开企业主页主体：Plaud；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+plaud,Plaud / 机智连接,s08,腾讯新闻：Plaud AI CEO许高——全球出货近70万台设备背后,https://news.qq.com/rain/a/20250524A02ZCA00,报道许高为Plaud AI创始人/联合创始人兼CEO。,2025-05-24,2026-11-11
+plaud,Plaud / 机智连接,s09,36氪专访Plaud中国区CEO,https://www.36kr.com/p/3480790709083017,Plaud中国区CEO（莫子皓）受访，介绍中国区产品与商业化。,,2026-11-11
+plaud,Plaud / 机智连接,s10,LinkedIn：Nathan Xu（PLAUD 联合创始人兼CEO）,https://www.linkedin.com/in/nathan-xu-80b48755,档案自述 Co-founder & CEO at PLAUD。,,2026-11-11
 quanta-computer,广达电脑 Quanta,s01,广达电脑（昆山） 公开入口,https://www.quantatw.com/Quanta/english/about/,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 quanta-computer,广达电脑 Quanta,s02,关联网站观察（原采集标签：广达电脑（昆山）官网）,https://www.quantatw.com,公开官网主体与标题观察：Quanta；只核验入口归属。,,2026-11-02
 quanta-computer,广达电脑 Quanta,s03,BOSS直聘企业主页 · 达丰（上海）电脑有限公司（广达中国厂；无昆山专页）,https://www.zhipin.com/gongsi/39d26d87adc9d5f603J92921Fg~~.html,公开企业主页主体：达丰（上海）电脑有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -995,6 +1343,8 @@ sharge,闪极科技 SHARGE,s01,投中网：闪极获A+轮融资,https://finance.
 sharge,闪极科技 SHARGE,s02,闪极官方联系我们,https://www.shargetech.com/lxwm,招聘及商务邮箱,,2026-10-30
 sharge,闪极科技 SHARGE,s03,闪极科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/12d6f5d0d224b1b00HZ_3dW0EA~~.html,公开企业主页主体：闪极科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 sharge,闪极科技 SHARGE,s04,【闪极科技招聘】-猎聘,https://www.liepin.com/company/12562971/,公开企业主页主体：闪极科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+sharge,闪极科技 SHARGE,s05,连线Insight专访闪极科技创始人张波（新浪财经转载）,https://finance.sina.com.cn/cj/2024-10-17/doc-incswatx6309707.shtml,称张波为闪极科技创始人兼CEO，并回顾其从格力工程师、魅族市场营销到爱否开物电商的职业路径。,2024-10-17,2026-11-11
+sharge,闪极科技 SHARGE,s06,百度百科·闪极科技（深圳）有限公司,https://baike.baidu.com/item/%E9%97%AA%E6%9E%81%E7%A7%91%E6%8A%80%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51368968,公司2019年12月成立，法定代表人为张波；张波任董事长、经理。,,2026-11-11
 sien-integrated-circuits,芯联集成,s01,芯联集成 公开入口,https://www.sienicx.com,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 sien-integrated-circuits,芯联集成,s02,【芯联集成电路制造股份有限公司招聘】-猎聘,https://www.liepin.com/company/9761593/,公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 sien-integrated-circuits,芯联集成,s03,BOSS直聘企业主页 · 芯联集成电路制造股份有限公司（绍兴；非苏州）,https://www.zhipin.com/gongsi/30857ee5896cff411Hd43Nu6F1A~.html,公开企业主页主体：芯联集成电路制造股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -1030,6 +1380,9 @@ viaim,未来智能 viaim,s02,未来智能项目库,https://pitchhub.36kr.com/pro
 viaim,未来智能 viaim,s03,viaim官方FAQ,https://store.viaim.ai/pages/faq,产品区别,,2026-10-30
 viaim,未来智能 viaim,s04,viaim支持页,https://store.viaim.ai/pages/support-1,客服邮箱,,2026-10-30
 viaim,未来智能 viaim,s05,安徽艾德未来智能招聘页,https://m.zhipin.com/companys/3c2c021c1f89cff21H1729y0Flo~.html,公司实体、总部与招聘入口,,2026-10-30
+viaim,未来智能 viaim,s06,腾讯新闻｜对话未来智能viaim创始人兼CEO马啸,https://news.qq.com/rain/a/20260728A086D100,标题与正文均称「未来智能viaim创始人兼CEO马啸」,2026-07-28,2026-11-11
+viaim,未来智能 viaim,s07,搜狐｜对话马啸：硬件将成为AI理解世界的眼睛和耳朵,https://www.sohu.com/a/1027080680_136866,称马啸为未来智能CEO，并记其带viaim讯飞智能体耳机新品现身发布会,,2026-11-11
+viaim,未来智能 viaim,s08,36氪项目库：未来智能 viaim,https://pitchhub.36kr.com/project/3264263460172807,融资历史与快讯：2025年1月、4月连续完成Pre-A轮、Pre-A+轮；A轮亿元级由蚂蚁集团领投、启明创投超额跟投；A+轮于2026-05-08完成，亿元级，传音参投并达成战略合作。,,2026-11-11
 wistron-kunshan,昆山纬创,s01,昆山纬创 公开入口,https://www.wistron.com/About-Wistron,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 wistron-kunshan,昆山纬创,s02,BOSS直聘企业主页 · 纬创资通（昆山）有限公司（鸿雁路；排除汽车电子子公司）,https://www.zhipin.com/gongsi/cb432962e62e73bd03Z729-8.html,公开企业主页主体：纬创资通（昆山）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 wistron-kunshan,昆山纬创,s03,緯創資通 - 维基百科,https://zh.wikipedia.org/wiki/緯創資通,台证所上市股票代号3231（2003年上市）、2001年5月30日成立。,,2026-11-03
@@ -1038,34 +1391,62 @@ anew-labs,Anew Labs 新生实验室,s01,Anew Labs (新生实验室) | AI Drug Di
 anew-labs,Anew Labs 新生实验室,s02,bytedance/AnewOmni — Programming Biomolecular Interactions with All-Atom Generative Model,https://github.com/bytedance/AnewOmni,字节官方组织下的研究代码及ByteDance版权，支持研究来源联系，不证明当前股权或法律独立性。,,2026-10-31
 anew-labs,Anew Labs 新生实验室,s03,"Reuters: ByteDance completes $290 million fundraising for AI drug unit after its spin-off, sources say",https://www.streetinsider.com/Reuters/ByteDance%2Bcompletes%2B%24290%2Bmillion%2Bfundraising%2Bfor%2BAI%2Bdrug%2Bunit%2Bafter%2Bits%2Bspin-off%2C%2Bsources%2Bsay/27066461.html,路透原稿转载，匿名消息人士称拆分、融资及母公司持股；未获当事方正式确认。,2026-09-16,2026-10-31
 anew-labs,Anew Labs 新生实验室,s04,ByteDance’s drug unit presents AI-designed therapies at global conferences,https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences,历史报道中的Anew Therapeutics及ByteDance AI Drug Discovery名称，保留为别名而非另建主体。,2026-05-02,2026-10-31
+anew-labs,Anew Labs 新生实验室,s05,第一财经：字节拆出一家AI制药公司，首轮融资2.9亿美元，估值15亿美元,https://www.yicai.com/news/103366982.html,Anew Labs前身为字节跳动AI for Science药物发现团队，2021年由刘凯牵头组建；2026年6月整体拆分，团队、平台与管线注入新主体。,2026-09-16,2026-11-11
+anew-labs,Anew Labs 新生实验室,s06,"LinkedIn 搜索结果：Kai Liu - Founder & CEO, Anew Labs",https://cn.linkedin.com/in/kai-liu-5918b543a,搜索结果显示该档案姓名为Kai Liu、现任Anew Labs、职务Founder & CEO；页面本身未直接抓取，仅据搜索结果记录。,,2026-11-11
 biomap,百图生科 BioMap,s01,百图生科项目资料,https://pitchhub.36kr.com/project/1679649196921600,发起背景及A轮投资方,2021-07,2026-10-30
 biomap,百图生科 BioMap,s02,百图公司官网,https://www.biomap.com/company,联系方式、招聘邮箱、办公地,,2026-10-30
 biomap,百图生科 BioMap,s03,百图官方招聘材料转载,https://hub.baai.ac.cn/view/44767,生命科学基础模型定位,,2026-10-30
 biomap,百图生科 BioMap,s04,「百图生科招聘」-BOSS直聘,https://www.zhipin.com/gongsi/227a8969b14846fc1nd43t60E1o~.html,公开企业主页主体：百图生科；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 biomap,百图生科 BioMap,s05,【百图生科BioMap招聘】-猎聘,https://www.liepin.com/company/12415567/,公开企业主页主体：百图生科BioMap；只核验入口归属，不表示具体岗位开放。,,2026-10-31
-dp-technology,深势科技,s01,启明创投周报46/2025,https://www.qimingvc.com/en/node/7551,投资关系及C轮,2025-12,2026-10-30
+biomap,百图生科 BioMap,s06,经济观察报对话百图生科CEO刘维（腾讯新闻转载）,https://news.qq.com/rain/a/20261021A0EIME00,称刘维为百图生科联合创始人、CEO：有18年早期投资经历，曾任联想之星合伙人、百度风投创始CEO，2020年与百度创始人李彦宏联合创办百图生科。,2026-10-21,2026-11-11
+biomap,百图生科 BioMap,s07,百度百科·百图生科,https://baike.baidu.com/item/%E7%99%BE%E5%9B%BE%E7%94%9F%E7%A7%91/53860347,2020年9月成立，李彦宏作为牵头发起人，BV百度风投CEO刘维作为联合创始人担任CEO；条目另记载李彦宏任董事长。,,2026-11-11
+dp-technology,深势科技,s01,启明创投周报46/2025,https://www.qimingvc.com/en/node/7551,投资关系及C轮,2025-12,2026-11-11
 dp-technology,深势科技,s02,深势投融资库,https://m.pedaily.cn/vc/company/122114.html,历史投资方,,2026-10-30
 dp-technology,深势科技,s03,深势官网,https://www.dp.tech/,最新业务产品,,2026-10-30
-dp-technology,深势科技,s04,深势关于我们,https://www.dp.tech/about,招聘与商务邮箱及办公地,,2026-10-30
+dp-technology,深势科技,s04,深势关于我们,https://www.dp.tech/about,招聘与商务邮箱及办公地,,2026-11-11
 dp-technology,深势科技,s05,「深势科技招聘」-BOSS直聘,https://www.zhipin.com/gongsi/ba52f78a29ea7d5103J909S8F1Q~.html,公开企业主页主体：深势科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 dp-technology,深势科技,s06,【深势科技招聘】-猎聘,https://www.liepin.com/company/12376395/,公开企业主页主体：深势科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+dp-technology,深势科技,s07,深势科技官网「关于我们」创始团队,https://www.dp.tech/about,创始团队：鄂维南任首席科学顾问，张林峰任创始人、首席科学家，孙伟杰任创始人、CEO,,2026-11-11
+dp-technology,深势科技,s08,深势科技官网创始团队头像（鄂维南）,https://cdn.dp.tech/home/_next/static/images/about/team1.webp,官网「关于我们」创始团队栏目中鄂维南姓名旁的官方头像,,2026-11-11
+dp-technology,深势科技,s09,深势科技官网创始团队头像（张林峰）,https://cdn.dp.tech/home/_next/static/images/about/team2.webp,官网「关于我们」创始团队栏目中张林峰姓名旁的官方头像,,2026-11-11
+dp-technology,深势科技,s10,深势科技官网创始团队头像（孙伟杰）,https://cdn.dp.tech/home/_next/static/images/about/team3.webp,官网「关于我们」创始团队栏目中孙伟杰姓名旁的官方头像,,2026-11-11
+dp-technology,深势科技,s11,腾讯新闻｜对话深势科技张林峰：北大90后独角兽公司,https://news.qq.com/rain/a/20240416A024HL00,「创始人兼CEO孙伟杰与创始人兼首席科学家张林峰均为90后，两人为北大元培学院同窗」，2018年共同成立深势科技,2024-04-16,2026-11-11
+dp-technology,深势科技,s12,新华网专访深势科技首席科学顾问鄂维南（元璟family转载）,https://startup.aliyun.com/info/1033915.html,标题与正文称鄂维南为「深势科技首席科学顾问」,,2026-11-11
+dp-technology,深势科技,s13,21财经／投资界：深势科技完成总额超8亿元人民币的C轮融资,https://m.21jingji.com/article/20251225/herald/36b2338df9c7acdbff93f993231515c0.html,报道2025-12完成超8亿元C轮并列出出资机构；文中称公司成立于2018年。,2025-12-25,2026-11-11
 insilico,英矽智能 Insilico Medicine,s01,英矽关于我们,https://insilico.com/about/,业务模式及投资者名单,,2026-10-30
 insilico,英矽智能 Insilico Medicine,s02,英矽联系我们,https://insilico.com/contact_sc,招聘、商务邮箱及城市,,2026-10-30
 insilico,英矽智能 Insilico Medicine,s03,英矽加入我们,https://insilico.com/careers_sc,招聘投递邮箱,,2026-10-30
 insilico,英矽智能 Insilico Medicine,s04,【Insilico Medicine招聘】-猎聘,https://www.liepin.com/company/12523917/,公开企业主页主体：Insilico Medicine；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+insilico,英矽智能 Insilico Medicine,s05,Insilico Medicine 官网 Leadership 团队页,https://insilico.com/team,官方团队页列出 Alex Zhavoronkov（Chairman of the Board、Executive Director、CEO）、Feng Ren（CSO、Executive Director & Co-CEO）、Alex Aliper（President）及各自履历，并给出 Zhavoronkov 的 Google Scholar 主页链接。,,2026-11-11
+insilico,英矽智能 Insilico Medicine,s06,Alex Zhavoronkov 个人主页 Biography,https://alexzhavoronkov.com/biography,本人个人网站自述为 Insilico Medicine 创始人兼CEO，公司于2025年12月在港上市（2257.HK）。,,2026-11-11
+insilico,英矽智能 Insilico Medicine,s07,Alex Zhavoronkov Google Scholar 主页,https://scholar.google.com/citations?user=8Icccp0AAAAJ,其 Google Scholar 作者主页（由 Insilico 官网团队页直接链接），列出论文与被引数据。,,2026-11-11
+insilico,英矽智能 Insilico Medicine,s08,英矽智能官网中文领导团队页,https://insilico.com/team_sc,中文团队页：Alex Zhavoronkov 博士为董事会主席、执行董事、首席执行官兼首席商务官；任峰博士为首席科学官、执行董事、联合首席执行官；Alex Aliper 博士为总裁；并附三人履历。,,2026-11-11
+insilico,英矽智能 Insilico Medicine,s09,英矽智能 2025 年度报告（港交所）,https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042803626_c.pdf,"股份代号3696；2025年12月30日于聯交所主板上市；全球发售所得款项净额2,350.3百萬港元（行使超额配股权后）。",2026-04-28,2026-11-11
 matwings,天鹜科技 Matwings,s01,天鹜官方关于页,https://www.matwings.com/site/about-us,投资背景与业务范围,,2026-10-30
 matwings,天鹜科技 Matwings,s02,天鹜官网,https://www.matwings.com/,产品系列、商务邮箱、地址与猎聘官招跳转,,2026-10-30
 matwings,天鹜科技 Matwings,s03,华东师大公司招聘资料,https://career.ecnu.edu.cn/commonpage/CorpInfDetail.aspx?oid=CEEV4VnnO%2FbBgpaLUHFcTw%3D%3D,存在招聘资料但未给通用投递邮箱,,2026-10-30
 matwings,天鹜科技 Matwings,s04,天鹜科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/29136b81b4cd6e8f1n1z2966FlQ~.html,公开企业主页主体：天鹜科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 matwings,天鹜科技 Matwings,s05,【天鹜科技招聘】-猎聘,https://www.liepin.com/company/13336567/,公开企业主页主体：天鹜科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+matwings,天鹜科技 Matwings,s06,天鹜科技官方“关于我们”团队与历程（2026-11-11复核）,https://www.matwings.com/site/about-us,官方页面记“天鹜科技首席科学家洪亮教授”入选2025福布斯中国新时代颠覆力创始人榜单，并多次记“CTO刘灏先生”。,,2026-11-11
+matwings,天鹜科技 Matwings,s07,对话天鹜科技洪亮：从AlphaFold到“小龙虾”，“科学”正在走下神坛（澎湃新闻）,https://m.thepaper.cn/newsDetail_forward_33176648,洪亮为上海交通大学特聘教授、天鹜科技创始人兼首席科学家；本科中科大物理、硕士香港中文大学化学、博士阿克伦大学生物，2015年加入上海交通大学。,2026-05-14,2026-11-11
+matwings,天鹜科技 Matwings,s08,喜讯｜天鹜科技完成数千万元Pre-A轮融资，加速蛋白质工程通用大模型商业落地,https://www.matwings.com/site/news-detail/%E5%96%9C%E8%AE%AF%7C%E5%A4%A9%E9%B9%AB%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90%E6%95%B0%E5%8D%83%E4%B8%87%E5%85%83Pre-A%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%8A%A0%E9%80%9F%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%B7%A5%E7%A8%8B%E9%80%9A%E7%94%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0,2024-04-01 Pre-A 轮数千万元，金沙江联合资本领投、本草资本／晓池资本／四川交研资本跟投；并记公司 2021 年成立,2024-04-01,2026-11-11
+matwings,天鹜科技 Matwings,s09,天鹜科技完成超亿元A轮融资，“超越结构，预测功能”,https://www.matwings.com/site/news-detail/%E5%A4%A9%E9%B9%AB%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90%E8%B6%85%E4%BA%BF%E5%85%83A%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E2%80%9C%E8%B6%85%E8%B6%8A%E7%BB%93%E6%9E%84%EF%BC%8C%E9%A2%84%E6%B5%8B%E5%8A%9F%E8%83%BD%E2%80%9D,2024-11-15 A 轮超亿元，启明创投领投，涌铧投资／经韬资本及本草资本跟投,2024-11-15,2026-11-11
+matwings,天鹜科技 Matwings,s10,天鹜科技完成超2亿元A+轮融资,https://www.matwings.com/site/news-detail/%E5%A4%A9%E9%B9%AB%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90%E8%B6%852%E4%BA%BF%E5%85%83A%2B%E8%BD%AE%E8%9E%8D%E8%B5%84,2026-03-01 A+ 轮超 2 亿元，中国石油昆仑资本／涌铧投资／上海未来产业基金联合领投，国投招商等跟投,2026-03-01,2026-11-11
 megarobo,镁伽科技 MEGAROBO,s01,镁伽C轮公司公告,https://www.megarobo.com/news/255,投资背景,2022-06-15,2026-10-30
 megarobo,镁伽科技 MEGAROBO,s02,镁伽当前官网,https://www.megarobo.com/,产品定位及合作邮箱,,2026-10-30
 megarobo,镁伽科技 MEGAROBO,s03,镁伽2027校招,https://career.nankai.edu.cn/correcruit/content/id/118191.html,招聘邮箱、摩卡/智业入口及城市,2026-09-08,2026-10-30
 megarobo,镁伽科技 MEGAROBO,s04,镁伽科技招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/2b2b68bf418ec0241nd_29y_F1M~.html,公开企业主页主体：镁伽科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 megarobo,镁伽科技 MEGAROBO,s05,【镁伽科技招聘】-猎聘,https://www.liepin.com/company/10138129/,公开企业主页主体：镁伽科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+megarobo,镁伽科技 MEGAROBO,s06,今年最大融资之一：85后理工男拿下20亿-36氪,https://www.36kr.com/p/1785909810859392,报道称镁伽成立于2016年，由黄瑜清、张琰和乔志新三位老同事联手创立；黄瑜清为镁伽创始人、CEO，2008年从西安交大毕业。,2022-06-15,2026-11-11
+megarobo,镁伽科技 MEGAROBO,s07,创业6年，85后工程师打造“Ai+生命科学”百亿赛道独角兽｜GGV投资笔记-36氪,https://www.36kr.com/p/1982422422242052,报道称黄瑜清获清华大学MBA学位，本科就读西安交通大学，曾供职中国测试测量领域头部机构。,,2026-11-11
 xtalpi,晶泰科技 XtalPi,s01,晶泰投资者关系,https://ir.xtalpi.com/,上市身份与业务,,2026-10-30
-xtalpi,晶泰科技 XtalPi,s02,晶泰D轮融资报道,https://www.cyzone.cn/article/645770.html,历史投资方,2021-08-11,2026-10-30
+xtalpi,晶泰科技 XtalPi,s02,晶泰D轮融资报道,https://www.cyzone.cn/article/645770.html,历史投资方；创业邦：2021年8月晶泰科技完成近4亿美元D轮，五源资本、奥博资本、厚朴资本领投，和暄资本、中国生物制药为新股东，腾讯投资、红杉资本、IMO Ventures等老股东追加，Neumann Capital、Artisan Partners等参与；同文载2020年9月3.188亿美元C轮（晨兴资本、软银愿景基金2期、人保资本联合领投）及公司2015年成立。,2021-08-11,2026-11-11
 xtalpi,晶泰科技 XtalPi,s03,晶泰官方联系页,https://www.xtalpi.com/contact-us/,商务邮箱与IR邮箱,,2026-10-30
 xtalpi,晶泰科技 XtalPi,s04,晶泰官方招聘,https://en.xtalpi.com/careers/,投递入口,,2026-10-30
 xtalpi,晶泰科技 XtalPi,s05,晶泰科技XtalPi招聘-BOSS直聘 公司页(工商信息已核对),https://www.zhipin.com/gongsi/a089b45a941615801nB62Nm7.html,公开企业主页主体：晶泰科技XtalPi；只核验入口归属，不表示具体岗位开放。,,2026-10-31
 xtalpi,晶泰科技 XtalPi,s06,【晶泰科技招聘】-猎聘,https://www.liepin.com/company/8644570/,公开企业主页主体：晶泰科技；只核验入口归属，不表示具体岗位开放。,,2026-10-31
+xtalpi,晶泰科技 XtalPi,s07,维基百科：晶泰科技,https://zh.wikipedia.org/wiki/%E6%99%B6%E6%B3%B0%E7%A7%91%E6%8A%80,条目称公司由温书豪、马健和赖力鹏创建于2015年9月。,,2026-11-11
+xtalpi,晶泰科技 XtalPi,s08,维基百科：温书豪,https://zh.wikipedia.org/wiki/%E6%B8%A9%E4%B9%A6%E8%B1%AA,温书豪任晶泰科技董事长；中国科学院物理化学博士，曾在加州大学河滨分校和麻省理工学院从事博士后研究。,,2026-11-11
+xtalpi,晶泰科技 XtalPi,s09,腾讯新闻：马化腾押注三位80后MIT博士，刚刚收获一个IPO,https://news.qq.com/rain/a/20240613A037VB00,报道晶泰科技由温书豪、马健、赖力鹏三位MIT博士后创办。,2024-06-13,2026-11-11
+xtalpi,晶泰科技 XtalPi,s10,晶泰科技 全球发售招股章程（QuantumPharm Inc.）,https://ir.xtalpi.com/media/hmtn0mw1/2024060400065.pdf,"港交所上市招股章程：股份代号2228；列示八轮首次公开发售前投资，其中C轮代价US$288,800,000、D轮代价US$380,000,000，并载各轮协议日期。",2024-06-04,2026-11-11
+xtalpi,晶泰科技 XtalPi,s11,晶泰控股有限公司 2024 年度报告,https://ir.xtalpi.com/media/1sxbieyn/2025040702143.pdf,公司2024年度报告：股份代号2228；“The Shares were listed on the Stock Exchange under Chapter 18C of the Listing Rules on 13 June 2024”。,2025-04,2026-11-11

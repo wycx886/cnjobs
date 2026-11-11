@@ -19,8 +19,21 @@
     ]
   },
   "investment": {
-    "summary": "财联社2023年融资报道确认五源、红杉曾多次投资，新增厚雪等；这是历史融资背景，未扩写为当前完整股东名单。",
-    "verification_status": "partial"
+    "summary": "2025-12-05 在上交所科创板上市（688795.SH）。财联社 2023 年报道列五源、红杉等历史投资方，属历史融资背景，未扩写为当前完整股东名单。招股前逐轮融资明细本轮未核到。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "已上市",
+        "announced_on": "2025-12-05",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s08",
+          "s09"
+        ],
+        "notes": "上交所科创板，688795.SH；上交所上市公告与公司官网新闻同日确认。招股前逐轮融资明细本轮未核到，不补造。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.mthreads.com/",
@@ -30,7 +43,7 @@
     "other_email_purpose": null
   },
   "notes": "未查到可核验公开投递邮箱，使用官网社招/校招网申；不把财报或IR邮箱当招聘邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -73,6 +86,40 @@
       "supports": "公开企业主页主体：摩尔线程；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "对话摩尔线程张建中：不做“偏科”GPU，一家民企的造“芯”路-中新网",
+      "url": "https://www.chinanews.com.cn/gsztc/2026/09-14/10696017.shtml",
+      "supports": "报道称摩尔线程创始人、董事长兼首席执行官张建中2020年辞去英伟达全球副总裁、中国区总经理职务后创立公司。",
+      "published_date": "2026-09-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "对话摩尔线程张建中：不做“偏科”GPU，一家民企的造“芯”路_腾讯新闻（转载中新社）",
+      "url": "https://news.qq.com/rain/a/20260914A06A2H00",
+      "supports": "转载中新社报道，称摩尔线程创始人、董事长兼首席执行官张建中接受采访，谈国产全功能 GPU 研发进展。",
+      "published_date": "2026-09-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "股票代码 688795！摩尔线程正式挂牌科创板！｜摩尔线程",
+      "url": "https://www.mthreads.com/news/266",
+      "supports": "2025-12-05 在上海证券交易所科创板挂牌上市，股票代码 688795.SH",
+      "published_date": "2025-12-05",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "上海证券交易所｜关于摩尔线程智能科技（北京）股份有限公司人民币普通股股票科创板上市交易的公告",
+      "url": "https://www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20251204_10800678.shtml",
+      "supports": "上证公告（股票）[2025]35号：证券简称「摩尔线程」、代码 688795，2025-12-05 起上市交易",
+      "published_date": "2025-12-04",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -85,12 +132,12 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2025年12月5日在上海证券交易所科创板上市（688795.SH），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s08",
+      "s09"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -128,6 +175,24 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "张建中",
+      "role": "创始人、董事长兼CEO",
+      "previous_firms": [
+        "NVIDIA"
+      ],
+      "background": "毕业于南京理工大学计算机系；曾任英伟达全球副总裁、中国区总经理，2020年辞职创立摩尔线程。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "中新社2026年9月专访确认身份与职务；未找到可确证为其本人的职业社交主页。"
     }
   ]
 }

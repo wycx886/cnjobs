@@ -1,0 +1,127 @@
+{
+  "schema_version": 3,
+  "id": "cmbi-capital",
+  "name": "招银国际资本（CMB International Capital）",
+  "aliases": [
+    "招银国际资本管理（深圳）有限公司",
+    "CMBI Capital"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "watchlist",
+    "reason": "清科与投中两个年度 PE 主榜名次稳定，且清科机构库有近期出手记录；但招银国际官网只介绍母体综合金融服务，未找到能确认为该投资主体的独立站点，故先列观察名单。"
+  },
+  "founded": {
+    "year": null,
+    "basis": "依据不足，不猜年份。清科投资界机构库“招银国际资本”条目的机构年份标注为2014年，但同页工商登记框展示的法人主体是招银国际金融控股有限公司（1993-07-06 注册），与本轮清科 PE50 所列“招银国际资本管理（深圳）有限公司”不是同一法人，无法据此确认目标主体的成立年份。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第5名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第10名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第13名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第11名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 15 名，按综合榜口径列入 Tier 1；作为银行系投资平台，其名次不宜与市场化 VC 直接横比。",
+    "source_ids": [
+      "s03",
+      "s04",
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "银行系私募股权与直接投资；公开案例集中在半导体、生物医药与新能源。",
+  "stage": "清科、投中均将其归入私募股权（PE）榜，偏成长期及以后的项目融资。",
+  "representative_cases": [
+    {
+      "company": "英诺赛科",
+      "attribution": "current_firm",
+      "investor_or_team": "招银国际资本",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额或退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "company": "百奥赛图",
+      "attribution": "current_firm",
+      "investor_or_team": "招银国际资本",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    }
+  ],
+  "recent_activity": "2026-11-08，清科投资界机构库记录其参与拜安传感 C++ 轮（金额未披露，同轮还有树院私募基金、香洲正菱），未披露领投方。",
+  "why_follow": "编辑分析：作为招商银行体系内做股权直投的平台，其项目名单同时出现半导体（英诺赛科）、创新药（百奥赛图）与新能源（三峡能源），可用于观察银行系资金在硬科技与医疗上的配置。",
+  "difference": "编辑分析：与市场化 PE 相比，其资金来源与招商银行体系深度绑定，项目获取依赖母行客户关系与投行协同；比较时应与招商资本（招商局集团体系）、中金资本（中金公司体系）等一起按“金融机构直投平台”归类。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：本轮榜单所列投资主体为招银国际资本管理（深圳）有限公司，隶属招商银行全资附属机构招银国际（CMB International）。本次打开的 https://www.cmbi.com.hk/zh-CN/about-us 只介绍招银国际金融有限公司及其企业融资、资产管理、财富管理、环球市场、结构融资五大板块，未单独确认“招银国际资本”这一投资主体，故 contacts.website 留空，避免把母体官网当作本机构官网。母体官网显示其业务包含直接投资，可作为品牌归属的辅助证据。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 招银国际资本",
+      "url": "https://vc.pedaily.cn/vc/529979.html",
+      "supports": "机构名与工商主体信息、简介（招商银行全资附属机构体系）、近期出手记录（2026-11-08 拜安传感 C++ 轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "招银国际金融有限公司 · 关于我们",
+      "url": "https://www.cmbi.com.hk/zh-CN/about-us",
+      "supports": "招银国际为招商银行全资附属机构、业务板块包含直接投资；未单列招银国际资本主体",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科2025年中国私募股权投资机构50强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "招银国际资本：清科2025年中国私募股权投资机构50强第5名（机构全称：招银国际资本管理（深圳）有限公司）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科创业2024年中国私募股权投资机构100强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "招银国际资本：清科创业2024年中国私募股权投资机构100强第10名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "招银国际资本：投中2025年度 PE TOP100 第13名；机构层级案例含英诺赛科、百奥赛图、三峡能源",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "招银国际资本：投中2024年度 PE TOP100 第11名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "银行系券商旗下的成熟股权投资平台，先按金融机构建档与打 Tier；主体边界与官网缺口保留为待核实项。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

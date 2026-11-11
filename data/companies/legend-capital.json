@@ -1,0 +1,119 @@
+{
+  "schema_version": 3,
+  "id": "legend-capital",
+  "name": "君联资本（Legend Capital）",
+  "aliases": [
+    "Legend Capital",
+    "君联资本管理股份有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "watchlist",
+    "reason": "两个发布方两个年度的 VC 主榜均在前 5，清科机构库有简介与近期出手记录；但官方域名 legendcapital.com.cn 本次 TLS 连接失败、无法读取，故先列观察名单。"
+  },
+  "founded": {
+    "year": 2001,
+    "basis": "清科投资界机构库“君联资本”条目标注成立于2001年（数据来源：公开资料整理）；同页工商登记写君联资本管理股份有限公司成立时间2003-11-19，前者为机构/品牌口径，后者为现行股份公司登记时间，本档案取机构年份并在 notes 说明差异。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第5名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第4名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第3名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第4名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 5 名；另在清科2025 AI20、投中2025 AI30 以音序列入（不给名次）。按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "清科机构库简介列 TMT 及创新消费、医疗健康、文化体育、专业服务和智能制造。",
+  "stage": "初创期与扩展期为主，兼顾种子期项目（清科机构库简介）；清科、投中均归入创业投资（VC）榜。",
+  "representative_cases": [
+    {
+      "company": "宁德时代",
+      "attribution": "current_firm",
+      "investor_or_team": "君联资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单为机构层级披露，未给轮次、金额或退出状态。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "康龙化成",
+      "attribution": "current_firm",
+      "investor_or_team": "君联资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联，不补造回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-12，清科投资界机构库记录其参与无问芯穹 C 轮（23亿元人民币，同轮机构众多，含联想创投、启明创投、红杉中国等），未披露其领投身份。",
+  "why_follow": "编辑分析：其案例从新能源（宁德时代）、医药外包（康龙化成）延伸到 AI 算力（无问芯穹）与大模型（智谱），可用于观察老牌 VC 在 AI 基础设施上的延续性下注。",
+  "difference": "编辑分析：与同属联想体系的联想之星（早期天使）和联想创投（CVC）分工不同，君联覆盖成长期与扩展期，单笔规模更大；三者品牌、基金与管理团队独立，不应合并统计。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：联想控股旗下独立的专业风险投资公司，机构主体为君联资本管理股份有限公司；与联想之星、联想创投是不同平台。官网缺口：调研稿未给域名；本次尝试 https://www.legendcapital.com.cn 与 http/https 两种协议均返回 TLS 连接中断，无法读取页面；legendcapital.com 打开后是待售域名页面，不是官方站点，故 contacts.website 留空，不猜域名。年份差异：机构口径2001年，工商登记2003-11-19。清科机构库的“总规模超过500亿元、截至2021年注资企业超过500家”为历史口径，不作为当前规模写入。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 君联资本",
+      "url": "https://vc.pedaily.cn/vc/26259.html",
+      "supports": "成立于2001年、工商登记2003-11-19、联想控股旗下独立VC、投资领域与阶段、近期出手记录（2026-10-12 无问芯穹 C 轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国创业投资机构50强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "君联资本：清科2025年中国创业投资机构50强第5名（机构全称：君联资本管理股份有限公司）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国创业投资机构100强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "君联资本：清科创业2024年中国创业投资机构100强第4名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "君联资本：投中2025年度 VC TOP100 第3名；机构层级案例含宁德时代、康龙化成、智谱",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "君联资本：投中2024年度 VC TOP100 第4名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作二十余年的成熟 VC 平台，先按金融机构建档与打 Tier；官网缺口与人物、渠道留待后续任务。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

@@ -21,8 +21,85 @@
     ]
   },
   "investment": {
-    "summary": "2024年7月A轮公司向第一财经确认投资方含阿里、小米、腾讯、亚投、中金，以及北京/上海AI产业基金、深创投等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2024-07-25公司向第一财经确认完成A轮，总融资金额50亿元人民币，并将以200亿估值开启B轮；A轮投资方包括阿里、小米、腾讯、亚投资本、中金，以及北京市人工智能产业投资基金、上海人工智能产业投资基金、深创投。更早轮次本轮未取得官方披露，未结构化。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2024-07-25",
+        "amount_text": "50亿元人民币",
+        "investors": [
+          {
+            "name": "阿里",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "小米",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "亚投资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "上海人工智能产业投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "第一财经报道：公司表示近期完成A轮，总融资金额50亿元人民币；报道未区分领投与跟投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.baichuan-ai.com/",
@@ -32,7 +109,7 @@
     "other_email_purpose": "商务联系（非招聘；公开档案所列）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +151,24 @@
       "supports": "公开企业主页主体：百川智能；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "维基百科：王小川",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+      "supports": "职业一栏为「百川智能创始人兼首席执行官（2023至今）」，并记其曾任搜狗首席执行官、搜狐高级副总裁兼CTO",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "百川智能校园招聘官网「关于我们」",
+      "url": "https://careers.baichuan-inc.com/",
+      "supports": "「百川智能成立于2023年3月24日，由前搜狗公司创始人兼CEO王小川创立」",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -111,6 +206,25 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "王小川",
+      "role": "创始人、CEO",
+      "previous_firms": [
+        "搜狗",
+        "搜狐"
+      ],
+      "background": "2023年创立百川智能并任首席执行官；此前任搜狗CEO、搜狐高级副总裁兼CTO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与现职由百科条目（2026-11-11核查）与公司官网简介一致口径确认；未另找个人社交主页。"
     }
   ]
 }

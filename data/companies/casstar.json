@@ -1,0 +1,172 @@
+{
+  "schema_version": 3,
+  "id": "casstar",
+  "name": "中科创星（CASSTAR）",
+  "aliases": [
+    "CASSTAR",
+    "中科创星科技投资股份有限公司",
+    "西安中科创星科技孵化器有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "官网关于页、核心团队页与新闻页可打开，清科与投中两个年度的早期榜均在前 5，另有清科机构库的登记信息与近期出手记录；列入主要研究样本，不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2013,
+    "basis": "清科投资界机构库标注成立于2013年，同页工商登记框写中科创星科技投资股份有限公司成立时间2013-09-26；官网关于页未直接写成立年份，以清科机构库与工商信息为准。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国早期投资机构30强第1名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国早期投资机构30强第1名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳早期创业投资机构TOP50第1名（https://www.chinaventure.com.cn/rank/210/3188.html）；投中2024年度中国最佳早期创业投资机构TOP50第5名（https://www.chinaventure.com.cn/rank/199/3063.html）。按早期榜口径（2025年两个发布方均第1、2024年均在前15）列入 Tier 1；早期榜名次不与 VC／PE 综合榜混比。另在投中2025 AI30 以音序列入。",
+    "source_ids": [
+      "s04",
+      "s05",
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "光电芯片、人工智能、航空航天、生物技术、信息技术、新材料、新能源、智能制造等硬科技领域。",
+  "stage": "早期（天使轮与更早），以“研究机构+早期投资+创业平台+投后服务”为模式，并做超前孵化与深度孵化。",
+  "representative_cases": [
+    {
+      "company": "源杰科技",
+      "attribution": "current_firm",
+      "investor_or_team": "中科创星（创始合伙人米磊、李浩）",
+      "outcome": "官网关于页在米磊、李浩的个人简介中列为主导投资案例，并标注其科创板代码688498.SH；上市不等于基金已退出。",
+      "evidence_source_ids": [
+        "s01"
+      ]
+    },
+    {
+      "company": "智谱AI",
+      "attribution": "current_firm",
+      "investor_or_team": "中科创星（创始合伙人米磊）",
+      "outcome": "官网关于页在米磊个人简介中列为主导投资案例；投中2025年度早期榜亦在机构名下列示。未披露轮次与金额。",
+      "evidence_source_ids": [
+        "s01",
+        "s06"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-26，清科投资界机构库记录其参与模感科技（上海）天使+轮（亿级人民币，同轮还有鼎晖投资、绿洲资本、逐际动力等）；同日官网发布袁博由合伙人晋升为管理合伙人。",
+  "why_follow": "编辑分析：其项目组合同时覆盖光芯片（源杰科技）、大模型（智谱AI）与具身智能（智元机器人），是观察“科研院所成果转化+早期投资”路径的主要样本。",
+  "difference": "编辑分析：与市场化天使基金相比，其项目源高度依赖中科院西安光机所及高校院所，投后带孵化器与创业培训；与同列早期榜的联想之星相比，更偏硬科技与光电，消费与 TMT 占比更低。",
+  "contacts": {
+    "website": "https://www.casstar.com.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：由中国科学院西安光学精密机械研究所联合社会资本发起创办，官网现写西安、北京双总部（关于页另述上海团队）；工商主体为中科创星科技投资股份有限公司，另有西安中科创星科技孵化器有限公司等关联主体，本档案按品牌汇总。规模口径存在时间差：官网首页写投资企业600+、基金规模200+亿元，清科机构库简介仍写2021年6月基金总规模超53亿元、投资孵化337家，本档案采用官网现行表述并保留差异。官网人才招聘指向 casstar.zhiye.com，本次未打开核验，channels 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "中科创星 · 关于我们",
+      "url": "https://www.casstar.com.cn/about-us/",
+      "supports": "硬科技早期投资定位、西安/北京/上海布局、米磊与李浩的创始合伙人身份及主导案例（源杰科技、智谱AI等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "中科创星官方网站首页",
+      "url": "https://www.casstar.com.cn/",
+      "supports": "投资企业600+、项目当前市值16000+亿元、基金规模200+亿元；光电芯片、人工智能等八大领域",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科投资界机构库 · 中科创星",
+      "url": "https://vc.pedaily.cn/vc/119246.html",
+      "supports": "成立于2013年、工商主体与注册时间2013-09-26、机构简介与近期出手记录（2026-10-26 模感科技天使+轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科2025年中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "中科创星：清科2025年中国早期投资机构30强第1名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "清科创业2024年中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "中科创星：清科创业2024年中国早期投资机构30强第1名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2025年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/210/3188.html",
+      "supports": "中科创星：投中2025年度早期TOP50第1名；机构层级案例含智谱、源杰科技、智元机器人",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "投中2024年度中国最佳早期创业投资机构TOP50",
+      "url": "https://www.chinaventure.com.cn/rank/199/3063.html",
+      "supports": "中科创星：投中2024年度早期TOP50第5名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "袁博任中科创星管理合伙人",
+      "url": "https://www.casstar.com.cn/news/6536.html",
+      "supports": "2026-10-26 袁博由合伙人晋升为管理合伙人（机构组织公告）",
+      "published_date": "2026-10-26",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作十余年、连续两年居早期榜首的硬科技早期机构，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "米磊",
+      "role": "创始合伙人",
+      "previous_firms": [],
+      "background": "官网关于页：光学博士、研究员，“硬科技”理念提出者；主导源杰科技、垣信卫星、天科合达、智谱AI、中科宇航等案例。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅据官网团队页整理当前职衔与公开简介，未核对个人主页或任职起始时间；本波不系统搜集人物。"
+    },
+    {
+      "name": "李浩",
+      "role": "创始合伙人",
+      "previous_firms": [],
+      "background": "官网关于页：正高级经济师，二十余年科技型初创企业股权投资经验；主导中科微至、卫蓝新能源、智元机器人、长光卫星等案例。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅据官网团队页整理当前职衔与公开简介，未核对个人主页或任职起始时间；本波不系统搜集人物。"
+    }
+  ]
+}

@@ -99,7 +99,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -163,10 +163,86 @@
       "published_date": "2025-12-19",
       "checked_at": "2026-11-03",
       "supports": "2025-12-19上交所终止其科创板IPO审核。"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "搜狐：深度专访JAKA创始人、董事长李明洋",
+      "url": "https://www.sohu.com/a/386998691_489960",
+      "supports": "报道李明洋为节卡机器人创始人、董事长。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "新浪财经：节卡机器人IPO终止报道",
+      "url": "https://cj.sina.com.cn/articles/view/7405682050/1b969bd8200101cchy",
+      "supports": "报道李明洋为节卡机器人董事长、总经理（实控人）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "LinkedIn：JAKA Robotics 创始人兼CEO",
+      "url": "https://cn.linkedin.com/in/jakarobot",
+      "supports": "档案自述 JAKA Robotics - Founder/CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "爱企查：李明洋（节卡机器人）人物页",
+      "url": "https://aiqicha.baidu.com/person?personId=e34d05529d6d5ec4fc876c3f004fde12",
+      "supports": "人物页载明李明洋为节卡机器人创始人兼董事长，曾在可口可乐、瑞典利乐包装等乳品饮料及设备公司工作近10年，长期从事技术及工厂规划。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "投资界：节卡机器人完成超3亿元C轮融资",
+      "url": "https://m.pedaily.cn/news/465204",
+      "supports": "C轮超3亿元，CPE源峰和国投招商共同领投，老股东方广资本跟投，华兴资本任独家财务顾问。",
+      "published_date": "2021-01-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "scope": "organization",
+      "title": "投资界：节卡机器人获C+轮融资",
+      "url": "https://m.pedaily.cn/news/481372",
+      "supports": "宣布已于2021年上半年完成C+轮，由某全球工业巨头与普罗资本旗下国开装备基金联合投资，金额未披露。",
+      "published_date": "2021-11-15",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s14",
+      "scope": "organization",
+      "title": "36氪：节卡机器人完成D轮10亿元融资",
+      "url": "https://www.36kr.com/p/1832401903165696",
+      "supports": "D轮折合人民币约10亿元，淡马锡、淡明（True Light）、软银愿景基金二期、Prosperity7 Ventures联合领投；公司成立于2014年。",
+      "published_date": "2022-07-20",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s15",
+      "scope": "organization",
+      "title": "上海证券报：节卡机器人获新一轮股权融资 临港数科基金领投",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-03-30/doc-inhsuvau2583091.shtml",
+      "supports": "新一轮股权融资由临港数科基金领投，鸿海集团关联方广宇科技与星宇股份跟投，未披露金额。",
+      "published_date": "2026-03-30",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。科创板IPO撤回终止，故仍在创业公司。A/A+/B轮仅见数据库聚合、日期口径不一，未写入rounds。",
   "category_id": "08",
+  "founded": {
+    "year": 2014,
+    "basis": "36氪2022年D轮报道称节卡机器人成立于2014年；投资界企业库载工商成立日期2014-07-15。"
+  },
   "focus": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
   "products": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
   "locations_text": "上海总部/苏州研发",
@@ -178,12 +254,185 @@
     ]
   },
   "investment": {
-    "summary": "2025年12月科创板IPO撤回终止；2022-2024年营收2.81/3.5/4亿元（报道口径）；历史融资轮次本轮未逐项核对。",
-    "verification_status": "partial"
+    "summary": "2014年成立，2021年完成超3亿元C轮与C+轮，2022年7月完成约10亿元D轮，2026年3月获临港数科基金领投的新一轮股权融资。2025年科创板IPO撤回终止，未上市。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021-01-14",
+        "amount_text": "超3亿元",
+        "investors": [
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "国投招商",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "方广资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": null
+      },
+      {
+        "round": "C+",
+        "announced_on": "2021",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "某全球工业巨头",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "国开装备基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "2021-11-15宣布已于2021年上半年完成；金额未披露。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2022-07-20",
+        "amount_text": "折合人民币约10亿元",
+        "investors": [
+          {
+            "name": "淡马锡",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "淡明（True Light）",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "软银愿景基金二期",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "Prosperity7 Ventures",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s14"
+        ],
+        "notes": "另有战略投资机构跟投，来源未具名。"
+      },
+      {
+        "round": "股权融资",
+        "announced_on": "2026-03-30",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "临港数科基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "广宇科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "星宇股份",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s15"
+        ],
+        "notes": "报道称「新一轮股权融资」，未给轮次字母，金额未披露。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "节卡机器人",
     "original_track": "08",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "李明洋",
+      "role": "创始人、董事长兼CEO",
+      "previous_firms": [
+        "可口可乐",
+        "利乐包装"
+      ],
+      "background": "曾在可口可乐、瑞典利乐包装等企业工作近10年，长期从事技术及工厂规划；2014年与同事联合创立节卡机器人。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/jakarobot",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s10"
+          ],
+          "notes": "LinkedIn 抓取被拒；搜索结果摘要显示档案为 JAKA Robotics - Founder/CEO，档案显示名 Young Li（2026-11-11 核查）。"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s09",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "媒体专访与IPO报道均记为创始人/董事长；职业主页仅有搜索摘要支持，故标记 partial。"
+    }
+  ]
 }

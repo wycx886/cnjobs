@@ -19,8 +19,56 @@
     ]
   },
   "investment": {
-    "summary": "上海证券报2026年3月报道：种子轮有祥峰，种子+轮由红杉中国种子基金、江远投资等联合领投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "上海证券报2026-03-04报道：公司已完成千万美元种子轮和种子+轮；种子轮由祥峰投资等投资，种子+轮由红杉中国种子基金、江远投资等联合领投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2026-03-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "祥峰投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "上海证券报称种子轮由祥峰投资等机构投资；种子轮与种子+轮合计千万美元，单轮金额未披露。"
+      },
+      {
+        "round": "种子+",
+        "announced_on": "2026-03-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "红杉中国种子基金",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "江远投资",
+            "firm_id": "longriver",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "上海证券报称种子+轮由红杉中国种子基金、江远投资等多家机构联合领投；两轮合计千万美元。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://flowith.io/",
@@ -30,7 +78,7 @@
     "other_email_purpose": "客服/条款联系邮箱（非招聘）"
   },
   "notes": "未查到可核验公开投递邮箱；官方/career已核验跳转至Workable。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -38,7 +86,7 @@
       "url": "https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml",
       "supports": "投资方及产品定位",
       "published_date": "2026-03-04",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -63,6 +111,42 @@
       "supports": "支持邮箱",
       "published_date": null,
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s05",
+      "title": "Derek Nee 个人主页 About",
+      "url": "https://dereknee.com/about",
+      "supports": "本人自述正在做AI生产力工具flowith，此前创办X ACADEMY（TechX）与Realm，并曾在YC China任PM。",
+      "published_date": "2026-07-23",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s06",
+      "title": "X 搜索结果：Derek Nee (@DerekNee)",
+      "url": "https://x.com/DerekNee",
+      "supports": "搜索结果摘要显示账号简介为“ceo @flowith to shape the interface for AGI”，此前创办X ACADEMY与Realm。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "TECH SHOW Newsletter：Meet Flowith AI",
+      "url": "https://techshowasia.substack.com/p/ever-wish-for-a-fully-automated-digital",
+      "supports": "Flowith由Derek Nee（联合创始人兼CEO）与Yichen Wu（联合创始人兼COO）创办。",
+      "published_date": "2025-10-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "LinkedIn 搜索结果：吴熠宸 Yichen Wu - Founder of Flowith and X ACADEMY",
+      "url": "https://cn.linkedin.com/in/yichen-zionwu",
+      "supports": "搜索结果显示该档案为吴熠宸，标题写明Founder of Flowith and X ACADEMY，地点上海；页面未直接抓取。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -82,5 +166,77 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "Derek Nee（倪正民）",
+      "role": "联合创始人兼CEO",
+      "background": "Flowith联合创始人兼CEO；此前创办X ACADEMY（TechX）与Realm，并曾在YC China任产品经理。",
+      "previous_firms": [
+        "X ACADEMY",
+        "Realm",
+        "Y Combinator China"
+      ],
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://dereknee.com/about",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s06"
+          ],
+          "notes": "本人个人主页，页面自述当前在做flowith；同时列出X/Twitter与邮箱入口。"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/DerekNee",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s05",
+            "s06"
+          ],
+          "notes": "个人主页链接至该X账号；搜索结果摘要显示简介为“ceo @flowith”。X页面未直接抓取。"
+        }
+      ],
+      "source_ids": [
+        "s05",
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "姓名、职务与创业经历由本人主页与第三方介绍交叉支持；中文名“倪正民”来自LinkedIn中文档案标题。"
+    },
+    {
+      "name": "吴熠宸（Yichen Wu）",
+      "role": "联合创始人兼COO",
+      "background": "Flowith联合创始人兼COO，与Derek Nee共同创办；亦为X ACADEMY联合创始人。",
+      "previous_firms": [
+        "X ACADEMY"
+      ],
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/yichen-zionwu",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08",
+            "s07"
+          ],
+          "notes": "搜索结果标题为“Founder of Flowith and X ACADEMY”，姓名、公司与联合创始人身份匹配；页面未直接抓取。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "COO职务来自第三方介绍文章；LinkedIn搜索结果显示其为Flowith创始人，未单独核实COO头衔。"
+    }
+  ]
 }

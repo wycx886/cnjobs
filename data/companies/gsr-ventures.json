@@ -15,6 +15,16 @@
     "year": 2004,
     "basis": "机构官网简介。"
   },
+  "tier": {
+    "level": "unlisted",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面显示：投中2025年度中国最佳创业投资机构TOP100第54名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第65名（https://www.chinaventure.com.cn/rank/199/3056.html）；清科2025年中国创业投资机构50强名单中未见该机构（https://news.pedaily.cn/202512/559270.shtml）。只在投中一个发布方上榜，未进清科2025年 VC50，单一发布方不足以定 Tier 2，记 unlisted；不是负面评价，也可能落在清科2024 第51–100名音序段（该段无名次，本次未统计），不能据此断言机构不存在或不活跃。",
+    "source_ids": [
+      "s05",
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "科技初创企业，涵盖企业、消费互联网、医疗科技及AI商业应用。",
   "stage": "以早期为主。",
   "representative_cases": [
@@ -89,9 +99,33 @@
       "supports": "2025年直接投资和商业化关注",
       "published_date": "2025-01-21",
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s05",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "金沙江创投：投中2025年度中国最佳创业投资机构TOP100第54名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "金沙江创投：投中2024年度中国最佳创业投资机构TOP100第65名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "完整名单中未见金沙江创投；作为本次未上榜核查依据",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

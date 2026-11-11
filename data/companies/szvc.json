@@ -1,0 +1,167 @@
+{
+  "schema_version": 3,
+  "id": "szvc",
+  "name": "深创投集团（Shenzhen Capital Group, SCGC）",
+  "aliases": [
+    "深创投",
+    "深圳市创新投资集团有限公司",
+    "Shenzhen Capital Group",
+    "SCGC"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "官网集团概况、发展历程、投资案例与团队页均可打开，且清科、投中两个发布方两个年度的 VC 主榜均给出名次，材料足以列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 1999,
+    "basis": "官网集团概况写“成立于1999年首届高交会前夕”，发展历程写1999年8月25日深圳市创新科技投资有限公司正式成立、2002年更名为深圳市创新投资集团；以1999年为机构成立年份，2002年只是更名。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第2名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第2名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第2名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第2名（https://www.chinaventure.com.cn/rank/199/3056.html）。按综合榜双年度双发布方口径，两个发布方、两个年度均在 VC 主榜前 5 名，列入 Tier 1。",
+    "source_ids": [
+      "s05",
+      "s06",
+      "s07",
+      "s08"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "信息科技、装备智造、健康产业、新材料与新能源等硬科技主战场；官网表述为“投早、投小、投长期、投硬科技”。",
+  "stage": "以风险投资（创业投资）为核心，覆盖初创期至成长期；集团另有政府引导基金、公募基金、资产证券化与不动产业务板块。",
+  "representative_cases": [
+    {
+      "company": "中芯国际",
+      "attribution": "current_firm",
+      "investor_or_team": "深创投集团",
+      "outcome": "官网“投资案例”页在信息科技分类下列为已投企业；本条只确认机构关联，不补造轮次、金额或退出回报。",
+      "evidence_source_ids": [
+        "s03"
+      ]
+    },
+    {
+      "company": "珞石机器人",
+      "attribution": "current_firm",
+      "investor_or_team": "深创投集团",
+      "outcome": "官网集团新闻称其2026-07-09在港交所主板上市（股票代码03752.HK），为深创投投资培育的第300家上市公司；上市不等于基金已退出。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2026-11-02，清科投资界机构库记录其参与鲲腾泰克 Pre-A++ 轮（近亿元人民币，同轮还有成都高投集团、交子公园投资公司等），未披露其是否为领投方。",
+  "why_follow": "编辑分析：作为深圳国资背景的综合性创投集团，其公开案例同时覆盖半导体、机器人、生物医药与新能源，适合用来观察国资创投在硬科技项目上的阶段分布。",
+  "difference": "编辑分析：与市场化 VC 不同，其资金结构中政府引导基金与国资平台占比高，投资决策与退出节奏受政策目标影响；比较时应与同类的深高新投、粤科金融集团等国资平台放在一组，而不是与纯财务型 VC 混排。",
+  "contacts": {
+    "website": "https://www.szvc.com.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：投资主体为深圳市创新投资集团有限公司（深圳国资），官网业务板块同时列有政府引导基金、红土创新基金、资产证券化与不动产等，本档案只描述其股权投资相关部分，不把集团全部资产管理规模当作 VC 基金规模。官网自述“累计管理各类资产总规模约5700亿元”为机构口径，未按基金拆分核实。官网“加入我们”页存在，但本次未核到具体招聘入口或邮箱，channels 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "深创投集团 · 集团概况",
+      "url": "https://www.szvc.com.cn/about?goto=overview",
+      "supports": "1999年成立、国有综合性投资集团定位、业务板块、集团领导名单（左丁为党委书记、董事长）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "深创投集团 · 发展历程",
+      "url": "https://www.szvc.com.cn/about?goto=history",
+      "supports": "1999-08-25 深圳市创新科技投资有限公司成立、2002年更名为深圳市创新投资集团",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "深创投集团 · 投资案例",
+      "url": "https://www.szvc.com.cn/case",
+      "supports": "中芯国际、华大九天、中科飞测、商汤科技等已投企业；页面为部分清单",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "珞石机器人登陆港交所 深创投集团直投企业上市数量突破300家",
+      "url": "https://www.szvc.com.cn/article/3212",
+      "supports": "2026-07-09 珞石机器人在港交所上市、为深创投第300家上市公司",
+      "published_date": "2026-07-09",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "深创投集团：清科2025年中国创业投资机构50强第2名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "深创投：清科创业2024年中国创业投资机构100强第2名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "深创投集团：投中2025年度中国最佳创业投资机构TOP100第2名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "深创投集团：投中2024年度中国最佳创业投资机构TOP100第2名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "清科投资界机构库 · 深创投",
+      "url": "https://vc.pedaily.cn/vc/107814.html",
+      "supports": "机构简介与近期公开出手记录（2026-11-02 参与鲲腾泰克 Pre-A++ 轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作二十余年的成熟国资创投平台，按“先圈定金融机构、再沿 portfolio 找公司”的顺序列为已有玩家；本轮只建档与打 Tier，不新增人物与渠道搜集。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "左丁",
+      "role": "党委书记、董事长",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅据官网集团领导页确认当前职衔，未核对个人履历、任职起始时间或公开主页；本波不系统搜集人物。"
+    }
+  ]
+}

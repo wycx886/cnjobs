@@ -8,6 +8,10 @@
     "九章云极"
   ],
   "category_id": "02",
+  "founded": {
+    "year": 2013,
+    "basis": "公司官网“关于我们·历史足迹”称2013年创立。"
+  },
   "focus": "AI基础软件与智算云",
   "products": "数据科学平台、训推平台、智算云服务",
   "locations_text": "北京、上海、济南、成都",
@@ -21,8 +25,112 @@
     ]
   },
   "investment": {
-    "summary": "官网D1轮公告列中国电子旗下中电智慧基金、华民投、太平创新、东方嘉富、卓源资本；历史C+轮由龙门投资领投，达泰、领沨等跟投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网融资公告：2022-09-05宣布C+轮，龙门投资领投，中关村前沿、达泰资本、德本启辰、领沨资本跟投（未披露金额）；2023-10-08宣布D1轮总融资额3亿元，中电智慧基金、华民投、太平创新、东方嘉富、卓源资本参与（公告未指明领投方）。更早轮次本轮未取到官方公告，未结构化。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "C+",
+        "announced_on": "2022-09-05",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "龙门投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中关村前沿",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "达泰资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "德本启辰",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "领沨资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "官网《九章云极DataCanvas完成C+轮融资》公告（发布日期2022-09-06），金额未披露；龙门投资为中关村龙门基金的管理机构。"
+      },
+      {
+        "round": "D1",
+        "announced_on": "2023-10-08",
+        "amount_text": "3亿元",
+        "investors": [
+          {
+            "name": "中电智慧基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "华民投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "太平创新",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "东方嘉富",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "卓源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "官网D1轮公告：“完成总融资额3亿元D1轮融资”；公告未指明领投方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.datacanvas.com/",
@@ -32,7 +140,7 @@
     "other_email_purpose": "商务合作邮箱"
   },
   "notes": "邮箱为公开招聘渠道；具体岗位以招聘页为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -75,6 +183,42 @@
       "supports": "公开企业主页主体：九章云极；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "九章云极官网·走近创始人：方磊",
+      "url": "https://datacanvas.com/zw/PEG/zjcsr/821.html",
+      "supports": "官方人物页：方磊为九章云极创始人；清华大学学士、弗吉尼亚理工大学博士；曾任微软必应（Bing）搜索部门数据科学家，并作为早期团队成员参与开发 Windows Azure。",
+      "published_date": "2025-07-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "九章云极官网·走近创始人：尚明栋",
+      "url": "https://datacanvas.com/zw/PEG/zjcsr/822.html",
+      "supports": "官方人物页：尚明栋2013年联合创立九章云极并担任COO；毕业于北京航空航天大学与美国雪城大学；原微软服务器高可用集群文件系统核心开发工程师，参与 Windows 7、Windows 8 发布，SMB 3.0 主要起草人之一。",
+      "published_date": "2025-07-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "界面新闻：九章云极亮相2026中国算力大会 方磊入选“新晋独角兽创始人TOP50”",
+      "url": "https://www.jiemian.com/article/15087012.html",
+      "supports": "称方磊为九章云极创始人、董事长兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "搜狐：九章云极CEO方磊与CTO尚明栋持股比例一样",
+      "url": "https://www.sohu.com/a/681404967_121146933",
+      "supports": "称尚明栋为公司副董事长兼CTO（与官网COO表述并存，本条未据此改写官方职务）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -130,6 +274,40 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "方磊",
+      "role": "创始人、董事长兼CEO",
+      "background": "清华大学学士，弗吉尼亚理工大学博士；曾任微软必应（Bing）搜索部门数据科学家，并作为早期团队成员参与微软云计算平台 Windows Azure 开发。2013年回国创办九章云极DataCanvas，现任董事长兼CEO，主导智算云与“AI工厂”战略。",
+      "previous_firms": [
+        "微软"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网人物页与界面新闻均记载其创始人兼董事长/CEO身份；未找到可核实的本人公开职业主页。"
+    },
+    {
+      "name": "尚明栋",
+      "role": "联合创始人、COO",
+      "background": "毕业于北京航空航天大学与美国雪城大学；原微软服务器高可用集群文件系统核心开发工程师，参与 Windows 7、Windows 8 发布，为 SMB 3.0 主要起草人之一。2013年联合创立九章云极，负责技术架构、团队管理与智算产品研发。",
+      "previous_firms": [
+        "微软"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网人物页记其职务为COO；部分媒体（如搜狐）称其为副董事长兼CTO，两说并存，本条以官网口径为准并在报告中保留差异。"
     }
   ]
 }

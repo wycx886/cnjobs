@@ -82,7 +82,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -128,9 +128,36 @@
       "supports": "森亿智能2024年战略融资、投资方、2016年成立及累计融资超13亿元。",
       "published_date": "2024-07-22",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "森亿智能官网“关于我们/核心团队”",
+      "url": "https://www.synyi.com/about/company",
+      "supports": "官方团队页列：张少典博士为创始人/董事长/首席执行官；马汉东博士为联合创始人/副总裁，并给出两人学历与创业经历。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "8年超13亿！潜力独角兽森亿智能再获融资（网易号，2026-11-11复核）",
+      "url": "https://www.163.com/dy/article/J7N90KPE0511DLVT.html",
+      "supports": "报道称张少典为森亿智能创始人兼董事长，本科上海交通大学AI与计算机、博士哥伦比亚大学医学信息学。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "投资界：森亿智能获腾讯、国药资本2.5亿元C轮投资",
+      "url": "https://pe.pedaily.cn/201907/444475.shtml",
+      "supports": "2019-07 完成2.5亿元C轮，腾讯领投，国药资本跟投；成立三年累计融资超5.5亿元。",
+      "published_date": "2019-07-03",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "战略融资金额未披露；累计融资与客户数据来自公司/媒体口径。",
+  "notes": "战略融资金额未披露；累计融资与客户数据来自公司/媒体口径。 公司于2025-09-30、2026-06-30两次递表港交所（18C），截至2026-11-11仍在审核、尚未上市。",
   "category_id": "06",
   "focus": "医疗AI：临床数据平台与医疗大模型",
   "products": "临床数据治理平台、医疗大模型、医院智能化解决方案",
@@ -143,12 +170,182 @@
     ]
   },
   "investment": {
-    "summary": "2024年完成新一轮战略融资，投资方为北京新航城基金、长春新区/长春市/长春长发基金；公司称成立8年累计融资超13亿元。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "公司披露成立8年完成9轮融资、累计超13亿元：2017-01天使轮1000万元、2017-07 A轮5000万元、2018年B轮与B+轮合计1亿元、2019年C轮2.5亿元（腾讯领投、国药资本跟投）、2020年D轮4亿元、2021年E轮5亿元；2024-07完成战略融资，投资方为北京新航城基金与长春新区/长春市/长春长发基金，金额未披露。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2017-01",
+        "amount_text": "1000万",
+        "investors": [],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "公司对媒体披露的融资历史，未列投资方。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2017-07",
+        "amount_text": "5000万元",
+        "investors": [],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "公司对媒体披露的融资历史，未列投资方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2018",
+        "amount_text": "1亿元",
+        "investors": [],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "公司口径为2018年完成B轮与B+轮，合计1亿元，未分拆各轮金额。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2019-07",
+        "amount_text": "2.5亿元",
+        "investors": [
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "国药资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05",
+          "s08"
+        ],
+        "notes": "投资界2019-07-03报道。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2020",
+        "amount_text": "4亿元",
+        "investors": [],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "公司对媒体披露的融资历史，未列投资方。"
+      },
+      {
+        "round": "E",
+        "announced_on": "2021",
+        "amount_text": "5亿元",
+        "investors": [],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "公司对媒体披露的融资历史，未列投资方。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2024-07",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "北京新航城基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "长春新区股权投资基金管理有限责任公司",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "长春市股权投资基金管理有限公司",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "长春长发私募基金管理有限公司",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "森亿智能",
     "original_track": "06",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "张少典",
+      "role": "创始人、董事长兼首席执行官",
+      "background": "1988年生于安徽马鞍山；上海交通大学计算机系本科，美国哥伦比亚大学医学信息学博士；2016年3月回国联合创立森亿智能，现任创始人、董事长兼CEO，正高级工程师，入选国家级海外高层次人才计划。",
+      "previous_firms": [
+        "哥伦比亚大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网核心团队页与网易号融资报道分别确认创始人/董事长/CEO身份；未找到可核实的个人职业主页。",
+      "photo": {
+        "path": "assets/people/synyi-zhangshaodian.png",
+        "source_url": "https://www.synyi.com/static/images/company/avatar.png",
+        "page_url": "https://www.synyi.com/about/company",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s06"
+        ]
+      }
+    },
+    {
+      "name": "马汉东",
+      "role": "联合创始人、副总裁",
+      "background": "1991年生于江苏连云港；复旦大学生物学学士、哥伦比亚大学医学信息学硕士、上海交通大学计算机系博士；曾任哥伦比亚大学数据科学家、辉瑞制药数据分析师；2016年3月联合创立森亿智能。",
+      "previous_firms": [
+        "哥伦比亚大学",
+        "辉瑞制药"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅官网核心团队页一处来源；未取得第二个独立来源。"
+    }
+  ],
+  "founded": {
+    "year": 2016,
+    "basis": "公司及招股书口径为2016年4月成立于上海张江。"
   }
 }

@@ -21,8 +21,211 @@
     ]
   },
   "investment": {
-    "summary": "官网历史A轮公告：国调基金、中网投联合领投，经纬、和利、红杉、光速超额投资，上海科创、联想创投等跟投；官网确认2025年12月科创板上市。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "官网里程碑逐轮披露 2020-10 天使轮至 2024-12 C 轮（A 轮与 Pre-B 轮各 10 亿元），2025-12 登陆科创板（688802.SH）。历史投资背景不等于当前完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2020-10",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "和利资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "泰达科投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网里程碑记「和利资本、泰达科投联合领投」，未披露金额。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2021-01",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网里程碑记「由红杉中国、真格基金联合领投」，未披露金额。"
+      },
+      {
+        "round": "Pre-A+",
+        "announced_on": "2021-02",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "经纬中国",
+            "firm_id": "mpci",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网里程碑记「由经纬中国、光速中国联合领投」。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2021-06",
+        "amount_text": "1Billion RMB",
+        "investors": [
+          {
+            "name": "国调基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中网投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10",
+          "s11"
+        ],
+        "notes": "金额取自官网英文里程碑「Completed A Funding with 1Billion RMB」。"
+      },
+      {
+        "round": "Pre-B",
+        "announced_on": "2022-07",
+        "amount_text": "1Billion RMB",
+        "investors": [
+          {
+            "name": "混沌投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "央视融媒体产业投资基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10",
+          "s11"
+        ],
+        "notes": "金额取自官网英文里程碑「Completed Pre-B Funding with 1Billion RMB」。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2023-07",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "浦东创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "广发信德",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网里程碑记「浦东创投、广发信德联合领投」。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2024-12",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "中信金石",
+            "firm_id": "citic-jinshi",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "官网里程碑记「中信金石、中金资本联合领投」，同月完成股份制改革。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2025-12",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "上交所科创板，688802.SH；官网里程碑记 2025-06 获受理、2025-10 过会、2025-12 上市。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.metax-tech.com/",
@@ -32,7 +235,7 @@
     "other_email_purpose": "商务合作邮箱（IR另为ir@metax-tech.com）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -83,6 +286,49 @@
       "supports": "公开企业主页主体：沐曦集成电路(上海)股份有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "沐曦股份官网·关于我们·核心团队",
+      "url": "https://www.metax-tech.com/about.html",
+      "supports": "核心团队页列陈维良（创始人、董事长兼CEO）、彭莉（联合创始人、CTO兼首席硬件架构师）、杨建（联合创始人、CTO兼首席软件架构师）及各自履历与照片。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "维基百科：沐曦股份",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B2%90%E6%9B%A6%E8%82%A1%E4%BB%BD",
+      "supports": "条目称公司由AMD前员工陈维良、彭莉、杨建等创立，陈维良任创始人兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "腾讯新闻：沐曦创始人陈维良——芯片即生态，无应用则无价值",
+      "url": "https://news.qq.com/rain/a/20260419A04DS200",
+      "supports": "报道陈维良以沐曦股份创始人、董事长兼CEO身份出席活动。",
+      "published_date": "2026-04-19",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "沐曦股份｜公司介绍与里程碑",
+      "url": "https://www.metax-tech.com/about/about.html",
+      "supports": "股票代码 688802.SH、2025-12 科创板上市，以及 2020-10 天使轮至 2024-12 C 轮各轮时间、领投方与上市进程",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "MetaX | About - Milestones (English)",
+      "url": "https://www.metax-tech.com/en/about/about.html",
+      "supports": "英文里程碑页给出 A 轮与 Pre-B 轮金额均为「1Billion RMB」",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -95,12 +341,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2025年12月在上海证券交易所科创板上市（688802.SH），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s10"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -139,5 +384,88 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "陈维良",
+      "role": "创始人、董事长兼CEO",
+      "previous_firms": [
+        "AMD"
+      ],
+      "background": "GPU领域近20年团队管理与量产经验，曾长期就职AMD，任AMD数代GPU设计及产品线全球总负责人，主导15款高性能GPU流片与量产；清华大学微电子学研究所工学硕士。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网核心团队页与媒体报道一致；照片取自官网团队页。",
+      "photo": {
+        "path": "assets/people/metax-chen-weiliang.jpg",
+        "source_url": "https://www.metax-tech.com/iconsk/abuscont3.jpg",
+        "page_url": "https://www.metax-tech.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07"
+        ]
+      }
+    },
+    {
+      "name": "彭莉",
+      "role": "联合创始人、CTO兼首席硬件架构师",
+      "previous_firms": [
+        "AMD"
+      ],
+      "background": "超过20年高性能GPU芯片设计经验，加入沐曦前在AMD历任GFXIP架构师、系统架构师、首席SOC架构师等职；上海交通大学信息与控制工程学士、电子工程硕士。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网核心团队页与维基百科创始人名单一致；照片取自官网团队页。",
+      "photo": {
+        "path": "assets/people/metax-peng-li.jpg",
+        "source_url": "https://www.metax-tech.com/iconsk/abuscont4.jpg",
+        "page_url": "https://www.metax-tech.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07"
+        ]
+      }
+    },
+    {
+      "name": "杨建",
+      "role": "联合创始人、CTO兼首席软件架构师",
+      "previous_firms": [
+        "华为海思",
+        "AMD"
+      ],
+      "background": "三维图形与高性能计算生态专家，超过20年GPU软件研发经验；此前任华为海思GPU首席架构师，并在AMD工作14年；浙江大学计算机技术博士。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网核心团队页与维基百科创始人名单一致；照片取自官网团队页。",
+      "photo": {
+        "path": "assets/people/metax-yang-jian.jpg",
+        "source_url": "https://www.metax-tech.com/iconsk/abuscont5.jpg",
+        "page_url": "https://www.metax-tech.com/about.html",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07"
+        ]
+      }
+    }
+  ],
+  "founded": {
+    "year": 2020,
+    "basis": "官网公司介绍：沐曦集成电路（上海）股份有限公司成立于 2020 年 9 月。"
+  }
 }

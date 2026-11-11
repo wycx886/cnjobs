@@ -6,6 +6,10 @@
     "乐言科技"
   ],
   "category_id": "07",
+  "founded": {
+    "year": 2016,
+    "basis": "官网「关于我们」载上海乐言科技股份有限公司成立于2016年4月。"
+  },
   "focus": "电商客服与营销 SaaS",
   "products": "乐语助人、乐销客、工单RPA与电商服务",
   "locations_text": "上海、杭州及多地",
@@ -17,8 +21,101 @@
     ]
   },
   "investment": {
-    "summary": "官网披露2021-04数亿元D轮中金资本、上海人工智能产业投资基金领投；完整历史股东未据此推断。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2016年4月成立，2021年4月25日完成数亿元人民币D轮融资，中金资本旗下基金、上海人工智能产业投资基金领投，阿米巴资本、云锋基金等老股东跟投；完整历史股东未据此推断。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2021-04-25",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "中金资本旗下基金",
+            "firm_id": "cicc-capital",
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "上海人工智能产业投资基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "阿米巴资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "云锋基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "常春藤资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "众为资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "蓝湖资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "云九资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "跃马资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "老股东名单按官网原文顺序照录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.leyantech.com/",
@@ -28,7 +125,7 @@
     "other_email_purpose": null
   },
   "notes": null,
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -71,6 +168,42 @@
       "supports": "公开企业主页主体：乐言科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "36氪首发|AI SaaS 服务商「乐言科技」完成数亿元D轮融资，中金资本、上海人工智能产业投资基金领投",
+      "url": "https://www.36kr.com/p/1196800358811907",
+      "supports": "报道称乐言科技创始人兼CEO沈李斌博士从事自然语言处理研究20多年；联合创始人兼COO赵兴斌曾任淘宝天下事业部总经理。",
+      "published_date": "2021-04-25",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "沈李斌｜投资界人物库",
+      "url": "https://vc.pedaily.cn/people/46528.html",
+      "supports": "人物资料称沈李斌为乐言科技创始人兼CEO，U Penn 博士，从事自然语言处理与机器学习二十多年，前 IBM Watson 资深研究员，人工智能正高级工程师。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "赵兴斌 - 联合创始人&COO - 乐言科技 | 领英",
+      "url": "https://cn.linkedin.com/in/%E5%85%B4%E6%96%8C-%E8%B5%B5-615869139",
+      "supports": "领英档案显示赵兴斌为乐言科技联合创始人&COO，地点杭州；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "乐言科技完成数亿元人民币D轮融资，中金资本、上海人工智能产业投资基金领投",
+      "url": "https://www.leyantech.com/portal/article/index/id/107/cid/1.html",
+      "supports": "2021年4月25日完成数亿元人民币D轮，中金资本旗下基金、上海人工智能产业投资基金领投，老股东跟投。",
+      "published_date": "2021-04-26",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -126,6 +259,52 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "沈李斌",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "IBM Watson"
+      ],
+      "background": "U Penn 博士，从事自然语言处理与机器学习研究二十多年，前 IBM Watson 资深研究员，人工智能正高级工程师。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪与投资界人物库两处独立材料确认身份与职务；未找到可核实的个人职业社交主页。"
+    },
+    {
+      "name": "赵兴斌",
+      "role": "联合创始人兼COO",
+      "previous_firms": [
+        "淘宝天下"
+      ],
+      "background": "曾任淘宝天下事业部总经理，在电商领域有多年经验；现为乐言科技联合创始人兼COO。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/%E5%85%B4%E6%96%8C-%E8%B5%B5-615869139",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s06",
+            "s08"
+          ],
+          "notes": "领英页面未直接抓取；搜索结果快照显示“联合创始人&COO - 乐言科技”、地点杭州。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪报道与领英档案快照相互印证。"
     }
   ]
 }

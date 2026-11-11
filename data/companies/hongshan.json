@@ -18,6 +18,17 @@
     "year": 2005,
     "basis": "官网机构介绍的创立年份；后续品牌变化不作为新设年份。"
   },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第1名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第1名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第1名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳创业投资机构TOP100第1名（https://www.chinaventure.com.cn/rank/199/3056.html）。清科与投中两个发布方、2024 与 2025 两个年度均居首位，按双年度双发布方口径列入 Tier 1；两榜分类口径不同（2024 年列 VC 榜、2025 年列 PE 榜），跨年不直接比较名次。",
+    "source_ids": [
+      "s09",
+      "s10",
+      "s11",
+      "s12"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "科技、医疗健康、消费；科技投资包括AI及机器人等。",
   "stage": "覆盖种子、风险投资、成长及并购等阶段。",
   "representative_cases": [
@@ -117,9 +128,41 @@
       "supports": "已读页面，使用旧红杉资本品牌并列上海地址；与当前HongShan/HSG及现行团队的对应待核实，不当作新品牌主体已确认。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "红杉中国：清科2025年中国私募股权投资机构50强第1名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "红杉中国：清科创业2024年中国创业投资机构100强第1名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "红杉中国：投中2025年度中国最佳私募股权投资机构TOP100第1名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "红杉中国：投中2024年度中国最佳创业投资机构TOP100第1名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/vast.json)
 
-机构／项目 ID：`vast` · 主赛道：05 多模态生成与创作工具 · 核查日期：2026-10-30
+机构／项目 ID：`vast` · 主赛道：05 多模态生成与创作工具 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@ Tripo 基础模型、Tripo Studio、API
 
 ## 投资背景
 
-恒旭资本官方2026-09披露B及B+轮经纬领投，产业方包括完美世界、蓝色光标等，老股东含达晨、春华、绿洲、渶策等。
+恒旭资本2026-09披露：VAST完成B轮和B+轮融资，合计约30亿人民币，经纬创投领投，完美世界、蓝色光标、中科创达、三七互娱等产业资本与鼎晖VGC、中金资本、CMC资本等财投参投，达晨财智、春华资本、绿洲资本等老股东追投；恒旭资本另称于2025年11月参与A轮。公司称不到半年累计融资约50亿人民币。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -55,6 +55,14 @@ Tripo 基础模型、Tripo Studio、API
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 宋亚宸（Simon Song） | 创始人兼CEO | VAST（Tripo）创始人兼CEO；公司About页列其为 Forbes 30 Under 30 Asia 2026 入选者。 | confirmed / 2026-11-11 / s06,s07 | [linkedin](https://www.linkedin.com/in/simon-yachen-song) (partial, s08) | 官网About页与腾讯新闻采访一致；更早履历（商汤、MiniMax）未在本轮取到一手来源，故未写入。 |
+
 ## 核查备注
 
 官方联系页为careers复数；高校/人社历史招聘稿另有career单数，优先官方现行地址。
@@ -64,7 +72,10 @@ Tripo 基础模型、Tripo Studio、API
 | 来源 ID | 页面 | 支持内容 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- |
 | s01 | [VAST官方联系页](https://www.vastworld.ai/contact) | 官网、城市、商务及招聘邮箱 | 未标明 | 2026-10-30 |
-| s02 | [恒旭伙伴 VAST融资](https://www.hengxucapital.com/index.php?c=show&id=729) | B/B+轮投资背景 | 2026-09-02 | 2026-10-30 |
+| s02 | [恒旭伙伴 VAST融资](https://www.hengxucapital.com/index.php?c=show&id=729) | B/B+轮投资背景；恒旭资本：VAST宣布完成B轮和B+轮融资，合计约30亿人民币，由经纬创投领投，完美世界、蓝色光标、芯动能投资、延趣游戏、中科创达、广电投资、三七互娱等产业资本，鼎晖VGC、中金资本、CMC资本、洪泰基金、三正健康投资、中平资本、福建产投基金、福创投、卓源亚洲、江西金控等财投参投，老股东达晨财智、春华资本、四三九九、慕华科创、绿洲资本、渶策资本、华控基金追投；并称恒旭资本于2025年11月参与A轮。 | 2026-09-02 | 2026-11-11 |
 | s03 | [VAST官网导航](https://www.vastworld.ai/) | 当前Careers跳转至官方research页面 | 未标明 | 2026-10-30 |
 | s04 | [VAST招聘-BOSS直聘 公司页(工商信息已核对)](https://www.zhipin.com/gongsi/027f673ab6c1992e1HJy39q6GFQ~.html) | 公开企业主页主体：VAST；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
 | s05 | [【VAST招聘】-猎聘](https://www.liepin.com/company/21156495/) | 公开企业主页主体：VAST；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s06 | [VAST 官网 About](https://www.vastworld.ai/about) | About页记载 Forbes 30 Under 30 Asia 2026 入选者为 Simon Song（宋亚宸），并列出公司2022年成立、北京总部。 | 未标明 | 2026-11-11 |
+| s07 | [腾讯新闻：VAST创始人兼CEO宋亚宸——全世界最好的土壤就是北京](https://news.qq.com/rain/a/20260329A0341700) | 报道宋亚宸为VAST创始人兼CEO。 | 2026-03-29 | 2026-11-11 |
+| s08 | [LinkedIn：Simon Song（VAST / Tripo 创始人）](https://www.linkedin.com/in/simon-yachen-song) | 档案自述 Founder - Tripo3d.ai（VAST）。 | 未标明 | 2026-11-11 |

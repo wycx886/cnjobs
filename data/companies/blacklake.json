@@ -1,6 +1,6 @@
 {
-  "schema_version": 3,
   "organization_type": "operating_organization",
+  "schema_version": 3,
   "id": "blacklake",
   "name": "黑湖科技",
   "aliases": [
@@ -9,6 +9,130 @@
     "黑湖智造",
     "上海黑湖网络科技有限公司"
   ],
+  "category_id": "06",
+  "focus": "制造业协同SaaS与工业AI Agent",
+  "products": "黑湖智造、黑湖小工单、黑湖供应链、工业AI Agent（工程/报价/质检）",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "研究方向：制造业协同SaaS与工业AI Agent。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
+    "peer_names": [
+      "待核实同业"
+    ]
+  },
+  "investment": {
+    "summary": "2026-04-23官网新闻宣布完成近10亿元D轮融资，公司称营收年增速超60%并实现全面盈利；该公告未披露投资方名单。此前C轮近5亿元的表述沿用既有记录，本轮未取得官方原文，未结构化。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2026-04-23",
+        "amount_text": "近10亿元",
+        "investors": [],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "公司官网新闻《黑湖科技完成近10亿元D轮融资》；未列投资方，未披露具体金额与币种细节；“近10亿元”为公司表述。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.blacklake.cn",
+    "careers_url": "https://job.blacklake.cn/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "D轮投资方名单未在官网新闻中完整披露，未据第三方名单补写；营收增速与盈利为公司自述。",
+  "checked_at": "2026-11-11",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "黑湖科技 公开入口",
+      "url": "https://www.blacklake.cn",
+      "published_date": null,
+      "checked_at": "2026-11-02",
+      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "黑湖科技 | 让 AI 参与工厂的每一次关键决策",
+      "url": "https://www.blacklake.cn/",
+      "supports": "公开官网主体观察：https://www.blacklake.cn/；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "黑湖招聘 | 把 AI 带进工厂，把舞台交给你",
+      "url": "https://job.blacklake.cn/",
+      "supports": "公开招聘入口主体观察：https://job.blacklake.cn/；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "【黑湖科技招聘】-猎聘",
+      "url": "https://www.liepin.com/company/9409922/",
+      "supports": "公开企业主页主体：上海黑湖网络科技有限公司；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "BOSS直聘企业主页 · 黑湖科技",
+      "url": "https://www.zhipin.com/gongsi/5d86be45f29507461HZy3t67.html",
+      "supports": "公开企业主页主体：黑湖科技；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "黑湖科技完成近10亿元D轮融资",
+      "url": "https://www.blacklake.cn/news/d-round-financing-nearly-1-billion-yuan",
+      "supports": "黑湖科技近10亿元D轮、营收年增速超60%、全面盈利及3万多家工厂客户。",
+      "published_date": "2026-04-23",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "黑湖科技官网",
+      "url": "https://www.blacklake.cn/",
+      "supports": "工业AI Agent、工程/报价/质检智能体与制造协同产品口径。",
+      "published_date": null,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "title": "黑湖科技完成近10亿元D轮融资：已全面盈利，36岁创始人周宇翔曾任职华尔街投行_腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260423A0321D00",
+      "supports": "报道称黑湖科技创始人、董事长为周宇翔，1989年8月生，毕业于美国达特茅斯学院，早年任职华尔街投行；公司2016年成立。",
+      "published_date": "2026-04-23",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "Yuxiang Zhou - Black Lake Technologies | 领英",
+      "url": "https://cn.linkedin.com/in/yuxiangzhou",
+      "supports": "领英档案姓名 Yuxiang Zhou、任职 Black Lake Technologies、教育经历 Dartmouth College，与周宇翔公开履历一致；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    }
+  ],
+  "provenance": {
+    "original_name": "黑湖科技",
+    "original_track": "06",
+    "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
   "targeting": {
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
@@ -94,98 +218,32 @@
       "notes": null
     }
   ],
-  "contacts": {
-    "website": "https://www.blacklake.cn",
-    "careers_url": "https://job.blacklake.cn/",
-    "recruitment_email": null,
-    "other_email": null,
-    "other_email_purpose": null
-  },
-  "checked_at": "2026-11-03",
-  "sources": [
+  "people": [
     {
-      "id": "s01",
-      "scope": "organization",
-      "title": "黑湖科技 公开入口",
-      "url": "https://www.blacklake.cn",
-      "published_date": null,
-      "checked_at": "2026-11-02",
-      "supports": "草稿导入线索；导入时未重新打开网页核验／融资口径待核实。"
-    },
-    {
-      "id": "s02",
-      "scope": "channel",
-      "title": "黑湖科技 | 让 AI 参与工厂的每一次关键决策",
-      "url": "https://www.blacklake.cn/",
-      "supports": "公开官网主体观察：https://www.blacklake.cn/；只核验入口归属。",
-      "published_date": null,
-      "checked_at": "2026-11-02"
-    },
-    {
-      "id": "s03",
-      "scope": "channel",
-      "title": "黑湖招聘 | 把 AI 带进工厂，把舞台交给你",
-      "url": "https://job.blacklake.cn/",
-      "supports": "公开招聘入口主体观察：https://job.blacklake.cn/；只核验入口归属，不表示具体岗位开放。",
-      "published_date": null,
-      "checked_at": "2026-11-02"
-    },
-    {
-      "id": "s04",
-      "scope": "channel",
-      "title": "【黑湖科技招聘】-猎聘",
-      "url": "https://www.liepin.com/company/9409922/",
-      "supports": "公开企业主页主体：上海黑湖网络科技有限公司；只核验入口归属，不表示具体岗位开放。",
-      "published_date": null,
-      "checked_at": "2026-11-02"
-    },
-    {
-      "id": "s05",
-      "scope": "channel",
-      "title": "BOSS直聘企业主页 · 黑湖科技",
-      "url": "https://www.zhipin.com/gongsi/5d86be45f29507461HZy3t67.html",
-      "supports": "公开企业主页主体：黑湖科技；只核验入口归属，不表示具体岗位开放。",
-      "published_date": null,
-      "checked_at": "2026-11-02"
-    },
-    {
-      "id": "s06",
-      "scope": "organization",
-      "title": "黑湖科技完成近10亿元D轮融资",
-      "url": "https://www.blacklake.cn/news/d-round-financing-nearly-1-billion-yuan",
-      "supports": "黑湖科技近10亿元D轮、营收年增速超60%、全面盈利及3万多家工厂客户。",
-      "published_date": "2026-04-23",
-      "checked_at": "2026-11-03"
-    },
-    {
-      "id": "s07",
-      "scope": "organization",
-      "title": "黑湖科技官网",
-      "url": "https://www.blacklake.cn/",
-      "supports": "工业AI Agent、工程/报价/质检智能体与制造协同产品口径。",
-      "published_date": null,
-      "checked_at": "2026-11-03"
+      "name": "周宇翔",
+      "role": "创始人、董事长",
+      "previous_firms": [],
+      "background": "1989年8月生，美国达特茅斯学院毕业，曾任职华尔街投行；2016年创办黑湖科技。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/yuxiangzhou",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08",
+            "s09"
+          ],
+          "notes": "领英页面未能直接抓取；搜索结果快照显示姓名 Yuxiang Zhou、公司 Black Lake Technologies、Dartmouth 教育经历。未显示职务。"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "部分中文媒体亦称其为创始人兼CEO；本条职务以2026年4月融资报道的“创始人、董事长”为准。"
     }
-  ],
-  "notes": "D轮投资方名单未在官网新闻中完整披露，未据第三方名单补写；营收增速与盈利为公司自述。",
-  "category_id": "06",
-  "focus": "制造业协同SaaS与工业AI Agent",
-  "products": "黑湖智造、黑湖小工单、黑湖供应链、工业AI Agent（工程/报价/质检）",
-  "locations_text": "上海",
-  "comparison": {
-    "kind": "editorial_analysis",
-    "summary": "研究方向：制造业协同SaaS与工业AI Agent。同业比较、市场地位与具体岗位尚待逐项核实；不据此判断招聘开放或个人适配。",
-    "peer_names": [
-      "待核实同业"
-    ]
-  },
-  "investment": {
-    "summary": "2026年4月完成近10亿元D轮融资，公司称营收年增速超60%并实现全面盈利；此前C轮近5亿元由淡马锡领投。投资方与金额以公司披露为限。",
-    "verification_status": "confirmed_disclosure"
-  },
-  "provenance": {
-    "original_name": "黑湖科技",
-    "original_track": "06",
-    "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  ]
 }

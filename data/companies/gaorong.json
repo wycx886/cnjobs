@@ -17,6 +17,17 @@
     "year": 2014,
     "basis": "官网注明2014年1月由张震、高翔、岳斌创办。"
   },
+  "tier": {
+    "level": "tier2",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第8名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第12名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第20名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第34名（https://www.chinaventure.com.cn/rank/199/3056.html）。两榜多年出现，但 2024 年投中名次为第34名，未同时满足双年度双发布方的 Tier 1 阈值，按 Tier 2 记录。",
+    "source_ids": [
+      "s06",
+      "s07",
+      "s08",
+      "s09"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "新科技、互联网、消费及医疗等；覆盖智能硬件与出海技术项目。",
   "stage": "早期及成长期。",
   "representative_cases": [
@@ -100,9 +111,41 @@
       "supports": "公开企业主页主体：高榕创投；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "高榕创投：清科2025年中国创业投资机构50强第8名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "高榕创投：清科创业2024年中国创业投资机构100强第12名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "高榕创投：投中2025年度中国最佳创业投资机构TOP100第20名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "高榕创投：投中2024年度中国最佳创业投资机构TOP100第34名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

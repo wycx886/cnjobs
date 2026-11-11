@@ -1,0 +1,127 @@
+{
+  "schema_version": 3,
+  "id": "puhua-capital",
+  "name": "普华资本",
+  "aliases": [
+    "浙江普华天勤股权投资管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 VC 主榜均在前 18 名，机构库与榜单案例覆盖 GPU、量子与消费品牌，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2004,
+    "basis": "清科投资界机构库机构简介称“普华资本创立于2004年”；同页工商信息显示其管理主体浙江普华天勤股权投资管理有限公司登记成立于2011年6月20日。本档案取品牌创立年份2004年，并在 notes 说明法人登记年份的差别。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第15名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第18名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第14名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第17名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 18 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "机构简介称聚焦新科技、医疗健康、新消费、新能源四大领域。公开案例包括 GPU（沐曦股份、壁仞科技）、化妆品与消费品牌（毛戈平）、量子计算（相干科技）与具身智能（磐虎智能）。",
+  "stage": "清科、投中均将其列入创业投资（VC）主榜；覆盖天使至成长期，2026 年公开记录中天使轮与 A 轮较多。",
+  "representative_cases": [
+    {
+      "company": "沐曦股份",
+      "attribution": "current_firm",
+      "investor_or_team": "普华资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "壁仞科技",
+      "attribution": "current_firm",
+      "investor_or_team": "普华资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "毛戈平",
+      "attribution": "current_firm",
+      "investor_or_team": "普华资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单未披露轮次与持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库出手记录显示：2026-10-21 参与数构智材天使+轮（金额未披露）；2026-10-16 与恒择资本共同投资磐虎智能数千万元天使轮；2026-10-12 参与赛瑞克数亿元 A 轮；同页统计近3个月出手14次。",
+  "why_follow": "编辑分析：其项目同时覆盖 GPU 双雄（沐曦、壁仞）与量子计算、具身智能等新方向，可用于观察杭州系 VC 在硬科技与消费之间的组合配置。",
+  "difference": "编辑分析：与专注半导体的产业基金相比，其行业更分散（科技、医疗、消费、新能源四线并行）；与纯早期基金相比，成长期项目占比更高，单看某一赛道名次不足以判断其策略。",
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界与年份口径：清科榜单所列机构全称为“浙江普华天勤股权投资管理有限公司”，机构简介自称“普华资本创立于2004年”，两者分别对应品牌与法人：法人登记日为2011-06-20，品牌起点为2004年。本档案取2004年并保留两种口径，避免把登记日当成唯一事实。注册地为浙江省杭州市（工商登记机关为兰溪市工商行政管理局，办公与榜单城市为杭州）。官网域名在本环境未能打开确认，contacts.website 留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 普华资本（浙江普华天勤股权投资管理有限公司）",
+      "url": "https://vc.pedaily.cn/vc/108529.html",
+      "supports": "机构简介（创立于2004年、四大投资领域）、管理主体工商信息（2011-06-20）、近期出手记录（2026-10-16 磐虎智能等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国创业投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "普华资本：清科2025年中国创业投资机构50强第15名（机构全称：浙江普华天勤股权投资管理有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国创业投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "普华资本：清科创业2024年中国创业投资机构100强第18名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "普华资本：投中2025年度 VC TOP100 第14名；机构层级代表案例含沐曦股份、壁仞科技、毛戈平",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "普华资本：投中2024年度 VC TOP100 第17名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "运作二十余年的杭州系综合 VC，按成熟机构建档；品牌年份与法人登记年份已分开记录。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

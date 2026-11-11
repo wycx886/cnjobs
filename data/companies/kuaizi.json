@@ -8,6 +8,10 @@
     "筷子科技"
   ],
   "category_id": "07",
+  "founded": {
+    "year": 2013,
+    "basis": "36氪创投平台工商信息载广州筷子信息科技有限公司成立时间2013-02-19。"
+  },
   "focus": "商业内容 AIGC 与广告创意自动化",
   "products": "Kuaizi 企业内容生成平台、创意管理与批量视频",
   "locations_text": "广州",
@@ -19,8 +23,96 @@
     ]
   },
   "investment": {
-    "summary": "金沙江官方被投页确认投资；36氪记录2024B轮金沙江等参与，2025-06 B+追远、海珠城发、赛意产业基金、清智参与。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2024年4月完成近5000万元B1轮（金沙江创投、海珠城发集团、明辉懿德、海南比芯），2025年6月披露近亿元B轮，由B1与B2组成，B2由追远创投、海珠城发、赛意产业基金、清智资本联合投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B1",
+        "announced_on": "2024-04-12",
+        "amount_text": "近5000万元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "海珠城发集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "明辉懿德",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "海南比芯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "来源未标领投/跟投。"
+      },
+      {
+        "round": "B2",
+        "announced_on": "2025-06-23",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "追远创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "海珠城发",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "赛意产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "清智资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "2025-06-23披露的「近亿元B轮」为B1及B2两轮合计，B2单轮金额未披露，不重复计入。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://kuaizi.ai/",
@@ -29,8 +121,8 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "未用工商财务邮箱及疑似代理QQ邮箱作为商务/招聘入口；原表ARR数字未纳入。；未查到通用招聘投递邮箱。；原档案/zh/pc/页面当前返回404，根域会跳转现行/en/pc/home。；页面对应广州筷子信息科技有限公司及Kuaizi.ai品牌。",
-  "checked_at": "2026-10-30",
+  "notes": "未用工商财务邮箱及疑似代理QQ邮箱作为商务/招聘入口；原表ARR数字未纳入。未查到通用招聘投递邮箱。原档案/zh/pc/页面当前返回404，根域会跳转现行/en/pc/home。页面对应广州筷子信息科技有限公司及Kuaizi.ai品牌。2025年「近亿元B轮」为两轮合计口径。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +164,42 @@
       "supports": "公开企业主页主体：筷子科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "腾讯新闻｜筷子科技陈万锋：AIGC必须能带来确定性结果才算真有价值",
+      "url": "https://news.qq.com/rain/a/20240328A07AMY00",
+      "supports": "嘉宾身份标注为「筷子科技创始人兼CEO陈万锋」",
+      "published_date": "2024-03-28",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "RTBChina 微访谈：筷子科技联合创始人和CEO陈万锋谈程序化创意技术",
+      "url": "https://www.rtbchina.com/interview-of-programmatic-creative-company-kuaizi-tech-ceo-winder-chen.html",
+      "supports": "较早的英文访谈，称陈万锋（Winder Chen）为筷子科技联合创始人兼CEO",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "36氪：筷子科技完成近5000万元B1轮融资",
+      "url": "https://www.36kr.com/p/2726136547976201",
+      "supports": "B1轮近5000万元，由金沙江创投、海珠城发集团、明辉懿德、海南比芯共同投资，非凡资本任独家财务顾问。",
+      "published_date": "2024-04-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "投资界：筷子科技完成近亿元B轮融资",
+      "url": "https://news.pedaily.cn/202506/551375.shtml",
+      "supports": "称近亿元B轮由B1及B2轮组成，B1轮由金沙江创投、海珠城发、明辉懿德、海南比芯投资，B2轮由追远创投、海珠城发、赛意产业基金和清智资本联合投资。",
+      "published_date": "2025-06-23",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -109,6 +237,22 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "陈万锋",
+      "role": "创始人、CEO",
+      "previous_firms": [],
+      "background": "筷子科技创始人兼CEO。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份由2024年行业论坛报道（创始人兼CEO）与较早的RTBChina访谈（联合创始人兼CEO）共同确认；头衔以较新口径记为创始人兼CEO（2026-11-11核查）。"
     }
   ]
 }

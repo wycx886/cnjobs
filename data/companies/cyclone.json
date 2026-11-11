@@ -8,6 +8,10 @@
     "上海弘玑信息技术有限公司"
   ],
   "category_id": "06",
+  "founded": {
+    "year": 2015,
+    "basis": "36氪报道及项目页：弘玑Cyclone成立于2015年。"
+  },
   "focus": "企业行动智能体与超自动化",
   "products": "弘玑知行平台、RPA、行动智能体、决策智能体",
   "locations_text": "上海及国内外多地",
@@ -19,8 +23,47 @@
     ]
   },
   "investment": {
-    "summary": "融资资料记录经纬中国领投、DCM超额跟投，联想创投、源码、仁智参与；具体最新轮次以官方后续公告为准。",
-    "verification_status": "partial"
+    "summary": "36氪独家报道：2023年7月完成约4000万美元C+轮，华兴资本担任独家财务顾问；此前2021年获1.5亿美金C轮，由CMC资本与国际金融投资机构领投。C+轮投资方名单报道未披露；更早轮次（经纬中国、DCM、联想创投、源码等）本轮未取得可核验原文，未结构化。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021",
+        "amount_text": "1.5亿美金",
+        "investors": [
+          {
+            "name": "CMC资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "国际金融投资机构（报道未具名）",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "36氪报道：“此前，弘玑还曾于2021年获1.5亿美金C轮融资，由CMC资本与国际金融投资机构领投”；未给出具体月份，金额按原文“1.5亿美金”。"
+      },
+      {
+        "round": "C+",
+        "announced_on": "2023-07",
+        "amount_text": "约4000万美元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "36氪独家：2023年7月完成约4000万美元C+轮，华兴资本担任独家财务顾问；报道未披露投资方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.cyclone-robotics.com/",
@@ -30,7 +73,7 @@
     "other_email_purpose": "市场合作"
   },
   "notes": "HR邮箱来源于2021年校招公开材料，现行有效性需确认；市场邮箱见经纬对公司介绍。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -81,6 +124,32 @@
       "supports": "公开企业主页主体：上海弘玑信息技术有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "投资界人物页：高煜光（Vincent Gao）",
+      "url": "https://vc.pedaily.cn/people/49122.html",
+      "supports": "高煜光为弘玑Cyclone公司创始人、CEO；上海交通大学计算机系毕业，新加坡国立大学计算机硕士，曾任HPE（中国）企业服务集团相关总经理职务",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "科创人·弘玑Cyclone CEO高煜光：从RPA到超自动化",
+      "url": "https://www.cnblogs.com/heishao/p/15963879.html",
+      "supports": "标题与正文标注「上海弘玑Cyclone创始人兼CEO高煜光」，并记其曾负责惠普企业数据服务及业务发展大中华区",
+      "published_date": "2022-03-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "36氪独家：加速大模型+RPA产品落地，弘玑Cyclone获4000万美元C+轮融资",
+      "url": "https://www.36kr.com/p/2370759802922752",
+      "supports": "2023年7月完成约4000万美元C+轮、华兴资本任独家财务顾问；并回顾2021年1.5亿美金C轮由CMC资本与国际金融投资机构领投。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -136,6 +205,24 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "高煜光",
+      "role": "创始人、CEO",
+      "previous_firms": [
+        "HPE（中国）"
+      ],
+      "background": "上海交通大学计算机系毕业，新加坡国立大学计算机硕士；曾任HPE（中国）企业服务集团全球应用交付中心分析与数据管理总经理。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与履历取自投资界人物页（2026-11-11核查）；成立年份与公司事实沿用档案既有来源，未改动。"
     }
   ]
 }

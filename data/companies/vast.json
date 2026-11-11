@@ -19,8 +19,240 @@
     ]
   },
   "investment": {
-    "summary": "恒旭资本官方2026-09披露B及B+轮经纬领投，产业方包括完美世界、蓝色光标等，老股东含达晨、春华、绿洲、渶策等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "恒旭资本2026-09披露：VAST完成B轮和B+轮融资，合计约30亿人民币，经纬创投领投，完美世界、蓝色光标、中科创达、三七互娱等产业资本与鼎晖VGC、中金资本、CMC资本等财投参投，达晨财智、春华资本、绿洲资本等老股东追投；恒旭资本另称于2025年11月参与A轮。公司称不到半年累计融资约50亿人民币。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2025-11",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "恒旭资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "恒旭资本在B/B+轮公告中自述于2025年11月参与A轮；未披露金额与其他投资方。"
+      },
+      {
+        "round": "B/B+",
+        "announced_on": null,
+        "amount_text": "约30亿人民币",
+        "investors": [
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "完美世界",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "蓝色光标",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "芯动能投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "延趣游戏",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中科创达",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "广电投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "三七互娱",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "鼎晖VGC",
+            "firm_id": "cdh",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "CMC资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "洪泰基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "三正健康投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中平资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "福建产投基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "福创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "卓源亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "江西金控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "春华资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "四三九九",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "慕华科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "绿洲资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "渶策资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "华控基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "恒旭资本披露B轮与B+轮合计约30亿人民币，未分轮列示金额；经纬创投领投，末段为老股东追投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.vastworld.ai/",
@@ -30,7 +262,7 @@
     "other_email_purpose": "企业销售"
   },
   "notes": "官方联系页为careers复数；高校/人社历史招聘稿另有career单数，优先官方现行地址。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -44,9 +276,9 @@
       "id": "s02",
       "title": "恒旭伙伴 VAST融资",
       "url": "https://www.hengxucapital.com/index.php?c=show&id=729",
-      "supports": "B/B+轮投资背景",
+      "supports": "B/B+轮投资背景；恒旭资本：VAST宣布完成B轮和B+轮融资，合计约30亿人民币，由经纬创投领投，完美世界、蓝色光标、芯动能投资、延趣游戏、中科创达、广电投资、三七互娱等产业资本，鼎晖VGC、中金资本、CMC资本、洪泰基金、三正健康投资、中平资本、福建产投基金、福创投、卓源亚洲、江西金控等财投参投，老股东达晨财智、春华资本、四三九九、慕华科创、绿洲资本、渶策资本、华控基金追投；并称恒旭资本于2025年11月参与A轮。",
       "published_date": "2026-09-02",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s03",
@@ -73,6 +305,33 @@
       "supports": "公开企业主页主体：VAST；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "VAST 官网 About",
+      "url": "https://www.vastworld.ai/about",
+      "supports": "About页记载 Forbes 30 Under 30 Asia 2026 入选者为 Simon Song（宋亚宸），并列出公司2022年成立、北京总部。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "腾讯新闻：VAST创始人兼CEO宋亚宸——全世界最好的土壤就是北京",
+      "url": "https://news.qq.com/rain/a/20260329A0341700",
+      "supports": "报道宋亚宸为VAST创始人兼CEO。",
+      "published_date": "2026-03-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "LinkedIn：Simon Song（VAST / Tripo 创始人）",
+      "url": "https://www.linkedin.com/in/simon-yachen-song",
+      "supports": "档案自述 Founder - Tripo3d.ai（VAST）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -128,6 +387,33 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "宋亚宸（Simon Song）",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "VAST（Tripo）创始人兼CEO；公司About页列其为 Forbes 30 Under 30 Asia 2026 入选者。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/simon-yachen-song",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08"
+          ],
+          "notes": "LinkedIn 抓取被拒；搜索结果摘要显示档案为 Simon Song, Founder - Tripo3d.ai（2026-11-11 核查）。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网About页与腾讯新闻采访一致；更早履历（商汤、MiniMax）未在本轮取到一手来源，故未写入。"
     }
   ]
 }

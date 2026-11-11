@@ -167,6 +167,24 @@
       "supports": "2020年7月11日揭牌、由上海人工智能创新中心发起设立、研究型机构定位。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "清华大学电子工程系：周伯文中文主页",
+      "url": "https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm",
+      "supports": "周伯文为清华大学电子工程系讲席教授、上海人工智能实验室主任兼首席科学家、衔远科技创始人，IEEE Fellow、CAAI Fellow",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "清华大学电子工程系 C3I 团队：周伯文",
+      "url": "https://c3i.ee.tsinghua.edu.cn/zh/people/bowen_zhou/",
+      "supports": "个人介绍页写明周伯文为清华大学电子工程系讲席教授、上海人工智能实验室主任兼首席科学家",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "非营利研究机构，未发现公开股权融资披露；主任与组织架构按2026年维基百科口径记录，未另建人物档案。",
@@ -200,5 +218,33 @@
       "s07"
     ],
     "checked_at": "2026-11-03"
-  }
+  },
+  "people": [
+    {
+      "name": "周伯文",
+      "role": "主任、首席科学家",
+      "previous_firms": [],
+      "background": "清华大学电子工程系讲席教授；IEEE Fellow、CAAI Fellow；研究领域包括通用人工智能、大语言模型、自然语言处理与 AI for Science。",
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s08",
+            "s09"
+          ],
+          "notes": "清华大学电子工程系官方个人主页，含本人简介与研究方向，明确写明「上海人工智能实验室主任、首席科学家」。"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "现职取自清华大学电子工程系官方个人主页（2026-11-11核查）；该页同时提及其创办衔远科技，不在本档案展开。"
+    }
+  ]
 }

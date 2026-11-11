@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/flowith.json)
 
-机构／项目 ID：`flowith` · 主赛道：04 通用 Agent、个人应用与搜索 · 核查日期：2026-10-30
+机构／项目 ID：`flowith` · 主赛道：04 通用 Agent、个人应用与搜索 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@ Infinite Canvas、Knowledge Garden、Agent Neo、FlowithOS
 
 ## 投资背景
 
-上海证券报2026年3月报道：种子轮有祥峰，种子+轮由红杉中国种子基金、江远投资等联合领投。
+上海证券报2026-03-04报道：公司已完成千万美元种子轮和种子+轮；种子轮由祥峰投资等投资，种子+轮由红杉中国种子基金、江远投资等联合领投。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -50,6 +50,15 @@ Infinite Canvas、Knowledge Garden、Agent Neo、FlowithOS
 
 当前档案尚无结构化机构渠道；上方旧入口及来源引用不等于入口归属已核实。未收录不表示没有相关渠道，按任务继续核查。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| Derek Nee（倪正民） | 联合创始人兼CEO | Flowith联合创始人兼CEO；此前创办X ACADEMY（TechX）与Realm，并曾在YC China任产品经理。；原平台：X ACADEMY、Realm、Y Combinator China | confirmed / 2026-11-11 / s05,s06,s07 | [personal_site](https://dereknee.com/about) (confirmed, s05,s06) · [x](https://x.com/DerekNee) (partial, s05,s06) | 姓名、职务与创业经历由本人主页与第三方介绍交叉支持；中文名“倪正民”来自LinkedIn中文档案标题。 |
+| 吴熠宸（Yichen Wu） | 联合创始人兼COO | Flowith联合创始人兼COO，与Derek Nee共同创办；亦为X ACADEMY联合创始人。；原平台：X ACADEMY | partial / 2026-11-11 / s07,s08 | [linkedin](https://cn.linkedin.com/in/yichen-zionwu) (partial, s08,s07) | COO职务来自第三方介绍文章；LinkedIn搜索结果显示其为Flowith创始人，未单独核实COO头衔。 |
+
 ## 核查备注
 
 未查到可核验公开投递邮箱；官方/career已核验跳转至Workable。
@@ -58,7 +67,11 @@ Infinite Canvas、Knowledge Garden、Agent Neo、FlowithOS
 
 | 来源 ID | 页面 | 支持内容 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- |
-| s01 | [上海证券报：Flowith融资](https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml) | 投资方及产品定位 | 2026-03-04 | 2026-10-30 |
+| s01 | [上海证券报：Flowith融资](https://finance.sina.com.cn/roll/2026-03-04/doc-inhpvtwp3773487.shtml) | 投资方及产品定位 | 2026-03-04 | 2026-11-11 |
 | s02 | [Flowith公司官方LinkedIn](https://www.linkedin.com/company/flowith) | 上海/旧金山招聘与产品 | 未标明 | 2026-10-30 |
 | s03 | [Flowith官方招聘跳转](https://flowith.io/career) | 跳转Workable职位页 | 未标明 | 2026-10-30 |
 | s04 | [Flowith官方条款](https://flowith.io/compliance/terms-of-service/) | 支持邮箱 | 未标明 | 2026-10-30 |
+| s05 | [Derek Nee 个人主页 About](https://dereknee.com/about) | 本人自述正在做AI生产力工具flowith，此前创办X ACADEMY（TechX）与Realm，并曾在YC China任PM。 | 2026-07-23 | 2026-11-11 |
+| s06 | [X 搜索结果：Derek Nee (@DerekNee)](https://x.com/DerekNee) | 搜索结果摘要显示账号简介为“ceo @flowith to shape the interface for AGI”，此前创办X ACADEMY与Realm。 | 未标明 | 2026-11-11 |
+| s07 | [TECH SHOW Newsletter：Meet Flowith AI](https://techshowasia.substack.com/p/ever-wish-for-a-fully-automated-digital) | Flowith由Derek Nee（联合创始人兼CEO）与Yichen Wu（联合创始人兼COO）创办。 | 2025-10-14 | 2026-11-11 |
+| s08 | [LinkedIn 搜索结果：吴熠宸 Yichen Wu - Founder of Flowith and X ACADEMY](https://cn.linkedin.com/in/yichen-zionwu) | 搜索结果显示该档案为吴熠宸，标题写明Founder of Flowith and X ACADEMY，地点上海；页面未直接抓取。 | 未标明 | 2026-11-11 |

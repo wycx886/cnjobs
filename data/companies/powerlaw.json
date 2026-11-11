@@ -20,8 +20,190 @@
     ]
   },
   "investment": {
-    "summary": "2023-12近8000万元Pre-B由蓝驰领投、e签宝跟投，红杉中国、华宇科创、源码、线性、智谱AI等老股东参与；以蓝驰官方披露为据。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "天使轮（2018-03）、Pre-A（2019-12）、A 轮（2021-04，6000 万元，源码领投）与 Pre-B（2023-12，近 8000 万元，蓝驰领投、e签宝跟投，红杉中国、华宇科创、源码、线性、智谱AI 加持）。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2018-03",
+        "amount_text": "近千万人民币",
+        "investors": [
+          {
+            "name": "华宇科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪项目库融资历史。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2019-12",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "红杉中国种子基金",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "IMO Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪项目库融资历史。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2021-04",
+        "amount_text": "6000万人民币",
+        "investors": [
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "华宇科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "HongShan红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪报道该轮由源码资本领投、经纬中国跟投，老股东跟投。"
+      },
+      {
+        "round": "Pre-B",
+        "announced_on": "2023-12",
+        "amount_text": "近8000万元",
+        "investors": [
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "lead",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "e签宝",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "华宇科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          },
+          {
+            "name": "智谱AI",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08",
+          "s02"
+        ],
+        "notes": "蓝驰创投官网 2023-12-07 公告确认领投；e签宝跟投，其余为老股东持续加持。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.milvai.cn/",
@@ -31,7 +213,7 @@
     "other_email_purpose": "商务合作"
   },
   "notes": "官网含加入我们入口，但尚未取得可确认当前投递邮箱。；未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +256,32 @@
       "supports": "公开企业主页主体：北京幂律智能科技有限责任公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "蓝驰创投｜幂律智能融资公告",
+      "url": "https://www.lanchivc.com/7296/",
+      "supports": "公告引述「幂律智能创始人 涂存超」的表态",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "搜狐｜幂律智能｜涂存超：与法律人一起服务100万家企业",
+      "url": "https://www.sohu.com/a/936529738_121697575",
+      "supports": "「涂存超 幂律智能创始人兼CEO」；清华大学计算机系2009级本科、2013级博士，研究方向为人工智能及自然语言处理",
+      "published_date": "2025-09-19",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "36氪项目库｜幂律智能",
+      "url": "https://pitchhub.36kr.com/project/1678414785033223",
+      "supports": "融资历史：天使轮 2018-03、Pre-A 轮 2019-12、A 轮 2021-04、Pre-B 轮 2023-12 及各自金额与投资方",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -130,5 +338,25 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "涂存超",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "清华大学计算机系2009级本科、2013级博士，研究方向为人工智能与自然语言处理，曾获清华大学优秀博士论文、钱伟长中文信息处理科学技术奖一等奖。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与职务由蓝驰公告与清华校友总会专访两处不同来源确认（2026-11-11核查）。"
+    }
+  ],
+  "founded": {
+    "year": 2017,
+    "basis": "36氪项目库工商信息：北京幂律智能科技有限责任公司 2017-09-29 成立。"
+  }
 }

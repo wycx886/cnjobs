@@ -21,7 +21,28 @@
   },
   "investment": {
     "summary": "公司官方博客确认曾获Benchmark领投7500万美元，Benchmark合伙人入董事会。原表2026年博裕/IDG新融资需另证，本记录不将其写成确认股东。",
-    "verification_status": "partial"
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "融资",
+        "announced_on": null,
+        "amount_text": "$75M",
+        "investors": [
+          {
+            "name": "Benchmark",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官方博客仅称产品发布前完成 7500 万美元融资、由 Benchmark 领投（合伙人 Chetan Puttagunta 进入董事会），未标轮次与年份；页面日期只显示 12 月 17 日，故日期留空。2026 年博裕／IDG 相关传闻未获官方确认，不写入。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://manus.im/",
@@ -31,7 +52,7 @@
     "other_email_purpose": "媒体邮箱（非招聘）"
   },
   "notes": "官网历史博客未显年份，仅显示12月17日；融资保留为历史披露，不将页脚2026当成融资时间。招聘邮箱已在当前招聘页核验。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -39,7 +60,7 @@
       "url": "https://www.manus.im/blog/manus-100m-arr",
       "supports": "Benchmark历史融资、产品与办公城市",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -48,6 +69,33 @@
       "supports": "hiring@manus.ai与开放岗位",
       "published_date": null,
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s03",
+      "scope": "person",
+      "title": "36氪：对话Manus肖弘",
+      "url": "https://m.36kr.com/p/3195813915884936",
+      "supports": "报道称2023年在投资人撮合下引入季逸超（原Peak Labs创始人兼CEO，现Manus AI首席科学家）、张涛（原光年之外产品负责人，现Manus AI产品负责人）等核心成员；肖弘为创始人。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "scope": "person",
+      "title": "搜狐：Meta数十亿美元收购Manus，肖弘将出任Meta副总裁",
+      "url": "https://www.sohu.com/a/970684001_121948396",
+      "supports": "称肖弘为Manus创始人兼CEO，并引述其本人就收购的表态。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "腾讯新闻：Manus宣布恢复独立运营",
+      "url": "https://news.qq.com/rain/a/20260901A06WUB00",
+      "supports": "2026年9月1日Manus宣布恢复独立运营，创始团队肖弘、张涛、季逸超将继续领导公司。",
+      "published_date": "2026-09-01",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -67,5 +115,54 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "肖弘",
+      "role": "创始人兼CEO",
+      "background": "连续创业者，蝴蝶效应（Butterfly Effect，Manus 母公司）创始人兼CEO，主导推出通用AI智能体产品 Manus；公司经历2025年被Meta收购、2026年9月恢复独立运营。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s03",
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "多家媒体报道一致；公司注册与总部已迁至新加坡，本条只记人物身份，不涉及组织归属判断。"
+    },
+    {
+      "name": "季逸超",
+      "role": "联合创始人兼首席科学家",
+      "background": "少年成名的开发者，原 Peak Labs 创始人兼CEO；2023年加入蝴蝶效应，任 Manus AI 首席科学家，是 Manus 发布时的主要技术对外发言人。",
+      "previous_firms": [
+        "Peak Labs"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s03",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪与2026年9月复运报道均记载其联合创始人/首席科学家身份。"
+    },
+    {
+      "name": "张涛",
+      "role": "联合创始人、产品负责人",
+      "background": "原光年之外产品负责人；2023年加入蝴蝶效应，任 Manus AI 产品负责人，2026年公司恢复独立运营后为继续领导公司的创始团队成员之一。",
+      "previous_firms": [
+        "光年之外"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s03",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务表述来自36氪访谈与复运报道，未见公司官方团队页。"
+    }
+  ]
 }

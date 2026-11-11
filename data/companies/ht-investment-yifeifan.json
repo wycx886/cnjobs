@@ -14,6 +14,17 @@
     "year": 2025,
     "basis": "IT桔子将其列入2025年资深VC投资人独立创业样本；未找到官方品牌成立日及法律主体注册信息，年份可信度低于官方明确声明的机构。"
   },
+  "tier": {
+    "level": "unlisted",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面中，清科2025年中国创业投资机构50强／私募股权投资机构50强／早期投资机构30强名单中未见该机构（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强前50名名单中未见该机构（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100名单中未见该机构（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100名单中未见该机构（https://www.chinaventure.com.cn/rank/199/3056.html）。仅凭未上榜不足以定档，记 unlisted，这不是负面评价；该机构也可能落在清科2024 第51–100名音序段（该段无名次，本次未统计），不能据此断言机构不存在或不活跃。",
+    "source_ids": [
+      "s04",
+      "s05",
+      "s06",
+      "s07"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "AI驱动科技；社交娱乐；全球化应用",
   "stage": "天使轮",
   "representative_cases": [
@@ -72,9 +83,41 @@
       "supports": "2026年组合公司后续融资；回溯2025年HT与BV投资",
       "published_date": "2026-10-20",
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s04",
+      "title": "清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "该榜公开名单中未见HT Investment；作为本次未上榜核查依据",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "该榜公开名单中未见HT Investment；作为本次未上榜核查依据",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "该榜公开名单中未见HT Investment；作为本次未上榜核查依据",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "该榜公开名单中未见HT Investment；作为本次未上榜核查依据",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

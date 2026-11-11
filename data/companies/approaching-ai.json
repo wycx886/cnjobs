@@ -9,6 +9,10 @@
     "趋境科技"
   ],
   "category_id": "02",
+  "founded": {
+    "year": 2023,
+    "basis": "官方GitHub组织资料里程碑：“2023 Q4 - Company founded”。"
+  },
   "focus": "异构推理与Token生产",
   "products": "KTransformers、Mooncake、ATaaS、Token Machine、AI Studio",
   "locations_text": "北京；公开岗位另有上海",
@@ -22,8 +26,275 @@
     ]
   },
   "investment": {
-    "summary": "官方GitHub组织资料写2023年末获ZhenCapital种子资金；2026年10月媒体报道完成超13亿元B轮。原表启明/蓝驰名单本轮未获直接证实，不作为确定投资方。",
-    "verification_status": "partial"
+    "summary": "官方GitHub组织资料写2023年第四季度成立、成立时获ZhenCapital种子资金；2026-07-13公司宣布完成A轮，河南投资集团汇融基金领投，称半年内累计融资超10亿元；2026-10-26上海证券报报道完成超13亿元B轮，年内累计融资24亿元。A轮单轮金额与种子轮金额未披露。原表启明/蓝驰名单本轮未获直接证实，不作为确定投资方。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "ZhenCapital",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "官方GitHub组织资料里程碑：“2023 Q4 - Company founded, seed round from ZhenCapital”；未披露具体月份与金额。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2026-07-13",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "河南投资集团汇融基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "真知资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "尚势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "上海国方创新",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "弘晖基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "华控基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "杭州福成",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "量子位报道公司2026-07-13宣布完成A轮：河南投资集团汇融基金领投，其余为老股东超额跟投；未披露单轮金额，仅称半年内累计融资超10亿元。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2026-10-26",
+        "amount_text": "超13亿元",
+        "investors": [
+          {
+            "name": "浙财创新",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "萧山资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "工银投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中关村科学城",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "钱江世纪城",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "云创资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "湖南高新纵横",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "建投华科",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "申万创新投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "中信聚信",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "珠海科技产业集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "商汤科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "网宿科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "甘肃树帜",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "常金控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "元智未来",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "清证星竹",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "小咖资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "尚势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "上海证券报·中国证券网报道：本轮由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投，其余跟投，老股东尚势资本继续追投；年内累计融资24亿元。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://approaching-ai.com/",
@@ -33,7 +304,7 @@
     "other_email_purpose": "GitHub组织公开联系邮箱（未标招聘）"
   },
   "notes": "未查到官方公开招聘邮箱；quxin邮箱是组织联系，非确认投递渠道。官网www子域本次读取失败，根域可访问。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -84,6 +355,41 @@
       "supports": "公开企业主页主体：趋境科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "量子位：趋境科技完成A轮融资，半年内募资10亿",
+      "url": "https://www.qbitai.com/2026/07/448820.html",
+      "supports": "报道管理团队为董事长任旭阳、CEO艾智远、总裁武文洁、CTO陈祥麟；首席科学顾问郑纬民、首席科学家武永卫、联合发起人章明星。",
+      "published_date": "2026-07-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "甲子光年专访趋境科技艾智远",
+      "url": "https://news.qq.com/rain/a/20260715A08M0700",
+      "supports": "艾智远以趋境科技创始人兼CEO身份受访。",
+      "published_date": "2026-07-15",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "2024全球机器学习技术大会讲者页：艾智远",
+      "url": "https://ml-summit.org/speaker/1024?uid=c1041",
+      "supports": "讲者页载明艾智远为趋境科技CEO，清华大学博士，专长分布式系统优化、并行计算、分布式存储；前深信服大数据、数字化、AI应用等多个部门研发主管。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "量子位：趋境科技完成A轮融资，半年内募资10亿",
+      "url": "https://www.qbitai.com/2026/07/448820.html",
+      "supports": "2026-07-13公司宣布完成A轮，河南投资集团汇融基金领投，并列出跟投方。",
+      "published_date": "2026-07-13",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -139,6 +445,66 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "艾智远",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "深信服"
+      ],
+      "background": "清华大学计算机系博士，专长分布式系统优化、并行计算与分布式存储；创业前任深信服大数据、数字化、AI应用等部门研发主管。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "量子位与甲子光年报道均记为创始人兼CEO；技术履历取自会议讲者介绍与媒体报道摘要。"
+    },
+    {
+      "name": "武永卫",
+      "role": "首席科学家",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "background": "清华大学计算机科学与技术系教授；公司技术团队源自清华计算机系高性能计算研究所。",
+      "profiles": [],
+      "source_ids": [
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅量子位融资稿列其为首席科学家，未见其本人主页或公司团队页交叉确认。"
+    },
+    {
+      "name": "陈祥麟",
+      "role": "CTO",
+      "previous_firms": [],
+      "background": "量子位融资稿的团队名单中列为公司CTO。",
+      "profiles": [],
+      "source_ids": [
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅量子位融资稿的团队名单提及，未找到独立来源核实履历。"
+    },
+    {
+      "name": "任旭阳",
+      "role": "董事长",
+      "previous_firms": [],
+      "background": "量子位报道列为公司董事长。",
+      "profiles": [],
+      "source_ids": [
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅量子位融资稿的团队名单提及；未逐项核实其当前其他职务。"
     }
   ]
 }

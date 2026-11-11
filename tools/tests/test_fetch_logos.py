@@ -17,12 +17,13 @@ HTML = b"""<!doctype html><html><head>
 </head><body><img class="site-logo" src="logo.svg" alt="Logo"></body></html>"""
 
 
-def fake_fetcher(page_url=None):
+def fake_fetcher(*page_urls):
     calls = []
+    pages = set(page_urls)
 
     def fetch(url, timeout, max_bytes):
         calls.append((url, timeout, max_bytes))
-        if page_url and url == page_url:
+        if url in pages:
             return HTML, "text/html"
         if url.endswith((".png", ".svg", ".ico")):
             return (b"<svg xmlns='http://www.w3.org/2000/svg'></svg>" if url.endswith(".svg") else PNG), \
@@ -103,20 +104,42 @@ class FetchLogoTests(unittest.TestCase):
             self.assertEqual(second["reason"], "already_fetched")
             self.assertEqual(len(calls), count)
 
-    def test_fetch_all_only_targets_startups_and_writes_manifest(self):
+    def test_fetch_all_targets_startups_and_investment_firms_with_websites(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             companies = root / "data/companies"
             companies.mkdir(parents=True)
             (companies / "alpha.json").write_text(json.dumps(record(), ensure_ascii=False))
             (companies / "beta.json").write_text(json.dumps(record("beta", player_group="incumbent"), ensure_ascii=False))
-            (companies / "gamma.json").write_text(json.dumps(record("gamma", organization_type="investment_firm"), ensure_ascii=False))
-            fetch, _ = fake_fetcher("https://alpha.example/")
+            (companies / "gamma.json").write_text(json.dumps(
+                record("gamma", website="https://gamma.example/", organization_type="investment_firm"), ensure_ascii=False))
+            (companies / "delta.json").write_text(json.dumps(
+                record("delta", website=None, organization_type="investment_firm"), ensure_ascii=False))
+            fetch, _ = fake_fetcher("https://alpha.example/", "https://gamma.example/")
             results = fetch_logos.fetch_all(root=root, workers=1, fetcher=fetch)
-            self.assertEqual([item["id"] for item in results], ["alpha"])
+            self.assertEqual([item["id"] for item in results], ["alpha", "gamma"])
             manifest = json.loads((root / fetch_logos.MANIFEST).read_text())
-            self.assertEqual([item["id"] for item in manifest["entries"]], ["alpha"])
-            self.assertEqual(manifest["entries"][0]["status"], "fetched")
+            self.assertEqual([item["id"] for item in manifest["entries"]], ["alpha", "gamma"])
+            self.assertTrue(all(item["status"] == "fetched" for item in manifest["entries"]))
+
+    def test_id_filter_includes_investment_firms_even_without_a_website(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            companies = root / "data/companies"
+            companies.mkdir(parents=True)
+            (companies / "alpha.json").write_text(json.dumps(record(), ensure_ascii=False))
+            (companies / "gamma.json").write_text(json.dumps(
+                record("gamma", website="https://gamma.example/", organization_type="investment_firm"), ensure_ascii=False))
+            (companies / "delta.json").write_text(json.dumps(
+                record("delta", website=None, organization_type="investment_firm"), ensure_ascii=False))
+            fetch, _ = fake_fetcher("https://gamma.example/")
+            results = fetch_logos.fetch_all(root=root, ids=["gamma"], workers=1, fetcher=fetch)
+            self.assertEqual([item["id"] for item in results], ["gamma"])
+            self.assertEqual(results[0]["status"], "fetched")
+
+            results = fetch_logos.fetch_all(root=root, ids=["delta"], workers=1, fetcher=fetch)
+            self.assertEqual(results[0]["status"], "skipped")
+            self.assertEqual(results[0]["reason"], "no_website")
 
 
 if __name__ == "__main__":

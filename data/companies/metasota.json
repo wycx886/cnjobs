@@ -22,8 +22,123 @@
     ]
   },
   "investment": {
-    "summary": "公司官方LinkedIn介绍确认历史Pre-A投资方源渡、丰元，老股东明势加码；非完整当前股东名单。",
-    "verification_status": "partial"
+    "summary": "项目库披露天使轮（2018-08）、Pre-A 轮（2021-05，数千万人民币，源渡、丰元、明势）与 2024-08 超亿元新一轮（蚂蚁集团领投、光速光合跟投）；非完整当前股东名单。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2018-08",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "明势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "思满科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "小豹AI音箱",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "猎豹移动",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "个人投资者",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "项目库原文含「个人投资者」，未列姓名；金额「未透露」。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2021-05",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "源渡创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "丰元资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "明势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "项目库与公司 LinkedIn 均记该轮投资方；原文未单列领投方。"
+      },
+      {
+        "round": "新一轮",
+        "announced_on": "2024-08",
+        "amount_text": "超亿元",
+        "investors": [
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "光速光合",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "来源只写「新一轮」与「超亿元」，未标 A/B 轮次，故按原文记「新一轮」。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://metasota.ai/",
@@ -33,7 +148,7 @@
     "other_email_purpose": "官网一般联系邮箱（未明确招聘）"
   },
   "notes": "补查找到与上海秘塔网络科技有限公司主体、品牌及官网对应的BOSS公司招聘页；页面可能显示历史/已过期岗位，职位有效性请在平台内核对。未查到独立官方招聘站或通用官方投递邮箱；旧脉脉HR个人邮箱不当作长期官方渠道。wutingting邮箱官网未标招聘。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -92,6 +207,32 @@
       "supports": "公开企业主页主体：上海秘塔网络科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "title": "晚点聊 LateTalk 114：秘塔闵可锐2：“我不是演员”",
+      "url": "https://podcast.latepost.com/114",
+      "supports": "闵可锐为秘塔科技创始人；访谈涉及其产品方法、融资与组织选择。",
+      "published_date": "2025-05-06",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "智源社区转载极客公园：秘塔科技专访：AI搜索这件事，我们是怎么想的？",
+      "url": "https://hub.baai.ac.cn/view/40734",
+      "supports": "称闵可锐为秘塔科技CEO、产品一号位，并介绍公司产品与团队分工。",
+      "published_date": "2024-11-02",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s10",
+      "title": "36氪项目库｜秘塔科技",
+      "url": "https://pitchhub.36kr.com/project/1679673126081282",
+      "supports": "融资历史：天使轮 2018-08、Pre-A 轮 2021-05 数千万人民币及投资方；2024-08 超亿元新一轮（蚂蚁集团领投、光速光合跟投）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -147,6 +288,22 @@
         "s07"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "闵可锐",
+      "role": "创始人兼CEO",
+      "background": "秘塔科技创始人，负责公司产品与技术方向；公司2018年成立，产品包括秘塔AI搜索、秘塔写作猫等。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "创始人身份见晚点播客；CEO与产品一号位见极客公园专访（智源社区转载）。"
     }
   ]
 }

@@ -19,8 +19,45 @@
     ]
   },
   "investment": {
-    "summary": "2026-10 媒体报道首轮以亲友轮形式落地，投资方包括红杉中国、砺思资本（Monolith）与 DeepSeek；金额未披露。",
-    "verification_status": "partial"
+    "summary": "2026-10 种子轮（亲友轮）落地，投资界档案列红杉中国、砺思资本（Monolith）与 DeepSeek；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2026-10-26",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "HongShan红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "Monolith砺思资本",
+            "firm_id": "monolith",
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "DeepSeek",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "投资界企业档案记种子轮，金额未披露；鲸犀报道称该轮为亲友轮。"
+      }
+    ]
   },
   "contacts": {
     "website": null,
@@ -30,7 +67,7 @@
     "other_email_purpose": "未见公开官网／招聘页"
   },
   "notes": "创始人俞涛；前腾讯 AI Lab「绝悟」、曾任逐际动力基础模型负责人。工商成立约 2026-09。2026-11-09 核验：无独立公开官网与招聘入口。",
-  "checked_at": "2026-11-09",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -55,6 +92,32 @@
       "supports": "北京、通用具身大脑定位、投资方名单交叉",
       "published_date": null,
       "checked_at": "2026-11-09"
+    },
+    {
+      "id": "s04",
+      "scope": "person",
+      "title": "雷峰网·鲸犀｜梁文锋、红杉、砺思资本投了俞涛做的通用具身大脑",
+      "url": "https://www.bianews.com/news/details?id=247966",
+      "supports": "俞涛创办理格万物，方向为通用具身大脑；此前任逐际动力基础模型负责人、腾讯 AI Lab「绝悟」团队高级研究员",
+      "published_date": "2026-10-26",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "SVTR｜理格万物",
+      "url": "https://svtr.ai/orgs/ligewanwu",
+      "supports": "机构条目记「延续创始人俞涛在逐际动力搭建全身运动跟踪系统与动作生成体系的技术路线」",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投资界｜理格万物 公司页",
+      "url": "https://vc.pedaily.cn/company/907191.html",
+      "supports": "记种子轮 2026-10-26、投资方红杉中国／砺思资本／DeepSeek、金额未披露；工商成立时间 2026-09-21",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -74,5 +137,28 @@
     ],
     "labelled_at": "2026-11-09"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "俞涛",
+      "role": "创始人",
+      "previous_firms": [
+        "逐际动力",
+        "腾讯 AI Lab"
+      ],
+      "background": "2025年3月进入逐际动力，带队搭建全身运动跟踪系统与动作生成体系；此前在腾讯 AI Lab「绝悟」团队任高级研究员。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "创始人身份与履历取自鲸犀报道（2026-10-26发布，2026-11-11核查）；公司未公开官网，未取得其个人主页。"
+    }
+  ],
+  "founded": {
+    "year": 2026,
+    "basis": "投资界企业档案与工商登记：理格万物（北京）科技有限公司 2026-09-21 成立。"
+  }
 }

@@ -64,7 +64,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -110,10 +110,50 @@
       "published_date": "2026-08-11",
       "checked_at": "2026-11-03",
       "supports": "钧舵机器人新一轮战略融资，投资方含硅港资本、点亮资本、美的集团等，注册资本增至约1235.4万元。"
+    },
+    {
+      "id": "s06",
+      "title": "介党阳 - 虹桥国际科技周演讲嘉宾",
+      "url": "https://www.hongqiaotechweek.com/speaker/%E4%BB%8B%E5%85%9A%E9%98%B3/",
+      "supports": "嘉宾页称介党阳为苏州钧舵机器人创始人/CEO，哈工大机器人研究所博士，苏州大学客座教授；国内首批空间站机械臂方向博士，曾任中国运载火箭技术研究院长征火箭总体副主任设计师。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "苏州一家科技公司获得新一轮融资，创始人哈工大本硕博连读！_网易",
+      "url": "https://www.163.com/dy/article/L2KA4V5T05119596.html",
+      "supports": "报道称钧舵机器人成立于2018年1月，创始人为介党阳，哈工大机器人研究所本硕博连读，曾任职中国航天科技集团运载火箭技术研究院并参与空间轻型机械臂项目。",
+      "published_date": "2026-07-24",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "投资界：钧舵机器人完成近亿元B轮融资",
+      "url": "https://m.sohu.com/a/648991039_439726/",
+      "supports": "B轮近亿元，温润投资领投，敦鸿资产、创业工场等跟投，分享投资加持；2022年3月完成近5000万A+轮；公司创立于2018年。",
+      "published_date": "2023-03-03",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "投资界：钧舵机器人完成B+轮融资",
+      "url": "https://3g.163.com/news/article/KANJFDDL05198R3E.html",
+      "supports": "完成B+轮融资，由新晋投资方与老股东共同加持，未披露金额与投资方名称。",
+      "published_date": "2025-09-30",
+      "checked_at": "2026-11-11"
     }
   ],
-  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
+  "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。原采集地域为「苏州工业园区」，本次按来源支持范围更正；不代表在该地有开放岗位。B+轮与2026年战略融资均未披露金额。",
   "category_id": "08",
+  "founded": {
+    "year": 2018,
+    "basis": "投资界2023年B轮报道称钧舵机器人创立于2018年。"
+  },
   "focus": "协作机器人末端执行器/灵巧手，具身AI感知",
   "products": "协作机器人末端执行器/灵巧手，具身AI感知",
   "locations_text": "苏州；BOSS 采集标题指向吴江，原工业园区标签及岗位具体地点待核实",
@@ -125,12 +165,204 @@
     ]
   },
   "investment": {
-    "summary": "2025年完成B+轮；2026年8月获硅港资本、点亮资本、美的集团等战略入股，金额未披露。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2018年成立，2022年3月完成近5000万A+轮，2023年3月完成近亿元B轮（温润投资领投），2025年9月完成B+轮，2026年8月获硅港资本、点亮资本、美的集团等战略入股，金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2022-03",
+        "amount_text": "近5000万",
+        "investors": [
+          {
+            "name": "分享投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "鑫睿资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "张江科投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "吴江创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "四家机构联合投资，报道未标领投。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2023-03-03",
+        "amount_text": "近亿元",
+        "investors": [
+          {
+            "name": "温润投资",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "敦鸿资产",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "创业工场",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "分享投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": null
+      },
+      {
+        "round": "B+",
+        "announced_on": "2025-09-30",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "来源称由新晋投资方与老股东共同加持，未点名、未披露金额。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2026-08-11",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "硅港资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "点亮资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "松山湖科学城创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "美的集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "美的资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "邦盛资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "广发信德",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "中信投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "报道日2026-08-11称近日完成，金额未披露；来源同时对工商变更作说明。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "苏州钧舵机器人",
     "original_track": "08",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "介党阳",
+      "role": "创始人/CEO",
+      "previous_firms": [
+        "中国运载火箭技术研究院",
+        "斯特拉斯克莱德大学"
+      ],
+      "background": "哈尔滨工业大学机器人研究所博士，苏州大学客座教授；国内首批空间站机械臂方向博士，全程参与我国首例空间站轻型机械臂研发；曾任中国运载火箭技术研究院长征火箭总体副主任设计师、英国斯特拉斯克莱德大学高级访问研究员。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "行业会议嘉宾页确认身份与职务；公司官网未能稳定访问，未取得官网团队页。"
+    }
+  ]
 }

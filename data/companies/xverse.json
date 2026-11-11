@@ -100,7 +100,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -146,6 +146,33 @@
       "supports": "高校转载元象 2025 届校招公告：官网投递 careers.xverse.cn，邮件投递 join@xverse.cn；工作地点深圳。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "元象XVERSE官网「关于我们」",
+      "url": "https://www.xverse.cn/zh-cn",
+      "supports": "元象创始人姚星为前腾讯副总裁和腾讯 AI Lab 创始人、国家科技部新一代人工智能战略咨询委员会成员",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "36氪独家｜前腾讯副总裁、AI Lab院长姚星创业，新公司「元象唯思」",
+      "url": "https://www.36kr.com/p/1144447936185737",
+      "supports": "报道姚星从腾讯离职并创立元象唯思（元象XVERSE），任执行董事和总经理",
+      "published_date": "2021-01-28",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "元象XVERSE官网「关于」",
+      "url": "https://www.xverse.cn/zh-cn",
+      "supports": "官网关于页：元象在深圳成立，已完成A+轮融资，投资机构包括腾讯、高榕资本、五源资本、高瓴创投、红杉中国、淡马锡和CPE源峰；创始人姚星为前腾讯副总裁、腾讯AI Lab创始人。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "历史公开机构候选批次导入；渠道与人物核验状态以各自结构化条目为准。 2026-11-03核查：官网称深圳公司，苏州主体未证实。 2026-11-03：join@xverse.cn 来自高校转载的 2025 届校招公告，属较早校招渠道，时效与社招适用性待确认。 原采集地域为“苏州工业园区”，本次按来源支持范围更正；不代表在该地有开放岗位。",
@@ -161,12 +188,103 @@
     ]
   },
   "investment": {
-    "summary": "本轮未核实融资披露；官网仅可核成立时间与创始人背景。",
-    "verification_status": "not_found"
+    "summary": "官网“关于”页称公司已完成A+轮融资，投资机构包括腾讯、高榕资本、五源资本、高瓴创投、红杉中国、淡马锡和CPE源峰；官网未披露轮次时间、金额与各轮分配，故仅记A+轮一条。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "高榕资本",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "淡马锡",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网仅称“已完成A+轮融资”并列示投资机构，未披露时间、金额与分轮信息。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "元象科技",
     "original_track": "04",
     "original_subtrack": "苏州科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "姚星",
+      "role": "创始人",
+      "previous_firms": [
+        "腾讯"
+      ],
+      "background": "前腾讯副总裁、腾讯 AI Lab 创始人；国家科技部新一代人工智能战略咨询委员会成员。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与履历取自公司官网关于页（2026-11-11核查）；官网未标注董事长/CEO等具体头衔，故只记「创始人」。"
+    }
+  ],
+  "founded": {
+    "year": 2021,
+    "basis": "36氪2021-01-28报道姚星创立元象唯思；官网称公司在深圳成立。"
   }
 }

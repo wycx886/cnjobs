@@ -71,6 +71,24 @@
       "supports": "公开企业主页主体：镁伽科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "今年最大融资之一：85后理工男拿下20亿-36氪",
+      "url": "https://www.36kr.com/p/1785909810859392",
+      "supports": "报道称镁伽成立于2016年，由黄瑜清、张琰和乔志新三位老同事联手创立；黄瑜清为镁伽创始人、CEO，2008年从西安交大毕业。",
+      "published_date": "2022-06-15",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "创业6年，85后工程师打造“Ai+生命科学”百亿赛道独角兽｜GGV投资笔记-36氪",
+      "url": "https://www.36kr.com/p/1982422422242052",
+      "supports": "报道称黄瑜清获清华大学MBA学位，本科就读西安交通大学，曾供职中国测试测量领域头部机构。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -126,6 +144,50 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "黄瑜清",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "普源精电"
+      ],
+      "background": "西安交通大学信息工程本科，清华大学经管学院MBA；曾任职普源精电，2016年与张琰、乔志新共同创办镁伽科技。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪两篇报道确认创始人、CEO身份与教育背景。"
+    },
+    {
+      "name": "张琰",
+      "role": "联合创始人",
+      "previous_firms": [],
+      "background": "与黄瑜清、乔志新为同一家电子制造企业的前同事，2016年共同创办镁伽科技。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "36氪报道确认其为三位联合创始人之一；未查到其具体职务与个人主页。"
+    },
+    {
+      "name": "乔志新",
+      "role": "联合创始人",
+      "previous_firms": [],
+      "background": "与黄瑜清、张琰为同一家电子制造企业的前同事，2016年共同创办镁伽科技。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "36氪报道确认其为三位联合创始人之一；未查到其具体职务与个人主页。"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
   "schema_version": 4,
-  "latest_checked_at": "2026-11-09",
-  "latest_operating_check": "2026-11-09",
-  "latest_investment_firm_check": "2026-10-30",
+  "latest_checked_at": "2026-11-11",
+  "latest_operating_check": "2026-11-11",
+  "latest_investment_firm_check": "2026-11-11",
   "counts": {
-    "organizations": 223,
-    "companies": 223,
+    "organizations": 245,
+    "companies": 245,
     "operating_organizations": 198,
-    "investment_firms": 25,
-    "first": 103,
-    "watchlist": 24,
-    "later": 96
+    "investment_firms": 47,
+    "first": 104,
+    "watchlist": 23,
+    "later": 118
   },
   "statistics": {
     "operating_organizations": {
       "organizations": 198,
       "categories": 10,
-      "source_records": 1070,
+      "source_records": 1451,
       "recruitment_links": 129,
       "public_recruitment_emails": 42
     },
     "investment_firms": {
-      "organizations": 25,
-      "source_records": 136,
+      "organizations": 47,
+      "source_records": 372,
       "recent": 7,
       "new_generation": 6,
-      "established": 12,
+      "established": 34,
       "founding_unconfirmed": 0,
       "coverage_roles": {
-        "main": 20,
-        "watchlist": 3,
+        "main": 38,
+        "watchlist": 7,
         "adjacent": 2
       }
     }
@@ -46,7 +46,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "科技驱动的产品与平台；AI、智能硬件、消费及互联网等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -74,6 +74,39 @@
       "current_firm_case_count": 3
     },
     {
+      "id": "addor-capital",
+      "name": "毅达资本（Addor Capital）",
+      "aliases": [
+        "Addor Capital",
+        "江苏毅达股权投资基金管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "清科机构库简介列清洁技术、健康产业、新材料、先进制造、消费服务、文化产业与 TMT，并强调全产业链投资。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作并连续进入 VC 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网正文缺口与人物、渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/addor-capital.json",
+      "markdown_path": "data/views/companies/addor-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2014,
+      "team_names": [],
+      "stage": "基金产品覆盖天使期、初创期、成长期与成熟期；清科、投中均归入创业投资（VC）榜。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
       "id": "alphaist-partners",
       "name": "Alphaist Partners",
       "aliases": [
@@ -81,7 +114,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "人工智能；机器人；智能硬件",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -111,6 +144,40 @@
       "current_firm_case_count": 1
     },
     {
+      "id": "boyu-capital",
+      "name": "博裕投资（Boyu Capital）",
+      "aliases": [
+        "Boyu Capital",
+        "博裕资本",
+        "博裕投资顾问有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "大中华区私募股权投资；机构简介称主要投资媒体与科技、大健康、零售消费和金融服务等行业。2026 年公开记录覆盖大模型（DeepSeek）、AI 智能体（Manus）、AI 音乐（ACE Studio）、跨境电商（SHEIN）与消费品牌。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已运作十余年的大额 PE，按成熟机构建档；境内管理主体与境外工商记录的对应关系保留为待核项。",
+        "source_ids": [
+          "s01",
+          "s06"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/boyu-capital.json",
+      "markdown_path": "data/views/companies/boyu-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2010,
+      "team_names": [],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；以大额成长期、并购与控股型交易为主，单笔规模显著高于 VC。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "capital-o",
       "name": "Capital O",
       "aliases": [
@@ -118,7 +185,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "前沿科技基础设施的普及化（NTIC），AI垂类应用、自动驾驶、AI药物/材料、新材料及合成生物。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -151,6 +218,296 @@
       "current_firm_case_count": 1
     },
     {
+      "id": "casstar",
+      "name": "中科创星（CASSTAR）",
+      "aliases": [
+        "CASSTAR",
+        "中科创星科技投资股份有限公司",
+        "西安中科创星科技孵化器有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "光电芯片、人工智能、航空航天、生物技术、信息技术、新材料、新能源、智能制造等硬科技领域。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作十余年、连续两年居早期榜首的硬科技早期机构，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/casstar.json",
+      "markdown_path": "data/views/companies/casstar.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2013,
+      "team_names": [
+        "米磊",
+        "李浩"
+      ],
+      "stage": "早期（天使轮与更早），以“研究机构+早期投资+创业平台+投后服务”为模式，并做超前孵化与深度孵化。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "cdh",
+      "name": "鼎晖投资（CDH Investments）",
+      "aliases": [
+        "CDH",
+        "鼎晖",
+        "CDH Investments",
+        "鼎晖股权投资管理（天津）有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "官网列股权投资、创新与成长、不动产、夹层与信用及二级市场（润晖投资）等多资产类别；被投企业页按人工智能、生物科技、硬科技、大消费、新能源、工业、企业服务分类。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作二十余年的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cdh.json",
+      "markdown_path": "data/views/companies/cdh.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2002,
+      "team_names": [
+        "吴尚志"
+      ],
+      "stage": "覆盖企业不同成长阶段：PE／并购、成长投资、夹层与不动产，另通过润晖投资做二级市场。",
+      "previous_platforms": [
+        "世界银行",
+        "中国国际金融有限公司",
+        "国际金融公司"
+      ],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "cicc-capital",
+      "name": "中金资本（CICC Capital）",
+      "aliases": [
+        "CICC Capital",
+        "中金资本运营有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "综合私募股权与母基金业务；清科机构库列政府引导基金、存量经济改革基金、美元母基金、人民币/美元股权投资基金、并购基金、海外基金等产品类型。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "券商体系内已运作近十年、连续居 PE 榜前列的平台，先按金融机构建档与打 Tier；官网与人物、渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cicc-capital.json",
+      "markdown_path": "data/views/companies/cicc-capital.md",
+      "group": "established",
+      "coverage_role": "watchlist",
+      "cohort": "established",
+      "founded_year": 2017,
+      "team_names": [],
+      "stage": "清科、投中均归入私募股权（PE）榜；实际同时做母基金与直投，直投偏成长期与并购。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "citic-jinshi",
+      "name": "中信金石（中信金石投资有限公司）",
+      "aliases": [
+        "中信金石",
+        "中信金石投资有限公司",
+        "金石投资",
+        "金石投资有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "中信证券全资私募基金子公司，业务包括股权投资、并购、不动产与母基金等。官网列示的投资方向为新材料、新能源、智能制造、新一代信息技术、医疗健康、现代服务。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "券商直投平台中规模与榜单位置稳定的成熟机构，按金融机构建档；新旧名称是否同一法人已按公开材料合并，并保留拆分条件。",
+        "source_ids": [
+          "s01",
+          "s06"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/citic-jinshi.json",
+      "markdown_path": "data/views/companies/citic-jinshi.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2007,
+      "team_names": [
+        "常军胜",
+        "陈平进"
+      ],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；以成长期、并购及基金化运作为主，官网称已管理近百支私募股权基金，覆盖国家级基金、PE 基金、母基金、并购基金、不动产基金等类型（机构自述）。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
+      "id": "cmbi-capital",
+      "name": "招银国际资本（CMB International Capital）",
+      "aliases": [
+        "招银国际资本管理（深圳）有限公司",
+        "CMBI Capital"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "银行系私募股权与直接投资；公开案例集中在半导体、生物医药与新能源。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "银行系券商旗下的成熟股权投资平台，先按金融机构建档与打 Tier；主体边界与官网缺口保留为待核实项。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cmbi-capital.json",
+      "markdown_path": "data/views/companies/cmbi-capital.md",
+      "group": "established",
+      "coverage_role": "watchlist",
+      "cohort": "established",
+      "founded_year": null,
+      "team_names": [],
+      "stage": "清科、投中均将其归入私募股权（PE）榜，偏成长期及以后的项目融资。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "cmcapital",
+      "name": "招商资本（China Merchants Capital）",
+      "aliases": [
+        "招商局资本",
+        "招商局资本投资有限责任公司",
+        "China Merchants Capital"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "官网称重点布局生命科技、数智科技、绿色科技三大战略性新兴产业，并开展基础设施及生息资产投资运营。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "央企与产业资本共同持股的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cmcapital.json",
+      "markdown_path": "data/views/companies/cmcapital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2012,
+      "team_names": [
+        "彭申"
+      ],
+      "stage": "以 PE／成长期与并购为主，同时有 VC、FOF/S、结构产品、跨境与海外等策略（官网业务矩阵）。",
+      "previous_platforms": [
+        "新加坡政府投资公司",
+        "普洛斯",
+        "高盛"
+      ],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "cowin-capital",
+      "name": "同创伟业（Cowin Capital）",
+      "aliases": [
+        "Cowin Capital",
+        "深圳同创伟业资产管理股份有限公司",
+        "深圳市同创伟业创业投资有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "机构简介称以产业链投资为切入点、聚焦新兴产业，深度挖掘细分行业龙头。公开案例覆盖图像传感器（豪威集团）、医疗影像（联影医疗）、GPU（沐曦股份）与半导体材料（青禾晶元）。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "本土老牌创投机构，按成熟机构建档；榜单主体与机构库工商主体的对应关系保留为待核项。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cowin-capital.json",
+      "markdown_path": "data/views/companies/cowin-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2000,
+      "team_names": [],
+      "stage": "清科、投中均将其列入创业投资（VC）主榜；以成长期项目为主，2026 年同时出现在天使轮（寰声科技）与 Pre-IPO（青禾晶元）两端。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
+      "id": "cpe",
+      "name": "CPE源峰（CPE）",
+      "aliases": [
+        "CPE",
+        "源峰",
+        "北京源峰投资管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "清科机构库简介列医疗与健康、消费与互联网、科技与工业、软件与企业服务四大重点领域，主要面向各领域龙头企业。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作并连续进入 PE 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网缺口未补前不扩大人物与渠道搜集。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/cpe.json",
+      "markdown_path": "data/views/companies/cpe.md",
+      "group": "established",
+      "coverage_role": "watchlist",
+      "cohort": "established",
+      "founded_year": 2008,
+      "team_names": [],
+      "stage": "清科、投中均将其归入私募股权（PE）榜；机构库简介强调为龙头企业提供投资方案，偏成长与并购类交易。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
       "id": "creek-stone",
       "name": "Creek Stone",
       "aliases": [
@@ -161,7 +518,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI应用；AI原生硬件；中国AI创业者全球化",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -192,6 +549,39 @@
       "current_firm_case_count": 1
     },
     {
+      "id": "fortune-capital",
+      "name": "达晨财智（Fortune Capital）",
+      "aliases": [
+        "Fortune Capital",
+        "深圳市达晨财智创业投资管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "机构简介表述聚焦信息技术、智能制造与节能环保、医疗健康、大消费和企业服务、文化传媒、军工等领域。投中榜单列示的代表案例含大模型公司智谱；2026 年出手记录另覆盖 AI 算力（无问芯穹）、量子计算（原子矩阵）与物理世界模型（LiberAI）。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "本土老牌创投机构，按成熟机构建档；本档案严格区分达晨财智法人与达晨创投历史主体。",
+        "source_ids": [
+          "s01",
+          "s06"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/fortune-capital.json",
+      "markdown_path": "data/views/companies/fortune-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2008,
+      "team_names": [],
+      "stage": "清科、投中均将其列入创业投资（VC）主榜；覆盖早期至成长期，单笔规模随项目阶段变化。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "gaorong",
       "name": "高榕创投（Gaorong Ventures）",
       "aliases": [
@@ -202,7 +592,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "新科技、互联网、消费及医疗等；覆盖智能硬件与出海技术项目。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -242,7 +632,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "科技初创企业，涵盖企业、消费互联网、医疗科技及AI商业应用。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -270,6 +660,74 @@
       "current_firm_case_count": 3
     },
     {
+      "id": "guoxin-fund",
+      "name": "国新基金",
+      "aliases": [
+        "中国国新基金管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "国家级基金群的统一管理平台。中国国新官网列示的国新系基金包括中国国有资本风险投资基金、国新央企运营投资基金、国新国同基金、国改双百发展基金、国改科技基金、国新科创基金、综合改革试验基金群、国新高层次人才基金、国新辽宁基金、国新创投基金等，围绕国家战略、科技创新与央企改革布局。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "国资运营公司体系内已运作多年的国家级基金平台，按成熟金融机构建档；集团与基金管理平台的层级、以及该平台自身成立年份仍待补证。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/guoxin-fund.json",
+      "markdown_path": "data/views/companies/guoxin-fund.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": null,
+      "team_names": [],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；以国家级基金、央企与地方国企项目、成长期及以后的大额股权投资为主，具体单笔阶段未见统一披露。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
+      "id": "hillhouse",
+      "name": "高瓴投资（Hillhouse Investment）",
+      "aliases": [
+        "高瓴",
+        "Hillhouse",
+        "Hillhouse Investment",
+        "高瓴资本",
+        "Hillhouse Capital"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "官网自述在全球范围内投资医疗、制造业、能源转型、企业服务和消费等领域；清科机构库另列医疗健康、消费与零售、TMT、先进制造、金融及企业服务。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作近二十年的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/hillhouse.json",
+      "markdown_path": "data/views/companies/hillhouse.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2005,
+      "team_names": [],
+      "stage": "官网称覆盖企业不同成长阶段；清科、投中的机构分类均归入私募股权（PE）榜，实际包含成长、并购与上市前等多种交易类型。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
       "id": "hongshan",
       "name": "红杉中国（HongShan / HSG）",
       "aliases": [
@@ -281,7 +739,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "科技、医疗健康、消费；科技投资包括AI及机器人等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -315,7 +773,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI驱动科技；社交娱乐；全球化应用",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -354,7 +812,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "消费科技、医疗健康、消费等；现有AI硬件与机器人案例。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -381,6 +839,39 @@
       "current_firm_case_count": 3
     },
     {
+      "id": "jinpu-investment",
+      "name": "金浦投资（金浦产业投资基金管理有限公司）",
+      "aliases": [
+        "金浦投资",
+        "金浦产业投资基金管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "产业投资基金及其他类型股权投资基金的发起设立、经营管理和投资运作；机构简介称其拥有多家子基金管理公司，管理基金数量与规模为其自述口径。公开案例覆盖半导体设备与量测（华海清科、匠岭科技）、券商（中银证券）与德业科技。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "地方国资体系内运作多年的产业基金管理平台，按成熟金融机构建档；母体与子基金边界、成立年份口径均已标注待核。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/jinpu-investment.json",
+      "markdown_path": "data/views/companies/jinpu-investment.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2009,
+      "team_names": [],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；以成长期及产业基金形式的中后期项目为主。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "jinqiu",
       "name": "锦秋基金 Jinqiu Capital",
       "aliases": [
@@ -389,7 +880,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI算力、AI应用、具身智能及推动产业跃迁的前沿技术；另有创业工作室及早期支持计划。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -422,6 +913,46 @@
       "current_firm_case_count": 2
     },
     {
+      "id": "jishi-capital",
+      "name": "基石资本",
+      "aliases": [
+        "基石资产管理股份有限公司",
+        "基石"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "硬科技、新兴产业、生命科学与健康；官网与清科机构简介均称管理资产覆盖天使、VC、PE、并购、定向增发等类型，投资阶段覆盖企业全生命周期。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已运作二十余年的本土 PE，按成熟机构建档；成立年份的品牌口径与法人登记口径在本档案中分开记录。",
+        "source_ids": [
+          "s01",
+          "s06"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/jishi-capital.json",
+      "markdown_path": "data/views/companies/jishi-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2001,
+      "team_names": [
+        "张维",
+        "林凌"
+      ],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；实际覆盖从早期到并购与定增，单笔规模跨度较大。",
+      "previous_platforms": [
+        "中富证券",
+        "大鹏证券",
+        "深圳中航集团"
+      ],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "lanchi",
       "name": "蓝驰创投（Lanchi Ventures）",
       "aliases": [
@@ -432,7 +963,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI、机器人、深科技、生物科技与消费科技。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -462,6 +993,78 @@
       "current_firm_case_count": 2
     },
     {
+      "id": "legend-capital",
+      "name": "君联资本（Legend Capital）",
+      "aliases": [
+        "Legend Capital",
+        "君联资本管理股份有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "清科机构库简介列 TMT 及创新消费、医疗健康、文化体育、专业服务和智能制造。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作二十余年的成熟 VC 平台，先按金融机构建档与打 Tier；官网缺口与人物、渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/legend-capital.json",
+      "markdown_path": "data/views/companies/legend-capital.md",
+      "group": "established",
+      "coverage_role": "watchlist",
+      "cohort": "established",
+      "founded_year": 2001,
+      "team_names": [],
+      "stage": "初创期与扩展期为主，兼顾种子期项目（清科机构库简介）；清科、投中均归入创业投资（VC）榜。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
+      "id": "legend-star",
+      "name": "联想之星（Legend Star）",
+      "aliases": [
+        "Legend Star",
+        "北京联想之星投资管理有限公司",
+        "联想之星创业投资"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "前沿科技、医疗健康、TMT 三大领域，官网另列智能机器、生物技术、医疗器械等方向。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "联想控股体系内已运作十余年的早期投资与孵化平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/legend-star.json",
+      "markdown_path": "data/views/companies/legend-star.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2008,
+      "team_names": [
+        "王明耀"
+      ],
+      "stage": "早期（天使轮与更早），并以“创业CEO特训班”和创业联盟做深度孵化。",
+      "previous_platforms": [
+        "九帆投资",
+        "清科集团"
+      ],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
       "id": "longriver",
       "name": "江远投资 LongRiver Investments",
       "aliases": [
@@ -470,7 +1073,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "医疗健康与科技；生物医药、AI应用、先进制造等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -508,7 +1111,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "技术驱动的数字产业、科技智造，同时有科技二级市场策略。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -552,7 +1155,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "软件与科技、先进制造、消费等；持续关注机器人。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -589,7 +1192,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "全球生成式AI应用；Agent及其协作网络；年轻AI创业者",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -622,6 +1225,41 @@
       "current_firm_case_count": 0
     },
     {
+      "id": "oriental-fortune",
+      "name": "东方富海（Oriental Fortune Capital）",
+      "aliases": [
+        "Oriental Fortune Capital",
+        "OFC",
+        "深圳市东方富海投资管理股份有限公司",
+        "东方富海"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "专业性创业投资管理；机构简介称投资具有成长性和上市潜力的目标公司。投中榜单列示的代表案例覆盖 AI 芯片（沐曦股份）、激光雷达（速腾聚创）、智能文字识别（合合信息）等方向。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已运作二十年的本土创投机构，按成熟机构建档；本轮补充主体、阶段与公开案例，人物与渠道留给后续任务。",
+        "source_ids": [
+          "s01",
+          "s06"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/oriental-fortune.json",
+      "markdown_path": "data/views/companies/oriental-fortune.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2006,
+      "team_names": [],
+      "stage": "清科、投中均将其列入创业投资（VC）主榜；以成长期项目为主，2026 年亦出现在天使轮项目中（泛函数、量观知元）。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "panyan-fund",
       "name": "磐岩基金",
       "aliases": [
@@ -629,7 +1267,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": null,
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -663,6 +1301,71 @@
       "current_firm_case_count": 0
     },
     {
+      "id": "puhua-capital",
+      "name": "普华资本",
+      "aliases": [
+        "浙江普华天勤股权投资管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "机构简介称聚焦新科技、医疗健康、新消费、新能源四大领域。公开案例包括 GPU（沐曦股份、壁仞科技）、化妆品与消费品牌（毛戈平）、量子计算（相干科技）与具身智能（磐虎智能）。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "运作二十余年的杭州系综合 VC，按成熟机构建档；品牌年份与法人登记年份已分开记录。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/puhua-capital.json",
+      "markdown_path": "data/views/companies/puhua-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2004,
+      "team_names": [],
+      "stage": "清科、投中均将其列入创业投资（VC）主榜；覆盖天使至成长期，2026 年公开记录中天使轮与 A 轮较多。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
+      "id": "qifu-capital",
+      "name": "啟赋资本",
+      "aliases": [
+        "启赋资本",
+        "启赋私募基金管理有限公司"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "早期 VC 基金与产业基金；机构简介表述聚焦以数字经济和新材料为核心的先进制造，并在新一代信息技术、先进制造、生命健康等细分领域形成优势。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作十余年的早期投资平台，按成熟机构建档；本轮只确认主体、阶段与公开案例，不新增人物或渠道搜集。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/qifu-capital.json",
+      "markdown_path": "data/views/companies/qifu-capital.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2013,
+      "team_names": [],
+      "stage": "清科2025／2024 与投中2025／2024 均将其列入早期投资机构榜；以天使及早期为主，另管理产业基金。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "qiming",
       "name": "启明创投（Qiming Venture Partners）",
       "aliases": [
@@ -671,7 +1374,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "科技与医疗创新；科技侧包括AI、自动化设备、智能硬件等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -710,7 +1413,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "科技驱动的产品、智能硬件、互联网及机器人等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -738,6 +1441,40 @@
       "current_firm_case_count": 3
     },
     {
+      "id": "smic-juyuan",
+      "name": "中芯聚源",
+      "aliases": [
+        "中芯聚源私募基金管理（上海）有限公司",
+        "中芯聚源股权投资管理（上海）有限公司",
+        "China Fortune-Tech Capital"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "集成电路产业链投资：机构简介称覆盖材料、设计、装备、IP 和服务等环节，并为被投企业提供增值服务。公开案例集中在芯片制造、算力芯片与半导体设备材料。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已运作十余年的半导体产业型投资机构，按成熟机构建档；股东结构与官网归属仍待补证。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/smic-juyuan.json",
+      "markdown_path": "data/views/companies/smic-juyuan.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 2014,
+      "team_names": [],
+      "stage": "清科、投中均将其列入私募股权（PE）榜；以成长期及产业协同型项目为主，2026 年亦出现在天使轮（清析智研）。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 3
+    },
+    {
       "id": "soul-capital",
       "name": "心资本 Soul Capital",
       "aliases": [
@@ -745,7 +1482,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "中国早期科技，偏AI算力、物理AI、机器人、新能源及商业航天等。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -788,7 +1525,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI与机器人、智能制造、互联网消费、医疗与生物科技。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -825,7 +1562,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI基础设施与应用；机器人与硬件；中国创新全球化",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -857,6 +1594,43 @@
       "current_firm_case_count": 2
     },
     {
+      "id": "szvc",
+      "name": "深创投集团（Shenzhen Capital Group, SCGC）",
+      "aliases": [
+        "深创投",
+        "深圳市创新投资集团有限公司",
+        "Shenzhen Capital Group",
+        "SCGC"
+      ],
+      "organization_type": "investment_firm",
+      "focus": "信息科技、装备智造、健康产业、新材料与新能源等硬科技主战场；官网表述为“投早、投小、投长期、投硬科技”。",
+      "checked_at": "2026-11-11",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "已持续运作二十余年的成熟国资创投平台，按“先圈定金融机构、再沿 portfolio 找公司”的顺序列为已有玩家；本轮只建档与打 Tier，不新增人物与渠道搜集。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-11"
+      },
+      "json_path": "data/companies/szvc.json",
+      "markdown_path": "data/views/companies/szvc.md",
+      "group": "established",
+      "coverage_role": "main",
+      "cohort": "established",
+      "founded_year": 1999,
+      "team_names": [
+        "左丁"
+      ],
+      "stage": "以风险投资（创业投资）为核心，覆盖初创期至成长期；集团另有政府引导基金、公募基金、资产证券化与不动产业务板块。",
+      "previous_platforms": [],
+      "prior_firm_case_count": 0,
+      "current_firm_case_count": 2
+    },
+    {
       "id": "trumed",
       "name": "真脉投资 TruMed",
       "aliases": [
@@ -865,7 +1639,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "医疗健康，创新药、医疗器械、诊断与医疗服务；覆盖私募与公开市场。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -904,7 +1678,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "智能终端硬件；AI硬件；机器人",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -943,7 +1717,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "AI基础设施与应用、机器人、半导体、量子科技、能源等深科技。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -980,7 +1754,7 @@
       ],
       "organization_type": "investment_firm",
       "focus": "以人为起点的早期科技投资；AI模型、Agent、机器人、芯片等均有案例。",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "incumbent",
@@ -1020,7 +1794,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "产业模型与企业决策AI",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1104,7 +1878,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用机器人、具身模型、量产与应用生态",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1163,7 +1937,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AMR/AGV自主移动机器人，工厂物流自动化",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1178,7 +1952,7 @@
       "markdown_path": "data/views/companies/agve.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "not_found"
+      "investment_status": "partial"
     },
     {
       "id": "ai-indeed",
@@ -1189,7 +1963,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "屏幕理解与企业执行 Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1246,7 +2020,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "视频基础模型与创作者应用",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1274,7 +2048,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "企业级 AI 软件研发",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1388,7 +2162,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "科学智能与AI药物发现，覆盖生物分子结构预测、分子设计与实验反馈",
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1460,7 +2234,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "异构推理与Token生产",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1543,7 +2317,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "医疗增强模型与AI家庭医生",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1682,7 +2456,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "生命科学基础模型与蛋白质、生物系统设计",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1698,7 +2472,7 @@
       "markdown_path": "data/views/companies/biomap.md",
       "category_id": "10",
       "category_name": "科学智能与生物医药",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "biren",
@@ -1709,17 +2483,17 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用GPU与智算解决方案",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2026年1月2日在香港联交所主板上市（06082.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s07",
+          "s08"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/biren.json",
       "markdown_path": "data/views/companies/biren.md",
@@ -1738,7 +2512,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "制造业协同SaaS与工业AI Agent",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1847,7 +2621,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI天气、机器翻译与智能写作",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1962,7 +2736,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI 原生娱乐与内容 Agent 系统",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1978,7 +2752,7 @@
       "markdown_path": "data/views/companies/creativefitting.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "ctrip",
@@ -2021,7 +2795,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "企业行动智能体与超自动化",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2049,7 +2823,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI基础软件与智算云",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2077,7 +2851,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "3D 资产生成、数字人与世界生成",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2106,7 +2880,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "计算机视觉、智能机器人与自动驾驶",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2160,23 +2934,22 @@
       ],
       "organization_type": "operating_organization",
       "focus": "企业大模型、数据语义与智能体平台",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2025年10月28日在香港联交所主板上市（01384.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s09"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/deepexi.json",
       "markdown_path": "data/views/companies/deepexi.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "deepglint",
@@ -2211,7 +2984,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用与推理基础模型、开源模型与API",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2227,7 +3000,7 @@
       "markdown_path": "data/views/companies/deepseek.md",
       "category_id": "01",
       "category_name": "基础模型",
-      "investment_status": "partial"
+      "investment_status": "not_found"
     },
     {
       "id": "didi",
@@ -2267,7 +3040,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "开源LLM应用开发与Agent编排平台",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2294,7 +3067,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "科学智能基础设施、科学模型与研发工具",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2361,7 +3134,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "协作机器人（Cobot）设计制造，工业自动化与具身灵巧操作",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2387,17 +3160,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "云端AI芯片及数据中心训推系统",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2026年9月11日在上海证券交易所科创板上市（688801），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s11"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/enflame.json",
       "markdown_path": "data/views/companies/enflame.md",
@@ -2450,7 +3222,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "自适应力控机器人与灵巧手，具身智能精密装配",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2465,7 +3237,7 @@
       "markdown_path": "data/views/companies/flexiv.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "not_found"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "flowith",
@@ -2475,7 +3247,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "画布式AI创作与Agent工作空间",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2503,7 +3275,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "人形机器人与康复机器人两条业务线",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2519,7 +3291,7 @@
       "markdown_path": "data/views/companies/fourier.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "galaxea",
@@ -2530,7 +3302,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "整机、具身基础模型与开发平台",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2586,7 +3358,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用具身模型与机器人在零售、工业场景的部署",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2645,7 +3417,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "商用清洁机器人与全球运营",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2701,7 +3473,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模型协同的AI工作空间与Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2789,7 +3561,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI 数字人与智能交互",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2817,7 +3589,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI玩具、语音互动与陪伴",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3064,7 +3836,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "消费级穿戴外骨骼与户外助力",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3117,23 +3889,23 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用GPU与AI算力",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "国产通用GPU新进厂商，训练/推理产品已量产并递交港交所上市资料，算力与商业化岗位对口；列为第一波。",
+        "rationale": "公司已于2026年1月8日在香港联交所主板上市（9903.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s06",
-          "s07"
+          "s10",
+          "s11"
         ],
-        "labelled_at": "2026-11-03"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/iluvatar-corex.json",
       "markdown_path": "data/views/companies/iluvatar-corex.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "im-motors",
@@ -3145,7 +3917,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "高端智能电动车与智能驾驶/座舱",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3160,7 +3932,7 @@
       "markdown_path": "data/views/companies/im-motors.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "imed",
@@ -3205,7 +3977,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "电商内容生成与商品数字化",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3234,7 +4006,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "异构算力与AI原生基础设施",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3261,7 +4033,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "智算集群与高速算力网络",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3356,17 +4128,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "高精度激光雷达（LiDAR）传感器，自动驾驶+机器人感知",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "图达通（Seyond）为硅谷创立的图像级激光雷达公司，2025年12月10日经De-SPAC登陆港交所主板（2665），上市不足一年、仍处规模化阶段，按新进玩家处理（区别于已成规模的禾赛）。注意：草稿所写NASDAQ: INVZ为另一家公司，不适用。列为第一波。",
+        "rationale": "公司已于2025年12月10日经De-SPAC在香港联交所主板上市（2665），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s05",
-          "s06"
+          "s05"
         ],
-        "labelled_at": "2026-11-03"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/innovusion.json",
       "markdown_path": "data/views/companies/innovusion.md",
@@ -3424,23 +4195,22 @@
       ],
       "organization_type": "operating_organization",
       "focus": "生成式AI药物发现平台与自研创新药管线",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2025年12月30日在香港联交所主板上市（3696），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s09"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/insilico.json",
       "markdown_path": "data/views/companies/insilico.md",
       "category_id": "10",
       "category_name": "科学智能与生物医药",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "intellifusion",
@@ -3524,7 +4294,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "协作机器人（Cobot），工业装配/焊接/检测，具身AI布局",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3578,7 +4348,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "UI 设计协作与 AI 设计工具",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3606,7 +4376,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "协作机器人末端执行器/灵巧手，具身AI感知",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3622,7 +4392,7 @@
       "markdown_path": "data/views/companies/jundo.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "kedacom",
@@ -3677,7 +4447,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "商用服务机器人与具身AI",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3693,7 +4463,7 @@
       "markdown_path": "data/views/companies/keenon.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "kepler-robotics",
@@ -3707,7 +4477,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用人形机器人",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3722,7 +4492,7 @@
       "markdown_path": "data/views/companies/kepler-robotics.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "kinco",
@@ -3817,7 +4587,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "商业内容 AIGC 与广告创意自动化",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3833,7 +4603,7 @@
       "markdown_path": "data/views/companies/kuaizi.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "kunshan-longteng-optoelectronics",
@@ -3870,7 +4640,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "智能自动化、智能文档与数字员工",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3886,7 +4656,7 @@
       "markdown_path": "data/views/companies/laiye.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "langboat",
@@ -3898,7 +4668,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "认知模型与企业智能体",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3952,7 +4722,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "电商客服与营销 SaaS",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3980,7 +4750,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI 创意生产平台与模型社区",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3996,7 +4766,7 @@
       "markdown_path": "data/views/companies/liblib.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "lige-wanwu",
@@ -4008,7 +4778,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用具身大脑：大语言模型与具身智能结合，打通决策与运动控制",
-      "checked_at": "2026-11-09",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4036,7 +4806,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全身运动控制、具身智能与模块化足式机器人",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4065,7 +4835,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "分布式训练、推理系统与算力云",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4119,7 +4889,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用任务执行Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4145,7 +4915,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "蛋白质设计大模型、AI生物设计及干湿实验闭环",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4258,7 +5028,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI搜索、深度研究与专业文字工具",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4286,17 +5056,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全栈GPU芯片与计算平台",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2025年12月在上海证券交易所科创板上市（688802.SH），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s10"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/metax.json",
       "markdown_path": "data/views/companies/metax.md",
@@ -4316,16 +5085,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "手术机器人",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
-        "wave": "watchlist",
-        "rationale": "微创系手术机器人独立上市平台，2024年收入高增但仍亏损，属于有新进边界的子平台；先列观察。",
+        "wave": "first",
+        "rationale": "公司已于2021年11月2日在香港联交所主板上市（02252.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s04"
+          "s07"
         ],
-        "labelled_at": "2026-11-03"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/microport-medbot.json",
       "markdown_path": "data/views/companies/microport-medbot.md",
@@ -4368,23 +5137,23 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模态基础模型与全球消费应用",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2026年1月9日在香港联交所主板上市（00100.HK，MINIMAX-W），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s06",
+          "s07"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/minimax.json",
       "markdown_path": "data/views/companies/minimax.md",
       "category_id": "01",
       "category_name": "基础模型",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "modelbest",
@@ -4396,7 +5165,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "高效端侧模型与多模态",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4480,7 +5249,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用模型、个人助手与代码Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4506,17 +5275,17 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全功能GPU与软件生态",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2025年12月5日在上海证券交易所科创板上市（688795.SH），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s08",
+          "s09"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/moore-threads.json",
       "markdown_path": "data/views/companies/moore-threads.md",
@@ -4593,7 +5362,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "以力为中心的具身基础模型与通用机器人大脑",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4648,7 +5417,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "乘用车智能驾驶方案",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4733,7 +5502,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "法律 AI 与合同全生命周期管理",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4749,7 +5518,7 @@
       "markdown_path": "data/views/companies/powerlaw.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "qianjing-rehabilitation",
@@ -4790,7 +5559,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "国产算力系统软件与推理评测路由",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4906,7 +5675,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全球消费者互动与客服/语音 Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4935,7 +5704,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "仓储AMR与智能物流",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4963,7 +5732,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "销售智能与对话分析",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4979,7 +5748,7 @@
       "markdown_path": "data/views/companies/recurrent-ai.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "robotera",
@@ -4991,7 +5760,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全栈人形机器人、灵巧手与具身模型",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5210,7 +5979,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "消费电子、AI眼镜与智能穿戴",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5238,7 +6007,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "视频生成与世界模型",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5267,7 +6036,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模型API与多云算力服务、企业AI网关，以及LoomLoom工作流规模化执行与交易平台",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5326,7 +6095,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "客户服务 Agent 与 VOC 消费者洞察",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5409,7 +6178,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模型API、推理服务与私有化MaaS",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5501,7 +6270,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "具身大模型、数据与通用机器人",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5557,7 +6326,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模态基座模型与AI终端",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5573,7 +6342,7 @@
       "markdown_path": "data/views/companies/stepfun.md",
       "category_id": "01",
       "category_name": "基础模型",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "synyi",
@@ -5586,7 +6355,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "医疗AI：临床数据平台与医疗大模型",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5613,7 +6382,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "TikTok 电商数据与视频内容 SaaS",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5640,7 +6409,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "物理AI、通用具身模型及软硬一体机器人",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5666,7 +6435,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全球效果营销与 AI 广告内容",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5682,7 +6451,7 @@
       "markdown_path": "data/views/companies/tec-do.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "tencent",
@@ -5746,7 +6515,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "医疗场景服务机器人",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5773,7 +6542,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "主动式个人Agent与长期记忆",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5948,7 +6717,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "L4/L3商用车自动驾驶与港口物流",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5964,7 +6733,7 @@
       "markdown_path": "data/views/companies/udit.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "partial"
+      "investment_status": "not_found"
     },
     {
       "id": "uii",
@@ -5976,7 +6745,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "医学影像AI与影像大模型",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6005,7 +6774,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "工业与消费级外骨骼机器人",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6020,7 +6789,7 @@
       "markdown_path": "data/views/companies/uls-robotics.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "unisoc",
@@ -6085,17 +6854,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "消费级与行业级足式、人形机器人本体",
-      "checked_at": "2026-11-09",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2026年8月19日在上海证券交易所科创板上市（688836），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s10"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/unitree.json",
       "markdown_path": "data/views/companies/unitree.md",
@@ -6146,7 +6914,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "3D 生成基础模型与创作工作台",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6200,7 +6968,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI办公耳机、录音转写及会议智能",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6228,7 +6996,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "港口与物流自动驾驶、AI调度",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6243,7 +7011,7 @@
       "markdown_path": "data/views/companies/westwell.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "winverse-ai",
@@ -6255,7 +7023,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "机器人具身大脑与世界模型（不做整机；隐身模式）",
-      "checked_at": "2026-11-09",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6320,7 +7088,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "端到端具身基础模型及通用机器人",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6347,7 +7115,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "客服 AI、商家服务与语流 Agent",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6431,7 +7199,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "3D 数字人视频、直播与交互智能体",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6459,17 +7227,16 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI、量子物理与自动化实验支撑药物及材料研发",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2024年6月13日在香港联交所主板上市（2228.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s11"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/xtalpi.json",
       "markdown_path": "data/views/companies/xtalpi.md",
@@ -6488,7 +7255,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "大语言模型（XVERSE系列基础模型）研发与商业化落地",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6503,7 +7270,7 @@
       "markdown_path": "data/views/companies/xverse.md",
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
-      "investment_status": "not_found"
+      "investment_status": "partial"
     },
     {
       "id": "yingdao",
@@ -6516,7 +7283,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "RPA、AI 工作流与数字员工",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6532,7 +7299,7 @@
       "markdown_path": "data/views/companies/yingdao.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
-      "investment_status": "confirmed_disclosure"
+      "investment_status": "partial"
     },
     {
       "id": "yitu",
@@ -6606,23 +7373,22 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用基座模型、模型服务与智能体",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-11",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
         "wave": "first",
-        "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+        "rationale": "公司已于2026年1月8日在香港联交所主板上市（02513.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
         "source_ids": [
-          "s01",
-          "s02"
+          "s13"
         ],
-        "labelled_at": "2026-10-31"
+        "labelled_at": "2026-11-11"
       },
       "json_path": "data/companies/zhipu.json",
       "markdown_path": "data/views/companies/zhipu.md",
       "category_id": "01",
       "category_name": "基础模型",
-      "investment_status": "partial"
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "zpmc",

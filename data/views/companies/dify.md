@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/dify.json)
 
-机构／项目 ID：`dify` · 主赛道：03 开发平台与编程工具 · 核查日期：2026-10-30
+机构／项目 ID：`dify` · 主赛道：03 开发平台与编程工具 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@ Dify Workflow、Agent、RAG、模型管理、企业版
 
 ## 投资背景
 
-官网2026年Pre-A公告：3000万美元由HSG领投，GL Ventures、Alt-Alpha、5Y、Mizuho Leaguer、NYX参与。原表阿里云/绿洲/线性等未据该公告证实。
+2026-03-10官方公告：完成3000万美元Pre-A轮，由HSG领投，GL Ventures、Alt-Alpha Capital、5Y Capital、Mizuho Leaguer Investment、NYX Ventures参投；5Y为老股东加注。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -54,6 +54,15 @@ Dify Workflow、Agent、RAG、模型管理、企业版
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 张路宇（Luyu Zhang） | 创始人兼CEO | Dify（LangGenius, Inc.）创始人兼CEO；个人主页称其为第二次创业（首次创业始于2018年），公司2023年成立。 | confirmed / 2026-11-11 / s05,s06 | [personal_site](https://luyu.us/) (confirmed, s05,s06) · [linkedin](https://www.linkedin.com/in/luyu-zhang/) (partial, s05) · [x](https://x.com/goocarlos) (partial, s05) · [github](https://github.com/goocarlos) (confirmed, s07,s08) | 身份以本人主页与 LangGenius 官方新闻交叉确认；公司未设公开团队页。 |
+| John Wang | 联合创始人、首席工程师 | Dify 联合创始人兼首席工程师（Chief Engineer），负责技术架构与实现；此前长期从事互联网产品与后端/数据库工程。 | partial / 2026-11-11 / s09 | [linkedin](https://cn.linkedin.com/in/john-wang-takatost) (partial, s09) | 仅有 LinkedIn 档案一处来源；未找到公司官方页面或媒体报道独立确认其当前职务。 |
+
 ## 核查备注
 
 更正原表“苏州总部”：当前官方招聘页标Menlo Park HQ，苏州Engineering、上海GTM；苏州语灵仅是原表中国主体称呼，不能等同全球总部。
@@ -62,7 +71,12 @@ Dify Workflow、Agent、RAG、模型管理、企业版
 
 | 来源 ID | 页面 | 支持内容 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- |
-| s01 | [Dify官方融资公告](https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents) | 2026年Pre-A投资方 | 2026-03 | 2026-10-30 |
+| s01 | [Dify官方融资公告](https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents) | 2026年Pre-A投资方 | 2026-03 | 2026-11-11 |
 | s02 | [Dify官方招聘](https://join.dify.ai/) | joinus邮箱、城市、总部与岗位 | 未标明 | 2026-10-30 |
 | s03 | [Dify官方伙伴计划](https://dify.ai/partners) | business邮箱与服务伙伴定位 | 未标明 | 2026-10-30 |
 | s04 | [「Dify招聘」-BOSS直聘](https://www.zhipin.com/gongsi/0add7ea9160d6a401XN_2Nq5GFU~.html) | 公开企业主页主体：Dify；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s05 | [Luyu Zhang 个人主页](https://luyu.us/) | 个人主页标注 Founder & CEO, Langgenius, Inc. / Dify.AI，并链接其 X、LinkedIn、GitHub 账号。 | 未标明 | 2026-11-11 |
+| s06 | [株式会社LangGenius 新闻：日本法人代表取締役社长就任](https://langgenius.co.jp/news/new-president-gen-watanabe/) | 官方新闻引述 LangGenius, Inc. CEO Luyu Zhang 的评论。 | 未标明 | 2026-11-11 |
+| s07 | [GitHub API：用户 goocarlos](https://api.github.com/users/goocarlos) | API 返回 type=User、name=Luyu Zhang、company=@langgenius。 | 未标明 | 2026-11-11 |
+| s08 | [GitHub 账号 goocarlos](https://github.com/goocarlos) | 个人账号主页，与个人主页 luyu.us 链接的 GitHub 账号一致。 | 未标明 | 2026-11-11 |
+| s09 | [LinkedIn：John Wang（Dify 联合创始人）](https://cn.linkedin.com/in/john-wang-takatost) | 档案自述为 Dify.AI Co-founder / Chief Engineer。 | 未标明 | 2026-11-11 |

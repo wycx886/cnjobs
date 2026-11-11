@@ -8,6 +8,10 @@
     "百图生科"
   ],
   "category_id": "10",
+  "founded": {
+    "year": 2020,
+    "basis": "36氪项目库工商信息：百图生科（北京）智能技术有限公司成立时间2020-08-24。"
+  },
   "focus": "生命科学基础模型与蛋白质、生物系统设计",
   "products": "xTrimo体系；生命科学AI模型与蛋白设计平台",
   "locations_text": "北京、苏州、香港、硅谷",
@@ -19,8 +23,96 @@
     ]
   },
   "investment": {
-    "summary": "由李彦宏等发起。36氪记录2021年A轮亿级美元融资，投资方包括纪源资本、百度、君联资本、蓝驰创投、真知创投、襄禾资本、李彦宏；未将商业合作额记作股权融资。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "由李彦宏等发起（工商成立2020-08-24）。36氪项目库记录2021-07 A轮亿级美元，投资方为纪源资本、百度、君联资本、蓝驰创投、真知创投、襄禾资本、李彦宏；2024-06战略融资投资方为港投公司，金额未披露。未将商业合作额（如NewCo交易现金价款）记作股权融资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2021-07",
+        "amount_text": "亿级美元",
+        "investors": [
+          {
+            "name": "纪源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "百度",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "君联资本",
+            "firm_id": "legend-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "真知创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "襄禾资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "李彦宏",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪项目库融资表；原表未区分领投与跟投。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2024-06",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "港投公司",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪项目库记为战略融资，金额未披露。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.biomap.com/",
@@ -30,7 +122,7 @@
     "other_email_purpose": "一般咨询"
   },
   "notes": "官网当前明确列talent@biomap.com；hr@biomap.com亦见历史招聘材料，但优先使用官网当前邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -73,6 +165,24 @@
       "supports": "公开企业主页主体：百图生科BioMap；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "经济观察报对话百图生科CEO刘维（腾讯新闻转载）",
+      "url": "https://news.qq.com/rain/a/20261021A0EIME00",
+      "supports": "称刘维为百图生科联合创始人、CEO：有18年早期投资经历，曾任联想之星合伙人、百度风投创始CEO，2020年与百度创始人李彦宏联合创办百图生科。",
+      "published_date": "2026-10-21",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "百度百科·百图生科",
+      "url": "https://baike.baidu.com/item/%E7%99%BE%E5%9B%BE%E7%94%9F%E7%A7%91/53860347",
+      "supports": "2020年9月成立，李彦宏作为牵头发起人，BV百度风投CEO刘维作为联合创始人担任CEO；条目另记载李彦宏任董事长。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -128,6 +238,41 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "刘维",
+      "role": "联合创始人、CEO",
+      "background": "剑桥大学政策管理硕士、电子科技大学工学学士；2003年进入早期技术投资领域，曾任联想之星合伙人（2011年起系统投资人工智能），后任百度集团副总裁、百度风投（BV）创始CEO；2020年与李彦宏联合创办百图生科，从生命科学基础大模型切入AI制药，主张做上游模型与工具提供方。",
+      "previous_firms": [
+        "联想之星",
+        "百度风投（BV）",
+        "百度集团"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "媒体访谈与百科条目一致记载其联合创始人兼CEO身份；未取得其本人可核实的公开职业主页。"
+    },
+    {
+      "name": "李彦宏",
+      "role": "牵头发起人、董事长",
+      "background": "百度创始人、董事长兼CEO；2020年牵头发起百图生科并出任董事长，公司由其与刘维联合创办。",
+      "previous_firms": [
+        "百度"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "董事长身份依据百科条目与2026年3月港股IPO报道；另有2025年股权变更报道称其退出百图生科股东行列（属股权而非职务），其当前职务未获公司官方页面直接确认，故标记 partial。"
     }
   ]
 }

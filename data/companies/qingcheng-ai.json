@@ -22,8 +22,128 @@
     ]
   },
   "investment": {
-    "summary": "2026年10月A轮由中国电信、瀚晖资本联合领投；星连资本追加，华胜天成、建信（北京）投资、直真科技、商汤等跟投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-01 Pre-A轮由北京市人工智能产业投资基金、中科创星、考拉基金投资；2026-10 A轮由中国电信、瀚晖资本联合领投，星连资本追加，领阳投资、华胜天成、建信（北京）投资、直真科技、商汤科技、苏州毅鸣跟投。两轮金额均未披露。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-01-20",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": "casstar",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "考拉基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "36氪快讯，未披露金额。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2026-10",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "中国电信",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "瀚晖资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "领阳投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "华胜天成",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "建信（北京）投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "直真科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "商汤科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "苏州毅鸣",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "投资界报道未披露金额；日期按报道月份记录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.qc-ai.cn/",
@@ -33,7 +153,7 @@
     "other_email_purpose": "商务合作邮箱"
   },
   "notes": "招聘邮箱为2024年公开企业招聘资料，建议同时核对官网加入我们入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -84,6 +204,60 @@
       "supports": "公开企业主页主体：北京清程极智科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "清华大学：自带“冠军基因”的团队想让国产芯片“跑起来”",
+      "url": "https://www.tsinghua.edu.cn/info/1182/126814.htm",
+      "supports": "2023年12月，清华大学计算机系高性能计算研究所的年轻人创立清程极智，清华大学教授翟季冬担任首席科学家。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "百度百科·汤雄超",
+      "url": "https://baike.baidu.com/item/%E6%B1%A4%E9%9B%84%E8%B6%85/69364885",
+      "supports": "汤雄超为清程极智创始人兼CEO；2013年获清华大学工学学士、2019年获工学博士；2019年加入深信服，2022年加入字节跳动任高级研发工程师，2023年12月成立清程极智。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "搜狐：清程极智｜汤雄超：在算力革命中架起智能桥梁",
+      "url": "https://www.sohu.com/a/933117821_121697575",
+      "supports": "称汤雄超为清程极智CEO，清华计算机系学士（2013）与博士（2019），研究并行程序性能分析、资源调度与异构计算。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "搜狐：清华系AI明星创企清程极智再获过亿元融资",
+      "url": "https://www.sohu.com/a/913777303_100032554",
+      "supports": "报道称2023年底清华计算机系团队创办清程极智，清华大学计算机系长聘教授翟季冬出任首席科学家（曾带领清华超算团队获十余个世界冠军）。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "投资界：清程极智完成A轮融资，深耕国产算力软硬协同",
+      "url": "https://news.pedaily.cn/202610/570337.shtml",
+      "supports": "2026年10月完成A轮：中国电信、瀚晖资本联合领投，老股东星连资本追加，领阳投资、华胜天成、建信（北京）投资、直真科技、商汤科技、苏州毅鸣跟投；未披露金额。",
+      "published_date": "2026-10-15",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "organization",
+      "title": "36氪：“清程极智”宣布完成Pre-A轮融资",
+      "url": "https://eu.36kr.com/zh/newsflashes/3130687159949576",
+      "supports": "2025年1月20日报道完成Pre-A轮，投资方为北京市人工智能产业投资基金、中科创星、考拉基金；未披露金额。",
+      "published_date": "2025-01-20",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -140,5 +314,42 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "汤雄超",
+      "role": "创始人兼CEO",
+      "background": "清华大学计算机科学与技术系工学学士（2013）、工学博士（2019）；毕业后加入深信服，2022年加入字节跳动任高级研发工程师；2023年12月创立清程极智并任CEO，专注国产算力系统软件与AI Infra。",
+      "previous_firms": [
+        "深信服",
+        "字节跳动"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科与媒体专访一致；清华官网报道亦确认其为团队CEO。"
+    },
+    {
+      "name": "翟季冬",
+      "role": "首席科学家",
+      "background": "清华大学计算机科学与技术系长聘教授、博士生导师，清华大学超算团队指导教师（多次率队获世界冠军）；2023年12月起任清程极智首席科学家，负责技术路线。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "清华大学官网报道明确其首席科学家身份，媒体融资报道口径一致。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "清华大学官网与投资界均称公司于2023年（12月）成立；此前资料另记2023年12月。"
+  }
 }

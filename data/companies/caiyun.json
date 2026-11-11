@@ -7,6 +7,10 @@
     "彩云科技AI"
   ],
   "category_id": "04",
+  "founded": {
+    "year": 2014,
+    "basis": "公司官网招聘页称“彩云科技于2014年成立以来，已发展了10年”。"
+  },
   "focus": "AI天气、机器翻译与智能写作",
   "products": "彩云天气、彩云小译、彩云小梦、天气/翻译API",
   "locations_text": "北京、上海",
@@ -20,8 +24,134 @@
     ]
   },
   "investment": {
-    "summary": "公司招聘页确认2021年B1；创始人采访披露天使来自云天使/宽带资本、A1五源、A2快手、B1大湾区共同家园基金。",
-    "verification_status": "partial"
+    "summary": "官网招聘页称2014年成立、2021年完成B1轮；36氪报道公司共进行5轮正式融资：天使轮来自云天使基金与宽带资本，A1轮五源资本（估值3000万美元），A2轮快手（投前估值6000万美元），B1轮大湾区共同家园基金（2021年），B2轮宿华个人（投前估值1.2亿美元）。各轮金额均未披露，故金额留空。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "袁行远及朋友、同学",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "36氪报道：种子轮由创始人袁行远及其朋友、同学提供，未披露时间与金额。"
+      },
+      {
+        "round": "天使",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "云天使基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "宽带资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "报道称“首笔机构的天使轮融资”来自田溯宁云天使基金、宽带资本；未披露时间与金额。"
+      },
+      {
+        "round": "A1",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "报道口径：A1轮由五源资本投资，估值3000万美元；未披露时间与金额。"
+      },
+      {
+        "round": "A2",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "快手",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "报道口径：A2轮由快手投资，投前估值6000万美元；未披露时间与金额。"
+      },
+      {
+        "round": "B1",
+        "announced_on": "2021",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "大湾区共同家园基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08",
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08",
+          "s02"
+        ],
+        "notes": "官网招聘页称“于2021年完成了B1轮融资”；36氪报道B1轮来自大湾区（家园）共同基金。未披露月份与金额。"
+      },
+      {
+        "round": "B2",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "宿华",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "报道口径：B2轮为宿华个人投资，投前估值1.2亿美元；未披露时间与金额。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.caiyunapp.com/",
@@ -31,7 +161,7 @@
     "other_email_purpose": "开放平台邮箱（非招聘）"
   },
   "notes": "产品横跨多个赛道；建议加行业AI/消费应用标签，不把气象业务硬塞进AI搜索。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +204,32 @@
       "supports": "公开企业主页主体：彩云科技AI；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "钛媒体：对话彩云科技CEO袁行远：10年AI狂飙，中国大模型发展不应只有OpenAI一条路",
+      "url": "https://www.tmtpost.com/baidu/7334360.html",
+      "supports": "彩云科技联合创始人、CEO袁行远；曾在阿里巴巴从事算法工作；主导彩云天气、彩云小译、彩云小梦。",
+      "published_date": "2024-11-17",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "搜狐转载钛媒体：对话彩云科技CEO袁行远（同一采访的转载版本）",
+      "url": "https://www.sohu.com/a/827522938_116132",
+      "supports": "转载文本同样称袁行远为彩云科技联合创始人、CEO，并载其阿里巴巴算法工作经历。",
+      "published_date": "2024-11-17",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "36氪：宿华，投了一个“水下”AI项目",
+      "url": "https://www.36kr.com/p/2796715314507395",
+      "supports": "梳理彩云科技5轮正式融资：天使轮云天使基金/宽带资本、A1五源资本、A2快手、B1大湾区共同家园基金、B2宿华个人，并给出相应估值口径。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -129,6 +285,24 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "袁行远",
+      "role": "联合创始人兼CEO",
+      "background": "彩云科技联合创始人、CEO；曾在阿里巴巴从事算法工作，主导彩云天气、彩云小译、彩云小梦等消费级AI产品。",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色与履历据2024年11月钛媒体专访；两条来源为同一采访的原发与转载版本，独立性有限。未找到可核实的本人LinkedIn/X主页。"
     }
   ]
 }

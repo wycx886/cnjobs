@@ -19,8 +19,37 @@
     ]
   },
   "investment": {
-    "summary": "36氪确认2022年数千万元天使轮峰瑞资本领投、嘉程资本跟投。未取得原表高瓴、线性、碧桂园创投参与证据。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2022年完成数千万元天使轮，峰瑞资本领投，嘉程资本跟投。未取得高瓴、线性、碧桂园创投参与的证据。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2022",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "峰瑞资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "嘉程资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪2022-12-15报道完成天使轮；36氪项目库将融资时间记为2022-09，日期仅记年份。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.tabcut.com/",
@@ -30,7 +59,7 @@
     "other_email_purpose": "产品客服"
   },
   "notes": "更正投资方；未将工商记录huahua@tabcut.com认定为招聘邮箱。；未查到通用公开投递邮箱。；第三方公司招聘页，岗位开放状态以平台实时显示为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -72,6 +101,24 @@
       "supports": "公开企业主页主体：特看科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "title": "36氪首发 | 获数千万天使轮融资，「特看科技」用AI+数据打造视频生产SaaS平台",
+      "url": "https://www.36kr.com/p/2042191495597312",
+      "supports": "报道称特看科技成立于2022年6月，创始人兼CEO吴春松（花名乐乘）为前阿里资深产品专家、阿里巴巴智能设计实验室负责人；联合创始人兼CTO陈炳辉为前阿里资深技术专家、UC浏览器内核技术负责人。",
+      "published_date": "2022-12-15",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "特看科技创始人&CEO吴春松确认出席2024（深圳）CCEE雨果跨境展_跨境魔方",
+      "url": "https://www.upkuajing.com/knowledge/zixun/12155",
+      "supports": "活动信息页标题与正文标注“特看科技创始人&CEO吴春松”，并介绍其 TikTok 电商数据工具 tabcut.com 与数字人直播业务。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -110,5 +157,43 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "吴春松（乐乘）",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "background": "前阿里巴巴资深产品专家，曾任阿里巴巴智能设计实验室负责人，主导 AI 设计平台“鲁班”，后负责淘宝内容工具并孵化商家短视频工具“亲拍”。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪融资报道确认身份、花名与职务；未找到可核实的个人主页。"
+    },
+    {
+      "name": "陈炳辉",
+      "role": "联合创始人兼CTO",
+      "previous_firms": [
+        "阿里巴巴",
+        "UC"
+      ],
+      "background": "前阿里巴巴资深技术专家，曾任 UC 浏览器内核技术负责人、淘宝内容中台视频生产播放技术负责人。",
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅同一篇36氪报道确认联合创始人兼CTO身份，未取得第二处独立材料；无个人主页。"
+    }
+  ],
+  "founded": {
+    "year": 2022,
+    "basis": "36氪报道与项目库均记公司成立于2022年6月（工商成立时间2022-06-08）。"
+  }
 }

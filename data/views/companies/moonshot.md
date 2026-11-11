@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/moonshot.json)
 
-机构／项目 ID：`moonshot` · 主赛道：01 基础模型 · 核查日期：2026-10-30
+机构／项目 ID：`moonshot` · 主赛道：01 基础模型 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@ Kimi、Kimi Code、模型API
 
 ## 投资背景
 
-2024年2月融资公开报道列阿里、小红书、美团、红杉等；后续轮次与原表估值范围未在本轮逐项核定。
+36氪项目库列 2024-08 B 轮（超 3 亿美元）至 2026-06 D+ 轮，投资方含阿里、腾讯、高榕、五源、IDG、美团龙珠、中国移动等；更早的 2023 首轮与 2024 年初融资未逐项写入，非完整股东名单。
 
 **披露状态：** 部分核验。
 
@@ -54,6 +54,16 @@ Kimi、Kimi Code、模型API
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 杨植麟 | 创始人兼CEO | 清华大学计算机系本科（师从唐杰），2019年获卡内基梅隆大学计算机博士（导师Ruslan Salakhutdinov、William W. Cohen），曾在Meta AI、Google Brain工作，Transformer-XL、XLNet作者之一；2023年3月创立月之暗面并任CEO，主导Kimi系列模型。；原平台：Google Brain、Meta AI、卡内基梅隆大学 | confirmed / 2026-11-11 / s06,s09,s10 | [personal_site](https://kimiyoung.github.io/) (confirmed, s06,s09) · [github](https://github.com/kimiyoung) (confirmed, s07,s08) | 英文维基信息框直接标注 Yang Zhilin 为CEO兼创始人，中文维基记创办人为杨植麟；个人主页确认同名同履历。 |
+| 周昕宇 | 联合创始人 | 清华大学交叉信息研究院背景，2023年3月与杨植麟、吴育昕等共同创立月之暗面。 | confirmed / 2026-11-11 / s09,s10 | 暂未收录公开主页 | 中英文维基条目均将 Zhou Xinyu/周昕宇列为创始团队成员；未见具体职务分工的独立来源。 |
+| 吴育昕 | 联合创始人 | 清华大学交叉信息研究院背景，2023年3月与杨植麟、周昕宇等共同创立月之暗面。 | confirmed / 2026-11-11 / s09,s10 | 暂未收录公开主页 | 中英文维基条目均将 Wu Yuxin/吴育昕列为创始团队成员；未见具体职务分工的独立来源。 |
+
 ## 核查备注
 
 未查到可核验的公开招聘投递邮箱；优先使用招聘入口。
@@ -67,3 +77,9 @@ Kimi、Kimi Code、模型API
 | s03 | [每经：月之暗面融资](https://www.nbd.com.cn/articles/2024-02-19/3247754.html) | 2024年2月历史投资方 | 2024-02-19 | 2026-10-30 |
 | s04 | [官方Kimi Code仓库招聘帖](https://github.com/MoonshotAI/kimi-code/issues/2628) | 代码Agent与北京/上海 | 未标明 | 2026-10-30 |
 | s05 | [月之暗面招聘-BOSS直聘 公司页(工商信息已核对)](https://www.zhipin.com/gongsi/f0fe9220123c051b03152d-4FVI~.html) | 公开企业主页主体：月之暗面；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s06 | [Zhilin Yang 个人主页（kimiyoung.github.io）](https://kimiyoung.github.io/) | 杨植麟（Zhilin Yang）个人主页：2019年卡内基梅隆大学计算机博士，2015年清华大学本科（导师唐杰），曾在Meta AI与Google Brain工作，自述“working on a startup”；页面链接其GitHub与Google Scholar。 | 未标明 | 2026-11-11 |
+| s07 | [GitHub 个人账号 kimiyoung](https://github.com/kimiyoung) | 个人GitHub账号，托管Transformer-XL、Planetoid等项目，与个人主页所链账号一致。 | 未标明 | 2026-11-11 |
+| s08 | [GitHub API：/users/kimiyoung 实测返回](https://api.github.com/users/kimiyoung) | 接口实测返回 login=kimiyoung、name=Zhilin Yang、type=User、blog=http://kimiyoung.github.io/，确认是个人账号而非组织账号。 | 未标明 | 2026-11-11 |
+| s09 | [月之暗面（公司）（中文维基百科条目）](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2_(%E5%85%AC%E5%8F%B8)) | 条目记“创办人 杨植麟”“代表人物 杨植麟、周昕宇和吴育昕”，公司由清华大学交叉信息研究院的杨植麟、周昕宇和吴育昕等人于2023年3月创立。 | 未标明 | 2026-11-11 |
+| s10 | [Moonshot AI（English Wikipedia）](https://en.wikipedia.org/wiki/Moonshot_AI) | 信息框记 Founders: Yang Zhilin, Zhou Xinyu, Wu Yuxin；Key people: Yang Zhilin (CEO)。 | 未标明 | 2026-11-11 |
+| s11 | [36氪项目库｜月之暗面](https://pitchhub.36kr.com/project/2298265962431748) | 融资历史：2024-08 B 轮超 3 亿美元、2025-12 C 轮 5 亿美元、2026-02 C+ 轮超 7 亿美元、2026-05 D 轮 20 亿美元、2026-06 D+ 轮及各自投资方 | 未标明 | 2026-11-11 |

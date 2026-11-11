@@ -8,6 +8,10 @@
     "北京极睿科技有限责任公司"
   ],
   "category_id": "07",
+  "founded": {
+    "year": 2017,
+    "basis": "36氪2019年报道称极睿科技成立于2017年；官网大事记亦以2017年为成立年。"
+  },
   "focus": "电商内容生成与商品数字化",
   "products": "PhotoMagic、ECPro、iClip；商品图文和短视频",
   "locations_text": "北京、杭州、广州等",
@@ -19,8 +23,146 @@
     ]
   },
   "investment": {
-    "summary": "官网大事记确认2020年红杉A轮、2022年B轮，官网当前简介融资标签与大事记存在B/C轮不一致，故不主张最新轮次。",
-    "verification_status": "partial"
+    "summary": "官网大事记载2017年成立、2018年天使轮、2019年Pre-A、2020年A轮、2022年B轮、2024年C轮；公开报道的A轮为2019年10月（红杉领投），B轮为2023年11月（顺为），2025年2月完成亿元级B系列多轮。官网融资阶段与大事记存在B/C轮不一致，不主张最新轮次。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2018",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "undisclosed",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "36氪称曾获金沙江创投天使轮；具体日期与金额未披露。官网大事记亦记2018年天使轮。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2019",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "魔量资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "36氪在A轮报道中回溯Pre-A轮；官网大事记记2019年。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2019-10-16",
+        "amount_text": "亿元级",
+        "investors": [
+          {
+            "name": "红杉资本中国基金",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "图灵创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "官网大事记将A轮记为2020年，与报道年份不一致，按报道日期记录。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2023-11-14",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网大事记将B轮记为2022年，与报道年份不一致。"
+      },
+      {
+        "round": "B系列",
+        "announced_on": "2025-02-25",
+        "amount_text": "亿元级",
+        "investors": [
+          {
+            "name": "用友产投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "百度",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "红蜻蜓",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "卓源亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09",
+          "s10"
+        ],
+        "notes": "来源称「B系列多轮」，未拆分为单轮、未给字母序号；官网另有2024年C轮表述，未见对应披露，故不写入C轮。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.infimind.com/",
@@ -29,8 +171,8 @@
     "other_email": "liwei@infimind.com",
     "other_email_purpose": "商务合作"
   },
-  "notes": "hr@infimind.com来自旗下旧品牌AIFashion产品页页脚“求职”，属历史公开邮箱；不是现行招聘系统，careersUrl留空。官网融资阶段B/C自身不一致，未扩大断言。",
-  "checked_at": "2026-10-30",
+  "notes": "hr@infimind.com来自旗下旧品牌AIFashion产品页页脚「求职」，属历史公开邮箱；不是现行招聘系统，careersUrl留空。官网融资阶段B/C自身不一致，未扩大断言；官网大事记与媒体报道的A/B轮年份不一致，rounds 采用报道日期并注明。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -56,6 +198,69 @@
       "supports": "公开企业主页主体：北京极睿科技有限责任公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s04",
+      "title": "时代面孔 | 极睿科技武彬：用AI改变世界的“钢铁侠”_澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30847906",
+      "supports": "报道称武彬为极睿科技创始人，清华计算机系本硕，从程序员成长为企业家，公司以 AI 生成电商内容为主要业务。",
+      "published_date": "2025-07-30",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s05",
+      "title": "AI领域必追的「技术+商业」双料导师：极睿科技武彬的硬核知识输出法则-阿里云开发者社区",
+      "url": "https://developer.aliyun.com/article/1691295",
+      "supports": "文章称武彬为极睿科技创始人兼CEO，清华计算机系本硕，有十余年 AI 创业经验。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "36氪：用AI提升线上线下购物体验，极睿科技从时尚领域切入",
+      "url": "https://www.36kr.com/p/1722644873217",
+      "supports": "称极睿科技曾获金沙江创投天使轮融资，公司成立于2017年。",
+      "published_date": "2018-07-12",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "36氪：极睿科技获红杉领投的亿元级A轮融资",
+      "url": "https://www.36kr.com/p/1724478111745",
+      "supports": "称完成亿元级A轮，红杉资本中国基金领投、图灵创投跟投；此前获金沙江创投、魔量资本数千万元Pre-A轮。",
+      "published_date": "2019-10-16",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "36氪：极睿科技获顺为B轮融资",
+      "url": "https://www.36kr.com/p/2514166173913345",
+      "supports": "称完成数千万美元B轮融资，投资方为顺为资本，浅月资本任独家财务顾问。",
+      "published_date": "2023-11-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "新浪财经（投资界）：极睿科技完成亿元级B系列多轮融资",
+      "url": "https://finance.sina.com.cn/jjxw/2025-02-25/doc-inemrzsp1520891.shtml",
+      "supports": "称连续完成亿元级B系列多轮融资，投资方包括用友产投、百度、红蜻蜓、卓源亚洲。",
+      "published_date": "2025-02-25",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "指数资本：极睿科技连续完成B系列多轮融资",
+      "url": "https://www.indexvc.com/service/trade/8456.html",
+      "supports": "财务顾问官网载同一「亿元级B系列多轮融资」及投资方名单。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -93,6 +298,22 @@
         "s03"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "武彬",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "清华大学计算机系本科及人工智能实验室硕士；2019年入选福布斯中国30位30岁以下精英榜。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "澎湃人物报道确认创始人身份；CEO 职务见公司对外宣传与多家媒体，未找到可核实个人主页。"
     }
   ]
 }

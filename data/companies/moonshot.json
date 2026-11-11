@@ -21,8 +21,249 @@
     ]
   },
   "investment": {
-    "summary": "2024年2月融资公开报道列阿里、小红书、美团、红杉等；后续轮次与原表估值范围未在本轮逐项核定。",
-    "verification_status": "partial"
+    "summary": "36氪项目库列 2024-08 B 轮（超 3 亿美元）至 2026-06 D+ 轮，投资方含阿里、腾讯、高榕、五源、IDG、美团龙珠、中国移动等；更早的 2023 首轮与 2024 年初融资未逐项写入，非完整股东名单。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2024-08",
+        "amount_text": "超3亿美元",
+        "investors": [
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "三七互娱创投基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。更早的 2023 首轮与 2024 年初融资见媒体报道，本轮未写入。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-12",
+        "amount_text": "5亿美元",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "Lollapalooza Capital",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "C+",
+        "announced_on": "2026-02",
+        "amount_text": "超7亿美元",
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "九安医疗",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2026-05",
+        "amount_text": "20亿美元",
+        "investors": [
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "中国移动",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "中信产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "36氪项目库融资历史；原文未单列领投方。"
+      },
+      {
+        "round": "D+",
+        "announced_on": "2026-06",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "华民投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "国寿长三角科创基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "开开门投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "临港前沿投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "君和资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "项目库记金额「未透露」。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.moonshot.cn/",
@@ -32,7 +273,7 @@
     "other_email_purpose": "官网一般联系/增长邮箱（未明确招聘）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -74,6 +315,59 @@
       "supports": "公开企业主页主体：月之暗面；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "Zhilin Yang 个人主页（kimiyoung.github.io）",
+      "url": "https://kimiyoung.github.io/",
+      "supports": "杨植麟（Zhilin Yang）个人主页：2019年卡内基梅隆大学计算机博士，2015年清华大学本科（导师唐杰），曾在Meta AI与Google Brain工作，自述“working on a startup”；页面链接其GitHub与Google Scholar。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "GitHub 个人账号 kimiyoung",
+      "url": "https://github.com/kimiyoung",
+      "supports": "个人GitHub账号，托管Transformer-XL、Planetoid等项目，与个人主页所链账号一致。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "GitHub API：/users/kimiyoung 实测返回",
+      "url": "https://api.github.com/users/kimiyoung",
+      "supports": "接口实测返回 login=kimiyoung、name=Zhilin Yang、type=User、blog=http://kimiyoung.github.io/，确认是个人账号而非组织账号。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "月之暗面（公司）（中文维基百科条目）",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2_(%E5%85%AC%E5%8F%B8)",
+      "supports": "条目记“创办人 杨植麟”“代表人物 杨植麟、周昕宇和吴育昕”，公司由清华大学交叉信息研究院的杨植麟、周昕宇和吴育昕等人于2023年3月创立。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "Moonshot AI（English Wikipedia）",
+      "url": "https://en.wikipedia.org/wiki/Moonshot_AI",
+      "supports": "信息框记 Founders: Yang Zhilin, Zhou Xinyu, Wu Yuxin；Key people: Yang Zhilin (CEO)。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "36氪项目库｜月之暗面",
+      "url": "https://pitchhub.36kr.com/project/2298265962431748",
+      "supports": "融资历史：2024-08 B 轮超 3 亿美元、2025-12 C 轮 5 亿美元、2026-02 C+ 轮超 7 亿美元、2026-05 D 轮 20 亿美元、2026-06 D+ 轮及各自投资方",
+      "published_date": null,
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -112,5 +406,82 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "杨植麟",
+      "role": "创始人兼CEO",
+      "background": "清华大学计算机系本科（师从唐杰），2019年获卡内基梅隆大学计算机博士（导师Ruslan Salakhutdinov、William W. Cohen），曾在Meta AI、Google Brain工作，Transformer-XL、XLNet作者之一；2023年3月创立月之暗面并任CEO，主导Kimi系列模型。",
+      "previous_firms": [
+        "Google Brain",
+        "Meta AI",
+        "卡内基梅隆大学"
+      ],
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://kimiyoung.github.io/",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s06",
+            "s09"
+          ],
+          "notes": "个人主页本人署名Zhilin Yang，履历与维基百科所载杨植麟一致；页面未直接写公司名。"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/kimiyoung",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s08"
+          ],
+          "notes": "个人主页链接该GitHub账号；API实测 type=User、name=Zhilin Yang。",
+          "account_type": "User"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "英文维基信息框直接标注 Yang Zhilin 为CEO兼创始人，中文维基记创办人为杨植麟；个人主页确认同名同履历。"
+    },
+    {
+      "name": "周昕宇",
+      "role": "联合创始人",
+      "background": "清华大学交叉信息研究院背景，2023年3月与杨植麟、吴育昕等共同创立月之暗面。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "中英文维基条目均将 Zhou Xinyu/周昕宇列为创始团队成员；未见具体职务分工的独立来源。"
+    },
+    {
+      "name": "吴育昕",
+      "role": "联合创始人",
+      "background": "清华大学交叉信息研究院背景，2023年3月与杨植麟、周昕宇等共同创立月之暗面。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "中英文维基条目均将 Wu Yuxin/吴育昕列为创始团队成员；未见具体职务分工的独立来源。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "36氪项目库工商信息：北京月之暗面科技有限公司 2023-04-17 成立。"
+  }
 }

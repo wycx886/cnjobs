@@ -102,7 +102,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -175,6 +175,33 @@
       "supports": "公司 2026 届校招简章（高校就业网托管）“校招答疑”列邮箱 career@quicktron.com、电话 021-54560716。",
       "published_date": "2025-10-13",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s09",
+      "title": "对话快仓CEO杨威：技术改造世界，理工男的浪漫与想象-36氪",
+      "url": "https://www.36kr.com/p/1053030348995845",
+      "supports": "报道标题与正文称杨威为快仓CEO，文中提及其曾任职振华重工。",
+      "published_date": "2021-01-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s10",
+      "title": "杨威 - 快仓 - 首席执行官 (Quicktron Robotics) | 领英",
+      "url": "https://cn.linkedin.com/in/%E5%A8%81-%E6%9D%A8-5ba6a92b3",
+      "supports": "领英档案显示杨威为快仓首席执行官，自述 Founder & CEO of Shanghai Quicktron Intelligent Technology Co., Ltd.（2014年创立）；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "快仓官网新闻：快仓机器人宣布完成超1亿美元D轮融资",
+      "url": "https://www.quicktron.com.cn/zh_CN/blogs/197",
+      "supports": "2024-09-12公司宣布完成超1亿美元D轮融资。",
+      "published_date": "2024-09-12",
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "D轮估值未披露；官网称4.2万台AMR安装与3.5万台部署，口径不完全一致，未统一。 2026-11-03：career@quicktron.com 为 2026 届校招简章公开的校招答疑邮箱，不假定适用于全部社招岗位。",
@@ -190,12 +217,88 @@
     ]
   },
   "investment": {
-    "summary": "2024年9月完成D轮融资，融资总额过亿美元，金杜鹃资本、远雄集团、无锡梁溪科创、潍坊鸢飞产业基金联合参投。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2024年9月完成D轮融资，融资总额过亿美元，金杜鹃资本、远雄集团、无锡梁溪科创、潍坊鸢飞产业基金联合参投。更早轮次本次未逐项核实。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2024-09-12",
+        "amount_text": "过亿美元",
+        "investors": [
+          {
+            "name": "金杜鹃资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "远雄集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "无锡梁溪科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "潍坊鸢飞产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11",
+          "s05"
+        ],
+        "notes": "金额按公司口径“过亿美元”；投资方名单据界面新闻同日报道，公司称“联合参投”，未区分领投。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "快仓智能",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "杨威",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "振华重工"
+      ],
+      "background": "曾任职振华重工；2014年创办上海快仓智能科技，主攻智能移动机器人（AMR）。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/%E5%A8%81-%E6%9D%A8-5ba6a92b3",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s09",
+            "s10"
+          ],
+          "notes": "领英页面未直接抓取；搜索结果快照显示“快仓 - 首席执行官”、自述 Founder & CEO（2014年创立）。"
+        }
+      ],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "36氪专访与领英档案快照相互印证。"
+    }
+  ]
 }

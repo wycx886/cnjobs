@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "id": "citic-jinshi",
+  "name": "中信金石（中信金石投资有限公司）",
+  "aliases": [
+    "中信金石",
+    "中信金石投资有限公司",
+    "金石投资",
+    "金石投资有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 PE 主榜均在前 13 名，官网可核实其为中信证券全资私募基金子公司且成立于2007年，列入主要研究样本；不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2007,
+    "basis": "中信金石官网“关于金石”称其“成立于2007年，首批获得中国证监会批准的直投试点企业资格”；清科投资界机构库简介称中信证券于2007年10月在北京成立金石投资有限公司。清科机构库同页工商信息栏显示“成立时间 2022年01月19日、注册资本 0.00万、经营状态 仍注册”，与简介和官网冲突，疑为同名或境外登记记录，未采用。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第13名（https://news.pedaily.cn/202512/559270.shtml，机构全称“中信金石投资有限公司”）；清科创业2024年中国私募股权投资机构100强第4名（https://news.pedaily.cn/202412/544169.shtml，机构全称“金石投资有限公司”）；投中2025年度中国最佳私募股权投资机构TOP100第9名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第3名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 13 名，按综合榜口径列入 Tier 1；2024 年清科榜使用旧名“金石投资”，2025 年改用“中信金石投资有限公司”，本档案按同一主体合并记录，合并依据见 notes。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "中信证券全资私募基金子公司，业务包括股权投资、并购、不动产与母基金等。官网列示的投资方向为新材料、新能源、智能制造、新一代信息技术、医疗健康、现代服务。",
+  "stage": "清科、投中均将其列入私募股权（PE）榜；以成长期、并购及基金化运作为主，官网称已管理近百支私募股权基金，覆盖国家级基金、PE 基金、母基金、并购基金、不动产基金等类型（机构自述）。",
+  "representative_cases": [
+    {
+      "company": "宇树科技",
+      "attribution": "current_firm",
+      "investor_or_team": "中信金石",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态，不据此推断回报。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "沐曦股份",
+      "attribution": "current_firm",
+      "investor_or_team": "中信金石",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "西安奕材",
+      "attribution": "current_firm",
+      "investor_or_team": "中信金石",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未披露持股比例。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "清科投资界机构库出手记录显示：2026-11-02 参与芯联动力近20亿元 C 轮；2026-10-19 参与星启数商3亿元 A 轮；同页资讯另列 2026-01 雷鸟创新超10亿元融资由中信金石领投（标题口径）。同页统计近3个月出手8次。",
+  "why_follow": "编辑分析：其公开案例同时覆盖机器人（宇树科技）、GPU（沐曦股份）、半导体材料（西安奕材）与车规功率器件（芯联动力），可作为观察券商直投资金在 AI 与半导体产业链上配置的样本。",
+  "difference": "编辑分析：作为券商全资私募基金子公司，其资金来源、合规体系与项目获取与母公司中信证券深度绑定，更偏中后期与基金化运作；与市场化 VC 的早期打法和激励结构不同，比较时应单列“券商直投平台”一类。",
+  "contacts": {
+    "website": "https://www.goldstone-investment.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界与合并依据：本轮清科2024榜写作“金石投资有限公司”，清科2025榜与投中两榜写作“中信金石投资有限公司/中信金石”；打开的中信金石官网（域名 goldstone-investment.com，由中信证券官网“中信金石”链接指向）现用名称为“中信金石投资有限公司”，其“关于金石”页与清科机构库简介均描述为中信证券全资私募基金子公司、2007年成立、首批直投试点，指向同一主体，故按一家建档。未调取工商变更登记原文，若后续发现“金石投资有限公司”与“中信金石投资有限公司”为不同法人，应拆分为两条记录。清科机构库该条目的工商信息栏（2022-01-19、注册资本 0.00 万、状态“仍注册”）与简介冲突，未用于成立年份判断。",  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 中信金石（金石投资有限公司）",
+      "url": "https://vc.pedaily.cn/vc/41791.html",
+      "supports": "机构简介：中信证券专业私募投资基金子公司、2007年10月在北京成立；近期出手记录（2026-11-02 芯联动力 C 轮、2026-10-19 星启数商 A 轮）及同页资讯标题（2026-01 雷鸟创新由中信金石领投）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国私募股权投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "中信金石：清科2025年中国私募股权投资机构50强第13名（机构全称：中信金石投资有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国私募股权投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "金石投资：清科创业2024年中国私募股权投资机构100强第4名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "中信金石：投中2025年度 PE TOP100 第9名；机构层级代表案例含宇树科技、沐曦股份、西安奕材",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "中信金石：投中2024年度 PE TOP100 第3名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "中信金石 · 关于金石",
+      "url": "https://www.goldstone-investment.com/aboutUs/",
+      "supports": "中信金石投资有限公司为中信证券全资私募基金子公司、成立于2007年、首批直投试点；投资方向与在管基金类型；管理团队名单（常军胜 董事兼总经理、陈平进 副总经理等）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "中信金石官网首页",
+      "url": "https://www.goldstone-investment.com/",
+      "supports": "官网域名与机构名称“中信金石投资有限公司”一致，页面导航含关于金石、基金管理、投资业务、公司荣誉、新闻中心、法律信息",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "中信证券官网首页（子公司导航）",
+      "url": "https://www.citics.com/",
+      "supports": "中信证券官网在子公司/关联机构导航中以“中信金石”名称链接至 http://www.goldstone-investment.com/，用于确认官网归属与母子公司关系",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "券商直投平台中规模与榜单位置稳定的成熟机构，按金融机构建档；新旧名称是否同一法人已按公开材料合并，并保留拆分条件。",
+    "source_ids": [
+      "s01",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "常军胜",
+      "role": "董事兼总经理",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务取自中信金石官网“关于金石”页的管理团队名单，仅一个官方来源；未核实其此前任职与教育背景，也未采集个人主页。"
+    },
+    {
+      "name": "陈平进",
+      "role": "副总经理",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务取自中信金石官网“关于金石”页的管理团队名单，仅一个官方来源；只记录官网列示的当前职务，未核实履历，也未采集个人主页。"
+    }
+  ]
+}

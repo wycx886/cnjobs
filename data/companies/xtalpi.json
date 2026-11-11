@@ -19,8 +19,287 @@
     ]
   },
   "investment": {
-    "summary": "已上市企业（公司IR站）。历史D轮于2021-08披露近4亿美元，投资方包括奥博资本、五源资本、厚朴、腾讯、红杉中国等；历史投资背景不等于当前完整股东名册。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "已上市企业（港交所 2228.HK，2024-06-13 上市）。2020年9月完成3.188亿美元C轮（五源资本、软银愿景基金2期、人保资本联合领投），2021年完成D轮、代价US$380,000,000（五源资本、奥博资本、厚朴资本领投）；招股书列示八轮首次公开发售前投资，合计募资约US$732 million。历史投资背景不等于当前完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2020-09",
+        "amount_text": "3.188亿美元",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "软银愿景基金2期",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "人保资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "招银国际",
+            "firm_id": "cmbi-capital",
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "Mirae Asset",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "中证投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "中信资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "海松资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "方圆资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "IMO Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "Parkway基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "国寿股权投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "SIG海纳亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02",
+          "s10"
+        ],
+        "notes": "创业邦报道的领投与跟投名单；招股书列示该轮代价US$288,800,000、协议日期2020-09-16及2020-09-28。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2021-08",
+        "amount_text": "US$380,000,000",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "奥博资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "厚朴资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "和暄资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "中国生物制药",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "IMO Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "Neumann Capital",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          },
+          {
+            "name": "Artisan Partners",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02",
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02",
+          "s10"
+        ],
+        "notes": "招股书列示D轮代价US$380,000,000（协议日期2021-07-29）；创业邦报道称近4亿美元，五源、奥博、厚朴领投。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2024-06-13",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "港交所主板上市，股份代号 2228.HK；2024-06-13 依上市规则第18C章上市。发行价与募资额未在本次核对，金额留空。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.xtalpi.com/",
@@ -30,7 +309,7 @@
     "other_email_purpose": "业务合作"
   },
   "notes": "未查到公开通用招聘邮箱；使用官网招聘入口。bd@业务、ir@投资者关系、contact@一般咨询，均不冒充招聘邮箱。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -44,9 +323,9 @@
       "id": "s02",
       "title": "晶泰D轮融资报道",
       "url": "https://www.cyzone.cn/article/645770.html",
-      "supports": "历史投资方",
+      "supports": "历史投资方；创业邦：2021年8月晶泰科技完成近4亿美元D轮，五源资本、奥博资本、厚朴资本领投，和暄资本、中国生物制药为新股东，腾讯投资、红杉资本、IMO Ventures等老股东追加，Neumann Capital、Artisan Partners等参与；同文载2020年9月3.188亿美元C轮（晨兴资本、软银愿景基金2期、人保资本联合领投）及公司2015年成立。",
       "published_date": "2021-08-11",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s03",
@@ -81,6 +360,51 @@
       "supports": "公开企业主页主体：晶泰科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "维基百科：晶泰科技",
+      "url": "https://zh.wikipedia.org/wiki/%E6%99%B6%E6%B3%B0%E7%A7%91%E6%8A%80",
+      "supports": "条目称公司由温书豪、马健和赖力鹏创建于2015年9月。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "维基百科：温书豪",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B8%A9%E4%B9%A6%E8%B1%AA",
+      "supports": "温书豪任晶泰科技董事长；中国科学院物理化学博士，曾在加州大学河滨分校和麻省理工学院从事博士后研究。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "腾讯新闻：马化腾押注三位80后MIT博士，刚刚收获一个IPO",
+      "url": "https://news.qq.com/rain/a/20240613A037VB00",
+      "supports": "报道晶泰科技由温书豪、马健、赖力鹏三位MIT博士后创办。",
+      "published_date": "2024-06-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "晶泰科技 全球发售招股章程（QuantumPharm Inc.）",
+      "url": "https://ir.xtalpi.com/media/hmtn0mw1/2024060400065.pdf",
+      "supports": "港交所上市招股章程：股份代号2228；列示八轮首次公开发售前投资，其中C轮代价US$288,800,000、D轮代价US$380,000,000，并载各轮协议日期。",
+      "published_date": "2024-06-04",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "晶泰控股有限公司 2024 年度报告",
+      "url": "https://ir.xtalpi.com/media/1sxbieyn/2025040702143.pdf",
+      "supports": "公司2024年度报告：股份代号2228；“The Shares were listed on the Stock Exchange under Chapter 18C of the Listing Rules on 13 June 2024”。",
+      "published_date": "2025-04",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -93,12 +417,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2024年6月13日在香港联交所主板上市（2228.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s11"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -137,5 +460,53 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "温书豪",
+      "role": "联合创始人、董事长",
+      "previous_firms": [],
+      "background": "中国科学院物理化学博士，先后在加州大学河滨分校和麻省理工学院从事博士后研究；2015年联合创立晶泰科技并任董事长。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "维基百科公司条目与人物条目一致；未取到公司官网团队页原文。"
+    },
+    {
+      "name": "马健",
+      "role": "联合创始人、CEO",
+      "previous_firms": [],
+      "background": "麻省理工学院博士后；2015年与温书豪、赖力鹏共同创立晶泰科技，任首席执行官。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司条目与腾讯新闻报道一致；具体博士院校未在本轮取到一手来源，故未写入。"
+    },
+    {
+      "name": "赖力鹏",
+      "role": "联合创始人",
+      "previous_firms": [],
+      "background": "麻省理工学院博士后；2015年与温书豪、马健共同创立晶泰科技，负责创新研发相关技术。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司条目与腾讯新闻报道一致；具体现任职务未在本轮取到一手来源。"
+    }
+  ],
+  "founded": {
+    "year": 2015,
+    "basis": "招股书列示2015年进行Pre-A轮融资；创业邦报道称公司成立于2015年。"
+  }
 }

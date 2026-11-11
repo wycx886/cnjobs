@@ -20,8 +20,170 @@
     ]
   },
   "investment": {
-    "summary": "2025-06 披露11亿元融资，投资方包括宁德时代战投、溥泉资本、国开科创、北京机器人产业基金、纪源资本；2026-03 财新报道新一轮投资方含国家AI产业投资基金、中国石化、中信投资控股等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-06完成11亿元融资，宁德时代及溥泉资本领投，国开科创、北京机器人产业基金、纪源资本等参与；2026-03-02完成25亿元融资，投资方包括国家人工智能产业投资基金、中国石化、中信投资控股、中银资产、上汽金控、中芯聚源、亦庄国投等。财新称其为估值最高的未上市人形机器人企业。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "新一轮",
+        "announced_on": "2025-06-24",
+        "amount_text": "11亿元",
+        "investors": [
+          {
+            "name": "宁德时代",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "溥泉资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "国开科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "北京机器人产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s12"
+        ],
+        "notes": "来源仅称“新一轮”，未披露轮次字母；金额与投资方据中关村科学城转载稿。"
+      },
+      {
+        "round": "新一轮",
+        "announced_on": "2025-12",
+        "amount_text": "3亿美元",
+        "investors": [],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "财新2026-03-02稿称此前2个多月刚完成3亿美元融资；财新相关稿标题为《银河通用机器人融资3亿美元 估值30亿美元》（2025-12-19），投资方未在本轮来源列名。"
+      },
+      {
+        "round": "新一轮",
+        "announced_on": "2026-03-02",
+        "amount_text": "25亿元",
+        "investors": [
+          {
+            "name": "国家人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "中国石化",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "中信投资控股",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "中银资产",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "上汽金控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "亦庄国投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "鲲鹏基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "无锡创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "福建产投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "成都科创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "财新列出投资方并称多家老股东追加；来源仅称“新一轮”，未披露轮次字母。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.galbot.com/",
@@ -31,7 +193,7 @@
     "other_email_purpose": "未查到通用邮箱"
   },
   "notes": "hr@galbot.com 见高校发布的公司校招材料；社会招聘使用官网跳转入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -82,6 +244,67 @@
       "supports": "公开企业主页主体：北京银河通用机器人有限公司 (page title)；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "北京大学计算机学院·王鹤",
+      "url": "https://cs.pku.edu.cn/info/1083/1707.htm",
+      "supports": "王鹤为北京大学计算机学院前沿计算研究中心助理教授、博士生导师，北京大学博雅青年学者，创立并领导北大具身感知与交互实验室（EPIC Lab）；页面列出其个人主页 https://hughw19.github.io/。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "百度百科·王鹤",
+      "url": "https://baike.baidu.com/item/%E7%8E%8B%E9%B9%A4/67851593",
+      "supports": "王鹤1992年生，2014年获清华大学学士、2021年获斯坦福大学博士，现任北京大学助理教授、银河通用机器人创始人兼首席技术官。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "百度百科·姚腾洲",
+      "url": "https://baike.baidu.com/item/%E5%A7%9A%E8%85%BE%E6%B4%B2/64403595",
+      "supports": "姚腾洲为银河通用联合创始人，硕士毕业于北京航空航天大学机器人研究所（师从王田苗教授），曾就职于ABB集团上海机器人研发中心，后在ROOBO担任研发负责人；2023年5月与王鹤共同创立银河通用。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "百度百科·北京银河通用机器人股份有限公司",
+      "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E9%93%B6%E6%B2%B3%E9%80%9A%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/67950222",
+      "supports": "公司成立于2023年5月19日；核心管理团队包括董事长郭小亮，法定代表人、董事、经理姚腾洲。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "王鹤个人学术主页（GitHub Pages）",
+      "url": "https://hughw19.github.io/",
+      "supports": "其本人学术主页（He Wang），列出研究方向、论文与项目；北京大学计算机学院官方教师页将本链接列为他的个人主页。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "国际科技创新中心网络服务平台（中关村科学城）：银河通用完成新一轮11亿元融资",
+      "url": "https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202506/t20250624_208522.html",
+      "supports": "2025-06-24发布：本轮11亿元由宁德时代及溥泉资本领投，国开科创、北京机器人产业基金、纪源资本等参与。",
+      "published_date": "2025-06-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "title": "财新：银河通用再融25亿元 称是估值最高未上市机器人公司",
+      "url": "https://companies.caixin.com/m/2026-03-02/102418622.html",
+      "supports": "2026-03-02报道25亿元融资及投资方名单；称公司为估值最高的未上市人形机器人企业。",
+      "published_date": "2026-03-02",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -137,6 +360,53 @@
         "s06"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "王鹤",
+      "role": "创始人兼CTO",
+      "background": "北京大学前沿计算研究中心助理教授、博士生导师，北京大学博雅青年学者；创立并领导北大具身感知与交互实验室（EPIC Lab）。2014年获清华大学学士，2021年获斯坦福大学博士，同年加入北京大学。2023年创立银河通用，任创始人兼CTO，并任北大-银河通用具身智能联合实验室主任。",
+      "previous_firms": [],
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://hughw19.github.io/",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s08",
+            "s11"
+          ],
+          "notes": "北京大学计算机学院官方教师页面直接列出该个人主页链接，页面内容为其本人学术与项目介绍。"
+        }
+      ],
+      "source_ids": [
+        "s07",
+        "s08",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "北大官方教师页与百科条目一致确认其助理教授与创始人兼CTO身份。"
+    },
+    {
+      "name": "姚腾洲",
+      "role": "联合创始人（法定代表人、董事、经理）",
+      "background": "硕士毕业于北京航空航天大学机器人研究所，师从王田苗教授；曾任职于ABB集团上海机器人研发中心，从事工业与服务机器人研发，后在ROOBO担任研发负责人。2023年5月与王鹤共同创立银河通用。",
+      "previous_firms": [
+        "ABB",
+        "ROOBO"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "媒体多称其为联合创始人；工商登记职务为法定代表人、董事、经理，未见公开报道明确其CEO头衔，故不写CEO。"
     }
   ]
 }

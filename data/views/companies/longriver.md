@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/longriver.json)
 
-机构 ID：`longriver` · 核查日期：2026-10-30
+机构 ID：`longriver` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -83,3 +83,6 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s04 | [江远官方Ouro收购协议公告](https://www.lr-investments.com/blog-detail/id-20.html) | 2025年A轮投资与2026年被收购协议 | 2026-03-24 | 2026-10-30 |
 | s05 | [江远官网团队及联系](https://www.lr-investments.com/team) | HR与BP邮箱分别列明 | 未标明 | 2026-10-30 |
 | s06 | [张江2026年回顾文章](https://www.stcn.com/article/detail/3645613.html) | 2025年活动和阶段偏好 | 2026-02-20 | 2026-10-30 |
+| s07 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 江远投资：投中2025年度中国最佳创业投资机构TOP100第69名 | 2026-04-24 | 2026-11-11 |
+| s08 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 江远投资：投中2024年度中国最佳创业投资机构TOP100第74名 | 2025-04-18 | 2026-11-11 |
+| s09 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 完整名单中未见江远投资；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |

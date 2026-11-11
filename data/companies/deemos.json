@@ -8,6 +8,10 @@
     "影眸科技"
   ],
   "category_id": "05",
+  "founded": {
+    "year": 2020,
+    "basis": "泰伯网企业档案：影眸科技（上海）有限公司成立时间2020-06-24。"
+  },
   "focus": "3D 资产生成、数字人与世界生成",
   "products": "Rodin、Hyper3D；研究覆盖生成与机器人交互环境",
   "locations_text": "上海",
@@ -19,8 +23,142 @@
     ]
   },
   "investment": {
-    "summary": "已核到早期投资包括红杉中国种子基金、奇绩创坛，以及后续字节跳动/蓝驰的企业档案记录；最新轮次未以官方融资稿完整确认。",
-    "verification_status": "partial"
+    "summary": "泰伯网企业档案记录：Pre-A轮2022-04-08数千万人民币（红杉中国种子基金、奇绩创坛）、A轮2025-01-13数千万美元（美团龙珠、字节跳动、红杉中国种子基金、奇绩创坛）、A+轮2025-08-28数千万美元（蓝驰创投、字节跳动、红杉中国种子基金）、B轮2026-06-23数亿元人民币（凯辉基金、上海国投先导）。该档案未区分领投与跟投，亦未覆盖更早轮次。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2022-04-08",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "红杉中国种子基金",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "奇绩创坛",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      },
+      {
+        "round": "A",
+        "announced_on": "2025-01-13",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "字节跳动",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国种子基金",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "奇绩创坛",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      },
+      {
+        "round": "A+",
+        "announced_on": "2025-08-28",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "字节跳动",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国种子基金",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      },
+      {
+        "round": "B",
+        "announced_on": "2026-06-23",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海国投先导",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
   },
   "contacts": {
     "website": "https://hyper3d.ai/",
@@ -30,7 +168,7 @@
     "other_email_purpose": "产品客服"
   },
   "notes": "招聘邮箱来自团队采访结尾公开邀请；官网客服与招聘邮箱分开。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -64,6 +202,24 @@
       "supports": "公开企业主页主体：影眸科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "校友代表吴迪在建校十周年科教融合创新发展大会上的发言（上海科技大学）",
+      "url": "https://www.shanghaitech.edu.cn/2023/0929/c1001a1082696/page.htm",
+      "supports": "吴迪自述为上海科技大学孵化的初创公司“影眸科技”创始人，并提及联合创始人、2018级本科生张启煊。",
+      "published_date": "2023-09-28",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "对话影眸科技CEO吴迪、CTO张启煊（网易科技《态度》）",
+      "url": "https://www.163.com/tech/article/L069M6UL00098IEO.html",
+      "supports": "影眸科技创始人、CEO吴迪（1997年生）与联合创始人、CTO张启煊（1999年生）的现职与分工。",
+      "published_date": "2026-06-24",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -101,6 +257,36 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "吴迪",
+      "role": "创始人兼CEO",
+      "background": "上海科技大学2015级本科生、2023届毕业研究生；在校期间参与研发穹顶光场系统并应用于《流浪地球2》，后与实验室伙伴成立初创公司影眸科技，任创始人兼CEO。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "上海科技大学官方校友发言页与网易科技专访分别确认创始人/CEO身份。"
+    },
+    {
+      "name": "张启煊",
+      "role": "联合创始人兼CTO",
+      "background": "1999年生，上海科技大学2018级本科生；影眸科技联合创始人兼CTO，负责3D生成模型与算法团队。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "上科大官方校友发言页称其为联合创始人，网易科技专访标注联合创始人、CTO现职。"
     }
   ]
 }

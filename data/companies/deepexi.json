@@ -19,8 +19,326 @@
     ]
   },
   "investment": {
-    "summary": "历史投资方包括高瓴、晨兴（现五源）、IDG资本、BAI等：2019-09 A轮3500万美元由晨兴、高瓴、IDG联合领投，BAI、初心等跟投。2025-10-28港股上市（01384.HK），以官方投资者关系披露为准。",
-    "verification_status": "partial"
+    "summary": "招股书披露2019-01至2022-09多轮首次公开发售前投资：天使、Pre-A、A（32.0百万美元）、A+（40.42百万美元）、B1、B2；2025-10-28在港交所主板上市（01384.HK）。历史投资方包括五源（晨兴）、高瓴、IDG、BAI等；历史投资背景不等于当前完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2019-01",
+        "amount_text": "人民币10百万元（天津德辉）、人民币5百万元（初者之心）",
+        "investors": [
+          {
+            "name": "天津德辉",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "初者之心",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书披露的认缴对价。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2019-03",
+        "amount_text": "人民币54.1百万元",
+        "investors": [
+          {
+            "name": "珠海智科",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "天津德辉",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "初者之心",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "南京苏宁顺盈股权投资合伙企业（苏宁顺盈）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书列示四名投资者认缴合计人民币54.1百万元。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2019-09-24",
+        "amount_text": "32.0百万美元",
+        "investors": [
+          {
+            "name": "Evolution Fund I, L.P.（晨兴／五源）",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "IDG CHINA Venture Capital Fund",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "BAI",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "Lighthouse",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "北京高瓴智坤企业管理咨询中心（有限合伙）",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "南京苏宁顺盈股权投资合伙企业（苏宁顺盈）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "DDZ Investment, L.P.",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书列示A轮优先股、认股权证及可换股本票合计32.0百万美元；原纪要中的3500万美元与招股书口径不同，以招股书为准。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2020-04-17",
+        "amount_text": "40.42百万美元",
+        "investors": [
+          {
+            "name": "HH AUT-XV Holdings Limited（高瓴）",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "CHH AUT-XV Holdings Limited（高瓴）",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "BAI",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "Evolution Fund（晨兴／五源）",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "Lighthouse",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "招商局创新投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "IDG CHINA V",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "Chuxin LLC（初心）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书列示A+轮优先股认购合计40.42百万美元。"
+      },
+      {
+        "round": "B1",
+        "announced_on": "2022-02",
+        "amount_text": "人民币332.93百万元及20百万美元",
+        "investors": [
+          {
+            "name": "疌泉基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "新源基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "优选基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "银旭优选壹号",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "SPDBI Star",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "交银国际资产管理",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "青岛睿迪",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书列示总对价人民币332.93百万元及20百万美元，其中含创始人／员工平台以象征对价认缴的部分。"
+      },
+      {
+        "round": "B2",
+        "announced_on": "2022-09",
+        "amount_text": "人民币100百万元（共青城航建）、人民币10百万元（天津睿迪）",
+        "investors": [
+          {
+            "name": "共青城航建",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "天津睿迪",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "招股书披露的两名投资者认缴对价。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": "2025-10-28",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "港交所主板，股份代号 01384.HK；发售价每股26.66港元；2025-10-28上市。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.deepexi.com/",
@@ -30,7 +348,7 @@
     "other_email_purpose": "投资者关系（非招聘）"
   },
   "notes": "未沿用原表博裕投资，尚未取得足够证据。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -81,6 +399,40 @@
       "supports": "公开企业主页主体：滴普科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "title": "直击WAIC｜对话滴普科技创始人赵杰辉：Agent竞争不在办公，而在复杂产业中的“智能复利”_新浪财经",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0317361.shtml",
+      "supports": "新浪科技报道称滴普科技创始人、董事长赵杰辉在2026年用户大会后接受采访，公司开放 DeepWorks 企业智能体平台首批公开测试。",
+      "published_date": "2026-07-19",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "对话滴普科技创始人赵杰辉：企业大模型不是“养龙虾”，是给AI员工划数据围栏_新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-03-17/doc-inhrhxzs3901901.shtml",
+      "supports": "新浪财经2026年3月报道称赵杰辉为滴普科技创始人，介绍公司升级 Deepexi 企业大模型与 Deepexi OS。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "港交所：滴普科技最终发售价及配发结果公告",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1027/2025102701435_c.pdf",
+      "supports": "公告载股份代号1384、发售价每股26.66港元，上市日期预计为2025年10月28日。",
+      "published_date": "2025-10-27",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "港交所：滴普科技全球发售招股章程",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1020/2025102000016_c.pdf",
+      "supports": "“历史、发展及公司架构－首次公开发售前投资”披露天使、Pre-A、A、A+、B1、B2轮的时间、金额与投资方。",
+      "published_date": "2025-10-20",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -93,12 +445,11 @@
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
     "wave": "first",
-    "rationale": "按现有AI产品、业务与资本披露列为第一波研究候选；这是编辑归类，不表示成立时间、法律独立性和当前存续状态已全项重查。",
+    "rationale": "公司已于2025年10月28日在香港联交所主板上市（01384.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s01",
-      "s02"
+      "s09"
     ],
-    "labelled_at": "2026-10-31"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -137,5 +488,28 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "赵杰辉",
+      "role": "创始人、董事长",
+      "previous_firms": [
+        "华为",
+        "阿里云"
+      ],
+      "background": "毕业于天津大学电气工程及其自动化专业并获硕士学位；曾在华为负责核心路由器，后任阿里云企业事业部总经理；2018年创立滴普科技。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "新浪2026年报道确认创始人、董事长身份；其CEO职务见多家中文资料，本条未以公司官网人物页交叉核实。"
+    }
+  ],
+  "founded": {
+    "year": 2018,
+    "basis": "公司官网简介称“滴普科技成立于2018年”。"
+  }
 }

@@ -82,7 +82,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -125,12 +125,30 @@
       "scope": "organization",
       "title": "「钛米」完成2亿B轮融资，或是医疗服务机器人领域最大单笔融资",
       "url": "https://www.36kr.com/p/1721985122305",
-      "supports": "钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品。",
+      "supports": "钛米2亿元B轮、金浦/鼎晖/IDG/科沃斯/国科嘉和及医疗机器人产品；钛米2亿元B轮（金浦领投、鼎晖跟投，IDG/科沃斯/国科嘉和参与）；同文披露2016-09国科嘉和与上海创徒1000万元天使轮、2017-05 IDG领投4000万元A轮，及公司2015年1月成立。",
       "published_date": "2018-07-17",
-      "checked_at": "2026-11-03"
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "潘晶｜上海第二工业大学智能医学与健康工程学院",
+      "url": "https://imhe.sspu.edu.cn/2026/0107/c6016a167293/page.htm",
+      "supports": "教师页称潘晶现任上海钛米机器人股份有限公司董事长、党支部书记，上海首批人工智能正高级工程师，上海市第十六届人大代表，上海交通大学毕业。",
+      "published_date": "2026-03-04",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "title": "Godpheray Pan - Chairman of the Board, CEO at TMI Robotics | 领英",
+      "url": "https://cn.linkedin.com/in/godpheray-pan-39a77053",
+      "supports": "领英档案显示 Godpheray Pan 任 TMI Robotics（上海钛米机器人）董事长兼CEO，教育经历 CEIBS；据搜索结果快照核对。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
-  "notes": "最近可核验融资为2018年B轮，2020年后融资与经营情况未找到可靠披露。",
+  "notes": "最近可核验融资为2018年B轮，2020年后融资与经营情况未找到可靠披露。天使轮、A轮仅见36氪同一篇报道，未另获公司公告。",
   "category_id": "08",
   "focus": "医疗场景服务机器人",
   "products": "医疗物资配送机器人、核医学科病房服务机器人、消毒/导诊机器人",
@@ -143,12 +161,167 @@
     ]
   },
   "investment": {
-    "summary": "2018年完成2亿元B轮融资，金浦投资领投、鼎晖投资跟投，IDG资本、科沃斯、国科嘉和继续参与；公开披露未见更近轮次。",
-    "verification_status": "partial"
+    "summary": "据36氪报道：2016年9月完成1000万元天使轮（国科嘉和、上海创徒），2017年5月完成4000万元A轮（IDG领投），2018年7月完成2亿元B轮（金浦投资领投、鼎晖投资跟投，IDG、科沃斯、国科嘉和参与）；公开披露未见更近轮次。轮次信息以媒体报道为准，未取得公司公告。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2016-09",
+        "amount_text": "1000万元",
+        "investors": [
+          {
+            "name": "国科嘉和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "上海创徒",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "36氪报道：国科嘉和、上海创徒联合投资。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2017-05",
+        "amount_text": "4000万人民币",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "国科嘉和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "科沃斯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "创徒基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "36氪报道：IDG领投，国科嘉和、科沃斯、创徒基金跟投。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2018-07",
+        "amount_text": "2亿人民币",
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "国科嘉和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "科沃斯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05"
+        ],
+        "notes": "36氪独家：金浦投资领投、鼎晖投资跟投，天使轮国科嘉和与A轮IDG、科沃斯继续参与。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "钛米机器人",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "潘晶",
+      "role": "董事长兼CEO",
+      "previous_firms": [],
+      "background": "毕业于上海交通大学；上海首批人工智能正高级工程师，上海市第十六届人大代表，上海第二工业大学智能医学与健康工程学院副院长。",
+      "profiles": [
+        {
+          "platform": "linkedin",
+          "url": "https://cn.linkedin.com/in/godpheray-pan-39a77053",
+          "verification_status": "partial",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s06",
+            "s07"
+          ],
+          "notes": "领英页面未直接抓取；搜索结果快照显示 Godpheray Pan、Chairman of the Board, CEO at TMI Robotics、CEIBS。姓名以拼音出现。"
+        }
+      ],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "高校教师页与领英快照确认其董事长身份；公开资料亦称其为公司创始人，本条未单独取得创始人表述的原始出处。"
+    }
+  ],
+  "founded": {
+    "year": 2015,
+    "basis": "36氪2018年报道称钛米机器人成立于2015年1月。"
   }
 }

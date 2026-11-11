@@ -1,0 +1,183 @@
+{
+  "schema_version": 3,
+  "id": "jishi-capital",
+  "name": "基石资本",
+  "aliases": [
+    "基石资产管理股份有限公司",
+    "基石"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "清科与投中两个年度 PE 主榜均在前 10 名，长鑫科技等半导体项目有可核实的领投与上市记录，列入主要研究样本；不表示基金整体收益已核实。"
+  },
+  "founded": {
+    "year": 2001,
+    "basis": "清科投资界机构库将该机构标注为“成立于2001年”，机构简介称基石资本“发端于2001年”；同页工商信息显示其管理主体基石资产管理股份有限公司登记成立于2008年3月21日。本档案取品牌与团队的2001年起点，并在 notes 说明法人登记年份的差别。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第8名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第8名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第8名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第7名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 10 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04",
+      "s05"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "硬科技、新兴产业、生命科学与健康；官网与清科机构简介均称管理资产覆盖天使、VC、PE、并购、定向增发等类型，投资阶段覆盖企业全生命周期。",
+  "stage": "清科、投中均将其列入私募股权（PE）榜；实际覆盖从早期到并购与定增，单笔规模跨度较大。",
+  "representative_cases": [
+    {
+      "company": "长鑫科技",
+      "attribution": "current_firm",
+      "investor_or_team": "基石资本",
+      "outcome": "投资界2026-07-27报道：基石资本2021年独家领投12亿元；长鑫科技当日登陆科创板，开盘涨超450%、市值超3万亿元。领投与金额来自媒体报道，未取得基金层面文件。",
+      "evidence_source_ids": [
+        "s06"
+      ]
+    },
+    {
+      "company": "影石Insta360",
+      "attribution": "current_firm",
+      "investor_or_team": "基石资本",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单未给轮次、金额与退出状态。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    },
+    {
+      "company": "蓝箭航天",
+      "attribution": "current_firm",
+      "investor_or_team": "基石资本",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；本条只确认机构关联。",
+      "evidence_source_ids": [
+        "s04"
+      ]
+    }
+  ],
+  "recent_activity": "2026-07-27，长鑫科技在科创板上市，投资界报道基石资本为其2021年12亿元独家领投方；清科投资界机构库出手记录另显示：2026-11-05 参与 Sand.ai 2亿美元 A+轮；2026-11-02 参与英捷信医疗2亿元 B 轮；同页统计近3个月出手17次。",
+  "why_follow": "编辑分析：其在存储芯片（长鑫科技）、AI 视频生成（Sand.ai）、脑机接口（脑虎科技）等项目上同时出现，可用于观察一家以硬科技集中投资为特色的 PE 在 AI 相关产业链上的实际暴露。",
+  "difference": "编辑分析：机构简介强调“集中投资、重点服务”，单项目下注规模较大、行业集中；与分散配置的综合 VC 不同，其公开业绩高度依赖少数重仓项目，比较时不宜只看榜单名次。",
+  "contacts": {
+    "website": "https://stonevc.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "info@stonevc.com",
+    "other_email_purpose": "官网“合伙人”页列示的机构联系邮箱（联系邮箱），非招聘邮箱"
+  },
+  "notes": "主体边界与年份口径：清科机构库把基石资本标注为2001年，同时其工商信息对应的管理主体“基石资产管理股份有限公司”登记成立日为2008-03-21，简介则称“发端于2001年”。本档案以品牌与团队起点2001年记录，并在 founded.basis 保留两种口径，避免把法人登记日当作唯一事实。官网核实：https://stonevc.com/ 页面标题与页头均为“基石资产管理股份有限公司”，英文名 Co-Stone Capital，与榜单主体一致，故采用为 contacts.website；常见拼写 co-stone.com 在本环境打开后为无关站点，未采用。官网自述“累计资产管理规模逾900亿元”、被投企业470余家，属机构自我披露，未独立审计。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "清科投资界机构库 · 基石资本（基石资产管理股份有限公司）",
+      "url": "https://vc.pedaily.cn/vc/106832.html",
+      "supports": "机构简介（发端于2001年、硬科技与生命科学方向）、管理主体工商信息（2008-03-21）、近期出手记录",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科2025年中国私募股权投资机构50强（收录于清科2025年度排名发布页）",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "基石资本：清科2025年中国私募股权投资机构50强第8名（机构全称：基石资产管理股份有限公司）",
+      "published_date": "2025-12-29",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科创业2024年中国私募股权投资机构100强（收录于清科2024年度排名发布页）",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "基石资本：清科创业2024年中国私募股权投资机构100强第8名",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "基石资本：投中2025年度 PE TOP100 第8名；机构层级代表案例含影石Insta360、长鑫科技、蓝箭航天",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "基石资本：投中2024年度 PE TOP100 第7名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "基石资本重仓长鑫：开盘大涨450%，市值3万亿（投资界）",
+      "url": "https://news.pedaily.cn/202607/566838.shtml",
+      "supports": "2026-07-27 长鑫科技科创板上市；报道称基石资本2021年独家领投12亿元、为最重要投资方之一",
+      "published_date": "2026-07-27",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "基石资本官网 · 关于我们",
+      "url": "https://stonevc.com/aboutus/index.aspx",
+      "supports": "基石资产管理股份有限公司总部深圳、境内外分部；累计资产管理规模逾900亿元（自述）；投资覆盖天使、VC、PE、并购、定增；2016年起聚焦硬科技、新兴产业与生命科学健康",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "基石资本官网 · 合伙人",
+      "url": "https://stonevc.com/Partner/index.aspx",
+      "supports": "管理团队名单：张维（董事长、合伙人）、林凌（副董事长、合伙人）及公开履历；机构联系邮箱 info@stonevc.com",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已运作二十余年的本土 PE，按成熟机构建档；成立年份的品牌口径与法人登记口径在本档案中分开记录。",
+    "source_ids": [
+      "s01",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "张维",
+      "role": "董事长、合伙人",
+      "previous_firms": [],
+      "background": "官网合伙人页：南京大学法学硕士、北京大学 EMBA；现任中国证券投资基金业协会私募股权及并购基金专业委员会委员等社会职务。",
+      "profiles": [],
+      "source_ids": [
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务与履历取自基石资本官网“合伙人”页，仅一个官方来源；未采集个人主页，也未核实其全部社会职务的当前状态。"
+    },
+    {
+      "name": "林凌",
+      "role": "副董事长、合伙人",
+      "previous_firms": [
+        "深圳中航集团",
+        "大鹏证券",
+        "中富证券"
+      ],
+      "background": "官网合伙人页：厦门大学经济学硕士；曾就职于深圳中航集团，曾任大鹏证券上海投行部总经理、中富证券投行部董事总经理。",
+      "profiles": [],
+      "source_ids": [
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "职务与履历取自基石资本官网“合伙人”页，仅一个官方来源；未采集个人主页。"
+    }
+  ]
+}

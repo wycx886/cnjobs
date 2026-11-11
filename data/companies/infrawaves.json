@@ -7,6 +7,10 @@
     "Infrawaves"
   ],
   "category_id": "02",
+  "founded": {
+    "year": 2023,
+    "basis": "36氪与南京市创新投资集团均载基流科技成立于2023年2月。"
+  },
   "focus": "智算集群与高速算力网络",
   "products": "高速交换机、集合通信、集群管控及Venus算力系统",
   "locations_text": "上海、北京（报道及历史招聘）",
@@ -20,8 +24,167 @@
     ]
   },
   "investment": {
-    "summary": "2025年初Pre-A+/A融资披露招商局创投、华泰数智、星连、国方创新联合投资，光速光合、卓源亚洲跟投。原表高瓴/启明名单未据此得到确认。",
-    "verification_status": "partial"
+    "summary": "2023年2月成立，2024年底完成Pre A+和A轮（招商局创投、星连资本、国方创新等联合投资，累计融资超亿元），2025年11月完成近亿元B轮，2025年12月完成数亿元B+轮。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A+/A",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "招商局创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06",
+              "s07"
+            ]
+          },
+          {
+            "name": "华泰创新",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06",
+              "s07"
+            ]
+          },
+          {
+            "name": "国方创新",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06",
+              "s07"
+            ]
+          },
+          {
+            "name": "卓源亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "光速光合",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06",
+          "s07"
+        ],
+        "notes": "来源将Pre A+与A轮合并披露，未拆分金额；36氪写「华泰创新」、南京创新投资集团写「华泰数智」，两处名称均照录。报道日2024-12-31称「近期完成」。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2025-11-14",
+        "amount_text": "近亿元人民币",
+        "investors": [
+          {
+            "name": "河南投资集团汇融基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "卓源亚洲",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": null
+      },
+      {
+        "round": "B+",
+        "announced_on": "2025-12-31",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "尚势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "奥铭投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "华夏基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "泰有基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "清科控股",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "中科英智",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "来源称多家老股东持续跟投，其中卓源亚洲连续七轮跟投。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.infrawaves.com/",
@@ -30,8 +193,8 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "notes": "官网本次读取失败；careersUrl为历史招聘转载而非官方招聘站。邮箱见2024公开招聘，时效需复核；不使用同名印度Infrawave或Inforwaves网站。",
-  "checked_at": "2026-10-30",
+  "notes": "官网本次读取失败；careersUrl为历史招聘转载而非官方招聘站。邮箱见2024公开招聘，时效需复核；不使用同名印度Infrawave或Inforwaves网站。各轮金额除B/B+外未披露。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -56,6 +219,60 @@
       "supports": "业务、系统产品与公司身份",
       "published_date": "2026-05-07",
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s04",
+      "scope": "person",
+      "title": "腾讯新闻：90后清北天团带队基流科技IPO",
+      "url": "https://news.qq.com/rain/a/20260519A04UL100",
+      "supports": "报道胡效赫为创始人兼CEO；谢文奇为联合创始人、执行董事兼联席CEO；陈维为联合创始人兼研发副总裁。",
+      "published_date": "2026-05-19",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "百度百科：胡效赫",
+      "url": "https://baike.baidu.com/item/%E8%83%A1%E6%95%88%E8%B5%AB/66304242",
+      "supports": "清华大学自动化系本科、博士、博士后，师从李军研究高性能网络系统，曾赴加州大学伯克利分校访学；北京基流科技创始人兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "36氪：基流科技连续完成Pre A+和A轮融资",
+      "url": "https://www.36kr.com/p/3100682188279305",
+      "supports": "载公司成立于2023年2月；完成Pre A+和A轮，招商局创投、华泰创新、星连资本、国方创新联合投资，卓源亚洲、光速光合跟投，累计融资超亿元。",
+      "published_date": "2024-12-31",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "南京市创新投资集团：基流科技完成PreA+和A轮融资",
+      "url": "https://www.njicg.com/article/166",
+      "supports": "同一轮由招商局创投、华泰数智、星连资本、国方创新联合投资，并载公司成立2023年2月。",
+      "published_date": "2025-02-17",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "投资界：基流科技完成近亿元B轮融资",
+      "url": "https://news.pedaily.cn/202511/557323.shtml",
+      "supports": "B轮近亿元人民币，河南投资集团汇融基金与智谱生态基金星连资本联合领投，卓源亚洲跟投。",
+      "published_date": "2025-11-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "新浪财经（证券日报）：基流科技完成数亿元B+轮融资",
+      "url": "https://finance.sina.com.cn/jjxw/2025-12-31/doc-inhesnwt3796149.shtml",
+      "supports": "B+轮数亿元，尚势资本、奥铭投资、华夏基金、泰有基金、清科控股、中科英智等联合投资，老股东跟投。",
+      "published_date": "2025-12-31",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -75,5 +292,39 @@
     ],
     "labelled_at": "2026-10-31"
   },
-  "channels": []
+  "channels": [],
+  "people": [
+    {
+      "name": "胡效赫",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "background": "清华大学自动化系本科、博士、博士后，师从李军研究员从事高性能网络系统研究，曾在加州大学伯克利分校师从SDN提出者Scott Shenker；2023年创立基流科技。",
+      "profiles": [],
+      "source_ids": [
+        "s04",
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "腾讯新闻IPO报道与百科条目均记为创始人兼CEO；技术履历取自百科整理，未找到本人主页。"
+    },
+    {
+      "name": "谢文奇",
+      "role": "联合创始人、执行董事兼联席CEO",
+      "previous_firms": [
+        "北京中关村银行",
+        "首颐医疗"
+      ],
+      "background": "本科毕业于北京大学，后获清华大学金融硕士学位；曾在PE机构做投资，任职于北京中关村银行及首颐医疗健康投资管理有限公司。",
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅腾讯新闻IPO报道提及；未找到第二处独立来源。"
+    }
+  ]
 }

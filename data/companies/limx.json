@@ -20,7 +20,437 @@
   },
   "investment": {
     "summary": "官网2026-07-14披露近2亿美元Pre-IPO轮，新投资方包括IDG、蓝思科技、GGG Group、Redstone、WestSummit、合肥滨湖等；蔚来资本、尚颀资本、基石资本等继续投资。",
-    "verification_status": "confirmed_disclosure"
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮及Pre-A轮",
+        "announced_on": "2023-10",
+        "amount_text": "近2亿元",
+        "investors": [
+          {
+            "name": "峰瑞资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "智数资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "明势创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "昆仲资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "绿洲资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "官网同一公告披露天使轮与 Pre-A 轮合计近 2 亿元，未拆分单轮金额；绿洲资本领投 Pre-A 轮。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2025-03-06",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "招商局创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "蔚来资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "彼岸时代",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "纳爱斯集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "高捷资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "绿洲资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "明势创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "峰瑞资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "南山战新投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "官网称半年累计完成 5 亿元 A 轮系列融资，5 亿元为 A/A+ 系列合计，非单轮金额；公告未单列领投方。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2026-02-02",
+        "amount_text": "2亿美元",
+        "investors": [
+          {
+            "name": "阿联酋磊石资本（Stone Venture）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "东方富海",
+            "firm_id": "oriental-fortune",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "天创资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "广发信德",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "合肥创新投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "国泰君安创新投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "中信建投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "唐兴资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "财鑫资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "京东",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "中鼎股份",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "光洋股份",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "东土科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "彼岸时代",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "蔚来资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "明势创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网称本轮由多家国内外机构与战略产业投资人参与，未单列领投方。"
+      },
+      {
+        "round": "Pre-IPO",
+        "announced_on": "2026-07-14",
+        "amount_text": "近2亿美元",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝思科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "GGG Group",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Redstone VC",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华山资本（WestSummit Capital）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "合肥滨湖产发集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "阿联酋磊石资本（Stone Venture）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "绿洲资本（Vitalbridge）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "基石资本（CoStone）",
+            "firm_id": "jishi-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "南山战新投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蔚来资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网英文稿记 nearly US$200 million，并称公司半年累计融资 4 亿美元；未披露上市，仍按新进记录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.limxdynamics.com/",
@@ -30,7 +460,7 @@
     "other_email_purpose": "业务合作"
   },
   "notes": "招聘邮箱由官网FAQ明确列出；careersUrl 为包含招聘联系信息的官方FAQ。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -65,6 +495,48 @@
       "supports": "公开企业主页主体：深圳逐际动力科技股份有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "LimX Dynamics 官网 About Us",
+      "url": "https://www.limxdynamics.com/en/about",
+      "supports": "官网About页媒体栏将 Will Zhang 标为 Founder，并列出 CFO Jesse Liu 的 Bloomberg 访谈。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "量子位：逐际动力再融2亿美元提速港股IPO",
+      "url": "https://www.qbitai.com/2026/07/449474.html",
+      "supports": "报道张巍为逐际动力创始人兼CEO。",
+      "published_date": "2026-07-14",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "逐际动力获近 2 亿元投资，推动四轮足、人形双足、AI 的研发落地丨逐际动力官方网站",
+      "url": "https://www.limxdynamics.com/zh/news/BK000004",
+      "supports": "天使轮与 Pre-A 轮合计近 2 亿元，及两轮投资方名单（峰瑞、智数、明势、昆仲；绿洲领投 Pre-A、联想创投参与）",
+      "published_date": "2023-10-17",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "逐际动力半年完成 5 亿元 A 轮系列融资丨逐际动力官方网站",
+      "url": "https://www.limxdynamics.com/zh/news/BK000018",
+      "supports": "A+ 轮完成、A 轮系列半年累计 5 亿元及参与机构名单",
+      "published_date": "2025-03-06",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "逐际动力完成 2 亿美元 B 轮融资丨逐际动力官方网站",
+      "url": "https://www.limxdynamics.com/zh/news/BK000056",
+      "supports": "2026-02-02 的 2 亿美元 B 轮及新老投资方名单",
+      "published_date": "2026-02-02",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -120,6 +592,25 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "张巍",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "南方科技大学",
+        "俄亥俄州立大学"
+      ],
+      "background": "南方科技大学长聘教授，普渡大学博士，曾任美国俄亥俄州立大学长聘副教授、加州大学伯克利分校博士后；2022年创立逐际动力。",
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "官网以英文名 Will Zhang 标注 Founder，量子位报道记为创始人兼CEO；未找到本人职业主页。"
     }
   ]
 }

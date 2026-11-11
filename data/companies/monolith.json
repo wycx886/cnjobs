@@ -14,6 +14,17 @@
     "year": 2021,
     "basis": "2021年11月成立投资管理机构；2023年开始公开介绍VC基金。首支基金为科技对冲基金，不能将2023年的VC首关说成机构首次成立。"
   },
+  "tier": {
+    "level": "tier2",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：投中2025年度中国最佳创业投资机构TOP100第17名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第81名（https://www.chinaventure.com.cn/rank/199/3056.html）；清科2025年中国人工智能领域投资机构20强（音序排列，页面不标名次，只能判断在榜；https://news.pedaily.cn/202512/559298.shtml）；投中2025年度中国人工智能与大数据产业最佳投资机构TOP30（按音序排名，页面不标名次，只能判断在榜；https://www.chinaventure.com.cn/rank/210/3244.html）。跨年度、跨发布方在榜，但 2024 年名次为第81名，AI 子榜又无名次可对齐，按 Tier 2 记录。",
+    "source_ids": [
+      "s07",
+      "s08",
+      "s09",
+      "s10"
+    ],
+    "labelled_at": "2026-11-11"
+  },
   "focus": "技术驱动的数字产业、科技智造，同时有科技二级市场策略。",
   "stage": "VC覆盖早期及成长期；另设公开市场策略。",
   "representative_cases": [
@@ -95,9 +106,41 @@
       "supports": "2026年新基金活动",
       "published_date": "2026-07-17",
       "checked_at": "2026-10-30"
+    },
+    {
+      "id": "s07",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "砺思资本：投中2025年度中国最佳创业投资机构TOP100第17名",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "砺思资本：投中2024年度中国最佳创业投资机构TOP100第81名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "清科2025年中国人工智能领域投资机构20强",
+      "url": "https://news.pedaily.cn/202512/559298.shtml",
+      "supports": "砺思资本：清科2025年中国人工智能领域投资机构20强（音序排列，页面不标名次，只能判断在榜）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "投中2025年度中国人工智能与大数据产业最佳投资机构TOP30",
+      "url": "https://www.chinaventure.com.cn/rank/210/3244.html",
+      "supports": "砺思资本：投中2025年度中国人工智能与大数据产业最佳投资机构TOP30（按音序排名，页面不标名次，只能判断在榜）",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
     }
   ],
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "organization_type": "investment_firm",
   "targeting": {
     "kind": "editorial_assessment",

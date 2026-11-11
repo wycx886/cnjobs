@@ -6,6 +6,10 @@
     "来也科技"
   ],
   "category_id": "06",
+  "founded": {
+    "year": 2015,
+    "basis": "官网「关于我们」载2015年7月1日正式成立。"
+  },
   "focus": "智能自动化、智能文档与数字员工",
   "products": "RPA、智能文档处理、企业智能体平台",
   "locations_text": "北京、上海、深圳、长沙及海外",
@@ -17,8 +21,140 @@
     ]
   },
   "investment": {
-    "summary": "已核历史A轮微软、红杉中国、光速中国参与；后续融资轮次与完整名单待官方逐轮确认。",
-    "verification_status": "partial"
+    "summary": "2015年7月成立并获2546万元天使轮；2016年A轮数千万元（微软领投，光速中国、红杉资本跟投），2017年B轮千万美元，2019年B+轮3500万美元，2020年2月C轮4200万美元（光速全球基金、光速中国成长基金联合领投），2021年C+轮5000万美元，2022年C++轮7000万美元。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2015",
+        "amount_text": "2546万元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网载2015年7月1日成立并获天使轮，未列投资方。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2016",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "微软",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "红杉资本",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09",
+          "s11"
+        ],
+        "notes": "金额见官网历程；投资方角色见36氪报道。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2017",
+        "amount_text": "千万美元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网未列投资方。"
+      },
+      {
+        "round": "B+",
+        "announced_on": "2019",
+        "amount_text": "3500万美元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网未列投资方。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2020-02-24",
+        "amount_text": "4200万美元",
+        "investors": [
+          {
+            "name": "光速全球基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "光速中国成长基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "凯辉创新基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "双湖资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09",
+          "s10"
+        ],
+        "notes": null
+      },
+      {
+        "round": "C+",
+        "announced_on": "2021",
+        "amount_text": "5000万美元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网未列投资方。"
+      },
+      {
+        "round": "C++",
+        "announced_on": "2022",
+        "amount_text": "7000万美元",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "官网未列投资方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://laiye.com/",
@@ -27,8 +163,8 @@
     "other_email": "mkt@laiye.com",
     "other_email_purpose": "合作咨询"
   },
-  "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。B/B+/C+/C++的具名投资方官网未披露，未补写。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -71,6 +207,60 @@
       "supports": "公开企业主页主体：来也科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "百度百科·汪冠春",
+      "url": "https://baike.baidu.com/item/%E6%B1%AA%E5%86%A0%E6%98%A5/3324876",
+      "supports": "汪冠春为来也科技联合创始人、董事长兼CEO；上海交通大学本科、普林斯顿大学博士；2011年与胡一川回国创立阿甘网并转型为“今晚看啥”，2012年被百度收购；2015年创办来也科技。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "来也科技官网：他，“来也”！",
+      "url": "https://laiye.com/news/post/2803.html",
+      "supports": "官方人物报道：汪冠春与胡一川2011年创立今晚看啥，2012年被百度收购；汪冠春在百度任智能交互应用团队负责人；2015年6月创立来也，后转向RPA+AI。",
+      "published_date": "2024-05-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "来也科技官网：来也科技CTO胡一川：高价值场景是AI商业化的起点",
+      "url": "https://laiye.com/news/post/2953.html",
+      "supports": "官方文章称胡一川为来也科技联合创始人兼CTO。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "来也科技 关于我们（发展历程）",
+      "url": "https://www.laiye.com/about",
+      "supports": "载2015年7月1日成立并获天使轮2546万元，其后A轮数千万元、B轮千万美元、B+轮3500万美元、C轮4200万美元、C+轮5000万美元、C++轮7000万美元。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "来也科技完成C轮4200万美金融资",
+      "url": "https://laiye.com/news/post/493.html",
+      "supports": "2020年2月24日完成C轮4200万美元，光速全球基金和光速中国成长基金联合领投，凯辉创新基金和双湖资本继续跟投。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "organization",
+      "title": "36氪：助理来也完成数千万元A轮融资，微软领投",
+      "url": "https://www.36kr.com/p/1721286885377",
+      "supports": "A轮数千万元人民币，微软领投，光速中国和红杉资本跟投。",
+      "published_date": "2016-12-13",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -126,6 +316,42 @@
         "s05"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "汪冠春",
+      "role": "联合创始人、董事长兼CEO",
+      "background": "上海交通大学电子工程本科，普林斯顿大学机器人方向硕博；2011年与胡一川创办今晚看啥（2012年被百度收购），后在百度负责智能交互应用团队，推出百度语音助手等产品；2015年创办来也科技，推动公司从C端语音助理转向RPA+AI的企业级智能自动化。",
+      "previous_firms": [
+        "百度",
+        "今晚看啥"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "百科条目与公司官网人物报道一致；未找到可核实的本人公开职业主页。"
+    },
+    {
+      "name": "胡一川",
+      "role": "联合创始人兼CTO",
+      "background": "本科、硕士毕业于清华大学，美国宾夕法尼亚大学电子与系统工程博士；曾联合创立视频个性化推荐产品“今晚看啥”，后任百度资深架构师；2015年与汪冠春共同创立来也科技，负责技术方向与产品研发。",
+      "previous_firms": [
+        "百度",
+        "今晚看啥"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "公司官网文章明确其为联合创始人兼CTO。"
     }
   ]
 }

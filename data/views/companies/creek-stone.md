@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/creek-stone.json)
 
-机构 ID：`creek-stone` · 核查日期：2026-10-30
+机构 ID：`creek-stone` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -81,3 +81,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s01 | [对话钟陆欢：这个时点，AI Native的美元天使基金｜加先生播客](https://www.xiaoyuzhoufm.com/episode/685e374808d8fd858643a0a1) | 钟陆欢原弘毅美元基金负责人；2025年已独立创立；美元天使投资策略 | 2025-06-27 | 2026-10-30 |
 | s02 | [对谈Odyss创始人潘宇扬与CreekStone合伙人李一豪｜十字路口Crossing](https://elsewhere.news/zh/crossing/aiodysscreekstone) | 两位合伙人与成立年份；Odyss天使投资关系；AI早期投资及孵化；创始人交流邮箱 | 2025-12-20 | 2026-10-30 |
 | s03 | [OdyssLife完成累计近2亿元多轮融资｜36氪](https://eu.36kr.com/en/newsflashes/3739503574515717) | Creekstone作为老股东继续投资；2026年独立投资组合动态 | 2026-03-26 | 2026-10-30 |
+| s04 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 该榜公开名单中未见Creek Stone；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s05 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 该榜公开名单中未见Creek Stone；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s06 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 该榜公开名单中未见Creek Stone；作为本次未上榜核查依据 | 2026-04-24 | 2026-11-11 |
+| s07 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 该榜公开名单中未见Creek Stone；作为本次未上榜核查依据 | 2025-04-18 | 2026-11-11 |

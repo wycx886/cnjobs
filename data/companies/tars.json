@@ -18,8 +18,160 @@
     ]
   },
   "investment": {
-    "summary": "2026-04-16 Pre-A轮由高瓴创投、红杉中国、美团战投联合领投；恒旭资本官方确认追加投资，其他参与方含美团龙珠、中金资本、北京机器人产业基金、上海国投先导等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-03 天使轮1.2亿美元，蓝驰创投、启明创投共同领投，线性资本、恒旭资本、洪泰基金、联想创投、襄禾资本、高瓴创投跟投；2026-04 Pre-A轮4.55亿美金，高瓴创投、红杉中国、美团战投联合领投，美团龙珠、中金资本等跟投，恒旭资本与北京机器人产业基金、上海国投先导参与。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2025-03-26",
+        "amount_text": "1.2亿美元",
+        "investors": [
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "lead",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "lead",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "恒旭资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "洪泰基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "襄禾资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "澎湃新闻口径，称创国内具身智能天使轮最大融资额纪录。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2026-04-16",
+        "amount_text": "4.55亿美金",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团战投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "恒旭资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "北京机器人产业发展投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海国投先导",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "恒旭资本公告原文金额写作“4.55亿美金”，照录未换算；公司称创国内具身智能最大单轮与最大Pre-A轮纪录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.tarsrobot.com/",
@@ -29,7 +181,7 @@
     "other_email_purpose": "未查到公开邮箱"
   },
   "notes": "未查到公开招聘邮箱，使用高校发布的公司官方飞书投递入口；tarsrobot.com 本轮读取超时。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -64,6 +216,33 @@
       "supports": "公开企业主页主体：它石智航；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "title": "新京报：它石智航完成1.2亿美元天使轮融资，创始团队出自华为和百度",
+      "url": "https://m.bjnews.com.cn/detail/1742970143168030.html",
+      "supports": "它石智航2025年2月5日成立；CEO陈亦伦曾任清华AIR智能机器人方向首席科学家、华为自动驾驶CTO、大疆机器视觉总工程师；董事长李震宇曾任百度智能驾驶事业群总裁；首席科学家丁文超为原华为“天才少年”。",
+      "published_date": "2025-03-26",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s06",
+      "title": "澎湃新闻：陈亦伦、李震宇领衔，它石智航完成1.2亿美元国内具身智能最大天使轮融资",
+      "url": "https://m.thepaper.cn/baijiahao_30491402",
+      "supports": "公司CEO陈亦伦、董事长李震宇、首席科学家丁文超的职务与履历；公司2025年2月5日成立。",
+      "published_date": "2025-03-26",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "澎湃新闻：它石智航完成1.2亿美元国内具身智能最大天使轮融资",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30491402",
+      "supports": "2025-03-26 完成天使轮1.2亿美元，蓝驰创投、启明创投共同领投，线性资本、恒旭资本、洪泰基金、联想创投、襄禾资本、高瓴创投跟投。",
+      "published_date": "2025-03-26",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -120,5 +299,61 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "陈亦伦",
+      "role": "创始人兼CEO",
+      "background": "它石智航创始人兼CEO；曾任清华大学智能产业研究院智能机器人方向首席科学家、华为自动驾驶CTO、大疆机器视觉总工程师。",
+      "previous_firms": [
+        "华为",
+        "大疆",
+        "清华大学智能产业研究院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色与履历据新京报2025年3月报道。"
+    },
+    {
+      "name": "李震宇",
+      "role": "联合创始人兼董事长",
+      "background": "它石智航董事长；曾任百度集团资深副总裁、智能驾驶事业群总裁。",
+      "previous_firms": [
+        "百度"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "新京报报道称其为董事长；另有媒体称联合创始人，本条合并表述。"
+    },
+    {
+      "name": "丁文超",
+      "role": "联合创始人兼首席科学家",
+      "background": "它石智航联合创始人兼首席科学家；原华为“天才少年”，曾主导华为智驾端到端决策网络。",
+      "previous_firms": [
+        "华为"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色据新京报报道。"
+    }
+  ],
+  "founded": {
+    "year": 2025,
+    "basis": "澎湃新闻称它石智航正式成立于2025年2月5日。"
+  }
 }

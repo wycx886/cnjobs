@@ -19,8 +19,155 @@
     ]
   },
   "investment": {
-    "summary": "官网2026-05-08披露新一轮逾2亿美元融资，由顺丰、红杉中国、IDG资本领投；另有2026年3月战略轮公告。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2026年3月完成10亿元人民币战略轮；2026年4月完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本、中金资本等联合注资，科捷智能、东风产投、工银资本、联通旗下基金等产业方参与。更早轮次本次未逐项核实。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "战略轮",
+        "announced_on": "2026-03",
+        "amount_text": "10亿元",
+        "investors": [],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "福布斯中国称2026年3月完成10亿元人民币战略轮，未列投资方。"
+      },
+      {
+        "round": "新一轮",
+        "announced_on": "2026-04-27",
+        "amount_text": "超2亿美元",
+        "investors": [
+          {
+            "name": "顺丰集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s08",
+              "s09"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s09"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s08",
+              "s09"
+            ]
+          },
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "京铭资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "朝希资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "鲁信创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "聚合资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "隆启投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "科捷智能",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "东风产投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "工银资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "联通旗下基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "清控天诚",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "鸿瑞达",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08",
+          "s09"
+        ],
+        "notes": "报道称“新一轮”，未披露字母轮次。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.robotera.com/en/",
@@ -30,7 +177,7 @@
     "other_email_purpose": "商务"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -65,6 +212,51 @@
       "supports": "公开企业主页主体：北京星动纪元科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "星动纪元公司介绍（RoboInd企业档案）",
+      "url": "https://robotera.roboind.com/introduce/",
+      "supports": "公司2023年8月由清华大学交叉信息研究院孵化，创始人陈建宇为清华大学助理教授、博士生导师。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "腾讯新闻：对话星动纪元陈建宇",
+      "url": "https://news.qq.com/rain/a/20260313A03KO000",
+      "supports": "报道陈建宇为星动纪元创始人、CEO。",
+      "published_date": "2026-03-13",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "Jianyu Chen 清华交叉信息研究院个人学术主页",
+      "url": "https://people.iiis.tsinghua.edu.cn/~jychen/",
+      "supports": "陈建宇（Jianyu Chen）为清华大学交叉信息研究院助理教授，2020年获加州大学伯克利分校博士（导师Masayoshi Tomizuka），2015年本科毕业于清华大学。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "福布斯中国：星动纪元再获超2亿美元融资",
+      "url": "https://www.forbeschina.com/investment/71473",
+      "supports": "2026-04-27 完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本等联合注资，老股东清控天诚、鸿瑞达加码；并称2026年3月完成10亿元人民币战略轮。",
+      "published_date": "2026-04-27",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "新浪财经（投资界）：顺丰红杉IDG联手，星动纪元融资2亿美金",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-27/doc-inhvwwmp2515059.shtml",
+      "supports": "2026-04-27 完成2亿美元新一轮：顺丰集团领投，红杉中国、IDG资本、中金资本、京铭资本、朝希资本、鲁信创投、聚合资本、隆启投资联合注资；科捷智能、东风产投、工银资本、联通旗下基金参与。",
+      "published_date": "2026-04-27",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -121,5 +313,40 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "陈建宇",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "清华大学"
+      ],
+      "background": "清华大学交叉信息研究院助理教授、博士生导师；2020年获加州大学伯克利分校博士（导师Masayoshi Tomizuka），2015年本科毕业于清华大学；2023年8月创办星动纪元（RobotEra）。",
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://people.iiis.tsinghua.edu.cn/~jychen/",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s07",
+            "s05"
+          ],
+          "notes": "清华IIIS官方个人学术主页，姓名、职务与学历与公司档案一致；页面未提及星动纪元。"
+        }
+      ],
+      "source_ids": [
+        "s05",
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "企业档案与腾讯新闻采访一致；未找到本人公开职业主页。"
+    }
+  ],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界与福布斯中国均称公司始于2023年。"
+  }
 }

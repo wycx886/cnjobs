@@ -1,20 +1,23 @@
 # 机构分类与案例归因参考
 
-## 主分类与第二维度
+## Tier 1 机构分类与第二维度
 
-第一波以新进玩家为主：`targeting.player_group` 为 `new_entrant`，当前候选进入 `wave: first`；资料不足的候选保留 `watchlist`。已有玩家进入后续范围，无法可靠判断时用 `unresolved` 并保留理由。
+机构顶层按 Tier 1 划分为三类：
+1. **创业公司**：经营型新进机构（`operating_organization` + `player_group: "new_entrant"`）。
+2. **现有巨头**：经营型已有玩家（`operating_organization` + `player_group: "incumbent"`）。
+3. **金融机构**：投资机构（`organization_type: "investment_firm"`）。在看板中独立展示于“金融机构”顶层分区，不混入前两者。
 
-经营型机构和投资机构是第二个维度。它们分别需要产品／融资或投资策略／团队／案例字段，但共享公开渠道和后续机会记录方法。不把统一年份、上市状态或有无 VC 资金当作唯一门槛。
+编辑分类不等于已核实的成立年份、当前法律独立性或投资价值结论，`labelled_at` 与原事实 `checked_at` 分开。不把统一年份、上市状态或有无 VC 资金当作唯一门槛。
 
-编辑分类不等于已核实的成立年份、当前法律独立性或投资价值结论，`labelled_at` 与原事实 `checked_at` 分开。
+## 经营型机构赛道（01–10 仅适用于经营型）
 
-## 当前仓库的经营型机构赛道
+01–10 主赛道**仅适用于经营型机构（`operating_organization`）**；**投资机构没有 `category_id`**，绝不能为投资机构编造或指派 01–10 赛道。
 
-本节只适用于当前中国AI公共契约，通用Skill不要求其他行业使用AI分类。赛道名称、边界和子类的唯一维护源是 [data/taxonomy.json](../../../data/taxonomy.json)，阅读版是 [data/views/taxonomy.md](../../../data/views/taxonomy.md)。这里不复制第二套表格，避免分类更新后分叉。
+赛道归入方法由 [map-sectors](../../map-sectors/SKILL.md) 定义；赛道名称、边界和子类的唯一维护源是 [data/taxonomy.json](../../../data/taxonomy.json)。具体数据契约见 [数据模型](../../../data/README.md)。此处不维护平行分类，消除多处维护带来的分叉风险。
 
-现有方法参考 Sequoia、a16z 和 HongShan 的公开材料，由本资料库编辑采用具体组织方式，不是这些机构共同发布的官方 AI 分类标准。原始观点、采用范围和局限见分类 JSON 中的 `references`、`method` 和 `caveats`。
+## 投资机构组织与归因
 
-## 投资机构归因
+投资机构按自身既有字段（`group` 如 `emerging` / `established`、`coverage`、`stage`）进行分组与展示。
 
 新团队识别见 [新进 VC SOP](new-vc-spinouts.md)，完整披露边界见 [VC 方法](investment-cases.md)。
 

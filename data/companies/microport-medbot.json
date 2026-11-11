@@ -13,12 +13,12 @@
   "targeting": {
     "kind": "editorial_assessment",
     "player_group": "new_entrant",
-    "wave": "watchlist",
-    "rationale": "微创系手术机器人独立上市平台，2024年收入高增但仍亏损，属于有新进边界的子平台；先列观察。",
+    "wave": "first",
+    "rationale": "公司已于2021年11月2日在香港联交所主板上市（02252.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
     "source_ids": [
-      "s04"
+      "s07"
     ],
-    "labelled_at": "2026-11-03"
+    "labelled_at": "2026-11-11"
   },
   "channels": [
     {
@@ -65,7 +65,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -102,6 +102,32 @@
       "supports": "微创机器人2024年收入2.57亿元、同比增长146%、净亏损6.47亿元及产品订单。",
       "published_date": "2025-03-28",
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "证券时报专访微创机器人创始人、首席执行官何超",
+      "url": "https://www.stcn.com/article/detail/3593591.html",
+      "supports": "2026年1月专访称何超为微创机器人创始人、首席执行官；公司已实现腔镜、骨科、血管介入全赛道产品商业化，累计订单超230台。",
+      "published_date": "2026-01-15",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "合肥工业大学：国产手术机器人产业领军者——何超校友",
+      "url": "https://news.hfut.edu.cn/info/1022/60564.htm",
+      "supports": "何超为合肥工业大学2007届机械和电子专业校友，现任上海微创医疗机器人（集团）股份有限公司总裁、中国医疗器械行业协会医用机器人分会副会长、上海微创手术机器人工程技术研究中心主任。",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "title": "微创集团｜上海微创医疗机器人（集团）股份有限公司于香港联交所主板成功上市",
+      "url": "https://www.microport.com.cn/news/xinwendongtai/1741.html",
+      "supports": "2021-11-02 微创机器人在香港联交所主板上市，股份代号 02252.HK",
+      "published_date": "2021-11-02",
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "手术机器人放量与盈利节奏未核验；母公司持股与完整股东结构未展开。",
@@ -117,12 +143,40 @@
     ]
   },
   "investment": {
-    "summary": "港股上市（02252）；2024年收入2.57亿元，同比增长146%，净亏损6.47亿元，图迈全球新签订单39台。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "港交所主板上市（02252.HK，2021-11-02）；2024 年收入 2.57 亿元，同比增长 146%，净亏损 6.47 亿元。招股前逐轮融资明细本轮未核到，未写入。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "已上市",
+        "announced_on": "2021-11-02",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s07"
+        ],
+        "notes": "港交所主板，02252.HK；母公司微创医疗官网新闻确认上市日期。未取得招股前的逐轮融资明细，故不补造早期轮次。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "微创机器人",
     "original_track": "08",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
-  }
+  },
+  "people": [
+    {
+      "name": "何超",
+      "role": "创始人、总裁兼首席执行官",
+      "background": "合肥工业大学机械与电子专业2007届本科，博士；我国最早一批从事微创伤手术机器人研究的科研人员，主导我国第一个关节手术机器人国家重点专项；现任上海微创医疗机器人（集团）股份有限公司创始人、总裁兼CEO，并任中国医疗器械行业协会医用机器人分会副会长。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "证券时报2026年专访与合肥工业大学校友报道对其创始人、总裁/首席执行官身份表述一致；未找到其个人公开职业主页。"
+    }
+  ]
 }

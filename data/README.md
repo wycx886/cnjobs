@@ -44,9 +44,14 @@
 
 ## 第一波与机构类型
 
-主分类是新进玩家与已有玩家，经营型机构／投资机构是第二个维度。新进不是固定年份阈值，也不由上市状态或 VC 融资单独判断；成熟机构品牌变化不自动成为新进机构。
+看板第一层为 Tier 1 机构分类：
+1. **创业公司**：经营型新进玩家（`organization_type: "operating_organization"`，`player_group: "new_entrant"`），寻源入口为 [find-startups](../skills/find-startups/SKILL.md)。
+2. **现有巨头**：经营型已有玩家（`organization_type: "operating_organization"`，`player_group: "incumbent"`），寻源入口为 [find-incumbents](../skills/find-incumbents/SKILL.md)。
+3. **金融机构**：投资机构（`organization_type: "investment_firm"`）。在看板中独立展示于“金融机构”顶层分区，不混入创业公司或现有巨头；**没有 `category_id`**（01–10 赛道仅适用于经营型机构），按自身既有字段（`group`、`coverage`、`stage`）组织。寻源入口为 [find-investors](../skills/find-investors/SKILL.md)：先圈定 Tier 1／Tier 2 的 VC、PE 等机构，再沿 `portfolio[]` 发现公司；前两个 Skill 保留为补充寻源。
 
-有明确边界的大厂内部新团队、实验室、孵化项目、子公司或正式拆分机构可以是新进候选，其母平台仍是已有玩家。离职团队创业也可研究，但不能仅凭履历认定它是母平台孵化或拆分。成熟平台和现有业务由 [find-incumbents](../skills/find-incumbents/SKILL.md) 研究；真正的新进单元交给 [find-startups](../skills/find-startups/SKILL.md)。实际边界按 [大厂项目 SOP](../skills/find-incumbents/references/corporate-ventures.md) 留存证据，两个 Skill 不复制机构记录。
+新进不是固定年份阈值，也不由上市状态或 VC 融资单独判断；成熟机构品牌变化不自动成为新进机构。
+
+有明确边界的大厂内部新团队、实验室、孵化项目、子公司或正式拆分机构可以是新进候选，其母平台仍是已有玩家。离职团队创业也可研究，但不能仅凭履历认定它是母平台孵化或拆分。成熟平台和现有业务由 [find-incumbents](../skills/find-incumbents/SKILL.md) 研究；真正的新进单元交给 [find-startups](../skills/find-startups/SKILL.md)。实际边界按 [大厂项目 SOP](../skills/find-incumbents/references/corporate-ventures.md) 留存证据，两个 Skill 不复制机构记录。完成寻源后，按规范交接 `map-sectors` / `compose-profile`、`find-person` 与 `find-channels`。
 
 `targeting` 的字段如下：
 
@@ -71,9 +76,11 @@
 | `locations_text` | 公开城市记录，保留总部、团队或招聘地等限定 |
 | `regional_notes` | 主公司内的地区研究、历史线索、限定范围及独立来源／日期，不形成地区公司副本 |
 | `comparison` | 编辑分析和比较对象，不表示性能排名或完整竞争清单 |
-| `investment` | 经营型机构的历史投资披露、未确认范围与核验状态 |
+| `investment` | 经营型机构的历史投资披露与核验状态；可选 `rounds[]` 逐轮记录 |
 | `organizational_context` | 经营型记录可选的组织形式、母平台关系及核验信息；缺失不表示独立 |
-| `founded` | 投资机构的成立口径 |
+| `founded` | 机构成立口径：`year` 与 `basis`；经营型公司可选，投资机构沿用既有必填口径 |
+| `tier` | 投资机构可选 Tier 编辑判断：`tier1` / `tier2` / `unlisted`，含依据、来源与打标日期；不是官方或收益排名 |
+| `portfolio` | 投资机构可选投资组合条目，区分当前机构与原平台，并记录轮次、披露日期、角色与来源 |
 | `people` | 所有机构的公开人物身份、职务、背景、原平台、身份来源与日期及 `profiles`；原 VC `team` 已迁入此处 |
 | `representative_cases` | 投资机构案例；`prior_firm` 与 `current_firm` 归因分开 |
 | `contacts` | 既有公开入口，保留用途与备注，兼容旧消费者 |
@@ -97,6 +104,45 @@
 | `not_applicable` | 有证据确认的内部团队、实验室或产品项目不适用独立机构股权融资字段；不表示没有内部经费 |
 
 自筹、众筹、创始人支持、产业收购、国资或战略融资等限定逐条保留，不能统一标成 VC-backed。投资机构的完整字段与案例边界见 [VC 方法](../skills/find-startups/references/investment-cases.md)。
+
+## Tier、Portfolio、融资轮次与 Logo
+
+### 投资机构 Tier
+
+`tier` 是可选对象，表达**有来源的编辑判断**，不是官方排名、基金收益排名或个人推荐分数。`group`（`emerging` / `established`）表示组织成熟度，与 Tier 不是同一轴，二者都保留。
+
+| 字段 | 含义 |
+| --- | --- |
+| `level` | `tier1`：近年多份权威股权投资榜单中稳定靠前，或被交叉引用的综合性主力机构；`tier2`：榜单中经常出现、有清晰策略与可核公开活动，但交叉引用不如第一档稳定（含公开存在的专业或新锐基金）；`unlisted`：已建档但榜单依据不足，不强行打档 |
+| `basis` | 判断依据，写明参考的榜单名称、年份或期次、URL，以及该机构被如何提及 |
+| `source_ids` | 本记录 `sources[]` 中支撑 Tier 的机构级来源，至少 1 个 |
+| `labelled_at` | 实际打 Tier 的日期，不表示业务事实重新核查 |
+
+Tier 1 至少需要两份近年公开榜单交叉支持，或一份榜单加机构官网／权威报道；单份榜单不能单独定 Tier 1。优先实际访问清科中国股权投资年度排名、投中（ChinaVenture）年榜及其他可公开访问的年度机构榜，行业媒体盘点只作辅证；访问失败就保留未打档。禁止把整份受版权保护的榜单正文抄进仓库，只记录本库用到的机构、出现榜单与链接。方法见 [find-investors](../skills/find-investors/SKILL.md)。
+
+### Portfolio 与公司融资轮次
+
+投资机构可选 `portfolio[]`；经营型公司可选 `investment.rounds[]`。两处可以互链（`portfolio[].company_id` 对应公司稳定 ID，`rounds[].investors[].firm_id` 对应投资机构稳定 ID），但不重复编造同一事实。
+
+`portfolio[]` 每条：
+| 字段 | 含义 |
+| --- | --- |
+| `company_name` | 披露中的公司名称，必填 |
+| `company_id` | 本仓库已有经营型档案的稳定 ID；没有就填 `null`，不新建空壳 |
+| `round` | 按披露原文记录轮次名称（如 `Pre-A` / `B2`），不擅自规范成统一枚举；未披露填 `null` |
+| `announced_on` | 披露日期，可为年、年月或年月日；未披露填 `null` |
+| `role` | `lead`、`participant` 或 `undisclosed`；参与不等于领投 |
+| `attribution` | `current_firm` 或 `prior_firm`；原平台案例不能算当前机构业绩 |
+| `source_ids` | 本机构记录中的机构级来源，至少 1 个 |
+| `notes` | 口径限制，如“官网列表非完整组合”、IPO 不等于已退出 |
+
+`investment.rounds[]` 每条记录 `round`、`announced_on`、`amount_text`、`investors[]`、`source_ids`、`notes`。`amount_text` 只在来源明确披露金额时保留原文（如「3000万美元」），不拆成自行换算的数字字段；`investors[]` 的 `name` 为披露名称，`firm_id` 仅在本仓库已有投资机构档案时填写，`role` 与 `source_ids` 同样按披露记录。没有可靠披露就不建 `rounds`，也不补造轮次、金额或投资方。
+
+经营型公司的 `founded` 为可选 `{ "year": int|null, "basis": string }`，用于记录成立时间口径；不要用融资、品牌启用或登记日期替代成立年份。
+
+### 官方 Logo
+
+`tools/fetch_logos.py` 为创业公司（`operating_organization` + `player_group: "new_entrant"`）和所有有官网的 `investment_firm` 从机构官网或官方页面抓取 logo，写入 `data/views/assets/logos/<id>.<ext>`，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。只用官方图像；找不到就跳过并由看板显示文字占位，不生成假 logo，也不使用 Clearbit 等第三方 logo CDN。
 
 ## 大厂关联项目与母平台底表
 
@@ -127,7 +173,9 @@
 
 `find-startups` 和 `find-incumbents` 的主题、地域和行业由具体任务确定；本仓库现有公共分类与 schema 则继续服务当前中国 AI 资料。通用方法不等于当前数据契约已经扩展到所有行业。超出既有分类的结果先存私人工作区 `research/`，或在明确扩展 taxonomy、schema 和生成规则后发布，不能借用一个不相符的 AI 类目来通过校验。研究流程和第三方参考见 [研究方法](../skills/find-incumbents/references/research-methods.md)。
 
-## 三类公开渠道
+## 三类公开渠道与六槽位模板
+
+公开渠道作为 Agent 后续核实填充的**动态模板**，涵盖标准 6 槽位：官方网站（`official`）、官招/投递链接（`official`）、招聘邮箱（`official` / `contacts`）、BOSS直聘企业主页（`recruitment_platform`）、猎聘企业主页（`recruitment_platform`）与 LinkedIn 企业主页（`professional_social`）。绝不猜测 URL 或邮箱。
 
 三类是入口类别，不表示渠道之间有高低优先级，也不预设个人职能方向。
 
@@ -135,7 +183,7 @@
 | --- | --- |
 | `official` | 官网、官方招聘或业务页面等，经核实的机构正式入口 |
 | `recruitment_platform` | 机构在 BOSS 直聘、猎聘、脉脉上的公开企业主页 |
-| `professional_social` | 机构账号，或有公开专业身份依据的个人主页 |
+| `professional_social` | 机构 LinkedIn 公司主页、官方社媒账号（个人主页属于 `people[].profiles`） |
 
 每条 `channels` 记录包含：
 
@@ -159,6 +207,8 @@
 渠道复核替换当前主体／证据时，原观察的来源、支持内容和日期保留在 `sources`，通过该渠道的 `historical_source_ids` 引用。历史依据不参与当前归属和核查日期判断；当前依据仍放 `source_ids`。写入工具新增观察，不覆盖旧观察来伪装成一次重新核查。
 
 ## 人物资料与公开主页
+
+核心人物是机构机会研究的最关键信息。当前公共数据中，原 VC 团队已迁入 `people[]`，而经营型创业公司（`operating_organization` + `new_entrant`）的 `people[]` 目前大多为空；**创业公司的核心人物（创始人/高管/首席科学家/业务负责人）是最高优先级补齐对象**。
 
 人物统一放 `people[]`，契约见 [person.schema.json](schemas/person.schema.json)。`name`、`role`、`background`、`previous_firms` 是身份事实；`source_ids`、`checked_at`、`verification_status`、`notes` 记录其核验依据和限制。`profiles[]` 独立记录平台、URL、核验状态、来源与日期；替换身份依据时，旧依据用 `historical_source_ids` 保留，不参与当前核查日期判断；不在 `channels[]` 或 VC 的 `team[]` 复制人物。
 

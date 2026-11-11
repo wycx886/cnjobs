@@ -83,7 +83,7 @@
     "other_email": null,
     "other_email_purpose": null
   },
-  "checked_at": "2026-11-03",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -138,6 +138,32 @@
       "supports": "清洁机器人、数字健康机器人、智能公交与行业智能体等产品口径。",
       "published_date": null,
       "checked_at": "2026-11-03"
+    },
+    {
+      "id": "s07",
+      "title": "科创板日报：深兰科技创始人陈海波：要给人工智能产业化发展更多耐心",
+      "url": "https://www.cls.cn/detail/1215285",
+      "supports": "陈海波为深兰科技创始人、董事长，深兰科学院创始院长；2014年创立深兰科技。",
+      "published_date": "2022-12-16",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s08",
+      "title": "中国经营报（中经TMT）：深兰科技陈海波：希望成为“综合格斗王” 打造软硬兼备的AI公司",
+      "url": "https://www.sohu.com/a/934787936_120044912",
+      "supports": "称陈海波为深兰科技创始人、董事长兼CEO，并介绍其“看、听、算、动”技术布局与深兰科学院。",
+      "published_date": "2025-09-14",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "深兰科技官网：浦东创投集团参与完成深兰科技数亿元Pre-IPO轮投资",
+      "url": "https://www.deepblueai.com/api/News/newsdetail?id=200",
+      "supports": "公司官网转载浦东创投公众号：2025-04完成数亿元Pre-IPO轮投资，浦东创投集团参与；文中并称公司创立于2014年。",
+      "published_date": "2025-04-03",
+      "checked_at": "2026-11-11"
     }
   ],
   "notes": "公开报道存在对经营与债务的争议，本记录未做司法/信用核验；融资仅按公司宣布与媒体披露记录。",
@@ -153,12 +179,53 @@
     ]
   },
   "investment": {
-    "summary": "2025年4月获浦东创投集团数亿元Pre-IPO轮投资；公司称此前已完成多轮融资，本轮具体金额与估值未完整披露。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-04-03公司官网转载浦东创投消息：浦东创投集团参与完成数亿元Pre-IPO轮投资。更早轮次与金额未在本次核实的来源中披露；公司未上市。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "Pre-IPO",
+        "announced_on": "2025-04-03",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "浦东创投集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "公司官网转载稿未披露其他投资方；公司未上市。"
+      }
+    ]
   },
   "provenance": {
     "original_name": "深兰科技",
     "original_track": "06",
     "original_subtrack": "上海科技硬件候选-2026-11-02"
+  },
+  "people": [
+    {
+      "name": "陈海波",
+      "role": "创始人、董事长兼CEO",
+      "background": "2014年创立深兰科技，任创始人、董事长；深兰科学院创始院长，长期主张基础研究与应用开发并重。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "角色据《中国经营报》2025年专访与科创板日报2022年专访。"
+    }
+  ],
+  "founded": {
+    "year": 2014,
+    "basis": "公司官网新闻稿称“深兰科技创立于2014年”。"
   }
 }

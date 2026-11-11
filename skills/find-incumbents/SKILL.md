@@ -1,6 +1,6 @@
 ---
 name: find-incumbents
-description: Discover and verify established players in a specified market, including major platforms, software vendors, hardware and infrastructure suppliers, mature investment firms, and cross-industry operators. Use for finding incumbents, existing players, large companies, market leaders, mature AI businesses, or relevant business teams. Take geography, theme and sectors from the task, not a permanent AI or China filter. Establish market presence and topic relevance separately; do not infer leadership from size, age, listing or marketing claims. Route genuinely new ventures to find-startups.
+description: Discover and verify established players in a specified market, including major platforms, software vendors, hardware and infrastructure suppliers, mature investment firms, and cross-industry operators. Use for supplementary incumbent prospecting, existing players, large companies, market leaders, mature AI businesses, or relevant business teams. Handoff to map-sectors and compose-profile after finding companies (then find-person, then find-channels). Note investment firms display under Financial Institutions and their formal discovery entry is find-investors.
 ---
 
 # Find Incumbents · 已有玩家寻源
@@ -13,6 +13,10 @@ description: Discover and verify established players in a specified market, incl
 
 用户若要求“头部”，先确定细分市场和可核查标准，例如持续产品／服务、客户或装机基础、公开收入／出货、技术与研发活动。未给指标时输出“已有玩家候选”及纳入依据，不把公司规模、成立年份、上市、融资或自称领先直接转换为排名。
 
+按 Tier 1 机构分类分清边界：
+- **现有巨头**：经营型已有玩家（`operating_organization` 且 `player_group: "incumbent"`），在看板展示于“现有巨头”。
+- **金融机构（仅作补充线索）**：成熟投资机构（管理机构、成熟 VC 等）也是研究对象。投资机构（`organization_type: "investment_firm"`）在看板中展示于“**金融机构**”，不归入现有巨头；正式金融机构寻源入口是 [find-investors](../find-investors/SKILL.md)。本 Skill 可在研究现有生态时把成熟基金作为补充线索，但机构圈定、Tier、logo 与 portfolio 交给该 Skill。
+
 ## 2. 按产业角色扩展候选池
 
 从已知公司、官方行业图谱、监管与交易所资料、公开供应商／客户关系扩展，至少考虑任务相关的下列角色：
@@ -20,7 +24,7 @@ description: Discover and verify established players in a specified market, incl
 - 平台与软件：互联网、企业软件、成熟技术供应商。
 - 基础设施：云、计算、芯片、服务器、网络、终端与硬件。
 - 行业运营商：制造、汽车、消费、医疗、金融等已有集团和专业机构。
-- 成熟投资机构：已形成持续投资业务的管理机构及相关团队。
+- 成熟投资机构：已形成持续投资业务的管理机构及相关团队（看板归入“金融机构”）。
 
 硬件与软件可以交叉标记。厂商、基础设施供应商和将技术用于自身业务的采用者分别记录；“使用某技术”不是“在该技术领域领先”的证明。行业图谱、备案与榜单只是线索，各有收录标准和时间，不当作完整市场全集或自动能力认证。
 
@@ -40,13 +44,20 @@ description: Discover and verify established players in a specified market, incl
 
 组织归属遵循 [共同 SOP](references/corporate-ventures.md)。若发现有明确新目标与活动证据的新孵化项目、正式拆分或新独立机构，交给 [find-startups](../find-startups/SKILL.md) 判断新进定位；母平台和具体单元可由不同方法研究，但共享同一正式事实源，不复制两套档案。成熟常规业务继续由本 Skill 研究。
 
-## 5. 输出与保存
+## 5. 输出候选与交接流程
 
 每项至少包含：机构／单元、市场与地域、产业角色、已有业务依据、主题相关证据、具体组织层级、来源／公开日期／核查日期、未确认事项。按产业角色或细分市场展示；除非任务与证据支持，不强制 Top N 排名。
 
+在确认机构及承载业务的单元后，按标准链路交接：
+1. **赛道与档案**：交接给 [map-sectors](../map-sectors/SKILL.md)（经营型机构归入既有 01–10 赛道，投资机构无 category_id）与 [compose-profile](../compose-profile/SKILL.md)（维护唯一源 `data/companies/<id>.json`）。
+2. **核心人物**：交接给 [find-person](../find-person/SKILL.md) 锁定具体业务负责人、VP 或合伙人及公开专业主页。
+3. **公开渠道**：最后交接给 [find-channels](../find-channels/SKILL.md) 填充机构公开触达渠道模板。
+
+## 6. 适配本仓库
+
 方法通用，输出契约由项目决定。本仓库的中国 AI 示例见 [可选附录](references/china-example.md)，第三方研究方法比较见 [方法说明](references/research-methods.md)。
 
-在本仓库内，先读取 `data/lists/incumbents.json`、`data/views/incumbents.md` 和 `data/index.json`。研究成熟基金时也读取 `data/lists/vcs.json`，按完整档案的类型与已有玩家标记筛选。两个名单是共用数据；正式档案及来源统一在 `data/companies/`。平台底表是发现线索；底表不自动成为目标、母公司或“AI头部”证明。缺少主题证据不是证实没有相关业务。
+在本仓库内，先读取 `data/lists/incumbents.json`、`data/views/incumbents.md` 和 `data/index.json`。成熟基金的正式寻源、Tier 与 portfolio 见 [find-investors](../find-investors/SKILL.md)；本 Skill 仍可读取 `data/lists/vcs.json`，按完整档案的类型与已有玩家标记筛选补充线索。两个名单是共用数据；正式档案及来源统一在 `data/companies/`。平台底表是发现线索；底表不自动成为目标、母公司或“AI头部”证明。缺少主题证据不是证实没有相关业务。
 
 ```bash
 python3 tools/query_lists.py --sector hardware
@@ -63,4 +74,4 @@ python3 tools/build.py
 .venv/bin/python tools/validate.py --check-generated
 ```
 
-不自动采集 Layer 2／3 或触达他人。公开事实与入口可以进入公共记录；个人偏好、简历、薪酬、联系人对话与投递进展只留私人工作区。渠道维护另用 [find-channels](../find-channels/SKILL.md)。
+发现机构后依次交接 `map-sectors` / `compose-profile`、`find-person` 与 `find-channels`；不因完成名单而自动采集外部渠道、发消息、投递或预约。个人目的、偏好和沟通只保存在私人工作区。

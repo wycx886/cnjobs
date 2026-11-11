@@ -8,6 +8,10 @@
     "北京硅心科技有限公司"
   ],
   "category_id": "03",
+  "founded": {
+    "year": 2017,
+    "basis": "官网《关于我们》称2017年北京硅心科技有限公司成立；义柏资本稿件称“成立于2018年”，两处口径不一致，采用官网口径。"
+  },
   "focus": "企业级 AI 软件研发",
   "products": "CodeAgent、TestAgent、CodeWiki、企业智能体管控",
   "locations_text": "北京",
@@ -19,8 +23,74 @@
     ]
   },
   "investment": {
-    "summary": "官网确认2025-01完成A++轮并获国资投资；2022-03 A轮由高瓴创投投资。2025轮次在数据库有B轮异称，采用官网A++称谓。",
-    "verification_status": "partial"
+    "summary": "官网《关于我们》称2017年成立、2025年1月完成A++轮（未披露金额与投资方）；创业邦/金融界报道2022-03-22数千万元A轮由高瓴创投独家投资；义柏资本稿件记录2023-09数千万元A+轮，彬复资本领投、清流资本与三七互娱跟投。A++轮的“B轮”异称沿用原表，未采用。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2022-03-22",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s14"
+        ],
+        "notes": "创业邦报道（金融界转载）：高瓴创投独家投资。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2023-09-04",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "彬复资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "清流资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "三七互娱",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s15"
+        ],
+        "notes": "义柏资本（独家财务顾问）发布：彬复资本领投，清流资本、三七互娱跟投；稿件日期2023-09-04，称“近日”完成。"
+      },
+      {
+        "round": "A++",
+        "announced_on": "2025-01",
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网《关于我们》仅称2025年1月完成A++轮，未披露金额与投资方。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.aixcoder.com/",
@@ -30,7 +100,7 @@
     "other_email_purpose": "商务邮箱，非招聘"
   },
   "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -89,6 +159,76 @@
       "supports": "公开企业主页主体：北京硅心科技有限公司；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "title": "李戈-北京大学计算机学院",
+      "url": "https://cs.pku.edu.cn/info/1071/1679.htm",
+      "supports": "李戈为北京大学计算机学院长聘教授、博士生导师，研究程序理解、程序生成与深度学习；页面注明科研转化成果 aiXcoder 已服务航天、金融与IT企业。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "国产AI编程的明星选手，aiXcoder加速产业化落地-36氪",
+      "url": "https://www.36kr.com/p/3115342939197191",
+      "supports": "aiXcoder 孵化自北大软件工程研究所，2013年起在李戈教授带领下研究将深度学习用于代码生成与理解，2017年决定让孵化成果走向市场、成立 aiXcoder。",
+      "published_date": "2025-01-09",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s10",
+      "title": "Yang LIU（刘洋）｜PreAngel",
+      "url": "https://pre-angel.com/peoples/yang-liu/",
+      "supports": "人物页称刘洋为硅心科技联合创始人、COO，北大计算机硕士，曾就职于朗讯、黑莓。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s11",
+      "title": "GitHub 账号 ligechina",
+      "url": "https://github.com/ligechina",
+      "supports": "实查 GitHub 用户 API：login=ligechina，type=User，name=Ge Li，company=Peking University，与李戈的北大教授身份一致。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s12",
+      "title": "GitHub API：users/ligechina",
+      "url": "https://api.github.com/users/ligechina",
+      "supports": "接口实查返回 login=ligechina、type=User、name=Ge Li、company=Peking University，确认该 GitHub 账号为个人账号而非机构账号。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s13",
+      "title": "Ge Li 个人主页（北京大学）",
+      "url": "https://ligechina.github.io/",
+      "supports": "个人主页自述为北京大学计算机学院长聘教授 Ge Li，列有程序理解与生成方向论文，与北大计算机学院页面所列个人主页一致。",
+      "published_date": null,
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s14",
+      "title": "金融界（创业邦）：硅心科技完成数千万元A轮融资，高瓴创投独家投资",
+      "url": "https://biz.jrj.com.cn/2022/03/22180234861388.shtml",
+      "supports": "2022-03-22硅心科技宣布获数千万元A轮融资，高瓴创投投资。",
+      "published_date": "2022-03-22",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s15",
+      "title": "义柏资本：硅心科技aiXcoder完成数千万元A+轮融资",
+      "url": "https://100summit.com/cn/details/id/4283",
+      "supports": "A+轮由彬复资本领投，清流资本、三七互娱跟投，义柏资本任独家财务顾问；稿件日期2023-09-04。",
+      "published_date": "2023-09-04",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -144,6 +284,67 @@
         "s07"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "李戈",
+      "role": "北京大学教授，aiXcoder 创始团队技术带头人",
+      "previous_firms": [
+        "北京大学"
+      ],
+      "background": "北京大学计算机学院长聘教授、博士生导师，教育部长江学者；2013年起带领团队研究基于深度学习的程序理解与生成，该研究成果孵化为 aiXcoder。",
+      "profiles": [
+        {
+          "platform": "personal_site",
+          "url": "https://ligechina.github.io/",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s13",
+            "s08"
+          ],
+          "notes": "北大计算机学院页面列出的个人主页；页面自述为北京大学计算机学院长聘教授 Ge Li。"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/ligechina",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-11",
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "notes": "GitHub API 实查 type=User、name=Ge Li、company=Peking University。",
+          "account_type": "User"
+        }
+      ],
+      "source_ids": [
+        "s08",
+        "s09",
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "北大官网与36氪均确认其带领相关研究并孵化 aiXcoder，但公司官网没有人物职务页；本条不为其补造 CEO／首席科学家等头衔，职务表述限于公开材料可支持的范围。"
+    },
+    {
+      "name": "刘洋",
+      "role": "联合创始人、COO",
+      "previous_firms": [
+        "朗讯",
+        "黑莓"
+      ],
+      "background": "北京大学计算机硕士，曾就职于朗讯、黑莓；PreAngel 人物页列为硅心科技联合创始人、COO。",
+      "profiles": [],
+      "source_ids": [
+        "s10"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "角色依据 PreAngel 人物页；工商登记信息显示其为北京硅心科技法定代表人，但未据此改写职务。公司官网未设团队页，单一第三方来源。"
     }
   ]
 }

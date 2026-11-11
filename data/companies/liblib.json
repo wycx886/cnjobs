@@ -8,6 +8,10 @@
     "LiblibAI"
   ],
   "category_id": "05",
+  "founded": {
+    "year": 2023,
+    "basis": "36氪2024年报道称LiblibAI成立于2023年5月；另有报道称「2023年底」，取多数口径。"
+  },
   "focus": "AI 创意生产平台与模型社区",
   "products": "图像生成、模型/工作流社区、ComfyUI在线创作",
   "locations_text": "北京、上海",
@@ -19,8 +23,160 @@
     ]
   },
   "investment": {
-    "summary": "官方加入我们页列投资方：红杉中国、CMC资本、顺为资本、源码资本、明势创投、渶策资本；未据此推断各自轮次/持股。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2023年5月成立，天使轮350万美元（源码资本、高榕创投、金沙江创投）；2025年2月获数亿元融资（渶策资本、顺为资本领投，巨人网络产业投资）；2025年10月完成1.3亿美元B轮，红杉中国、CMC资本及一家大厂战投联合领投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": null,
+        "amount_text": "350万美元",
+        "investors": [
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "undisclosed",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "undisclosed",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "undisclosed",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05",
+          "s08"
+        ],
+        "notes": "36氪2025年回溯称以1500万美金估值完成350万美元天使轮；日期未披露。"
+      },
+      {
+        "round": "股权融资",
+        "announced_on": "2025-02-24",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "渶策资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "明势创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "巨人网络",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "来源称「最新两轮」由渶策资本、顺为资本领投，未标轮次字母与单轮金额。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2025-10",
+        "amount_text": "1.3亿美元",
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s05",
+              "s07"
+            ]
+          },
+          {
+            "name": "CMC资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05",
+              "s07"
+            ]
+          },
+          {
+            "name": "一大厂战投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05",
+              "s07"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "明势创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          },
+          {
+            "name": "渶策资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s07"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05",
+          "s07"
+        ],
+        "notes": "「一大厂战投」原文未具名，未补名；老股东超额增持。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.liblib.art/",
@@ -29,8 +185,8 @@
     "other_email": "support@liblib.ai",
     "other_email_purpose": "客服支持"
   },
-  "notes": "投资名单与原表不同，按官方招聘页改。",
-  "checked_at": "2026-10-30",
+  "notes": "投资名单与原表不同，按官方招聘页改。各来源对轮次数与时间表述不一致（2024年三轮合计、2025年两轮、2025年10月回溯三轮），按各自原文分别记录，未合并推断。官网无公司介绍页，成立年份取媒体口径。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -56,6 +212,51 @@
       "supports": "公开企业主页主体：LiblibAI；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s04",
+      "title": "晚点聊 LateTalk 175：对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",
+      "url": "https://podcast.latepost.com/175",
+      "supports": "陈冕为演语科技（Evoken）创始人；公司旗下有Liblib、Lovart、LibTV三个产品。",
+      "published_date": "2026-07-30",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s05",
+      "scope": "organization",
+      "title": "36氪：LiblibAI融资1.3亿美金，红杉CMC领投",
+      "url": "https://www.36kr.com/p/3531918453234569",
+      "supports": "B轮1.3亿美元，红杉中国、CMC资本及一大厂战投联合领投，老股东增持；并载天使轮350万美元由金沙江、高榕、源码投资。",
+      "published_date": "2025-10-31",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "IPO早知道（新浪财经）：LiblibAI一年内连续完成四轮融资",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkzmt/2025-02-24/doc-inemreny9702853.shtml",
+      "supports": "再次完成数亿元融资，最新两轮由渶策资本、顺为资本领投，明势创投等老股东跟投，巨人网络任产业投资方。",
+      "published_date": "2025-02-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s07",
+      "scope": "organization",
+      "title": "飞象网（新浪财经）：LiblibAI完成1.3亿美元融资",
+      "url": "https://finance.sina.com.cn/tech/roll/2025-10-23/doc-infuvvkt7234939.shtml",
+      "supports": "B轮1.3亿美元，红杉中国、CMC资本及一战略投资方联合领投，老股东顺为、源码、明势、渶策超额增持。",
+      "published_date": "2025-10-23",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "organization",
+      "title": "36氪：LiblibAI融资总额达数亿元",
+      "url": "https://www.36kr.com/p/2880308225184642",
+      "supports": "载公司成立于2023年5月；已完成三轮融资，天使轮投资方为源码资本、高榕创投和金沙江创投，第二轮由战略投资方领投，第三轮由明势资本领投。",
+      "published_date": "2024-07-29",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -93,6 +294,21 @@
         "s03"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "陈冕",
+      "role": "创始人兼CEO（演语科技 Evoken，LiblibAI 母公司）",
+      "background": "演语科技（Evoken）创始人兼CEO；公司旗下包括AI图片社区LiblibAI、设计工具Lovart与视频工具LibTV。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "仅有晚点播客一条身份来源可核实（其为演语科技Evoken创始人、公司旗下有Liblib）；中文媒体亦直接称其为LiblibAI创始人，未取得第二处独立来源，故标记partial。"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/ht-investment-yifeifan.json)
 
-机构 ID：`ht-investment-yifeifan` · 核查日期：2026-10-30
+机构 ID：`ht-investment-yifeifan` · 核查日期：2026-11-11
 
 **目标标记：** 观察候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -80,3 +80,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s01 | [VC新势力：2025年他们告别五源、达晨，自立门户｜IT桔子](https://t.cj.sina.com.cn/articles/view/3276673424/c34e119001901ika0) | 2025年新机构样本；易飞凡履历及云途腾；HT与Apex Context对应；全球美元基金定位 | 2025-12-18 | 2026-10-30 |
 | s02 | [极致上下文科技完成数百万美元投资｜界面新闻](https://finance.eastmoney.com/a/202510293548414141.html) | 据BV消息HT Investment与BV共同投资Apex Context | 2025-10-29 | 2026-10-30 |
 | s03 | [Apex Context后续融资｜科创板日报](https://longbridge.com/zh-CN/news/302382916) | 2026年组合公司后续融资；回溯2025年HT与BV投资 | 2026-10-20 | 2026-10-30 |
+| s04 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 该榜公开名单中未见HT Investment；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s05 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 该榜公开名单中未见HT Investment；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s06 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 该榜公开名单中未见HT Investment；作为本次未上榜核查依据 | 2026-04-24 | 2026-11-11 |
+| s07 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 该榜公开名单中未见HT Investment；作为本次未上榜核查依据 | 2025-04-18 | 2026-11-11 |

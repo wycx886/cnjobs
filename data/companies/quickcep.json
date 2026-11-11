@@ -19,8 +19,82 @@
     ]
   },
   "investment": {
-    "summary": "复星锐正官网2025-11披露近亿元融资啟赋领投、复星锐正超额跟投；更早投资方有源数创投、初心等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2022-06 Pre-A轮数千万人民币；2023-06 数千万元战略融资由源数创投领投，复星锐正、初心资本跟投；2025-11 A+轮近亿元由啟赋资本领投，复星锐正超额跟投，源合资本任独家财务顾问。更早天使轮未取得可核来源。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2022-06",
+        "amount_text": "数千万人民币",
+        "investors": [],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "36氪报道回溯“去年6月完成数千万人民币Pre-A轮”，未列投资方。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2023-06",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "源数创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "复星锐正",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "报道称“新一轮数千万元战略融资”，未给出字母轮次。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2025-11",
+        "amount_text": "近亿元",
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "复星锐正",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "轮次字母A+见亿欧、腾讯新闻等报道；复星锐正官网公告本次读取返回403，未重开。具体日期各报道在2025-11至2025-12间不一致，按月份记录。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.quickcep.cn/",
@@ -30,7 +104,7 @@
     "other_email_purpose": "产品支持"
   },
   "notes": "未将源数创投等同源码资本；轮次标签报道有A+/B分歧，正文以新一轮表述。；未查到通用招聘投递邮箱。；第三方招聘平台页，主体为北京快牛智营科技有限公司；非公司自建官招站。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -80,6 +154,42 @@
       "supports": "公开企业主页主体：快牛智营；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "对话快牛QuickCEP CEO：领跑中国品牌出海消费者运营Agent赛道（爱分析/搜狐）",
+      "url": "https://www.sohu.com/a/876523382_545428",
+      "supports": "访谈称“快牛QuickCEP创始人兼CEO陈光”，并述2021年为创业关键节点、公司服务泡泡玛特、荣耀、Ulike等出海品牌。",
+      "published_date": "2025-03-27",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "品牌出海服务商快牛智营完成数千万元融资（投资界/pedaily）",
+      "url": "https://news.pedaily.cn/202306/516211.shtml",
+      "supports": "报道引述“QuickCEP CEO 陈光”介绍产品与出海策略，并记公司2021年底成立、团队前身有十余年客服与营销SaaS经验。",
+      "published_date": "2023-06-01",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "organization",
+      "title": "36氪出海：品牌出海服务商QuickCEP快牛智营完成数千万元融资，源数创投领投",
+      "url": "https://www.36kr.com/p/2316686522904071",
+      "supports": "2023年6月完成数千万元战略融资，源数创投领投，老股东复星锐正、初心资本跟投；并提及2022年6月完成数千万人民币Pre-A轮。",
+      "published_date": "2023-06-26",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "organization",
+      "title": "搜狐（深圳市跨境电商协会会员动态）：QuickCEP完成近亿元融资",
+      "url": "https://www.sohu.com/a/960439798_121123831",
+      "supports": "2025年完成近亿元融资，啟赋资本领投、老股东复星锐正超额跟投，源合资本担任独家财务顾问。",
+      "published_date": "2025-12-01",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -118,5 +228,25 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "陈光",
+      "role": "创始人兼CEO",
+      "background": "2021年底创立快牛智营（QuickCEP），面向中国出海品牌与海外企业提供AI Agent/CES客户互动与营销SaaS；此前团队在客服与营销SaaS领域有十余年产品研发与市场经验。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s08"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "两篇不同媒体访谈/融资报道分别确认创始人兼CEO与CEO身份；未找到可核实的个人职业主页。履历细节（前公司名称）未见公开来源，未填写。"
+    }
+  ],
+  "founded": {
+    "year": 2021,
+    "basis": "36氪报道称成立于2021年底；公司公告口径为2021年11月12日。"
+  }
 }

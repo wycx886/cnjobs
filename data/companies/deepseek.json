@@ -22,7 +22,7 @@
   },
   "investment": {
     "summary": "幻方/梁文锋创办并支持；路透2026年10月22日报道称约1000亿元新融资接近完成，参与者包括兆易创新、美团、吉利等，消息源为知情人士，并非公司公告。",
-    "verification_status": "partial"
+    "verification_status": "not_found"
   },
   "contacts": {
     "website": "https://www.deepseek.com/",
@@ -31,8 +31,8 @@
     "other_email": "api-service@deepseek.com",
     "other_email_purpose": "API服务咨询（非招聘）"
   },
-  "notes": "融资是媒体引述知情人士，不能写成公司已官宣；原表国家基金/腾讯等名单及CFO说法未逐项确认。API邮箱非招聘，来自公开产品服务资料。",
-  "checked_at": "2026-10-30",
+  "notes": "融资是媒体引述知情人士，不能写成公司已官宣；原表国家基金/腾讯等名单及CFO说法未逐项确认。API邮箱非招聘，来自公开产品服务资料；本次未写入结构化融资轮次：路透2026-10-22报道的约1000亿元融资为知情人士消息、非公司公告，不符合写入条件。",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -91,6 +91,24 @@
       "supports": "公开企业主页主体：DeepSeek；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "title": "新浪财经转载：DeepSeek创始人梁文锋的独家采访（暗涌2024年7月）",
+      "url": "https://www.sohu.com/a/857400339_122014422",
+      "supports": "梁文锋为DeepSeek创始人；受访谈模型架构、开源策略与团队组织。",
+      "published_date": "2025-02-10",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s09",
+      "title": "暗涌Waves/Founder Park 采访转载：DeepSeek创始人专访",
+      "url": "https://www.sohu.com/a/853953863_121124362",
+      "supports": "转载暗涌对梁文锋的采访，明确其为DeepSeek创始人，并述其“只做研究、坚持开源”的表述。",
+      "published_date": "2025-01-28",
+      "checked_at": "2026-11-11",
+      "scope": "person"
     }
   ],
   "provenance": {
@@ -146,6 +164,24 @@
         "s07"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "梁文锋",
+      "role": "创始人",
+      "background": "幻方量化与深度求索（DeepSeek）创始人；2024年受访称公司专注基础模型研究并坚持开源。",
+      "previous_firms": [
+        "幻方量化"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "创始人身份在两条采访转载中一致（同一暗涌采访的不同版本，独立性有限）。公开资料多称其兼任CEO，本次未取得公司官方职务页，故role只写创始人。无公开个人社媒主页。"
     }
   ]
 }

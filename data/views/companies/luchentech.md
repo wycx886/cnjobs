@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/luchentech.json)
 
-机构／项目 ID：`luchentech` · 主赛道：02 算力与基础设施 · 核查日期：2026-10-30
+机构／项目 ID：`luchentech` · 主赛道：02 算力与基础设施 · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -55,6 +55,14 @@ Colossal-AI、Colossal-Cloud、Open-Sora
 
 核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
+## 核心人物与公开主页
+
+人物身份、职务和履历独立标记核验状态；迁移不代表重新核查现职。
+
+| 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
+| --- | --- | --- | --- | --- | --- |
+| 尤洋 | 创始人 | 加州大学伯克利分校博士，曾获 ACM-IEEE CS George Michael Memorial HPC Fellowship，入选2021福布斯亚洲30岁以下精英。 | confirmed / 2026-11-11 / s05,s06 | [personal_site](https://www.comp.nus.edu.sg/~youy/) (partial, s07) | 身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。 |
+
 ## 核查备注
 
 邮箱为公开招聘渠道；具体岗位以招聘页为准。
@@ -64,6 +72,9 @@ Colossal-AI、Colossal-Cloud、Open-Sora
 | 来源 ID | 页面 | 支持内容 | 公开日期 | 核查日期 |
 | --- | --- | --- | --- | --- |
 | s01 | [潞晨官方招聘](https://www.luchentech.com/join) | 产品研发方向及resume投递邮箱 | 未标明 | 2026-10-30 |
-| s02 | [36氪潞晨融资档案](https://pitchhub.36kr.com/project/1678554927068166) | 历轮投资背景 | 未标明 | 2026-10-30 |
+| s02 | [36氪潞晨融资档案](https://pitchhub.36kr.com/project/1678554927068166) | 历轮投资背景 | 未标明 | 2026-11-11 |
 | s03 | [潞晨科技招聘-BOSS直聘 公司页(工商信息已核对)](https://www.zhipin.com/gongsi/c547103fed7ec7641n1z2d20FFY~.html) | 公开企业主页主体：潞晨科技；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
 | s04 | [【北京潞晨科技有限公司招聘】-猎聘](https://www.liepin.com/company/12879599/) | 公开企业主页主体：北京潞晨科技有限公司；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
+| s05 | [潞晨科技官网「关于我们」团队介绍](https://www.luchentech.com/team) | 尤洋为潞晨科技创始人；加州大学伯克利分校博士，入选2021福布斯亚洲30岁以下精英等履历 | 未标明 | 2026-11-11 |
+| s06 | [搜狐｜清华校友尤洋创办潞晨科技，专注AI Infra赛道](https://www.sohu.com/a/1059369985_701814) | 报道称「清华校友尤洋创办潞晨科技」，并记其清华硕士、加州大学伯克利博士及新加坡国立大学教职背景 | 2026-08-06 | 2026-11-11 |
+| s07 | [Yang You's Homepage (NUS Computer Science)](https://www.comp.nus.edu.sg/~youy/) | 新加坡国立大学计算机系个人主页：Yang You，Presidential Young Professor，UC Berkeley 计算机博士（导师 James Demmel），业界经历列出 HPC-AI Tech（潞晨科技英文名） | 未标明 | 2026-11-11 |

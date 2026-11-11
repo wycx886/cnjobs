@@ -26,6 +26,25 @@ def public_url(url):
     return parsed
 
 
+PHOTO_PATH = re.compile(r'assets/people/[a-z0-9-]+\.(?:jpg|jpeg|png|webp)')
+
+
+def validate_person_photo(photo, sources, latest):
+    """Check portrait provenance; the stored file itself is checked against data/views by validate.py."""
+    from datetime import date
+    if not PHOTO_PATH.fullmatch(photo['path']):
+        raise ValueError('Person photo must be stored under assets/people/ with a lowercase image name')
+    for field in ('source_url', 'page_url'):
+        public_url(photo[field])
+    refs = set(photo['source_ids'])
+    if not refs <= sources.keys() or any(sources[s].get('scope', 'organization') == 'channel' for s in refs):
+        raise ValueError('Person photo requires existing person or organization evidence, not institution-channel sources')
+    checked = date.fromisoformat(photo['checked_at'])
+    if checked > latest or any(checked > date.fromisoformat(sources[s]['checked_at']) for s in refs):
+        raise ValueError('Person photo check lacks evidence at the claimed date')
+    return refs
+
+
 def person_profile_url(url, platform):
     parsed = public_url(url)
     host = (parsed.hostname or '').lower()
@@ -98,6 +117,8 @@ def validate_person_evidence(person, sources, latest):
             if profile.get('account_type') != 'User' or api_url not in urls:
                 raise ValueError('GitHub people require API evidence of account type User, not Organization')
         used.update(refs)
+    if person.get('photo'):
+        used.update(validate_person_photo(person['photo'], sources, latest))
     if person['verification_status'] == 'confirmed' and len({sources[s]['url'] for s in person['source_ids']}) < 2:
         raise ValueError('Confirmed person identity requires two distinct public evidence URLs')
     return used

@@ -18,8 +18,70 @@
     ]
   },
   "investment": {
-    "summary": "启明创投官方2025年第46期周报确认深势为被投企业，且完成超8亿元C轮；公开投融资库记录历史源码、高瓴、经纬等参与。以启明官方确认为一手基础。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2025-12完成总额超8亿元人民币C轮，由达晨、京国瑞基金、北京市人工智能产业投资基金、北京市医药健康产业投资基金、联想创投、元禾璞华共同出资；启明创投周报亦确认该轮。更早轮次未在本次核实的来源中逐项列出。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2025-12-25",
+        "amount_text": "超8亿元人民币",
+        "investors": [
+          {
+            "name": "达晨",
+            "firm_id": "fortune-capital",
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "京国瑞基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "北京市医药健康产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "元禾璞华",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13",
+          "s01"
+        ],
+        "notes": "启明创投周报亦确认该轮总额超8亿元；21财经列出共同出资机构。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.dp.tech/",
@@ -29,7 +91,7 @@
     "other_email_purpose": "商务合作"
   },
   "notes": "careersUrl为含求职邮箱的官网关于页。注意 dp.tech 为深势，dptech.com 为迪普网络安全公司，已排除混淆。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -37,7 +99,7 @@
       "url": "https://www.qimingvc.com/en/node/7551",
       "supports": "投资关系及C轮",
       "published_date": "2025-12",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -61,7 +123,7 @@
       "url": "https://www.dp.tech/about",
       "supports": "招聘与商务邮箱及办公地",
       "published_date": null,
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s05",
@@ -80,6 +142,68 @@
       "supports": "公开企业主页主体：深势科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "深势科技官网「关于我们」创始团队",
+      "url": "https://www.dp.tech/about",
+      "supports": "创始团队：鄂维南任首席科学顾问，张林峰任创始人、首席科学家，孙伟杰任创始人、CEO",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "深势科技官网创始团队头像（鄂维南）",
+      "url": "https://cdn.dp.tech/home/_next/static/images/about/team1.webp",
+      "supports": "官网「关于我们」创始团队栏目中鄂维南姓名旁的官方头像",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "深势科技官网创始团队头像（张林峰）",
+      "url": "https://cdn.dp.tech/home/_next/static/images/about/team2.webp",
+      "supports": "官网「关于我们」创始团队栏目中张林峰姓名旁的官方头像",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "深势科技官网创始团队头像（孙伟杰）",
+      "url": "https://cdn.dp.tech/home/_next/static/images/about/team3.webp",
+      "supports": "官网「关于我们」创始团队栏目中孙伟杰姓名旁的官方头像",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "腾讯新闻｜对话深势科技张林峰：北大90后独角兽公司",
+      "url": "https://news.qq.com/rain/a/20240416A024HL00",
+      "supports": "「创始人兼CEO孙伟杰与创始人兼首席科学家张林峰均为90后，两人为北大元培学院同窗」，2018年共同成立深势科技",
+      "published_date": "2024-04-16",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "scope": "person",
+      "title": "新华网专访深势科技首席科学顾问鄂维南（元璟family转载）",
+      "url": "https://startup.aliyun.com/info/1033915.html",
+      "supports": "标题与正文称鄂维南为「深势科技首席科学顾问」",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s13",
+      "title": "21财经／投资界：深势科技完成总额超8亿元人民币的C轮融资",
+      "url": "https://m.21jingji.com/article/20251225/herald/36b2338df9c7acdbff93f993231515c0.html",
+      "supports": "报道2025-12完成超8亿元C轮并列出出资机构；文中称公司成立于2018年。",
+      "published_date": "2025-12-25",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -136,5 +260,83 @@
       ],
       "notes": null
     }
-  ]
+  ],
+  "people": [
+    {
+      "name": "孙伟杰",
+      "role": "创始人、CEO",
+      "previous_firms": [],
+      "background": "官网创始团队页列为创始人、CEO，负责公司经营。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网创始团队页（2026-11-11核查）。",
+      "photo": {
+        "path": "assets/people/dp-technology-sun-weijie.webp",
+        "source_url": "https://cdn.dp.tech/home/_next/static/images/about/team3.webp",
+        "page_url": "https://www.dp.tech/about",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07",
+          "s10"
+        ]
+      }
+    },
+    {
+      "name": "张林峰",
+      "role": "创始人、首席科学家",
+      "previous_firms": [],
+      "background": "官网创始团队页列为创始人、首席科学家，主导技术与研发方向。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s11"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网创始团队页（2026-11-11核查）。",
+      "photo": {
+        "path": "assets/people/dp-technology-zhang-linfeng.webp",
+        "source_url": "https://cdn.dp.tech/home/_next/static/images/about/team2.webp",
+        "page_url": "https://www.dp.tech/about",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07",
+          "s09"
+        ]
+      }
+    },
+    {
+      "name": "鄂维南",
+      "role": "首席科学顾问",
+      "previous_firms": [],
+      "background": "官网创始团队页列为首席科学顾问。",
+      "profiles": [],
+      "source_ids": [
+        "s07",
+        "s12"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "职务取自公司官网创始团队页（2026-11-11核查）；不另断言其与公司的股权或任职层级关系。",
+      "photo": {
+        "path": "assets/people/dp-technology-e-wei-nan.webp",
+        "source_url": "https://cdn.dp.tech/home/_next/static/images/about/team1.webp",
+        "page_url": "https://www.dp.tech/about",
+        "checked_at": "2026-11-11",
+        "source_ids": [
+          "s07",
+          "s08"
+        ]
+      }
+    }
+  ],
+  "founded": {
+    "year": 2018,
+    "basis": "公司官网“关于我们”称公司成立于2018年。"
+  }
 }

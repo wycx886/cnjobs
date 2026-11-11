@@ -129,6 +129,31 @@ def validate_record(record, root=ROOT):
     refs = set(case["evidence_source_ids"])
     if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
       raise ValueError("Investment cases require organization evidence, not channel-only sources")
+  tier = record.get("tier")
+  if tier:
+    refs = set(tier["source_ids"])
+    if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
+      raise ValueError("Tier labels require organization evidence, not channel-only sources")
+    if date.fromisoformat(tier["labelled_at"]) > latest:
+      raise ValueError("Tier label date is in the future")
+  for item in record.get("portfolio", []):
+    refs = set(item["source_ids"])
+    if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
+      raise ValueError("Portfolio entries require organization evidence")
+    if item["company_id"]:
+      target = load(record_path(root, "operating_organization", item["company_id"]))
+      if target["id"] != item["company_id"]:
+        raise ValueError("Portfolio company_id must reference an operating-company profile")
+  for funding_round in record.get("investment", {}).get("rounds", []):
+    refs = set(funding_round["source_ids"])
+    for investor in funding_round["investors"]:
+      refs.update(investor["source_ids"])
+      if investor["firm_id"]:
+        target = load(record_path(root, "investment_firm", investor["firm_id"]))
+        if target["id"] != investor["firm_id"]:
+          raise ValueError("Round investor firm_id must reference an investment-firm profile")
+    if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
+      raise ValueError("Funding rounds require organization evidence")
   context = record.get("organizational_context")
   if record.get("investment", {}).get("verification_status") == "not_applicable":
     if not context or context["form"] not in {"internal_team", "research_lab", "product_project"} or context["relationship_status"] != "confirmed":

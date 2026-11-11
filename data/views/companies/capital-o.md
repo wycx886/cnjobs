@@ -4,7 +4,7 @@
 
 [资料目录](../README.md) · [VC 参考名单](../vcs.md) · [原始 JSON](../../companies/capital-o.json)
 
-机构 ID：`capital-o` · 核查日期：2026-10-30
+机构 ID：`capital-o` · 核查日期：2026-11-11
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -84,3 +84,7 @@ IPO、账面估值增长、知名公司投资和实际已实现回报不是同�
 | s05 | [MIT Sloan Alumni Board](https://mitsloan.mit.edu/alumni/mit-sloan-alumni-board) | David Liu现为Capital O创始合伙人 | 未标明 | 2026-10-30 |
 | s06 | [PEI Capital O档案](https://www.privateequityinternational.com/institution-profiles/capital-o.html) | 网站与通用邮箱目录信息 | 未标明 | 2026-10-30 |
 | s07 | [高锐律所：助力赋澈生物完成数百万美元天使轮融资](https://www.gunder.com/zh/news-insights/%E6%9C%80%E6%96%B0%E4%B8%9A%E7%BB%A9/or-yuan) | 作为企业法律顾问发布融资公告，确认Capital O是跟投方；属于新机构自身投资 | 2025-02-28 | 2026-10-30 |
+| s08 | [清科2025年中国创业投资机构50强、中国私募股权投资机构50强、中国早期投资机构30强](https://news.pedaily.cn/202512/559270.shtml) | 该榜公开名单中未见Capital O；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s09 | [清科创业2024年中国创业投资机构100强、中国私募股权投资机构100强、中国早期投资机构30强](https://news.pedaily.cn/202412/544169.shtml) | 该榜公开名单中未见Capital O；作为本次未上榜核查依据 | 未标明 | 2026-11-11 |
+| s10 | [投中2025年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/210/3182.html) | 该榜公开名单中未见Capital O；作为本次未上榜核查依据 | 2026-04-24 | 2026-11-11 |
+| s11 | [投中2024年度中国最佳创业投资机构TOP100](https://www.chinaventure.com.cn/rank/199/3056.html) | 该榜公开名单中未见Capital O；作为本次未上榜核查依据 | 2025-04-18 | 2026-11-11 |

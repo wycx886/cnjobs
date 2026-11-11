@@ -19,8 +19,69 @@
     ]
   },
   "investment": {
-    "summary": "官网里程碑披露B轮博裕和红杉中国联合领投；36氪历史档案还列金沙江、靖亚、真格、万物等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2021-12 B轮3800万美元，博裕投资与红杉中国联合领投，金沙江创投、靖亚资本、真格基金、万物资本跟投。更早轮次本次未取得可核来源。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2021-12-20",
+        "amount_text": "3800万美元",
+        "investors": [
+          {
+            "name": "博裕投资",
+            "firm_id": "boyu-capital",
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "靖亚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "万物资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "官网里程碑亦称B轮由博裕和红杉中国联合领投；官网新闻页本次访问返回403。更早轮次未逐项核实。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.rcrai.com/",
@@ -30,7 +91,7 @@
     "other_email_purpose": "商务/市场合作"
   },
   "notes": null,
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -65,6 +126,24 @@
       "supports": "公开企业主页主体：循环智能；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s05",
+      "title": "和讯网：循环智能：一群超级学霸的AI创业路",
+      "url": "https://www.sohu.com/a/560442254_639898",
+      "supports": "循环智能四位联合创始人：CEO陈麒聪（CMU计算机硕士、连续创业者）、CTO张宇韬、AI与产品负责人杨植麟、COO揭发。",
+      "published_date": "2022-06-24",
+      "checked_at": "2026-11-11",
+      "scope": "person"
+    },
+    {
+      "id": "s06",
+      "scope": "organization",
+      "title": "36氪首发：循环智能完成3800万美元新一轮融资，博裕投资和红杉中国联合领投",
+      "url": "https://www.36kr.com/p/1529990716346377",
+      "supports": "2021-12-20 完成3800万美元B轮，博裕投资、红杉中国联合领投，老股东金沙江创投、靖亚资本、真格基金、万物资本跟投。",
+      "published_date": "2021-12-20",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -120,6 +199,21 @@
         "s04"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "陈麒聪",
+      "role": "联合创始人兼CEO",
+      "background": "循环智能联合创始人兼CEO；卡内基梅隆大学计算机硕士，曾在美国参与创业。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s05"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "partial",
+      "notes": "角色据和讯网2022年报道，为单一来源；2023年后公司与月之暗面相关的股权与仲裁报道较多，现职未另行核实，故标记partial。"
     }
   ]
 }

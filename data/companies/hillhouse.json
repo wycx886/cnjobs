@@ -1,0 +1,131 @@
+{
+  "schema_version": 3,
+  "id": "hillhouse",
+  "name": "高瓴投资（Hillhouse Investment）",
+  "aliases": [
+    "高瓴",
+    "Hillhouse",
+    "Hillhouse Investment",
+    "高瓴资本",
+    "Hillhouse Capital"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "官网可打开并明确其为唯一官网，清科与投中两个年度 PE 主榜均给出前 3 名，另有多篇可核对的公开出手记录；列入主要研究样本，不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2005,
+    "basis": "清科投资界机构库“高瓴资本”条目简介写明“由张磊先生于2005年创立”；官网只写“近20年”，未给具体年份，故以清科机构库年份为准。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国私募股权投资机构50强第2名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国私募股权投资机构100强第1名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳私募股权投资机构TOP100第3名（https://www.chinaventure.com.cn/rank/210/3183.html）；投中2024年度中国最佳私募股权投资机构TOP100第1名（https://www.chinaventure.com.cn/rank/199/3057.html）。两个年度、两个发布方的 PE 主榜均在前 3 名；另在清科2025 AI20、投中2025 AI30 以音序列入（榜单明确排名不分先后，不能当作“AI 榜第几”）。按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s03",
+      "s04",
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "官网自述在全球范围内投资医疗、制造业、能源转型、企业服务和消费等领域；清科机构库另列医疗健康、消费与零售、TMT、先进制造、金融及企业服务。",
+  "stage": "官网称覆盖企业不同成长阶段；清科、投中的机构分类均归入私募股权（PE）榜，实际包含成长、并购与上市前等多种交易类型。",
+  "representative_cases": [
+    {
+      "company": "智元机器人",
+      "attribution": "current_firm",
+      "investor_or_team": "高瓴投资",
+      "outcome": "投中2025年度 PE 榜在机构名下列为投资案例；榜单为机构层级披露，未给轮次、金额或个人归属，不据此推断退出。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "company": "地平线",
+      "attribution": "current_firm",
+      "investor_or_team": "高瓴投资",
+      "outcome": "投中2025年度 PE 榜与2024年度 PE 榜均在其机构案例中列示；上市状态不等于基金已退出。",
+      "evidence_source_ids": [
+        "s05",
+        "s06"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-24，清科投资界机构库记录其以“高瓴资本”名义参与瞬极微天使轮（数千万人民币，同轮还有中科创星、菡源资产），未披露领投方。",
+  "why_follow": "编辑分析：其公开案例从消费互联网延伸到机器人、AI 模型与半导体，是观察大额 PE 资金进入 AI 与具身智能的主要窗口之一。",
+  "difference": "编辑分析：相比单一阶段基金，高瓴同时做成长、并购与二级市场（官网披露多资产类别），单笔规模更大、周期更长；与同体系的高瓴创投（GL Ventures，清科机构库另设条目、成立于2009年）属不同品牌与团队，比较时不应合并统计。",
+  "contacts": {
+    "website": "https://hillhouseinvestment.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：官网2025年6月声明明确“高瓴官网网址为 https://hillhouseinvestment.cn/”，原调研稿列出的 hillhousecap.com 会跳转到该域名，故以 hillhouseinvestment.cn 为准。品牌口径上“高瓴投资/Hillhouse Investment”“高瓴资本/Hillhouse Capital”在中文报道中混用；清科机构库另设“高瓴创投”独立条目，本档案不把高瓴创投的项目计入。官网未提供可核对的团队页与招聘入口，people 与 channels 从简。管理规模在投中2025 PE 榜记为5000亿元，属榜单口径，未按基金核实。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "高瓴投资官方网站首页",
+      "url": "https://hillhouseinvestment.cn/",
+      "supports": "官方域名声明、投资领域（医疗、制造业、能源转型、企业服务和消费）、“近20年”表述与一般联系邮箱",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科投资界机构库 · 高瓴资本",
+      "url": "https://vc.pedaily.cn/vc/106421.html",
+      "supports": "张磊于2005年创立、机构简介与近期公开出手记录（2026-10-24 瞬极微天使轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科2025年中国私募股权投资机构50强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "高瓴投资：清科2025年中国私募股权投资机构50强第2名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科创业2024年中国私募股权投资机构100强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "高瓴投资：清科创业2024年中国私募股权投资机构100强第1名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2025年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3183.html",
+      "supports": "高瓴投资：投中2025年度 PE TOP100 第3名；机构层级案例含智元机器人、MiniMax、地平线",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2024年度中国最佳私募股权投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3057.html",
+      "supports": "高瓴投资：投中2024年度 PE TOP100 第1名；机构层级案例含地平线、蜜雪冰城、智元机器人",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作近二十年的成熟另类资产管理平台，先按金融机构建档与打 Tier；人物与渠道留待后续任务。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}

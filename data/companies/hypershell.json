@@ -19,8 +19,53 @@
     ]
   },
   "investment": {
-    "summary": "2026-05-18 披露5000万美元B+轮由蚂蚁集团、美团龙珠领投，Sofina、Granite Asia跟投；历史股东名单另含IDG、红杉中国、五源资本等。",
-    "verification_status": "confirmed_disclosure"
+    "summary": "2026-05-18完成5000万美元B+轮，蚂蚁集团、美团龙珠领投，Sofina、Granite Asia跟投，高鹄资本任独家财务顾问；至此B轮系列累计1.2亿美元。股东包括IDG资本、红杉中国、Monolith、五源资本、光合创投、绿洲资本、德迅投资等。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B+",
+        "announced_on": "2026-05-18",
+        "amount_text": "5000万美元",
+        "investors": [
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Sofina",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Granite Asia",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "每经据高鹄资本消息；至此公司B轮系列累计融资1.2亿美元，高鹄资本任独家财务顾问。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://hypershell.tech/",
@@ -30,7 +75,7 @@
     "other_email_purpose": "商务合作"
   },
   "notes": "未查到公开招聘邮箱；已从hypershell.cn官网“加入我们”核实官招入口。商务邮箱不是投递邮箱；hypershell.com为加拿大同名工程公司，已排除。",
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-11",
   "sources": [
     {
       "id": "s01",
@@ -38,7 +83,7 @@
       "url": "https://www.nbd.com.cn/articles/2026-05-18/4396408.html",
       "supports": "投资方及历史资本背景",
       "published_date": "2026-05-18",
-      "checked_at": "2026-10-30"
+      "checked_at": "2026-11-11"
     },
     {
       "id": "s02",
@@ -89,6 +134,24 @@
       "supports": "公开企业主页主体：极壳科技；只核验入口归属，不表示具体岗位开放。",
       "published_date": null,
       "checked_at": "2026-10-31"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "腾讯新闻｜对话Hypershell极壳：融资7000万美元后，消费级外骨骼如何走得更远",
+      "url": "https://news.qq.com/rain/a/20251201A08U7I00",
+      "supports": "报道称「极壳Hypershell创始人孙宽」，并记录其就融资与招聘对外发声",
+      "published_date": "2025-12-01",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "晚点聊 LateTalk 145：极壳孙宽：首个「消费级外骨骼」的诞生",
+      "url": "https://podcast.latepost.com/145",
+      "supports": "节目页标题与简介以「极壳孙宽」为主角，介绍极壳2021年成立及消费级外骨骼产品历程",
+      "published_date": "2025-12-17",
+      "checked_at": "2026-11-11"
     }
   ],
   "provenance": {
@@ -144,6 +207,22 @@
         "s07"
       ],
       "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "孙宽",
+      "role": "创始人、CEO",
+      "previous_firms": [],
+      "background": "消费级外骨骼公司极壳科技的创始人，公开报道以其创始人身份对外接受采访。",
+      "profiles": [],
+      "source_ids": [
+        "s08",
+        "s09"
+      ],
+      "checked_at": "2026-11-11",
+      "verification_status": "confirmed",
+      "notes": "身份与职务由懒熊体育专访（2025-12-01发布，2026-11-11核查）确认；未另找个人社交主页。"
     }
   ]
 }

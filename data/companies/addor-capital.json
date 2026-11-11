@@ -1,0 +1,127 @@
+{
+  "schema_version": 3,
+  "id": "addor-capital",
+  "name": "毅达资本（Addor Capital）",
+  "aliases": [
+    "Addor Capital",
+    "江苏毅达股权投资基金管理有限公司"
+  ],
+  "group": "established",
+  "coverage": {
+    "role": "main",
+    "reason": "官网域名可确认属本机构，清科与投中两个年度 VC 主榜均在前 10，另有清科机构库的简介与近期出手记录；列入主要研究样本，不表示基金收益已核实。"
+  },
+  "founded": {
+    "year": 2014,
+    "basis": "清科投资界机构库“毅达资本”条目标注成立于2014年，并写明由江苏高科技投资集团内部混合所有制改革组建；官网域名可确认但正文为脚本渲染，本次未取到成立年份页面，故以清科机构库为准。"
+  },
+  "tier": {
+    "level": "tier1",
+    "basis": "编辑判断，不是官方排名，也不是收益或规模排名。本次实际打开并记录的页面上，该机构被列为：清科2025年中国创业投资机构50强第6名（https://news.pedaily.cn/202512/559270.shtml）；清科创业2024年中国创业投资机构100强第7名（https://news.pedaily.cn/202412/544169.shtml）；投中2025年度中国最佳创业投资机构TOP100第7名（https://www.chinaventure.com.cn/rank/210/3182.html）；投中2024年度中国最佳创业投资机构TOP100第10名（https://www.chinaventure.com.cn/rank/199/3056.html）。两个年度、两个发布方的 VC 主榜均在前 10 名，按综合榜口径列入 Tier 1。",
+    "source_ids": [
+      "s03",
+      "s04",
+      "s05",
+      "s06"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "focus": "清科机构库简介列清洁技术、健康产业、新材料、先进制造、消费服务、文化产业与 TMT，并强调全产业链投资。",
+  "stage": "基金产品覆盖天使期、初创期、成长期与成熟期；清科、投中均归入创业投资（VC）榜。",
+  "representative_cases": [
+    {
+      "company": "西安奕材",
+      "attribution": "current_firm",
+      "investor_or_team": "毅达资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；榜单为机构层级披露，未给轮次、金额或退出状态。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    },
+    {
+      "company": "协创数据",
+      "attribution": "current_firm",
+      "investor_or_team": "毅达资本",
+      "outcome": "投中2025年度 VC 榜在机构名下列为投资案例；本条只确认机构关联，不补造回报。",
+      "evidence_source_ids": [
+        "s05"
+      ]
+    }
+  ],
+  "recent_activity": "2026-10-29，清科投资界机构库记录其参与宜诺生物 Pre-A 轮（金额未披露，同轮还有天汇资本、鲁信创投），未披露领投方。",
+  "why_follow": "编辑分析：其案例同时覆盖半导体材料（西安奕材）与数据存储（协创数据），且阶段覆盖从天使到成熟期，适合观察区域性创投如何沿江苏制造业链条向硬科技延伸。",
+  "difference": "编辑分析：由江苏高科技投资集团混改组建，既有国资资源又有市场化团队，区域色彩强于全国性 VC；与同处江苏的元禾控股、金雨茂物等相比，其基金阶段跨度更大。",
+  "contacts": {
+    "website": "https://addorcapital.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "主体边界：机构名为毅达资本，工商主体为江苏毅达股权投资基金管理有限公司，源自江苏高科技投资集团混合所有制改革；不把江苏高投集团其他业务并入。官网说明：https://addorcapital.com/ 可打开且页面标题为“ADDOR CAPITAL - 毅达资本”，可确认域名归属；但正文由 Nuxt 脚本渲染，本次抓取只得到加载前页面，未读到关于页、团队页与案例页，官网内容缺口已记录。清科机构库的“截至2022年1月管理资本规模1218亿元、投资1135家企业”为历史口径，不作为当前规模写入。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "毅达资本官方网站首页",
+      "url": "https://addorcapital.com/",
+      "supports": "仅确认域名与页面标题归属（ADDOR CAPITAL - 毅达资本）；正文为脚本渲染，未取到机构介绍",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s02",
+      "title": "清科投资界机构库 · 毅达资本",
+      "url": "https://vc.pedaily.cn/vc/106899.html",
+      "supports": "成立于2014年、江苏高科技投资集团混改组建、投资领域与阶段、近期出手记录（2026-10-29 宜诺生物 Pre-A 轮）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s03",
+      "title": "清科2025年中国创业投资机构50强",
+      "url": "https://news.pedaily.cn/202512/559270.shtml",
+      "supports": "毅达资本：清科2025年中国创业投资机构50强第6名（机构全称：江苏毅达股权投资基金管理有限公司）",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s04",
+      "title": "清科创业2024年中国创业投资机构100强",
+      "url": "https://news.pedaily.cn/202412/544169.shtml",
+      "supports": "毅达资本：清科创业2024年中国创业投资机构100强第7名",
+      "published_date": null,
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s05",
+      "title": "投中2025年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/210/3182.html",
+      "supports": "毅达资本：投中2025年度 VC TOP100 第7名；机构层级案例含西安奕材、英诺赛科、协创数据",
+      "published_date": "2026-04-24",
+      "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "title": "投中2024年度中国最佳创业投资机构TOP100",
+      "url": "https://www.chinaventure.com.cn/rank/199/3056.html",
+      "supports": "毅达资本：投中2024年度 VC TOP100 第10名",
+      "published_date": "2025-04-18",
+      "checked_at": "2026-11-11"
+    }
+  ],
+  "checked_at": "2026-11-11",
+  "organization_type": "investment_firm",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "已持续运作并连续进入 VC 主榜前 10 的成熟机构，先按金融机构建档与打 Tier；官网正文缺口与人物、渠道留待后续任务。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-11"
+  },
+  "channels": [],
+  "people": []
+}
