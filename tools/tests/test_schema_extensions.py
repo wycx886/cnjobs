@@ -18,7 +18,7 @@ class OptionalInvestorFieldTests(unittest.TestCase):
         validate_record(self.investor)
         validate_record(self.company)
 
-    def test_investor_tier_and_portfolio_are_optional_and_source_backed(self):
+    def test_investor_tier_is_optional_and_source_backed(self):
         record = copy.deepcopy(self.investor)
         record["tier"] = {
             "level": "tier2",
@@ -26,6 +26,10 @@ class OptionalInvestorFieldTests(unittest.TestCase):
             "source_ids": ["s01", "s02"],
             "labelled_at": record["checked_at"],
         }
+        validate_record(record)
+
+    def test_investor_portfolio_field_is_not_accepted(self):
+        record = copy.deepcopy(self.investor)
         record["portfolio"] = [{
             "company_name": "Dify",
             "company_id": "dify",
@@ -36,7 +40,8 @@ class OptionalInvestorFieldTests(unittest.TestCase):
             "source_ids": ["s03"],
             "notes": "测试夹具，不代表真实投资关系。",
         }]
-        validate_record(record)
+        with self.assertRaises(ValueError):
+            validate_record(record)
 
     def test_company_founded_and_rounds_are_optional(self):
         record = copy.deepcopy(self.company)
@@ -59,7 +64,7 @@ class OptionalInvestorFieldTests(unittest.TestCase):
         }]
         validate_record(record)
 
-    def test_nested_tier_portfolio_and_rounds_reject_unknown_fields(self):
+    def test_nested_tier_and_rounds_reject_unknown_fields(self):
         record = copy.deepcopy(self.investor)
         record["tier"] = {
             "level": "tier1",

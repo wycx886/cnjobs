@@ -136,14 +136,6 @@ def validate_record(record, root=ROOT):
       raise ValueError("Tier labels require organization evidence, not channel-only sources")
     if date.fromisoformat(tier["labelled_at"]) > latest:
       raise ValueError("Tier label date is in the future")
-  for item in record.get("portfolio", []):
-    refs = set(item["source_ids"])
-    if not refs <= sources.keys() or any(sources[s].get("scope", "organization") != "organization" for s in refs):
-      raise ValueError("Portfolio entries require organization evidence")
-    if item["company_id"]:
-      target = load(record_path(root, "operating_organization", item["company_id"]))
-      if target["id"] != item["company_id"]:
-        raise ValueError("Portfolio company_id must reference an operating-company profile")
   for funding_round in record.get("investment", {}).get("rounds", []):
     refs = set(funding_round["source_ids"])
     for investor in funding_round["investors"]:

@@ -34,7 +34,7 @@ async function loadClient() {
   })
 }
 
-test('registers one view tab and one sidebar action', async () => {
+test('registers a sidebar row, its page and a view tab', async () => {
   const mod = await loadClient()
   assert.equal(mod.name, 'cnjobs')
   assert.deepEqual(mod.inject, ['slots'])
@@ -52,20 +52,25 @@ test('registers one view tab and one sidebar action', async () => {
     },
   }
   mod.apply(ctx)
-  assert.equal(registrations.length, 2)
+  assert.equal(registrations.length, 3)
+
+  const row = registrations.find((entry) => entry.meta.name === 'sidebar.panellist')
+  assert.ok(row, 'must add a left-sidebar navigation row')
+  assert.equal(row.meta.id, 'cnjobs')
+  assert.equal(row.meta.order, 40)
+  assert.equal(row.meta.label(), 'CN Jobs')
+
+  const page = registrations.find((entry) => entry.meta.name === 'main')
+  assert.ok(page, 'must route the main column for that panel key')
+  assert.equal(page.meta.key, 'cnjobs')
 
   const view = registrations.find((entry) => entry.meta.name === 'conversation.view')
   assert.ok(view, 'must add a conversation view tab')
   assert.equal(view.meta.id, 'cnjobs-dashboard')
   assert.equal(view.meta.order, 30)
-  assert.equal(view.meta.label(), 'CN Jobs')
-
-  const action = registrations.find((entry) => entry.meta.name === 'sidebar.footer.action')
-  assert.ok(action, 'must add a sidebar action')
-  assert.equal(action.meta.id, 'cnjobs-open')
 })
 
-test('the view renders the packaged dashboard in an iframe', async () => {
+test('the sidebar page and the view tab render the dashboard iframe', async () => {
   const mod = await loadClient()
   const registrations = []
   mod.apply({
@@ -79,6 +84,12 @@ test('the view renders the packaged dashboard in an iframe', async () => {
     },
   })
   const view = registrations.find((entry) => entry.meta.name === 'conversation.view')
+  const page = registrations.find((entry) => entry.meta.name === 'main')
+  const pageWrapper = page.render({})
+  const pageElement = pageWrapper.type(pageWrapper.props)
+  assert.equal(pageElement.type, 'div')
+  assert.equal(pageElement.children[0].props.src, '/cnjobs/dashboard.html')
+
   const wrapper = view.render({})
   const element = wrapper.type(wrapper.props)
   assert.equal(element.type, 'div')

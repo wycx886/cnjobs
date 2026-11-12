@@ -18,7 +18,7 @@
     ]
   },
   "investment": {
-    "summary": "官网公司历程披露：2023-09成立并完成首轮融资；2024-01天使轮（合计千万美金）；2024-11 Pre-A数亿元；2025-04 A2、A3轮；2025-07 A4、A5轮合计近15亿元；2026-02 B轮10亿元；2026-04 B+轮近20亿元；并称2026年B轮与C轮合计近50亿元。北京日报2026-02-11报道B轮投资方，并称公司已完成股改、尚未上市。",
+    "summary": "官网公司历程披露：2023-09成立并完成首轮融资；2024-01天使轮（合计千万美金）；2024-11 Pre-A数亿元；2025-04 A2、A3轮；2025-07 A4、A5轮合计近15亿元；2026-02 B轮10亿元；2026-04 B+轮近20亿元；并称2026年B轮与C轮合计近50亿元。北京日报2026-02-11报道B轮投资方，并称公司已完成股改、尚未上市；21世纪经济报道、投资界、新京报、澎湃另披露天使轮至B+轮投资方名单。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
       {
@@ -35,41 +35,295 @@
         "round": "天使",
         "announced_on": "2024-01",
         "amount_text": "千万美金",
-        "investors": [],
-        "source_ids": [
-          "s12"
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "lead",
+            "source_ids": [
+              "s14",
+              "s15"
+            ]
+          },
+          {
+            "name": "BV百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14",
+              "s15"
+            ]
+          },
+          {
+            "name": "无限基金SEE FUND",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14",
+              "s15"
+            ]
+          },
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s14",
+              "s15"
+            ]
+          },
+          {
+            "name": "七熹投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14",
+              "s15"
+            ]
+          }
         ],
-        "notes": "官网称2024年1月完成天使轮第二轮交割、天使轮共计千万美金；北京日报称成立两个月后完成第一轮交割。"
+        "source_ids": [
+          "s12",
+          "s14",
+          "s15"
+        ],
+        "notes": "官网称2024年1月完成天使轮第二轮交割、天使轮共计千万美金，未列投资方；投资界2026-02-11称本轮由IDG资本领投，BV百度风投、无限基金SEE FUND、金沙江创投、七熹投资跟投；北京日报称成立两个月后完成第一轮交割。"
       },
       {
         "round": "Pre-A",
         "announced_on": "2024-11",
         "amount_text": "数亿元",
-        "investors": [],
-        "source_ids": [
-          "s12"
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "米哈游",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "无锡创投集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "同歌创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          },
+          {
+            "name": "FunPlus",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s15"
+            ]
+          }
         ],
-        "notes": "官网时间线；北京日报称2024年8月完成超2亿元Pre-A，日期与金额口径与官网不同。"
+        "source_ids": [
+          "s12",
+          "s15"
+        ],
+        "notes": "官网时间线；21世纪经济报道2024-11-05称本轮超2亿元，由高瓴创投、蚂蚁集团领投，米哈游、无锡创投集团、同歌创投、FunPlus及老股东跟投，华兴资本任独家财务顾问；北京日报称2024年8月完成超2亿元Pre-A，日期与金额口径与官网不同。"
       },
       {
         "round": "A2、A3",
         "announced_on": "2025-04",
         "amount_text": null,
-        "investors": [],
-        "source_ids": [
-          "s12"
+        "investors": [
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "海尔资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          },
+          {
+            "name": "同歌创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s16"
+            ]
+          }
         ],
-        "notes": "官网称2025年4月接连完成A2、A3轮系列融资，未披露单轮金额。"
+        "source_ids": [
+          "s12",
+          "s16"
+        ],
+        "notes": "官网称2025年4月接连完成A2、A3轮系列融资，未披露单轮金额；新京报贝壳财经2025-04-03称两轮合计超3亿元，由凯辉基金领投，联想创投、海尔资本等产业资本参投，老股东IDG资本、高瓴创投、百度风投、同歌创投等追投。"
       },
       {
         "round": "A4、A5",
         "announced_on": "2025-07",
         "amount_text": "总融资规模近15亿元人民币",
-        "investors": [],
-        "source_ids": [
-          "s12"
+        "investors": [
+          {
+            "name": "今日资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "中金保时捷基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "襄禾资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "米哈游",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "无锡创投集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "美团战投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "北京机器人基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "亦庄国投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "BV百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s17"
+            ]
+          }
         ],
-        "notes": "官网称A4、A5轮系列融资总规模近15亿元，未分轮列示。"
+        "source_ids": [
+          "s12",
+          "s17"
+        ],
+        "notes": "官网称A4、A5轮系列融资总规模近15亿元，未分轮列示；新京报2025-07-09称A4轮由今日资本、美团龙珠联合领投，中金保时捷基金、襄禾资本及老股东米哈游、无锡创投集团跟投；A5轮由美团龙珠、美团战投联合领投，北京机器人基金超额加注，亦庄国投跟投，IDG资本、BV百度风投、凯辉基金、今日资本、襄禾资本等老股东追投。"
       },
       {
         "round": "B",
@@ -134,11 +388,141 @@
         "round": "B+",
         "announced_on": "2026-04",
         "amount_text": "近20亿元",
-        "investors": [],
-        "source_ids": [
-          "s12"
+        "investors": [
+          {
+            "name": "华登科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "蓝思科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "矽芯投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "时代伯乐",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "航发基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "修远资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "弘章投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "御海资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "金融街资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "北京科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "国元股权",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "中金资本旗下基金",
+            "firm_id": "cicc-capital",
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "洪泰基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          },
+          {
+            "name": "广发乾和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s18"
+            ]
+          }
         ],
-        "notes": "官网称2026年4月再次完成近20亿元B+轮。"
+        "source_ids": [
+          "s12",
+          "s18"
+        ],
+        "notes": "官网称2026年4月再次完成近20亿元B+轮，未列投资方；澎湃新闻2026-04-02列出投资方并称估值超200亿元，未指名领投方。"
       },
       {
         "round": "C",
@@ -160,7 +544,7 @@
     "other_email_purpose": "产品咨询"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -271,6 +655,46 @@
       "supports": "报道2026-02-11 B轮10亿元及投资方；并称公司已完成股改、尚未上市。",
       "published_date": "2026-02-11",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s14",
+      "title": "投资界（网易转载）：清华90后带队，刚刚星海图又融10亿",
+      "url": "https://www.163.com/dy/article/KLFPPOBT05198R3E.html",
+      "supports": "2026-02-11报道：2024年1月天使轮第二轮融资千万美金，由IDG资本领投，BV百度风投、无限基金SEE FUND、金沙江创投、七熹投资跟投。",
+      "published_date": "2026-02-11",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s15",
+      "title": "21世纪经济报道（新浪财经）：高瓴创投、蚂蚁集团入局，一年三次融资的星海图踏上具身智能风口",
+      "url": "https://finance.sina.com.cn/roll/2024-11-05/doc-incuyzvh2863665.shtml",
+      "supports": "2024-11-05报道：Pre-A轮超2亿元由高瓴创投、蚂蚁集团领投，米哈游、无锡创投集团、同歌创投、FunPlus及老股东跟投；2024年初天使轮投资方包括IDG资本、BV百度风投、无限基金SEE FUND、金沙江创投、七熹投资。",
+      "published_date": "2024-11-05",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s16",
+      "title": "新京报贝壳财经（同花顺转载）：星海图完成A2、A3轮融资，总金额超3亿元",
+      "url": "http://news.10jqka.com.cn/20250403/c667208307.shtml",
+      "supports": "2025-04-03报道：A2、A3轮系列融资由凯辉基金领投，联想创投、海尔资本等产业资本参投，老股东IDG资本、高瓴创投、百度风投、同歌创投等追投。",
+      "published_date": "2025-04-03",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s17",
+      "title": "新京报：星海图完成A4、A5轮战略融资，北京机器人基金超额加注",
+      "url": "https://www.bjnews.com.cn/detail/1752025124129293.html",
+      "supports": "2025-07-09报道：A4轮由今日资本、美团龙珠联合领投，中金保时捷基金、襄禾资本及老股东米哈游、无锡创投集团跟投；A5轮由美团龙珠、美团战投联合领投，北京机器人基金超额加注，亦庄国投跟投，IDG资本、BV百度风投、凯辉基金、今日资本、襄禾资本等老股东追投。",
+      "published_date": "2025-07-09",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s18",
+      "title": "澎湃新闻：星海图完成近20亿元B+轮融资，估值超200亿元",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32878036",
+      "supports": "2026-04-02报道：B+轮投资方包括华登科技、蓝思科技、矽芯投资、时代伯乐、航发基金等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创、国元股权等国家队基金，中金资本旗下基金、普华资本、洪泰基金、广发乾和等PE机构；未指名领投方。",
+      "published_date": "2026-04-02",
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

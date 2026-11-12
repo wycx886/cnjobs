@@ -156,7 +156,6 @@ class DashboardTests(unittest.TestCase):
         cases = self._source("investorCaseNames", "investorFacts")
         self.assertIn("representative_cases", cases)
         self.assertIn("prior_firm", cases)
-        self.assertIn("portfolio", cases)
         self.assertIn("slice(0, 3)", cases)
 
     def test_profile_body_order_differs_by_class(self):
@@ -181,14 +180,59 @@ class DashboardTests(unittest.TestCase):
         self.assertIn("投资团队", people_copy)
         self.assertIn('"档位口径"', self.html)
 
-    def test_portfolio_links_only_when_resolvable_and_never_invents_amounts(self):
-        portfolio = self._source("portfolioBlock", "investmentSection")
-        self.assertIn("BY_ID.get(item.company_id)", portfolio)
-        self.assertIn("item.company_name", portfolio)
-        self.assertIn("item.round", portfolio)
-        self.assertIn("item.announced_on", portfolio)
-        self.assertIn("roleLabel(item.role)", portfolio)
-        self.assertNotIn("amount", portfolio)
+    def test_investor_block_sits_at_top_and_reads_round_investors(self):
+        intro = self._source("profileIntroHtml", "profileBodyHtml")
+        self.assertRegex(intro, r"profileMeta\(org\)[\s\S]*investorsBlock\(org\)")
+        block = self._source("investorsBlock", "stageText")
+        self.assertIn('<div class="p-investors" role="group" aria-label="投资方">', block)
+        self.assertIn("record.investment", block)
+        self.assertIn("round.investors", block)
+        self.assertIn("if (org.class !== \"startups\" && org.class !== \"incumbents\") return \"\";", block)
+        self.assertIn("if (!order.length) return \"\";", block)
+        self.assertIn("if (firm && byFirm[firm]) return byFirm[firm];", block)
+        self.assertIn("byName[name] = entry;", block)
+        self.assertIn("entry.seen[key]", block)
+        self.assertIn("roundLabel(round.round)", block)
+        self.assertIn("roleLabel(part.role)", block)
+        self.assertIn('part.role === "undisclosed" ? ""', block)
+        self.assertIn('part.role === "lead"', block)
+        self.assertIn("is-lead", block)
+        self.assertNotIn("amount", block)
+
+    def test_investor_names_link_only_when_the_firm_has_a_profile(self):
+        block = self._source("investorsBlock", "stageText")
+        self.assertIn("item.firm && BY_ID.has(item.firm)", block)
+        self.assertIn('data-open="', block)
+        self.assertIn("esc(item.firm)", block)
+        self.assertIn('<span class="pi-name">', block)
+        self.assertIn(".pi-link:focus-visible{", self.html)
+        self.assertIn(".pi-round.is-lead{", self.html)
+
+    def test_investor_block_uses_embedded_round_data(self):
+        ids = {item["record"]["id"] for item in self.dataset["organizations"]}
+        linked = None
+        lead = None
+        for item in self.dataset["organizations"]:
+            if item["class"] not in ("startups", "incumbents"):
+                continue
+            rounds = (item["record"].get("investment") or {}).get("rounds") or []
+            investors = [inv for round in rounds for inv in (round.get("investors") or [])]
+            if not investors:
+                continue
+            self.assertTrue(all(inv.get("name") for inv in investors), item["record"]["id"])
+            self.assertEqual(item["record"]["investment"]["rounds"], rounds)
+            if linked is None and any(inv.get("firm_id") in ids for inv in investors):
+                linked = (item, investors)
+            if lead is None and any(inv.get("role") == "lead" for inv in investors):
+                lead = (item, investors)
+        self.assertIsNotNone(linked)
+        self.assertIsNotNone(lead)
+        self.assertTrue(all(inv.get("role") in ("lead", "participant", "undisclosed")
+                            for inv in linked[1] + lead[1]))
+
+    def test_portfolio_rendering_is_gone(self):
+        self.assertNotIn("portfolioBlock", self.html)
+        self.assertNotIn("record.portfolio", self.html)
 
     def test_directory_chrome_and_rows_follow_class(self):
         chrome = self.html.split("var CLASS_CHROME", 1)[1].split("var PEOPLE_COPY", 1)[0]

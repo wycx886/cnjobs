@@ -7,6 +7,7 @@ company_id,company,source_id,title,url,supports,published_date,checked_at
 01-ai,零一万物 01.AI,s06,零一万物官网·管理团队,https://www.lingyiwanwu.com/about.html,管理团队页列出李开复（创始人兼CEO）、马杰、黄蕙雯、沈鹏飞、赵斌强、宁宁的照片、职务与履历。,,2026-11-11
 01-ai,零一万物 01.AI,s07,36氪：AI六小龙零一万物新一轮高管变动,https://m.36kr.com/p/3526684698713219,报道沈鹏飞以联合创始人身份加入、负责ToB/ToG销售体系，赵斌强与宁宁晋升副总裁。,,2026-11-11
 01-ai,零一万物 01.AI,s08,X 账号 @kaifulee,https://x.com/kaifulee,账号简介标注 Kai-Fu Lee 为 CEO of @01ai_yi 零一万物、创新工场董事长。,,2026-11-11
+01-ai,零一万物 01.AI,s09,科创板日报：零一万物完成数亿元股权融资 投资方为杭州及临平区国资,https://news.qq.com/rain/a/20261102A0A8Z100,2026-11-02报道：零一万物完成股权融资，金额数亿元，投资方为杭州市国资、临平区国资；未披露具体出资平台。,2026-11-02,2026-11-12
 alibaba,阿里巴巴集团 Alibaba,s01,阿里巴巴集团官方网站,https://www.alibabagroup.com/,集团官网身份,,2026-11-02
 alibaba,阿里巴巴集团 Alibaba,s02,Alibaba Group Careers,https://talent.alibaba.com/,集团招聘入口,,2026-11-02
 alibaba,阿里巴巴集团 Alibaba,s03,阿里云百炼：什么是阿里云百炼,https://www.alibabacloud.com/help/zh/model-studio/what-is-model-studio,云侧千问／模型服务主题证据,,2026-11-02
@@ -351,6 +352,7 @@ aixcoder,硅心科技 / aiXcoder,s12,GitHub API：users/ligechina,https://api.gi
 aixcoder,硅心科技 / aiXcoder,s13,Ge Li 个人主页（北京大学）,https://ligechina.github.io/,个人主页自述为北京大学计算机学院长聘教授 Ge Li，列有程序理解与生成方向论文，与北大计算机学院页面所列个人主页一致。,,2026-11-11
 aixcoder,硅心科技 / aiXcoder,s14,金融界（创业邦）：硅心科技完成数千万元A轮融资，高瓴创投独家投资,https://biz.jrj.com.cn/2022/03/22180234861388.shtml,2022-03-22硅心科技宣布获数千万元A轮融资，高瓴创投投资。,2022-03-22,2026-11-11
 aixcoder,硅心科技 / aiXcoder,s15,义柏资本：硅心科技aiXcoder完成数千万元A+轮融资,https://100summit.com/cn/details/id/4283,A+轮由彬复资本领投，清流资本、三七互娱跟投，义柏资本任独家财务顾问；稿件日期2023-09-04。,2023-09-04,2026-11-11
+aixcoder,硅心科技 / aiXcoder,s16,腾讯科技：国产AI+软件公司硅心科技完成新一轮融资，投资方为中关村资本,https://news.qq.com/rain/a/20250424A02ESZ00,2025-04-24报道：硅心科技（aiXcoder）近日宣布完成A++轮融资，投资方为中关村发展集团旗下中关村资本；未披露金额。,2025-04-24,2026-11-12
 dify,Dify / LangGenius,s01,Dify官方融资公告,https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents,2026年Pre-A投资方,2026-03,2026-11-11
 dify,Dify / LangGenius,s02,Dify官方招聘,https://join.dify.ai/,joinus邮箱、城市、总部与岗位,,2026-10-30
 dify,Dify / LangGenius,s03,Dify官方伙伴计划,https://dify.ai/partners,business邮箱与服务伙伴定位,,2026-10-30
@@ -687,6 +689,9 @@ laiye,来也科技 / Laiye,s08,来也科技官网：来也科技CTO胡一川：�
 laiye,来也科技 / Laiye,s09,来也科技 关于我们（发展历程）,https://www.laiye.com/about,载2015年7月1日成立并获天使轮2546万元，其后A轮数千万元、B轮千万美元、B+轮3500万美元、C轮4200万美元、C+轮5000万美元、C++轮7000万美元。,,2026-11-11
 laiye,来也科技 / Laiye,s10,来也科技完成C轮4200万美金融资,https://laiye.com/news/post/493.html,2020年2月24日完成C轮4200万美元，光速全球基金和光速中国成长基金联合领投，凯辉创新基金和双湖资本继续跟投。,,2026-11-11
 laiye,来也科技 / Laiye,s11,36氪：助理来也完成数千万元A轮融资，微软领投,https://www.36kr.com/p/1721286885377,A轮数千万元人民币，微软领投，光速中国和红杉资本跟投。,2016-12-13,2026-11-11
+laiye,来也科技 / Laiye,s12,36氪：来也科技合并UiBot，完成3500万美元B+轮融资,https://www.36kr.com/p/1723915337729,回顾天使轮（400万美元，光速中国、红杉资本、真格基金、澎湃资本）、B轮（双湖资本领投，光速中国、红杉资本跟投）及B+轮投资方。,2019-06-27,2026-11-12
+laiye,来也科技 / Laiye,s13,界面新闻：来也科技完成C+轮5000万美元融资,https://www.jiemian.com/article/6006726.html,C+轮由平安全球领航基金与上海人工智能产业基金联合领投，光速中国、红杉中国及双湖资本继续跟投。,2021-04-25,2026-11-12
+laiye,来也科技 / Laiye,s14,网易（鹿鸣财经）：来也科技完成C++轮7000万美元融资,https://www.163.com/dy/article/H5B7GTGD0511KVQB.html,C++轮投资方及角色。,2022-04-19,2026-11-12
 midea-building-technologies,美的楼宇科技,s01,美的楼宇科技苏州 公开入口,https://www.mdbt.com.cn/about,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 midea-building-technologies,美的楼宇科技,s02,【苏州美的楼宇设备销售有限公司招聘】-猎聘,https://www.liepin.com/company/21440641/,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 midea-building-technologies,美的楼宇科技,s03,BOSS直聘企业主页 · 苏州美的楼宇设备销售有限公司（优先于荆州工厂页）,https://www.zhipin.com/gongsi/73348f2f1ecb05831H1-09-8EVI~.html,公开企业主页主体：苏州美的楼宇设备销售有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -741,6 +746,11 @@ synyi,森亿智能,s05,8年超13亿！潜力独角兽森亿智能再获融资,ht
 synyi,森亿智能,s06,森亿智能官网“关于我们/核心团队”,https://www.synyi.com/about/company,官方团队页列：张少典博士为创始人/董事长/首席执行官；马汉东博士为联合创始人/副总裁，并给出两人学历与创业经历。,,2026-11-11
 synyi,森亿智能,s07,8年超13亿！潜力独角兽森亿智能再获融资（网易号，2026-11-11复核）,https://www.163.com/dy/article/J7N90KPE0511DLVT.html,报道称张少典为森亿智能创始人兼董事长，本科上海交通大学AI与计算机、博士哥伦比亚大学医学信息学。,,2026-11-11
 synyi,森亿智能,s08,投资界：森亿智能获腾讯、国药资本2.5亿元C轮投资,https://pe.pedaily.cn/201907/444475.shtml,2019-07 完成2.5亿元C轮，腾讯领投，国药资本跟投；成立三年累计融资超5.5亿元。,2019-07-03,2026-11-11
+synyi,森亿智能,s09,36氪：释放医疗文本大数据价值，森亿智能看好医保和药企潜在需求,https://www.36kr.com/p/1721367887873,天使轮近千万元由真格基金领投，华岩资本、树兰医疗跟投。,2017-02-16,2026-11-12
+synyi,森亿智能,s10,搜狐（上海张江国家自主创新示范区）：森亿智能获5500万A轮融资,https://www.sohu.com/a/207911864_205169,A轮由红杉资本中国基金领投，中电健康基金战略投资。,2017-12-01,2026-11-12
+synyi,森亿智能,s11,搜狐（投资界）：森亿智能获纪源资本领投1亿元B轮融资,https://www.sohu.com/a/230098661_439726,B轮由GGV纪源资本领投，红杉资本中国基金、真格基金继续跟投。,2018-05-02,2026-11-12
+synyi,森亿智能,s12,凤凰财经（蓝鲸财经）：森亿智能完成4亿元D轮融资,https://finance.ifeng.com/c/82PHAA6iw1y,D轮由中金甲子领投，阳光保险、腾讯跟投。,2020-12-22,2026-11-12
+synyi,森亿智能,s13,搜狐（雷递）：森亿智能宣布完成5亿元E轮融资,https://www.sohu.com/a/476453306_430392,E轮由IDG资本领投，龙门投资、盛宇投资跟投。,2021-07-09,2026-11-12
 transwarp,星环科技,s01,星环科技 公开入口,https://www.transwarp.cn,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 transwarp,星环科技,s02,星环科技-构建新一代AI基础设施软件,https://www.transwarp.cn/,公开官网主体观察：https://www.transwarp.cn/；只核验入口归属。,,2026-11-02
 transwarp,星环科技,s03,【星环科技招聘】-猎聘,https://www.liepin.com/company/7979550/,公开企业主页主体：星环科技；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -838,6 +848,7 @@ quickcep,快牛智营 / QuickCEP,s07,对话快牛QuickCEP CEO：领跑中国品�
 quickcep,快牛智营 / QuickCEP,s08,品牌出海服务商快牛智营完成数千万元融资（投资界/pedaily）,https://news.pedaily.cn/202306/516211.shtml,报道引述“QuickCEP CEO 陈光”介绍产品与出海策略，并记公司2021年底成立、团队前身有十余年客服与营销SaaS经验。,2023-06-01,2026-11-11
 quickcep,快牛智营 / QuickCEP,s09,36氪出海：品牌出海服务商QuickCEP快牛智营完成数千万元融资，源数创投领投,https://www.36kr.com/p/2316686522904071,2023年6月完成数千万元战略融资，源数创投领投，老股东复星锐正、初心资本跟投；并提及2022年6月完成数千万人民币Pre-A轮。,2023-06-26,2026-11-11
 quickcep,快牛智营 / QuickCEP,s10,搜狐（深圳市跨境电商协会会员动态）：QuickCEP完成近亿元融资,https://www.sohu.com/a/960439798_121123831,2025年完成近亿元融资，啟赋资本领投、老股东复星锐正超额跟投，源合资本担任独家财务顾问。,2025-12-01,2026-11-11
+quickcep,快牛智营 / QuickCEP,s11,网易（亿欧）：QuickCEP完成数千万元天使轮及Pre-A轮融资，初心资本超额跟投,https://www.163.com/dy/article/H9C30UT805118K7K.html,Pre-A轮由复星锐正领投、老股东初心资本超额跟投。,2022-06-08,2026-11-12
 shoplazza,店匠科技 / Shoplazza,s01,店匠官网关于我们,https://www.shoplazza.cn/pages/about-us,投资方和产品,,2026-10-30
 shoplazza,店匠科技 / Shoplazza,s02,BOSS店匠企业招聘页,https://m.zhipin.com/companys/ddcf41eb4e9388b21HR939q5FA~~.html,深圳主体与公开岗位,,2026-10-30
 shoplazza,店匠科技 / Shoplazza,s03,店匠官方招聘页,https://www.shoplazza.cn/pages/join-us,招聘入口有效,,2026-10-30
@@ -918,6 +929,8 @@ flexiv,非夕科技,s05,BOSS直聘企业主页 · 上海非夕机器人科技有
 flexiv,非夕科技,s06,非夕科技创始人兼CEO王世全入选2025全球青年领袖｜非夕科技官网,https://www.flexiv.cn/news/flexiv_ceo_was_selected_as_a_world_economic_forum_young_global_leader,公司官网新闻称王世全为非夕创始人兼CEO，博士毕业于斯坦福大学仿生与灵巧操作实验室及人工智能实验室，2016年创立非夕科技。,2025-04-15,2026-11-11
 flexiv,非夕科技,s07,王世全：非夕科技创始人兼CEO｜明人堂,https://www.mingrentai.com/people/wangshiquan,人物页称王世全为非夕科技创始人兼CEO，1988年生，浙江大学机械工程系本科、斯坦福大学博士，2025年世界经济论坛全球青年领袖。,,2026-11-11
 flexiv,非夕科技,s08,非夕科技官网：非夕历程,https://www.flexiv.cn/history,历程页披露2016年6月成立、2020年12月超1亿美金B轮、2022年6月近亿美金B+轮、2025年6月亿级美元C轮。,,2026-11-11
+flexiv,非夕科技,s09,福布斯中国：超1亿美金，通用智能机器人公司非夕科技完成B轮融资,http://www.forbeschina.com/life/53180,2020-12-31报道：B轮主要投资方包括美团、珠江集团、新希望集团、制造业关联私募Longwood、云锋基金、招商局资本，以及原有投资方高榕资本与金沙江创投；未标注领投方。,2020-12-31,2026-11-12
+flexiv,非夕科技,s10,雷递：非夕科技宣布完成亿级美元C轮融资，咏归基金与广发信德联合领投,https://news.qq.com/rain/a/20250623A07FOT00,2025-06-23报道：C轮由咏归基金、广发信德联合领投，洪泰基金、华控基金等跟投，老股东高榕创投、eGarden Ventures、Mfund魔量资本持续跟投。,2025-06-23,2026-11-12
 fourier,傅利叶,s01,傅利叶官网,https://www.fftai.com/en/,当前产品方向,,2026-10-30
 fourier,傅利叶,s02,傅利叶完成近8亿元E轮,https://www.yicai.com/news/102430454.html,投资方,2025-01-07,2026-11-11
 fourier,傅利叶,s03,傅利叶产品资料,https://www.fftai.com/uploads/upload/files/20250519/9367c1adcb832047765641f301645c90.pdf,商务邮箱,,2026-10-30
@@ -939,6 +952,11 @@ galaxea,星海图,s10,Galaxea official Leadership (EN),https://galaxea-ai.com/en
 galaxea,星海图,s11,"China Robotics Insider｜Gao Jiyang, Founder & CEO, Galaxea AI",https://www.robotichina.com/person-gao-jiyang.html,人物条目记高继扬（Gao Jiyang）为 Galaxea AI 创始人兼CEO，曾任 Waymo 高级工程师与 Momenta 高管，毕业于清华大学,,2026-11-11
 galaxea,星海图,s12,星海图官网：关于我们（公司历程）,https://www.galaxea-ai.com/zh/company.html,公司历程披露2023-09成立并完成首轮融资、2024-01天使轮、2024-11 Pre-A、2025-04 A2/A3、2025-07 A4/A5、2026-02 B、2026-04 B+及2026年B/C轮融资节奏与金额。,,2026-11-11
 galaxea,星海图,s13,北京日报：星海图完成10亿元融资，具身智能再添百亿独角兽,https://news.bjd.com.cn/2026/02/11/11578993.shtml,报道2026-02-11 B轮10亿元及投资方；并称公司已完成股改、尚未上市。,2026-02-11,2026-11-11
+galaxea,星海图,s14,投资界（网易转载）：清华90后带队，刚刚星海图又融10亿,https://www.163.com/dy/article/KLFPPOBT05198R3E.html,2026-02-11报道：2024年1月天使轮第二轮融资千万美金，由IDG资本领投，BV百度风投、无限基金SEE FUND、金沙江创投、七熹投资跟投。,2026-02-11,2026-11-12
+galaxea,星海图,s15,21世纪经济报道（新浪财经）：高瓴创投、蚂蚁集团入局，一年三次融资的星海图踏上具身智能风口,https://finance.sina.com.cn/roll/2024-11-05/doc-incuyzvh2863665.shtml,2024-11-05报道：Pre-A轮超2亿元由高瓴创投、蚂蚁集团领投，米哈游、无锡创投集团、同歌创投、FunPlus及老股东跟投；2024年初天使轮投资方包括IDG资本、BV百度风投、无限基金SEE FUND、金沙江创投、七熹投资。,2024-11-05,2026-11-12
+galaxea,星海图,s16,新京报贝壳财经（同花顺转载）：星海图完成A2、A3轮融资，总金额超3亿元,http://news.10jqka.com.cn/20250403/c667208307.shtml,2025-04-03报道：A2、A3轮系列融资由凯辉基金领投，联想创投、海尔资本等产业资本参投，老股东IDG资本、高瓴创投、百度风投、同歌创投等追投。,2025-04-03,2026-11-12
+galaxea,星海图,s17,新京报：星海图完成A4、A5轮战略融资，北京机器人基金超额加注,https://www.bjnews.com.cn/detail/1752025124129293.html,2025-07-09报道：A4轮由今日资本、美团龙珠联合领投，中金保时捷基金、襄禾资本及老股东米哈游、无锡创投集团跟投；A5轮由美团龙珠、美团战投联合领投，北京机器人基金超额加注，亦庄国投跟投，IDG资本、BV百度风投、凯辉基金、今日资本、襄禾资本等老股东追投。,2025-07-09,2026-11-12
+galaxea,星海图,s18,澎湃新闻：星海图完成近20亿元B+轮融资，估值超200亿元,https://m.thepaper.cn/newsDetail_forward_32878036,2026-04-02报道：B+轮投资方包括华登科技、蓝思科技、矽芯投资、时代伯乐、航发基金等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创、国元股权等国家队基金，中金资本旗下基金、普华资本、洪泰基金、广发乾和等PE机构；未指名领投方。,2026-04-02,2026-11-12
 galbot,银河通用,s01,银河通用官网,https://www.galbot.com/,产品与官方招聘跳转,,2026-10-30
 galbot,银河通用,s02,银河通用完成11亿元融资,https://finance.people.com.cn/n1/2025/0623/c1004-40507025.html,投资背景,2025-06-23,2026-10-30
 galbot,银河通用,s03,银河通用再融25亿元,https://companies.caixin.com/m/2026-03-02/102418622.html,2026轮投资方,2026-03-02,2026-10-30
@@ -952,6 +970,7 @@ galbot,银河通用,s10,百度百科·北京银河通用机器人股份有限公
 galbot,银河通用,s11,王鹤个人学术主页（GitHub Pages）,https://hughw19.github.io/,其本人学术主页（He Wang），列出研究方向、论文与项目；北京大学计算机学院官方教师页将本链接列为他的个人主页。,,2026-11-11
 galbot,银河通用,s12,国际科技创新中心网络服务平台（中关村科学城）：银河通用完成新一轮11亿元融资,https://www.ncsti.gov.cn/kjdt/scyq/zgckxc/zgcdt/202506/t20250624_208522.html,2025-06-24发布：本轮11亿元由宁德时代及溥泉资本领投，国开科创、北京机器人产业基金、纪源资本等参与。,2025-06-24,2026-11-11
 galbot,银河通用,s13,财新：银河通用再融25亿元 称是估值最高未上市机器人公司,https://companies.caixin.com/m/2026-03-02/102418622.html,2026-03-02报道25亿元融资及投资方名单；称公司为估值最高的未上市人形机器人企业。,2026-03-02,2026-11-11
+galbot,银河通用,s14,长江商报（新浪财经）：银河通用三年融资70亿估值200亿 大基金宁德时代押注IPO紧追宇树科技,https://finance.sina.com.cn/roll/2026-03-05/doc-inhpwzrx3276868.shtml,2026-03-05报道：2025-12完成的3亿美元融资由中国移动领投，中金资本、中科院基金、苏创投、央视融媒体基金、天奇股份等跟投，老股东追加投资；该文称本轮为C轮。,2026-03-05,2026-11-12
 gaussian-robotics,高仙机器人,s01,高仙机器人 公开入口,https://www.gs-robot.com,草稿导入线索；导入时未重新打开网页核验／融资口径待核实。,,2026-11-02
 gaussian-robotics,高仙机器人,s02,高仙机器人_商用清洁机器人_智能洗地机器人_工业智能清洁解决方案,https://www.gs-robot.com/,公开官网主体观察：https://www.gs-robot.com/；只核验入口归属。,,2026-11-02
 gaussian-robotics,高仙机器人,s03,【苏州高仙机器人科技有限公司招聘信息】-猎聘,https://www.liepin.com/company/gs93533663/,公开企业主页主体：苏州高仙机器人科技有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
@@ -1119,6 +1138,7 @@ robotera,星动纪元,s06,腾讯新闻：对话星动纪元陈建宇,https://new
 robotera,星动纪元,s07,Jianyu Chen 清华交叉信息研究院个人学术主页,https://people.iiis.tsinghua.edu.cn/~jychen/,陈建宇（Jianyu Chen）为清华大学交叉信息研究院助理教授，2020年获加州大学伯克利分校博士（导师Masayoshi Tomizuka），2015年本科毕业于清华大学。,,2026-11-11
 robotera,星动纪元,s08,福布斯中国：星动纪元再获超2亿美元融资,https://www.forbeschina.com/investment/71473,2026-04-27 完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本等联合注资，老股东清控天诚、鸿瑞达加码；并称2026年3月完成10亿元人民币战略轮。,2026-04-27,2026-11-11
 robotera,星动纪元,s09,新浪财经（投资界）：顺丰红杉IDG联手，星动纪元融资2亿美金,https://finance.sina.com.cn/jjxw/2026-04-27/doc-inhvwwmp2515059.shtml,2026-04-27 完成2亿美元新一轮：顺丰集团领投，红杉中国、IDG资本、中金资本、京铭资本、朝希资本、鲁信创投、聚合资本、隆启投资联合注资；科捷智能、东风产投、工银资本、联通旗下基金参与。,2026-04-27,2026-11-11
+robotera,星动纪元,s10,新浪财经（封面新闻）：星动纪元完成10亿元战略轮融资，估值破百亿,http://cj.sina.com.cn/articles/view/1496814565/593793e502001yhl2,2026年3月战略轮投资方名单及新老股东角色。,2026-03-05,2026-11-12
 rokae-liqtech,苏州李群自动化,s01,苏州李群自动化 公开入口,https://www.liqtech.com.cn,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 rokae-liqtech,苏州李群自动化,s02,BOSS直聘企业主页 · 李群智能机器人股份有限公司（东莞松山湖；无苏州专页）,https://www.zhipin.com/gongsi/b0480a1f1da1642d1nN839m6GA~~.html,公开企业主页主体：李群智能机器人股份有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 rokae-liqtech,苏州李群自动化,s03,李群官方公司简介（官方检索摘要；正文未读到）,https://www.qkmtech.com/company-profile,官方检索摘要将李群自动化标为QKM，主营工业机器人；页面正文404，不据此确认苏州法人。,,2026-11-03
@@ -1383,6 +1403,8 @@ viaim,未来智能 viaim,s05,安徽艾德未来智能招聘页,https://m.zhipin.
 viaim,未来智能 viaim,s06,腾讯新闻｜对话未来智能viaim创始人兼CEO马啸,https://news.qq.com/rain/a/20260728A086D100,标题与正文均称「未来智能viaim创始人兼CEO马啸」,2026-07-28,2026-11-11
 viaim,未来智能 viaim,s07,搜狐｜对话马啸：硬件将成为AI理解世界的眼睛和耳朵,https://www.sohu.com/a/1027080680_136866,称马啸为未来智能CEO，并记其带viaim讯飞智能体耳机新品现身发布会,,2026-11-11
 viaim,未来智能 viaim,s08,36氪项目库：未来智能 viaim,https://pitchhub.36kr.com/project/3264263460172807,融资历史与快讯：2025年1月、4月连续完成Pre-A轮、Pre-A+轮；A轮亿元级由蚂蚁集团领投、启明创投超额跟投；A+轮于2026-05-08完成，亿元级，传音参投并达成战略合作。,,2026-11-11
+viaim,未来智能 viaim,s09,网易（瑞财社）：未来智能完成数千万元Pre-A轮融资，由万物创投领投,https://www.163.com/dy/article/JMHDGL4K0553YQCC.html,Pre-A轮由万物创投领投，初心资本跟投。,2025-01-22,2026-11-12
+viaim,未来智能 viaim,s10,腾讯新闻（观点网）：未来智能完成数千万元Pre-A+轮融资,https://news.qq.com/rain/a/20250422A02TK900,Pre-A+轮由启明创投与上海国投孚腾资本联合领投。,2025-04-22,2026-11-12
 wistron-kunshan,昆山纬创,s01,昆山纬创 公开入口,https://www.wistron.com/About-Wistron,草稿提供的官网／关于页 URL，作为主体入口线索；导入时未重新打开网页核验，且原草稿注明 web search 不可用。,,2026-11-02
 wistron-kunshan,昆山纬创,s02,BOSS直聘企业主页 · 纬创资通（昆山）有限公司（鸿雁路；排除汽车电子子公司）,https://www.zhipin.com/gongsi/cb432962e62e73bd03Z729-8.html,公开企业主页主体：纬创资通（昆山）有限公司；只核验入口归属，不表示具体岗位开放。,,2026-11-02
 wistron-kunshan,昆山纬创,s03,緯創資通 - 维基百科,https://zh.wikipedia.org/wiki/緯創資通,台证所上市股票代号3231（2003年上市）、2001年5月30日成立。,,2026-11-03

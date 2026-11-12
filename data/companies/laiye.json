@@ -28,11 +28,45 @@
         "round": "天使轮",
         "announced_on": "2015",
         "amount_text": "2546万元",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "红杉资本",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "澎湃资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
         ],
-        "notes": "官网载2015年7月1日成立并获天使轮，未列投资方。"
+        "source_ids": [
+          "s09",
+          "s12"
+        ],
+        "notes": "官网载2015年7月1日成立并获天使轮；投资方见36氪对B+轮的回顾报道，未区分领投。"
       },
       {
         "round": "A",
@@ -74,21 +108,73 @@
         "round": "B",
         "announced_on": "2017",
         "amount_text": "千万美元",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "双湖资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "红杉资本",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
         ],
-        "notes": "官网未列投资方。"
+        "source_ids": [
+          "s09",
+          "s12"
+        ],
+        "notes": "36氪报道：双湖资本领投，光速中国、红杉资本跟投。"
       },
       {
         "round": "B+",
         "announced_on": "2019",
         "amount_text": "3500万美元",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "凯辉创新基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "双湖资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s12"
+            ]
+          }
         ],
-        "notes": "官网未列投资方。"
+        "source_ids": [
+          "s09",
+          "s12"
+        ],
+        "notes": "36氪与铅笔道报道：凯辉创新基金领投，双湖资本、光速中国超份额跟投。"
       },
       {
         "round": "C",
@@ -138,21 +224,113 @@
         "round": "C+",
         "announced_on": "2021",
         "amount_text": "5000万美元",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "平安全球领航基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "上海人工智能产业基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "双湖资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s13"
+            ]
+          }
         ],
-        "notes": "官网未列投资方。"
+        "source_ids": [
+          "s09",
+          "s13"
+        ],
+        "notes": "界面新闻报道：平安全球领航基金与上海人工智能产业基金联合领投，光速中国、红杉中国及双湖资本继续跟投。"
       },
       {
         "round": "C++",
         "announced_on": "2022",
         "amount_text": "7000万美元",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "厚朴Magnolia成长基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "优山资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "VMS Group鼎珮集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "远东宏信旗下周济同历",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14"
+            ]
+          },
+          {
+            "name": "光速美国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s14"
+            ]
+          }
         ],
-        "notes": "官网未列投资方。"
+        "source_ids": [
+          "s09",
+          "s14"
+        ],
+        "notes": "科创板日报报道（网易转载）：厚朴Magnolia成长基金领投，优山资本与VMS Group鼎珮集团联合领投，远东宏信旗下周济同历参与投资，光速中国、光速美国持续跟投。"
       }
     ]
   },
@@ -164,7 +342,7 @@
     "other_email_purpose": "合作咨询"
   },
   "notes": "未查到当前公开招聘投递邮箱，优先使用官方招聘入口。B/B+/C+/C++的具名投资方官网未披露，未补写。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -261,6 +439,33 @@
       "supports": "A轮数千万元人民币，微软领投，光速中国和红杉资本跟投。",
       "published_date": "2016-12-13",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "36氪：来也科技合并UiBot，完成3500万美元B+轮融资",
+      "url": "https://www.36kr.com/p/1723915337729",
+      "supports": "回顾天使轮（400万美元，光速中国、红杉资本、真格基金、澎湃资本）、B轮（双湖资本领投，光速中国、红杉资本跟投）及B+轮投资方。",
+      "published_date": "2019-06-27",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
+    },
+    {
+      "id": "s13",
+      "title": "界面新闻：来也科技完成C+轮5000万美元融资",
+      "url": "https://www.jiemian.com/article/6006726.html",
+      "supports": "C+轮由平安全球领航基金与上海人工智能产业基金联合领投，光速中国、红杉中国及双湖资本继续跟投。",
+      "published_date": "2021-04-25",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
+    },
+    {
+      "id": "s14",
+      "title": "网易（鹿鸣财经）：来也科技完成C++轮7000万美元融资",
+      "url": "https://www.163.com/dy/article/H5B7GTGD0511KVQB.html",
+      "supports": "C++轮投资方及角色。",
+      "published_date": "2022-04-19",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
     }
   ],
   "provenance": {

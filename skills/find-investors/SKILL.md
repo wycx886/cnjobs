@@ -1,19 +1,19 @@
 ---
 name: find-investors
-description: Define and update the Tier 1/Tier 2 universe of Chinese VC, PE and other relevant equity investment firms, label tiers with cross-referenced public rankings, fetch official logos, and discover portfolio companies. Use as the default first step for company discovery, before company profiles and people research. Hand off investment-firm profiles to compose-profile, operating portfolio companies to map-sectors/compose-profile, and people to find-person.
+description: Define and update the Tier 1/Tier 2 universe of Chinese VC, PE and other relevant equity investment firms, label tiers with cross-referenced public rankings, and fetch official logos. Use as the default first step for building the investor universe, before company profiles and people research. Hand off investment-firm profiles to compose-profile, operating companies to map-sectors/compose-profile, and people to find-person.
 ---
 
-# Find Investors · 金融机构寻源与 Portfolio
+# Find Investors · 金融机构寻源与 Tier
 
-先圈定中国 Tier 1 / Tier 2 的 VC、PE 等金融机构，再顺着它们的投资组合发现公司。发现公司的默认起点是出资人，不是零散新闻里的创业公司。地域、主题和用途由当前任务决定；本仓库当前公共数据聚焦中国 AI 与科技投资机构。
+先圈定中国 Tier 1 / Tier 2 的 VC、PE 等金融机构，打有来源的 Tier、收官方 logo 并留下核心人物线索。公司的融资轮次与投资方由公司档案记录，机构侧不维护投资组合清单。地域、主题和用途由当前任务决定；本仓库当前公共数据聚焦中国 AI 与科技投资机构。
 
-本 Skill 只做三件事：**圈定机构 → 打有来源的 Tier → 沿 portfolio 发现公司并回写融资轮次**。人物留给 [find-person](../find-person/SKILL.md)，不在本环节提前铺开。
+本 Skill 只做三件事：**圈定机构 → 打有来源的 Tier → 收官方 logo**。人物留给 [find-person](../find-person/SKILL.md)，不在本环节提前铺开。
 
 ## 1. 何时使用
 
 - 需要建立或更新中国 VC、PE、CVC、产业基金及相关股权投资机构的发现网。
-- 需要给已建档投资机构补充 `tier`、官方 logo 或 `portfolio[]`。
-- 需要沿基金投资组合找公司，并为公司补齐成立时间与融资轮次。
+- 需要给已建档投资机构补充 `tier` 或官方 logo。
+- 需要在公司档案中补齐融资轮次与已披露投资方，并关联到对应机构档案。
 - 已有 `find-startups` / `find-incumbents` 的线索，需要回到金融机构主路径继续扩展时。
 
 如果任务主要研究单家公司的产品、团队或渠道，转用 [compose-profile](../compose-profile/SKILL.md) 或 [find-channels](../find-channels/SKILL.md)。
@@ -66,22 +66,20 @@ python3 tools/fetch_logos.py --id <id>
 - 只取 apple-touch-icon、favicon、og:image 或明确的官方 logo；不接 Clearbit 等第三方 logo CDN。
 - 找不到可靠图像就跳过，看板显示文字占位；**不生成假 logo**。
 
-## 5. Portfolio 与公司档案
+## 5. 公司融资轮次与投资方
 
-沿机构官网投资组合、公司公告、监管／交易所披露和可靠报道收集 portfolio，写入投资机构档案的 `portfolio[]`：
+公司是否值得建档，通过公司公告、监管／交易所披露和可靠报道核实。公司与投资方的关系只写进经营型公司档案的 `investment.rounds[]`，不在投资机构档案另建投资组合清单：
 
-- `company_name`：披露中的公司名称。
-- `company_id`：仅当本仓库已有对应经营型档案时填写稳定 ID，否则 `null`。
 - `round` / `announced_on`：按披露原文与日期记录；没有披露填 `null`，不擅自规范轮次，不编日期。
-- `role`：`lead` / `participant` / `undisclosed`；参与不等于领投。
-- `attribution`：`current_firm` / `prior_firm`；原平台案例不能算当前机构业绩。
-- `source_ids`：本机构记录中的机构级来源，至少 1 个；`notes` 写口径限制。
+- `amount_text`：只在来源明确披露金额时保留原文（如「3000万美元」），不拆成自行换算的数字字段。
+- `investors[]`：`name` 为披露名称，`role` 区分领投／参与（`lead` / `participant` / `undisclosed`），`firm_id` 仅在本仓库已有对应投资机构档案时填写，`source_ids` 至少 1 个。
+- `source_ids`：公司记录中的机构级来源，`notes` 写口径限制。
 
 对被投公司：
 
 1. 已在库中的公司回写到其 `data/companies/<id>.json`，不要另建副本。
 2. 公司档案除简介外，重点补 `founded`（`year` + `basis`）和 `investment.rounds[]`。
-3. `investment.rounds[]` 记录原文轮次名、披露日期、原文金额 `amount_text`、投资方与来源；没有披露就留空，不编数字、不编轮次。投资方 `firm_id` 仅在本仓库已有该投资机构档案时填写。
+3. 没有披露就留空，不编数字、不编轮次；投资方 `firm_id` 仅在本仓库已有该投资机构档案时填写。
 4. IPO 不等于已退出；参与不等于领投；媒体报道不升级为官方确认。
 
 新发现且尚未建档的经营型公司，交给 [map-sectors](../map-sectors/SKILL.md) 与 [compose-profile](../compose-profile/SKILL.md) 建档；本 Skill 不批量创建空壳公司。

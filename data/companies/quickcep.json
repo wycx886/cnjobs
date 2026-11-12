@@ -26,11 +26,29 @@
         "round": "Pre-A",
         "announced_on": "2022-06",
         "amount_text": "数千万人民币",
-        "investors": [],
-        "source_ids": [
-          "s09"
+        "investors": [
+          {
+            "name": "复星锐正",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s11"
+            ]
+          }
         ],
-        "notes": "36氪报道回溯“去年6月完成数千万人民币Pre-A轮”，未列投资方。"
+        "source_ids": [
+          "s09",
+          "s11"
+        ],
+        "notes": "36氪报道回溯“去年6月完成数千万人民币Pre-A轮”未列投资方；亿欧2022-06-08报道本轮由复星锐正领投、初心资本超额跟投。"
       },
       {
         "round": "战略融资",
@@ -104,7 +122,7 @@
     "other_email_purpose": "产品支持"
   },
   "notes": "未将源数创投等同源码资本；轮次标签报道有A+/B分歧，正文以新一轮表述。；未查到通用招聘投递邮箱。；第三方招聘平台页，主体为北京快牛智营科技有限公司；非公司自建官招站。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -190,6 +208,15 @@
       "supports": "2025年完成近亿元融资，啟赋资本领投、老股东复星锐正超额跟投，源合资本担任独家财务顾问。",
       "published_date": "2025-12-01",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "title": "网易（亿欧）：QuickCEP完成数千万元天使轮及Pre-A轮融资，初心资本超额跟投",
+      "url": "https://www.163.com/dy/article/H9C30UT805118K7K.html",
+      "supports": "Pre-A轮由复星锐正领投、老股东初心资本超额跟投。",
+      "published_date": "2022-06-08",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
     }
   ],
   "provenance": {

@@ -6,7 +6,7 @@
 
 | 任务阶段 | 入口 |
 | --- | --- |
-| **1. 找公司（先定金融机构，再沿 portfolio 找公司）** | [find-investors](skills/find-investors/SKILL.md) · [榜单与 Tier 口径](skills/find-investors/references/tier-and-rankings.md) |
+| **1. 找公司（先圈定金融机构，打 Tier、收 logo、记人物）** | [find-investors](skills/find-investors/SKILL.md) · [榜单与 Tier 口径](skills/find-investors/references/tier-and-rankings.md) |
 | **1a. 补充寻源：创业公司（新进机构、新 VC 与新孵化项目）** | [find-startups](skills/find-startups/SKILL.md) |
 | **1b. 补充寻源：现有巨头（成熟平台、软硬件厂商及业务团队）** | [find-incumbents](skills/find-incumbents/SKILL.md) |
 | **2a. 归入既有赛道（01–10 经营型主赛道，不新造分类）** | [map-sectors](skills/map-sectors/SKILL.md) |
@@ -22,7 +22,7 @@
 ## 数据与证据准则
 
 1. **单一维护源**：正式事实只维护在 `data/companies/`、`data/lists/`、`data/taxonomy.json`。唯一机器索引 `data/index.json` 与阅读视图 `data/views/` 由 `python3 tools/build.py` 自动生成，不手改。格式约束在 `data/schemas/`。
-2. **统一机构档案与 Tier 1 边界**：全部完整机构档案统一放 `data/companies/`。看板第一层划分为 **创业公司**（经营型新进）、**现有巨头**（经营型已有）与 **金融机构**（投资机构，`organization_type: "investment_firm"`）。金融机构寻源入口是 [find-investors](skills/find-investors/SKILL.md)：先圈定 Tier 1／Tier 2 的 VC、PE 等机构，再沿 portfolio 发现公司；`find-startups` / `find-incumbents` 保留为新进创业公司与现有巨头的补充寻源。投资机构可选 `tier`（`tier1` / `tier2` / `unlisted`）与 `portfolio[]`，经营型公司可选 `founded` 与 `investment.rounds[]`；Tier 是有来源的编辑判断，不是官方排名，轮次与金额没有披露就留空。VC 寻源名单在 `data/lists/vcs.json`，已有玩家底表在 `data/lists/incumbents.json`；Skill 引用名单，名单不重复完整档案。
+2. **统一机构档案与 Tier 1 边界**：全部完整机构档案统一放 `data/companies/`。看板第一层划分为 **创业公司**（经营型新进）、**现有巨头**（经营型已有）与 **金融机构**（投资机构，`organization_type: "investment_firm"`）。金融机构寻源入口是 [find-investors](skills/find-investors/SKILL.md)：先圈定 Tier 1／Tier 2 的 VC、PE 等机构，打有来源的 Tier 并收集官方 logo；`find-startups` / `find-incumbents` 保留为新进创业公司与现有巨头的补充寻源。投资机构可选 `tier`（`tier1` / `tier2` / `unlisted`），经营型公司可选 `founded` 与 `investment.rounds[]`（投资方记录在 `rounds[].investors[]`）；Tier 是有来源的编辑判断，不是官方排名，轮次与金额没有披露就留空。VC 寻源名单在 `data/lists/vcs.json`，已有玩家底表在 `data/lists/incumbents.json`；Skill 引用名单，名单不重复完整档案。
 3. **组织边界清晰**：新进身份相对于任务市场判断，不设固定成立年份或融资门槛。新进与已有两条寻源路径共用稳定 ID。集团、法人、团队、实验室及项目分清层级；成熟母平台不自动决定新单元身份。缺少 `organizational_context` 不表示已确认独立，前员工履历不证明母公司孵化或法律拆分。
    - 同一公司不按上海／苏州等办公地另建地区副本；地点、地区岗位与渠道适用范围写入主公司档案。地区研究与历史组织线索可用 `regional_notes[]` 保留独立来源和日期，不计为另一家公司。确有独立主体或不同业务／项目边界时才单独研究，不能按名称含地名机械合并。合并后的旧 ID 在 `data/lists/company-redirects.json` 路由，旧阅读链接仅生成跳转页，不复制公司 JSON。
 4. **来源与日期真实**：来源记录支持内容、公开日期和实际核查日期；未知日期用 `null`。编辑分类、合并和迁移不刷新旧事实日期。

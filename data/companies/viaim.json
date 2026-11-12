@@ -25,21 +25,57 @@
         "round": "Pre-A",
         "announced_on": "2025-01",
         "amount_text": null,
-        "investors": [],
-        "source_ids": [
-          "s08"
+        "investors": [
+          {
+            "name": "万物创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "初心资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s09"
+            ]
+          }
         ],
-        "notes": "36氪项目库记载2025年1月完成Pre-A轮，未披露金额与投资方。"
+        "source_ids": [
+          "s08",
+          "s09"
+        ],
+        "notes": "瑞财社2025-01-22报道：万物创投领投，初心资本跟投。"
       },
       {
         "round": "Pre-A+",
         "announced_on": "2025-04",
         "amount_text": null,
-        "investors": [],
-        "source_ids": [
-          "s08"
+        "investors": [
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "上海国投孚腾资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s10"
+            ]
+          }
         ],
-        "notes": "36氪项目库记载2025年4月完成Pre-A+轮，未披露金额与投资方。"
+        "source_ids": [
+          "s08",
+          "s10"
+        ],
+        "notes": "腾讯新闻（观点网）2025-04-22报道：启明创投与上海国投孚腾资本联合领投。"
       },
       {
         "round": "A",
@@ -100,7 +136,7 @@
     "other_email_purpose": "客户服务"
   },
   "notes": "未查到公开招聘邮箱，所列careersUrl为BOSS公司页而非公司官网招聘站。service@仅客服勿用于求职；不要与北京同名无人机公司混淆。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -168,6 +204,24 @@
       "supports": "融资历史与快讯：2025年1月、4月连续完成Pre-A轮、Pre-A+轮；A轮亿元级由蚂蚁集团领投、启明创投超额跟投；A+轮于2026-05-08完成，亿元级，传音参投并达成战略合作。",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "网易（瑞财社）：未来智能完成数千万元Pre-A轮融资，由万物创投领投",
+      "url": "https://www.163.com/dy/article/JMHDGL4K0553YQCC.html",
+      "supports": "Pre-A轮由万物创投领投，初心资本跟投。",
+      "published_date": "2025-01-22",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
+    },
+    {
+      "id": "s10",
+      "title": "腾讯新闻（观点网）：未来智能完成数千万元Pre-A+轮融资",
+      "url": "https://news.qq.com/rain/a/20250422A02TK900",
+      "supports": "Pre-A+轮由启明创投与上海国投孚腾资本联合领投。",
+      "published_date": "2025-04-22",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
     }
   ],
   "provenance": {

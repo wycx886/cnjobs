@@ -1,6 +1,6 @@
 ---
 name: compose-profile
-description: Research and fill a company dossier in the canonical data/companies/<id>.json record, separating operating-org fields from investment-firm fields. Use when composing or updating a company profile, fetching official logos for startups or investment firms, or preparing data for the generated dashboard. Never invent funding, tiers, portfolios, people, or URLs; HTML is generated from JSON.
+description: Research and fill a company dossier in the canonical data/companies/<id>.json record, separating operating-org fields from investment-firm fields. Use when composing or updating a company profile, fetching official logos for startups or investment firms, or preparing data for the generated dashboard. Never invent funding, tiers, people, or URLs; HTML is generated from JSON.
 ---
 
 # Compose Profile · 公司档案
@@ -45,8 +45,7 @@ description: Research and fill a company dossier in the canonical data/companies
 - `coverage`：覆盖角色（`role: "main"` / `"watchlist"` / `"adjacent"`）及纳入原因 `reason`。
 - `founded`：成立年份口径与依据。
 - `tier`（可选）：有来源的 Tier 编辑判断 `{ "level": "tier1" | "tier2" | "unlisted", "basis", "source_ids", "labelled_at" }`。至少交叉参考两份近年公开榜单或一份榜单加官网／权威报道；单份榜单不能定 Tier 1。写明榜单名称、年份或期次与链接；`group` 是组织成熟度，与 Tier 不是同一轴。
-- `portfolio`（可选）：投资组合条目 `company_name`、`company_id`（仅已有经营型档案时填写，否则 `null`）、`round`（按披露原文，可空）、`announced_on`（可空）、`role`（`lead` / `participant` / `undisclosed`）、`attribution`（`current_firm` / `prior_firm`）、`source_ids`、`notes`。参与不等于领投，IPO 不等于已退出。
-- `stage`：主要投资阶段（如早期、成长等）。
+- `stage`：主要投资阶段（如早期、成长等）。公司融资轮次与已披露投资方只记录在经营型公司档案的 `investment.rounds[].investors[]`（投资方 `firm_id` 可回指本机构），不在机构档案另建投资组合清单。
 - `representative_cases`：代表投资案例，严格区分原平台案例（`prior_firm`）与当前机构案例（`current_firm`）。
 - `recent_activity`：近期活跃度（投资、募资、退出或组织公告）。
 - `why_follow`：编辑跟进价值分析。

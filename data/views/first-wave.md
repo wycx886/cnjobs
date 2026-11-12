@@ -18,7 +18,7 @@
 
 | 机构 | 赛道 | 融资披露状态 | 原资料核查日 |
 | --- | --- | --- | --- |
-| [零一万物 01.AI](companies/01-ai.md) | 01 | 部分核验／口径有限 | 2026-11-11 |
+| [零一万物 01.AI](companies/01-ai.md) | 01 | 部分核验／口径有限 | 2026-11-12 |
 | [百川智能 Baichuan](companies/baichuan.md) | 01 | 已核验披露 | 2026-11-11 |
 | [深度求索 DeepSeek](companies/deepseek.md) | 01 | 未找到可靠披露 | 2026-11-11 |
 | [澜舟科技 Langboat](companies/langboat.md) | 01 | 已核验披露 | 2026-11-11 |
@@ -41,7 +41,7 @@
 | [清程极智 Qingcheng.AI](companies/qingcheng-ai.md) | 02 | 已核验披露 | 2026-11-11 |
 | [胜算云 SSYCloud](companies/shengsuanyun.md) | 02 | 部分核验／口径有限 | 2026-11-11 |
 | [硅基流动 SiliconFlow](companies/siliconflow.md) | 02 | 已核验披露 | 2026-11-11 |
-| [硅心科技 / aiXcoder](companies/aixcoder.md) | 03 | 部分核验／口径有限 | 2026-11-11 |
+| [硅心科技 / aiXcoder](companies/aixcoder.md) | 03 | 部分核验／口径有限 | 2026-11-12 |
 | [Dify / LangGenius](companies/dify.md) | 03 | 已核验披露 | 2026-11-11 |
 | [彩云科技](companies/caiyun.md) | 04 | 部分核验／口径有限 | 2026-11-11 |
 | [Flowith](companies/flowith.md) | 04 | 已核验披露 | 2026-11-11 |
@@ -63,27 +63,27 @@
 | [黑湖科技](companies/blacklake.md) | 06 | 已核验披露 | 2026-11-11 |
 | [弘玑 Cyclone](companies/cyclone.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [滴普科技 / Deepexi](companies/deepexi.md) | 06 | 已核验披露 | 2026-11-11 |
-| [来也科技 / Laiye](companies/laiye.md) | 06 | 已核验披露 | 2026-11-11 |
+| [来也科技 / Laiye](companies/laiye.md) | 06 | 已核验披露 | 2026-11-12 |
 | [幂律智能 / PowerLaw AI](companies/powerlaw.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [循环智能 / Recurrent AI](companies/recurrent-ai.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
-| [森亿智能](companies/synyi.md) | 06 | 已核验披露 | 2026-11-11 |
+| [森亿智能](companies/synyi.md) | 06 | 已核验披露 | 2026-11-12 |
 | [联影智能](companies/uii.md) | 06 | 已核验披露 | 2026-11-11 |
 | [西井科技](companies/westwell.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [影刀 / 杭州分叉智能](companies/yingdao.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [极睿科技 / Infimind](companies/infimind.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [筷子科技 / Kuaizi](companies/kuaizi.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [乐言科技](companies/leyan.md) | 07 | 已核验披露 | 2026-11-11 |
-| [快牛智营 / QuickCEP](companies/quickcep.md) | 07 | 已核验披露 | 2026-11-11 |
+| [快牛智营 / QuickCEP](companies/quickcep.md) | 07 | 已核验披露 | 2026-11-12 |
 | [Shulex / 杭州数里行间科技有限公司](companies/shulex.md) | 07 | 已核验披露 | 2026-11-11 |
 | [特看科技 / Tabcut](companies/tabcut.md) | 07 | 已核验披露 | 2026-11-11 |
 | [钛动科技 / Tec-Do](companies/tec-do.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [晓多科技 / Xiaoduo AI](companies/xiaoduo.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [智元机器人](companies/agibot.md) | 08 | 已核验披露 | 2026-11-11 |
 | [苏州艾利特机器人](companies/elite-robots.md) | 08 | 已核验披露 | 2026-11-11 |
-| [非夕科技](companies/flexiv.md) | 08 | 已核验披露 | 2026-11-11 |
+| [非夕科技](companies/flexiv.md) | 08 | 已核验披露 | 2026-11-12 |
 | [傅利叶](companies/fourier.md) | 08 | 已核验披露 | 2026-11-11 |
-| [星海图](companies/galaxea.md) | 08 | 已核验披露 | 2026-11-11 |
-| [银河通用](companies/galbot.md) | 08 | 已核验披露 | 2026-11-11 |
+| [星海图](companies/galaxea.md) | 08 | 已核验披露 | 2026-11-12 |
+| [银河通用](companies/galbot.md) | 08 | 已核验披露 | 2026-11-12 |
 | [高仙机器人](companies/gaussian-robotics.md) | 08 | 已核验披露 | 2026-11-11 |
 | [智己汽车](companies/im-motors.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [图达通](companies/innovusion.md) | 08 | 已核验披露 | 2026-11-11 |
@@ -94,7 +94,7 @@
 | [微创机器人](companies/microport-medbot.md) | 08 | 已核验披露 | 2026-11-11 |
 | [穹彻智能](companies/noematrix.md) | 08 | 已核验披露 | 2026-11-11 |
 | [快仓智能](companies/quicktron.md) | 08 | 已核验披露 | 2026-11-11 |
-| [星动纪元](companies/robotera.md) | 08 | 已核验披露 | 2026-11-11 |
+| [星动纪元](companies/robotera.md) | 08 | 已核验披露 | 2026-11-12 |
 | [千寻智能](companies/spirit-ai.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [它石智航](companies/tars.md) | 08 | 已核验披露 | 2026-11-11 |
 | [友道智途](companies/udit.md) | 08 | 未找到可靠披露 | 2026-11-11 |
@@ -105,7 +105,7 @@
 | [极壳科技 Hypershell](companies/hypershell.md) | 09 | 已核验披露 | 2026-11-11 |
 | [Plaud / 机智连接](companies/plaud.md) | 09 | 部分核验／口径有限 | 2026-10-30 |
 | [闪极科技 SHARGE](companies/sharge.md) | 09 | 已核验披露 | 2026-11-11 |
-| [未来智能 viaim](companies/viaim.md) | 09 | 部分核验／口径有限 | 2026-11-11 |
+| [未来智能 viaim](companies/viaim.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
 | [Anew Labs 新生实验室](companies/anew-labs.md) | 10 | 部分核验／口径有限 | 2026-11-11 |
 | [百图生科 BioMap](companies/biomap.md) | 10 | 部分核验／口径有限 | 2026-11-11 |
 | [深势科技](companies/dp-technology.md) | 10 | 已核验披露 | 2026-11-11 |

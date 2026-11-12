@@ -26,11 +26,109 @@
         "round": "战略轮",
         "announced_on": "2026-03",
         "amount_text": "10亿元",
-        "investors": [],
-        "source_ids": [
-          "s08"
+        "investors": [
+          {
+            "name": "三星",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "高成投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "新加坡电信",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "友利资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中金保时捷",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "峰和资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "锡创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "广发乾和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "鸿瑞集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "鼎晖VGC",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "清控天诚",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s10"
+            ]
+          }
         ],
-        "notes": "福布斯中国称2026年3月完成10亿元人民币战略轮，未列投资方。"
+        "source_ids": [
+          "s08",
+          "s10"
+        ],
+        "notes": "新浪财经/封面新闻报道：三星、高成投资、新加坡电信、友利资本、中金保时捷、中芯聚源、峰和资本、锡创投、广发乾和、鸿瑞集团等新机构联合投资，鼎晖VGC、清控天诚等老股东超额追加；原文称“等等”，仅列点名机构。"
       },
       {
         "round": "新一轮",
@@ -177,7 +275,7 @@
     "other_email_purpose": "商务"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -257,6 +355,15 @@
       "supports": "2026-04-27 完成2亿美元新一轮：顺丰集团领投，红杉中国、IDG资本、中金资本、京铭资本、朝希资本、鲁信创投、聚合资本、隆启投资联合注资；科捷智能、东风产投、工银资本、联通旗下基金参与。",
       "published_date": "2026-04-27",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "新浪财经（封面新闻）：星动纪元完成10亿元战略轮融资，估值破百亿",
+      "url": "http://cj.sina.com.cn/articles/view/1496814565/593793e502001yhl2",
+      "supports": "2026年3月战略轮投资方名单及新老股东角色。",
+      "published_date": "2026-03-05",
+      "checked_at": "2026-11-12",
+      "scope": "organization"
     }
   ],
   "provenance": {

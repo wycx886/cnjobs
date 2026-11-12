@@ -14,7 +14,7 @@ description: Discover and verify new entrants for a specified market, including 
 先确认研究的是集团、法人、基金管理机构、具体业务团队、实验室还是项目。新进相对于所选市场判断，不用固定成立年份、上市、有无外部融资一个条件决定：
 
 - **创业公司**：经营型新进玩家（`operating_organization` 且 `player_group: "new_entrant"`），在看板展示于“创业公司”。
-- **金融机构（仅作补充线索）**：新 GP 团队、独立新投资机构也是机构目标，原团队案例和当前机构业绩分开。投资机构（`organization_type: "investment_firm"`）在看板中统一展示于“**金融机构**”，不归入创业公司或现有巨头；正式金融机构寻源入口是 [find-investors](../find-investors/SKILL.md)。本 Skill 在发现创业公司时可顺带识别新 GP 团队作为补充线索，但机构圈定、Tier、logo 与 portfolio 交给该 Skill。
+- **金融机构（仅作补充线索）**：新 GP 团队、独立新投资机构也是机构目标，原团队案例和当前机构业绩分开。投资机构（`organization_type: "investment_firm"`）在看板中统一展示于“**金融机构**”，不归入创业公司或现有巨头；正式金融机构寻源入口是 [find-investors](../find-investors/SKILL.md)。本 Skill 在发现创业公司时可顺带识别新 GP 团队作为补充线索，但机构圈定、Tier 与 logo 交给该 Skill。
 
 若任务主要寻找成熟平台、既有供应商或行业运营商，转用 [find-incumbents](../find-incumbents/SKILL.md)。成熟母公司不自动决定旗下新单元的归类；对有明确新目标与活动证据的孵化团队或拆分项目，本 Skill 可继续判断，不能把每个部门或产品都算成新创业机构。
 
@@ -43,7 +43,7 @@ description: Discover and verify new entrants for a specified market, including 
 
 ## 4. 适配本仓库
 
-先读 `data/index.json`、`data/views/first-wave.md` 和 [数据模型](../../data/README.md)。完整记录统一保存在 `data/companies/`，经营型与投资机构由 `organization_type` 区分。金融机构的正式圈定、Tier 与 portfolio 寻源见 [find-investors](../find-investors/SKILL.md)；本 Skill 仍可读取 `data/lists/vcs.json`，按 `company_id` 关联完整档案和来源，沿公开投资组合及融资公告发现候选。同时参考 `data/lists/incumbents.json` 查找大厂新孵化或拆分单元。参考名单属于数据，不在 Skill 中维护第二份名单。
+先读 `data/index.json`、`data/views/first-wave.md` 和 [数据模型](../../data/README.md)。完整记录统一保存在 `data/companies/`，经营型与投资机构由 `organization_type` 区分。金融机构的正式圈定与 Tier 见 [find-investors](../find-investors/SKILL.md)；本 Skill 仍可读取 `data/lists/vcs.json`，按 `company_id` 关联完整档案和来源，沿公开融资公告与已披露投资方发现候选。同时参考 `data/lists/incumbents.json` 查找大厂新孵化或拆分单元。参考名单属于数据，不在 Skill 中维护第二份名单。
 
 ```bash
 python3 tools/query.py --entity organizations --wave first

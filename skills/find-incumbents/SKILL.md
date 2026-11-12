@@ -15,7 +15,7 @@ description: Discover and verify established players in a specified market, incl
 
 按 Tier 1 机构分类分清边界：
 - **现有巨头**：经营型已有玩家（`operating_organization` 且 `player_group: "incumbent"`），在看板展示于“现有巨头”。
-- **金融机构（仅作补充线索）**：成熟投资机构（管理机构、成熟 VC 等）也是研究对象。投资机构（`organization_type: "investment_firm"`）在看板中展示于“**金融机构**”，不归入现有巨头；正式金融机构寻源入口是 [find-investors](../find-investors/SKILL.md)。本 Skill 可在研究现有生态时把成熟基金作为补充线索，但机构圈定、Tier、logo 与 portfolio 交给该 Skill。
+- **金融机构（仅作补充线索）**：成熟投资机构（管理机构、成熟 VC 等）也是研究对象。投资机构（`organization_type: "investment_firm"`）在看板中展示于“**金融机构**”，不归入现有巨头；正式金融机构寻源入口是 [find-investors](../find-investors/SKILL.md)。本 Skill 可在研究现有生态时把成熟基金作为补充线索，但机构圈定、Tier 与 logo 交给该 Skill。
 
 ## 2. 按产业角色扩展候选池
 
@@ -57,7 +57,7 @@ description: Discover and verify established players in a specified market, incl
 
 方法通用，输出契约由项目决定。本仓库的中国 AI 示例见 [可选附录](references/china-example.md)，第三方研究方法比较见 [方法说明](references/research-methods.md)。
 
-在本仓库内，先读取 `data/lists/incumbents.json`、`data/views/incumbents.md` 和 `data/index.json`。成熟基金的正式寻源、Tier 与 portfolio 见 [find-investors](../find-investors/SKILL.md)；本 Skill 仍可读取 `data/lists/vcs.json`，按完整档案的类型与已有玩家标记筛选补充线索。两个名单是共用数据；正式档案及来源统一在 `data/companies/`。平台底表是发现线索；底表不自动成为目标、母公司或“AI头部”证明。缺少主题证据不是证实没有相关业务。
+在本仓库内，先读取 `data/lists/incumbents.json`、`data/views/incumbents.md` 和 `data/index.json`。成熟基金的正式寻源与 Tier 见 [find-investors](../find-investors/SKILL.md)；本 Skill 仍可读取 `data/lists/vcs.json`，按完整档案的类型与已有玩家标记筛选补充线索。两个名单是共用数据；正式档案及来源统一在 `data/companies/`。平台底表是发现线索；底表不自动成为目标、母公司或“AI头部”证明。缺少主题证据不是证实没有相关业务。
 
 ```bash
 python3 tools/query_lists.py --sector hardware

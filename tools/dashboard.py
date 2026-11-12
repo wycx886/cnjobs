@@ -443,6 +443,18 @@ a.pill:hover{border-color:var(--ink);color:var(--ink)}
 .p-cases{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:15px 0 0}
 .p-cases .p-case-label{font-size:9.5px;letter-spacing:.16em;color:var(--hero-muted);margin-right:2px}
 .p-case{border:1px solid rgba(242,238,228,.2);border-left:2px solid var(--accent);padding:2px 9px;font-size:11px;color:rgba(242,238,228,.86)}
+.p-investors{margin:22px 0 0;padding-top:16px;border-top:1px solid var(--hero-line);max-width:62em}
+.pi-head{font-size:9.5px;letter-spacing:.18em;color:var(--hero-muted);margin:0 0 10px}
+.pi-list{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 22px}
+.pi-item{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px;min-width:0;font-size:12.5px;line-height:1.6;color:rgba(242,238,228,.88)}
+.pi-name{overflow-wrap:anywhere}
+.pi-link{font:inherit;color:rgba(242,238,228,.88);background:none;border:0;border-bottom:1px solid rgba(242,238,228,.28);padding:0 0 1px;cursor:pointer;text-align:left;overflow-wrap:anywhere}
+.pi-link:hover{color:#fff;border-bottom-color:var(--accent)}
+.pi-link:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.pi-rounds{display:inline-flex;flex-wrap:wrap;gap:4px 8px}
+.pi-round{font-size:10px;letter-spacing:.04em;color:var(--hero-muted)}
+.pi-round.is-lead{color:var(--jade);font-weight:600}
+.pi-note{margin:8px 0 0;font-size:9.5px;letter-spacing:.04em;color:rgba(242,238,228,.45)}
 .p-hero.is-investor .p-focus p{font-size:14.5px}
 .p-hero.is-investor .p-links{margin-top:20px}
 .p-sub{margin-top:26px;border-top:1px solid var(--line-soft);padding-top:14px}
@@ -622,6 +634,8 @@ footer a:hover{color:var(--accent-2)}
   .p-facts .p-fact{white-space:normal}
   .p-facts .p-fact+.p-fact::before{display:none}
   .p-facts{display:grid;gap:4px}
+  .pi-list{display:grid;gap:7px}
+  .pi-item{font-size:12px}
   .profile-shell{padding-top:32px}
   .opp-row{grid-template-columns:112px minmax(0,1fr) auto;gap:12px}
   .people-grid{grid-template-columns:minmax(0,1fr)}
@@ -1758,7 +1772,7 @@ footer a:hover{color:var(--accent-2)}
   function resultLine(rows) {
     if (state.cls === "investors") {
       var withCases = rows.filter(function (org) {
-        return (org.record.representative_cases || []).length || (org.record.portfolio || []).length;
+        return (org.record.representative_cases || []).length;
       }).length;
       var withEntry = rows.filter(function (org) { return (org.record.channels || []).length; }).length;
       return "共 " + rows.length + " 家机构 · 已记录案例 " + withCases + " · 有公开入口 " + withEntry;
@@ -1906,6 +1920,68 @@ footer a:hover{color:var(--accent-2)}
     return { lead: "领投", participant: "参与", undisclosed: "角色未披露" }[role] || "角色未披露";
   }
 
+  function roundLabel(value) {
+    var text = String(value || "").trim();
+    if (!text) return "";
+    if (/轮|上市|融资|IPO|首轮/.test(text)) return text;
+    return text + "轮";
+  }
+
+  function investorsBlock(org) {
+    if (org.class !== "startups" && org.class !== "incumbents") return "";
+    var record = org.record;
+    var rounds = (record.investment || {}).rounds || [];
+    var order = [];
+    var byFirm = {};
+    var byName = {};
+
+    function entryFor(name, firm) {
+      if (firm && byFirm[firm]) return byFirm[firm];
+      if (byName[name]) {
+        var known = byName[name];
+        if (!known.firm && firm) {
+          known.firm = firm;
+          byFirm[firm] = known;
+        }
+        return known;
+      }
+      var entry = { name: name, firm: firm || null, seen: {}, rounds: [] };
+      if (firm) byFirm[firm] = entry;
+      byName[name] = entry;
+      order.push(entry);
+      return entry;
+    }
+
+    rounds.forEach(function (round) {
+      if (!round) return;
+      var label = roundLabel(round.round);
+      (round.investors || []).forEach(function (investor) {
+        var name = String((investor && investor.name) || "").trim();
+        if (!name) return;
+        var entry = entryFor(name, investor.firm_id || null);
+        var role = investor.role || "undisclosed";
+        var key = label + "|" + role;
+        if (entry.seen[key]) return;
+        entry.seen[key] = true;
+        entry.rounds.push({ label: label, role: role });
+      });
+    });
+    if (!order.length) return "";
+    var items = order.map(function (item) {
+      var nameHtml = item.firm && BY_ID.has(item.firm)
+        ? '<button type="button" class="pi-link" data-open="' + esc(item.firm) + '">' + esc(item.name) + "</button>"
+        : '<span class="pi-name">' + esc(item.name) + "</span>";
+      var roles = item.rounds.map(function (part) {
+        var text = part.label + (part.role === "undisclosed" ? "" : " " + roleLabel(part.role));
+        return '<span class="pi-round' + (part.role === "lead" ? " is-lead" : "") + '">' + esc(text) + "</span>";
+      }).join("");
+      return '<li class="pi-item">' + nameHtml + '<span class="pi-rounds">' + roles + "</span></li>";
+    }).join("");
+    return '<div class="p-investors" role="group" aria-label="投资方">' +
+      '<p class="pi-head">投资方</p><ul class="pi-list">' + items + "</ul>" +
+      '<p class="pi-note">按首次披露轮次排序；参与不等于主导。</p></div>';
+  }
+
   function stageText(value) {
     if (!value) return "";
     return shorten(String(value).replace(/\s+/g, " ").replace(/。$/, "").trim(), 24);
@@ -2019,12 +2095,7 @@ footer a:hover{color:var(--accent-2)}
       else current.push(item.company);
     });
     var names = current.concat(prior).slice(0, 3);
-    if (names.length) {
-      return { names: names, label: "代表案例", title: "仅为档案已记录案例，不是完整投资组合" };
-    }
-    var portfolio = record.portfolio || [];
-    names = portfolio.map(function (item) { return item.company_name; }).filter(Boolean).slice(0, 3);
-    return { names: names, label: "已记录组合", title: "仅为已记录条目，不是完整投资组合" };
+    return { names: names, label: "代表案例", title: "仅为档案已记录案例，不是完整投资组合" };
   }
 
   function investorFacts(record) {
@@ -2235,26 +2306,6 @@ footer a:hover{color:var(--accent-2)}
       }).join("") + "</ul></div>";
   }
 
-  function portfolioBlock(record) {
-    var items = record.portfolio || [];
-    if (!items.length) return "";
-    return '<div class="p-sub"><h3>已记录组合（' + items.length + '）</h3><ul class="case-list">' +
-      items.map(function (item) {
-        var known = item.company_id ? BY_ID.get(item.company_id) : null;
-        var name = known
-          ? '<button type="button" class="linklike" data-open="' + esc(item.company_id) + '">' + esc(item.company_name) + "</button>"
-          : esc(item.company_name);
-        var bits = [];
-        if (item.round) bits.push(item.round);
-        if (item.announced_on) bits.push(item.announced_on);
-        if (item.role) bits.push(roleLabel(item.role));
-        return '<li><div class="case-top"><strong>' + name + "</strong>" +
-          (bits.length ? '<span class="case-meta">' + esc(bits.join(" · ")) + "</span>" : "") + "</div>" +
-          '<p class="case-src">' + sourceLinks(record, item.source_ids) + "</p></li>";
-      }).join("") + "</ul>" +
-      '<p class="section-note">仅为已记录条目，不是完整投资组合；金额未披露时不补数字。</p></div>';
-  }
-
   function investmentSection(record) {
     var out = '<section class="p-section" id="d-investment" aria-labelledby="investment-title">';
     out += secHead("find-investors", "投资方向与阶段", "案例仅为有出处的历史披露；参与不等于主导", "investment-title");
@@ -2264,7 +2315,6 @@ footer a:hover{color:var(--accent-2)}
     out += '<p class="kv"><span>研究位置</span>' + esc(label(L.coverage_roles, coverage.role) || "未记录") +
       "；" + esc(coverage.reason || "范围未记录") + "</p>";
     out += casesBlock(record, "代表案例");
-    out += portfolioBlock(record);
     if (record.recent_activity) out += '<p class="kv"><span>近期活动</span>' + esc(record.recent_activity) + "</p>";
     out += '<p class="section-note">代表案例为档案已记录条目，不是完整投资组合；上市案例不据此推断已退出或回报。</p>';
     out += "</section>";
@@ -2382,6 +2432,7 @@ footer a:hover{color:var(--accent-2)}
     out += profileLead(org);
     out += profileLinks(org);
     out += profileMeta(org);
+    out += investorsBlock(org);
     return out;
   }
 

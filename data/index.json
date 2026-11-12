@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
-  "latest_checked_at": "2026-11-11",
-  "latest_operating_check": "2026-11-11",
+  "latest_checked_at": "2026-11-12",
+  "latest_operating_check": "2026-11-12",
   "latest_investment_firm_check": "2026-11-11",
   "counts": {
     "organizations": 245,
@@ -16,7 +16,7 @@
     "operating_organizations": {
       "organizations": 198,
       "categories": 10,
-      "source_records": 1451,
+      "source_records": 1473,
       "recruitment_links": 129,
       "public_recruitment_emails": 42
     },
@@ -1794,7 +1794,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "产业模型与企业决策AI",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2048,7 +2048,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "企业级 AI 软件研发",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3222,7 +3222,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "自适应力控机器人与灵巧手，具身智能精密装配",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3302,7 +3302,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "整机、具身基础模型与开发平台",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3358,7 +3358,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用具身模型与机器人在零售、工业场景的部署",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4640,7 +4640,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "智能自动化、智能文档与数字员工",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5675,7 +5675,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全球消费者互动与客服/语音 Agent",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5760,7 +5760,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全栈人形机器人、灵巧手与具身模型",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6355,7 +6355,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "医疗AI：临床数据平台与医疗大模型",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6968,7 +6968,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI办公耳机、录音转写及会议智能",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",

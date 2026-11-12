@@ -12,7 +12,7 @@
 | --- | --- |
 | `data/companies/*.json` | 所有完整公司／机构档案，包括经营型机构、投资机构及单列的研究单元 |
 | `data/taxonomy.json` | 经营型机构赛道的编辑分类定义 |
-| `data/lists/vcs.json` | 沿投资组合与投资公告寻找新机构的参考名单；引用 `companies/` 的稳定 ID 与来源，不复制完整档案 |
+| `data/lists/vcs.json` | 用于发现新机构与投资线索的参考名单；引用 `companies/` 的稳定 ID 与来源，不复制完整档案 |
 | `data/lists/incumbents.json` | 当前中国 AI 的已有玩家／母平台寻源底表、行业标签与主题证据；不计入正式机构目标 |
 | `data/index.json` | 唯一自动生成的机器索引，schema version 4；`organizations` 同时收录经营型机构和投资机构 |
 | `data/views/first-wave.md` | 自动生成的第一波与观察候选阅读版 |
@@ -47,7 +47,7 @@
 看板第一层为 Tier 1 机构分类：
 1. **创业公司**：经营型新进玩家（`organization_type: "operating_organization"`，`player_group: "new_entrant"`），寻源入口为 [find-startups](../skills/find-startups/SKILL.md)。
 2. **现有巨头**：经营型已有玩家（`organization_type: "operating_organization"`，`player_group: "incumbent"`），寻源入口为 [find-incumbents](../skills/find-incumbents/SKILL.md)。
-3. **金融机构**：投资机构（`organization_type: "investment_firm"`）。在看板中独立展示于“金融机构”顶层分区，不混入创业公司或现有巨头；**没有 `category_id`**（01–10 赛道仅适用于经营型机构），按自身既有字段（`group`、`coverage`、`stage`）组织。寻源入口为 [find-investors](../skills/find-investors/SKILL.md)：先圈定 Tier 1／Tier 2 的 VC、PE 等机构，再沿 `portfolio[]` 发现公司；前两个 Skill 保留为补充寻源。
+3. **金融机构**：投资机构（`organization_type: "investment_firm"`）。在看板中独立展示于“金融机构”顶层分区，不混入创业公司或现有巨头；**没有 `category_id`**（01–10 赛道仅适用于经营型机构），按自身既有字段（`group`、`coverage`、`stage`）组织。寻源入口为 [find-investors](../skills/find-investors/SKILL.md)：先圈定 Tier 1／Tier 2 的 VC、PE 等机构，打 Tier 并收 logo；公司的融资轮次与已披露投资方记录在各公司档案的 `investment.rounds[].investors[]`；前两个 Skill 保留为补充寻源。
 
 新进不是固定年份阈值，也不由上市状态或 VC 融资单独判断；成熟机构品牌变化不自动成为新进机构。
 
@@ -80,7 +80,6 @@
 | `organizational_context` | 经营型记录可选的组织形式、母平台关系及核验信息；缺失不表示独立 |
 | `founded` | 机构成立口径：`year` 与 `basis`；经营型公司可选，投资机构沿用既有必填口径 |
 | `tier` | 投资机构可选 Tier 编辑判断：`tier1` / `tier2` / `unlisted`，含依据、来源与打标日期；不是官方或收益排名 |
-| `portfolio` | 投资机构可选投资组合条目，区分当前机构与原平台，并记录轮次、披露日期、角色与来源 |
 | `people` | 所有机构的公开人物身份、职务、背景、原平台、身份来源与日期及 `profiles`；原 VC `team` 已迁入此处 |
 | `representative_cases` | 投资机构案例；`prior_firm` 与 `current_firm` 归因分开 |
 | `contacts` | 既有公开入口，保留用途与备注，兼容旧消费者 |
@@ -105,7 +104,7 @@
 
 自筹、众筹、创始人支持、产业收购、国资或战略融资等限定逐条保留，不能统一标成 VC-backed。投资机构的完整字段与案例边界见 [VC 方法](../skills/find-startups/references/investment-cases.md)。
 
-## Tier、Portfolio、融资轮次与 Logo
+## Tier、融资轮次与 Logo
 
 ### 投资机构 Tier
 
@@ -120,21 +119,9 @@
 
 Tier 1 至少需要两份近年公开榜单交叉支持，或一份榜单加机构官网／权威报道；单份榜单不能单独定 Tier 1。优先实际访问清科中国股权投资年度排名、投中（ChinaVenture）年榜及其他可公开访问的年度机构榜，行业媒体盘点只作辅证；访问失败就保留未打档。禁止把整份受版权保护的榜单正文抄进仓库，只记录本库用到的机构、出现榜单与链接。方法见 [find-investors](../skills/find-investors/SKILL.md)。
 
-### Portfolio 与公司融资轮次
+### 公司融资轮次与投资方
 
-投资机构可选 `portfolio[]`；经营型公司可选 `investment.rounds[]`。两处可以互链（`portfolio[].company_id` 对应公司稳定 ID，`rounds[].investors[].firm_id` 对应投资机构稳定 ID），但不重复编造同一事实。
-
-`portfolio[]` 每条：
-| 字段 | 含义 |
-| --- | --- |
-| `company_name` | 披露中的公司名称，必填 |
-| `company_id` | 本仓库已有经营型档案的稳定 ID；没有就填 `null`，不新建空壳 |
-| `round` | 按披露原文记录轮次名称（如 `Pre-A` / `B2`），不擅自规范成统一枚举；未披露填 `null` |
-| `announced_on` | 披露日期，可为年、年月或年月日；未披露填 `null` |
-| `role` | `lead`、`participant` 或 `undisclosed`；参与不等于领投 |
-| `attribution` | `current_firm` 或 `prior_firm`；原平台案例不能算当前机构业绩 |
-| `source_ids` | 本机构记录中的机构级来源，至少 1 个 |
-| `notes` | 口径限制，如“官网列表非完整组合”、IPO 不等于已退出 |
+经营型公司可选 `investment.rounds[]`，公司与投资方的关系只记录在公司侧，不在投资机构档案另建投资组合清单。`rounds[].investors[].firm_id` 对应投资机构稳定 ID，仅在本仓库已有该机构档案时填写；参与不等于领投，IPO 不等于已退出。
 
 `investment.rounds[]` 每条记录 `round`、`announced_on`、`amount_text`、`investors[]`、`source_ids`、`notes`。`amount_text` 只在来源明确披露金额时保留原文（如「3000万美元」），不拆成自行换算的数字字段；`investors[]` 的 `name` 为披露名称，`firm_id` 仅在本仓库已有投资机构档案时填写，`role` 与 `source_ids` 同样按披露记录。没有可靠披露就不建 `rounds`，也不补造轮次、金额或投资方。
 
