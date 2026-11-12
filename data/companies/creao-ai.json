@@ -43,7 +43,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://creao.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -59,6 +59,15 @@
       "supports": "天使轮金额、独家投资方与业务方向",
       "published_date": "2025-08-01",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Creao AI 官网首页",
+      "url": "https://creao.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -77,6 +86,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-2e78d2cc497797d1",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://creao.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Creao AI",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

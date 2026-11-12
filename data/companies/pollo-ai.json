@@ -50,7 +50,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://pollo.ai",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -66,6 +66,15 @@
       "supports": "种子轮金额、投资方、产品与经营数据、创始人",
       "published_date": "2025-12-09",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Pollo AI 官网首页",
+      "url": "https://pollo.ai",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -84,6 +93,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-94817cb67a48e9d6",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://pollo.ai",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Pollo AI",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

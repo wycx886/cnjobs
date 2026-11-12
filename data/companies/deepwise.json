@@ -75,6 +75,15 @@
       "supports": "官网产品线、办公地址、联系邮箱与乔昕联合创始人/CEO身份",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "深睿医疗 官网首页",
+      "url": "https://www.deepwise.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -94,7 +103,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-1c00625c790fb20a",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.deepwise.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "深睿医疗",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "乔昕",

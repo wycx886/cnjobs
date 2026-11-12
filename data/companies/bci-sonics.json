@@ -61,7 +61,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.bcisonics.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -77,6 +77,15 @@
       "supports": "天使系列融资领投方、公司成立时间、创始人与技术路线",
       "published_date": "2026-06-13",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "华超神控（BCI-Sonics） 官网首页",
+      "url": "https://www.bcisonics.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -95,7 +104,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-4d26e38f77b320ef",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.bcisonics.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "华超神控（BCI-Sonics）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2025,

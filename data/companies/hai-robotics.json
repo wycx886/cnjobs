@@ -60,7 +60,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.hairobotics.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -76,6 +76,15 @@
       "supports": "B 轮领投与跟投方、公司成立时间、创始人与产品",
       "published_date": "2020-09-02",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "海柔创新 官网首页",
+      "url": "https://www.hairobotics.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -94,7 +103,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-cb206fa8f0bbe01d",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.hairobotics.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "海柔创新",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2016,

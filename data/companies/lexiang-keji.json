@@ -72,7 +72,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.zeroth0.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -88,6 +88,15 @@
       "supports": "天使++轮金额与投资方、真格天使投资时间、产品与团队",
       "published_date": "2025-09-28",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "乐享科技 官网首页",
+      "url": "https://www.zeroth0.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -106,7 +115,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-1535760d5954582b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.zeroth0.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "乐享科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2024,

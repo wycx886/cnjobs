@@ -101,7 +101,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://physis-ai.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -117,6 +117,15 @@
       "supports": "种子++轮金额与投资方、公司定位、创始人与产品发布",
       "published_date": "2026-06-17",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "逆矩阵科技（Physis） 官网首页",
+      "url": "https://physis-ai.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -135,6 +144,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-f3cb0feb108747ba",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://physis-ai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "逆矩阵科技（Physis）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

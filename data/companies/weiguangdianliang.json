@@ -62,7 +62,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://wgdl.tech",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -78,6 +78,15 @@
       "supports": "2024 年成立于深圳、AI Agent 智能硬件（AI 化妆镜）定位、2026-03 A 轮投资方名单、核心团队名单",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "薇光点亮 官网首页",
+      "url": "https://wgdl.tech",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -96,7 +105,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-51e80e280e4ab315",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://wgdl.tech",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "薇光点亮",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "宋紫薇",

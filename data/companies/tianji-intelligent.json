@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-807e38ff71796166",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.tianjizn.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "天机智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://www.tianjizn.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -118,6 +137,15 @@
       "supports": "融资轮次与金额、领投与跟投方、成立时间与总部、产品定位",
       "published_date": "2026-05-25",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "天机智能 官网首页",
+      "url": "https://www.tianjizn.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

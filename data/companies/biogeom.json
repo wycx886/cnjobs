@@ -109,6 +109,15 @@
       "supports": "本轮披露日期（2026-10-28）、轮次、金额与投资方名单",
       "published_date": "2026-10-28",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "百奥几何 / BioGeometry 官网首页",
+      "url": "https://www.biogeom.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -128,7 +137,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-1dde2e57126ae262",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.biogeom.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "百奥几何 / BioGeometry",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2021,

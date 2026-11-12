@@ -77,7 +77,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.evenrealities.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -101,6 +101,15 @@
       "supports": "本轮披露日期（2024-12-11）、轮次、金额与投资方名单",
       "published_date": "2024-12-11",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "逸文科技 / Even Realities 官网首页",
+      "url": "https://www.evenrealities.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -120,7 +129,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-7e658f50a24c8532",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.evenrealities.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "逸文科技 / Even Realities",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2023,

@@ -75,7 +75,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.encosmart.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -91,6 +91,15 @@
       "supports": "天使轮金额、投资方、公司成立时间与创始人",
       "published_date": "2023-04-11",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "享刻智能 官网首页",
+      "url": "https://www.encosmart.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -109,7 +118,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-b1a791bf53ac36e6",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.encosmart.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "享刻智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2022,

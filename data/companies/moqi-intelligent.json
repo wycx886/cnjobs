@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-9d9dda197cd2b4cf",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.morphi.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "墨奇智能 / Morphi",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://www.morphi.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -158,6 +177,15 @@
       "supports": "公司成立时间、融资轮次与金额、投资方名单、两位创始人职务与履历",
       "published_date": "2026-07-06",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "墨奇智能 / Morphi 官网首页",
+      "url": "https://www.morphi.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

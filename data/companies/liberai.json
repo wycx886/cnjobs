@@ -213,7 +213,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.liberai.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -245,6 +245,15 @@
       "supports": "轮次、金额、披露日期与投资方名单",
       "published_date": "2026-09-17",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "LiberAI（将闲科技） 官网首页",
+      "url": "https://www.liberai.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -263,7 +272,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-9008a6d17c5deb0f",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.liberai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "LiberAI（将闲科技）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2025,

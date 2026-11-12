@@ -150,6 +150,15 @@
       "supports": "2026-07-23 C 轮 15 亿元，投资方含金浦投资",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "智象未来 官网首页",
+      "url": "https://www.hidreamai.com",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -169,7 +178,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-7afafd23ba1c1656",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.hidreamai.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "智象未来",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2023,

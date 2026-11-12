@@ -11,7 +11,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-82a75f03fc612311",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://dealism.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Dealism",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
     "website": "https://dealism.ai/",
     "careers_url": null,
@@ -104,6 +123,15 @@
       "supports": "融资轮次与金额、领投方",
       "published_date": "2025-11-14",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Dealism 官网首页",
+      "url": "https://dealism.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

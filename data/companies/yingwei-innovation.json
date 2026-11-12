@@ -152,7 +152,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.ai-imvision.cn/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -192,6 +192,15 @@
       "supports": "2026-03-06 A 轮，投资方含招银国际资本",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "影微创新 官网首页",
+      "url": "https://www.ai-imvision.cn/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -211,7 +220,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-cdcd60e57ddddbbf",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.ai-imvision.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "影微创新",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2024,

@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-d6dd9e3f06abdc7b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.kargo-bot.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "卡尔动力 KargoBot",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://www.kargo-bot.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -106,6 +125,15 @@
       "supports": "融资轮次、金额、领投与参投方、业务与技术路线、CEO身份",
       "published_date": "2026-03-02",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "卡尔动力 KargoBot 官网首页",
+      "url": "https://www.kargo-bot.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

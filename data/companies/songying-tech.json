@@ -109,7 +109,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.orca3d.cn/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -133,6 +133,15 @@
       "supports": "2026-08-28 A+ 轮数亿元，投资方含中金资本等",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "松应科技 官网首页",
+      "url": "https://www.orca3d.cn/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -152,7 +161,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-50a6be99cbfd6cf7",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.orca3d.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "松应科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2021,

@@ -102,13 +102,13 @@
     ]
   },
   "contacts": {
-    "website": "https://www.vipioneers.com",
+    "website": "http://www.waytous.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "官网未列出公开招聘邮箱"
   },
-  "notes": "工商主体为中科慧拓（湖北）科技有限公司，公司页记成立时间 2014-11-07、注册地湖北武汉。国新基金对 B 轮的参与来自清科数据机构页的出手记录，未取得公司公告，故该条按 partial 记录。",
+  "notes": "工商主体为中科慧拓（湖北）科技有限公司，公司页记成立时间 2014-11-07、注册地湖北武汉。国新基金对 B 轮的参与来自清科数据机构页的出手记录，未取得公司公告，故该条按 partial 记录。 官网更正：https://www.vipioneers.com → http://www.waytous.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -134,6 +134,15 @@
       "supports": "国新基金出手记录列慧拓智能 B 轮（2021-08-23，2.5 亿元）",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "慧拓智能 官网首页",
+      "url": "http://www.waytous.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -153,7 +162,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-0781df96ab5522b8",
+      "layer": "official",
+      "platform": "website",
+      "url": "http://www.waytous.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "慧拓智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2014,

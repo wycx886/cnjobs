@@ -118,7 +118,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://tensorworld.com",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -134,6 +134,15 @@
       "supports": "2026-07 成立于北京、物理原生基座模型定位、天使轮时间/金额与投资方名单、核心团队名单",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "物原科技 官网首页",
+      "url": "https://tensorworld.com",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -152,7 +161,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-844edd3900b74f2b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://tensorworld.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "物原科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "吴海旭",

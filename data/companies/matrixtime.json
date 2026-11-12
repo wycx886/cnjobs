@@ -110,13 +110,13 @@
     ]
   },
   "contacts": {
-    "website": "http://www.matrixtime.com",
+    "website": "https://www.matrixtime.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "官网未列出公开招聘邮箱"
   },
-  "notes": "工商主体为聚时科技（上海）有限公司，公司页记成立时间 2018-03-12、注册地上海松江。公司页另记 2025-10-20 B 轮数亿元；本档案只收录中芯聚源参与的两轮。",
+  "notes": "工商主体为聚时科技（上海）有限公司，公司页记成立时间 2018-03-12、注册地上海松江。公司页另记 2025-10-20 B 轮数亿元；本档案只收录中芯聚源参与的两轮。 官网更正：http://www.matrixtime.com → https://www.matrixtime.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -142,6 +142,15 @@
       "supports": "2021-12-28 A++ 轮亿级，投资方含中芯聚源",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "聚时科技 官网首页",
+      "url": "https://www.matrixtime.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -161,7 +170,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-d14af0d3f5db426a",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.matrixtime.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "聚时科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2018,

@@ -225,7 +225,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://pokebot.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -249,6 +249,15 @@
       "supports": "Pre-A 轮金额、领投与跟投方",
       "published_date": "2026-08-03",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "破壳机器人（PokeBot） 官网首页",
+      "url": "https://pokebot.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -267,6 +276,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-30c3c2b06a38d3f3",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://pokebot.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "破壳机器人（PokeBot）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

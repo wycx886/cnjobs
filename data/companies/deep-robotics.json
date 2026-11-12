@@ -165,6 +165,15 @@
       "supports": "本轮披露日期（2025-12-09）、轮次、金额与投资方名单",
       "published_date": "2025-12-09",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "云深处科技 / DEEP Robotics 官网首页",
+      "url": "https://www.deeprobotics.cn/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -184,7 +193,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-4e62e7e908a2d1d9",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.deeprobotics.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "云深处科技 / DEEP Robotics",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2017,

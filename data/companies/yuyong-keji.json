@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-aab523df02073e33",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://pragmatik.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "语用科技 / Pragmatik Labs",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://pragmatik.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -103,6 +122,15 @@
       "supports": "公司名称、创办地、首轮投资方与领投关系、创始人身份",
       "published_date": "2026-08-12",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "语用科技 / Pragmatik Labs 官网首页",
+      "url": "https://pragmatik.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

@@ -140,7 +140,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://sand.ai",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -164,6 +164,15 @@
       "supports": "本轮披露日期（2026-11-05）、轮次、金额与投资方名单",
       "published_date": "2026-11-05",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Sand.ai 官网首页",
+      "url": "https://sand.ai",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -183,7 +192,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-7027cb86173a78a8",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://sand.ai",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Sand.ai",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2025,

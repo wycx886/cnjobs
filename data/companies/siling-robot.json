@@ -150,6 +150,15 @@
       "supports": "2021-01-27 B 轮，投资方含招银国际资本",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "思灵机器人 官网首页",
+      "url": "http://www.agile-robots.cn",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -169,7 +178,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-dd1f4f111181262e",
+      "layer": "official",
+      "platform": "website",
+      "url": "http://www.agile-robots.cn",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "思灵机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2018,

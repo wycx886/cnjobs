@@ -60,7 +60,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.booster.tech/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -76,6 +76,15 @@
       "supports": "Pre-A 轮金额、领投与跟投方、资金用途",
       "published_date": "2024-05-07",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "加速进化 官网首页",
+      "url": "https://www.booster.tech/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -94,6 +103,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-2b8f040eaa9c170f",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.booster.tech/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "加速进化",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

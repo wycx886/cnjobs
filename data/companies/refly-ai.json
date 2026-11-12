@@ -11,7 +11,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-5d952db51fd7ec6b",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://refly.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Refly.AI",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
     "website": "https://refly.ai/",
     "careers_url": null,
@@ -90,6 +109,15 @@
       "supports": "种子轮金额与投资方、创始人身份与产品定位",
       "published_date": "2025-12-18",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "Refly.AI 官网首页",
+      "url": "https://refly.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

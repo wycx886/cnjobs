@@ -85,7 +85,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://diffuspace.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -101,6 +101,15 @@
       "supports": "两轮融资总额、联合领投与跟投方、公司成立时间与技术路线",
       "published_date": "2026-10-09",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "扩散智能（DiffuSpace） 官网首页",
+      "url": "https://diffuspace.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -119,7 +128,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-379339e622329554",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://diffuspace.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "扩散智能（DiffuSpace）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2026,

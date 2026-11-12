@@ -131,13 +131,13 @@
     ]
   },
   "contacts": {
-    "website": "http://www.tashantec.com",
+    "website": "https://tashantec.com",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "公开渠道未见招聘邮箱"
   },
-  "notes": "投资界企业档案载成立时间2017年12月22日。注册主体为北京他山科技股份有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "notes": "投资界企业档案载成立时间2017年12月22日。注册主体为北京他山科技股份有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。 官网更正：http://www.tashantec.com → https://tashantec.com（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -155,6 +155,15 @@
       "supports": "本轮披露日期（2025-11-28）、轮次、金额与投资方名单",
       "published_date": "2025-11-28",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "他山科技 官网首页",
+      "url": "https://tashantec.com",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -174,7 +183,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-a1e480364d6d7d4c",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://tashantec.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "他山科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2017,

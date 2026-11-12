@@ -116,7 +116,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://pexo.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -132,6 +132,15 @@
       "supports": "公司成立时间与地点、创始人履历、Pexo 产品、2025年10月 HT Investment 与 BV 百度风投投资、2026年天使轮投资方与金额",
       "published_date": "2026-10-20",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "极致上下文 / Pexo 官网首页",
+      "url": "https://pexo.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -150,7 +159,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-26de5047462976aa",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://pexo.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "极致上下文 / Pexo",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "廖谦",

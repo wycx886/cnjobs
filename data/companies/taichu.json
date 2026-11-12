@@ -70,13 +70,13 @@
     ]
   },
   "contacts": {
-    "website": "http://www.tecorigin.com",
+    "website": "https://tecorigin.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "官网未列出公开招聘邮箱"
   },
-  "notes": "品牌名「太初元碁」，工商主体为公司页所记太初（无锡）电子科技有限公司，成立时间 2019-11-05、注册地江苏无锡。公司页另列 2023-10-25 A 轮等历史融资，本档案只收录部分。",
+  "notes": "品牌名「太初元碁」，工商主体为公司页所记太初（无锡）电子科技有限公司，成立时间 2019-11-05、注册地江苏无锡。公司页另列 2023-10-25 A 轮等历史融资，本档案只收录部分。 官网更正：http://www.tecorigin.com → https://tecorigin.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -94,6 +94,15 @@
       "supports": "2021-09-14 天使轮 1.5 亿元，招商资本投资",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "太初元碁 官网首页",
+      "url": "https://tecorigin.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -113,7 +122,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-b3fcc05783f2bd14",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://tecorigin.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "太初元碁",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2019,

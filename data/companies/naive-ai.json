@@ -126,7 +126,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://naive.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -150,6 +150,15 @@
       "supports": "2026-06-15 天使轮 1 亿美元，投资方含博裕资本",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Naive.ai 官网首页",
+      "url": "https://naive.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -169,7 +178,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-23b3ceb47c422294",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://naive.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Naive.ai",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2026,

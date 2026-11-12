@@ -98,13 +98,13 @@
     ]
   },
   "contacts": {
-    "website": "https://www.botinkit.com/",
+    "website": "https://www.botinkit.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "未见公开招聘邮箱"
   },
-  "notes": "以五源资本 2023 与 2025 年两次参与融资为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。",
+  "notes": "以五源资本 2023 与 2025 年两次参与融资为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。 官网更正：https://www.botinkit.com/ → https://www.botinkit.ai/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -122,6 +122,15 @@
       "supports": "2025-04-03 B 轮数千万美元，五源资本领投、Alphaist Partners跟投；AI 数字厨房解决方案与智能烹饪机器人",
       "published_date": "2025-04-03",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "不停科技 Botinkit 官网首页",
+      "url": "https://www.botinkit.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -140,7 +149,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-22038e2dcc1269a8",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.botinkit.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "不停科技 Botinkit",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "陈锐",

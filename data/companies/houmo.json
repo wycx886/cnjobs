@@ -115,7 +115,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.houmoai.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -131,6 +131,15 @@
       "supports": "Pre-A轮3亿元人民币、启明创投领投及投资方名单、存算一体AI芯片业务定位",
       "published_date": "2021-08-24",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "后摩智能 官网首页",
+      "url": "https://www.houmoai.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -149,6 +158,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-615220b1c1c029fc",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.houmoai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "后摩智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

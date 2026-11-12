@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-0506c91ec4b9e799",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://sportvision-ai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "思博威视 / SportVision",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://sportvision-ai.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -74,6 +93,15 @@
       "supports": "融资轮次与领投方、运营主体与产品定位、此前天使轮投资方",
       "published_date": "2026-05-19",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "思博威视 / SportVision 官网首页",
+      "url": "https://sportvision-ai.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

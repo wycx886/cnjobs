@@ -134,6 +134,15 @@
       "supports": "2025-10-22 Pre-IPO 轮近 15 亿元，投资方含中信金石等",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "乐聚机器人 官网首页",
+      "url": "https://www.lejurobot.com",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -153,7 +162,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-a230985aafc48651",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.lejurobot.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "乐聚机器人",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2016,

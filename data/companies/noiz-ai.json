@@ -11,7 +11,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-47e463db755cb130",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://noiz.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Noiz AI（声音动力）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
     "website": "https://noiz.ai/",
     "careers_url": null,
@@ -85,6 +104,15 @@
       "supports": "运营主体全称、成立日期、种子轮投资方与用途",
       "published_date": "2026-08-11",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Noiz AI（声音动力） 官网首页",
+      "url": "https://noiz.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

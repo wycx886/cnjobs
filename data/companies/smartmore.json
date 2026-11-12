@@ -176,13 +176,13 @@
     ]
   },
   "contacts": {
-    "website": "https://www.smartmore.com/",
+    "website": "https://cn.smartmore.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": "sales@smartmore.com",
     "other_email_purpose": "销售与商务合作邮箱"
   },
-  "notes": "官网公司简介称思谋集团与深圳思谋信息科技有限公司于2019年成立。招聘入口未在本次来源中确认。",
+  "notes": "官网公司简介称思谋集团与深圳思谋信息科技有限公司于2019年成立。招聘入口未在本次来源中确认。 官网更正：https://www.smartmore.com/ → https://cn.smartmore.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -208,6 +208,15 @@
       "supports": "轮次、金额、披露日期与投资方名单",
       "published_date": "2020-10-28",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "思谋科技 官网首页",
+      "url": "https://cn.smartmore.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -227,6 +236,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-4e3b01d0d9eb860d",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://cn.smartmore.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "思谋科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

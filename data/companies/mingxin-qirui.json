@@ -131,7 +131,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://memsilicon.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -155,6 +155,15 @@
       "supports": "本轮披露日期（2026-10-19）、轮次、金额与投资方名单",
       "published_date": "2026-10-19",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "铭芯启睿 官网首页",
+      "url": "https://memsilicon.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -174,7 +183,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-dc3757c89043b152",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://memsilicon.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "铭芯启睿",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2024,

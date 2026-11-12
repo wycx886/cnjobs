@@ -69,7 +69,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.astribot.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -93,6 +93,15 @@
       "supports": "星尘智能首投轮次天使轮、首投年份 2023，及绳驱机器人量产表述",
       "published_date": "2026-11-11",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "星尘智能 官网首页",
+      "url": "https://www.astribot.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -111,6 +120,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-825dee254189137a",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.astribot.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "星尘智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

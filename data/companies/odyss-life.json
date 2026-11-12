@@ -124,6 +124,15 @@
       "supports": "Odyss N1 AI 饮食项链的产品定位与功能描述",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s04",
+      "scope": "channel",
+      "title": "OdyssLife / Odyss 官网首页",
+      "url": "https://www.odyss.life/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -144,7 +153,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-87bfa01a74b23464",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.odyss.life/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "OdyssLife / Odyss",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "Chris Pan",

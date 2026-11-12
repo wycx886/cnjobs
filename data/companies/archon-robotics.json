@@ -95,7 +95,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.archon.tech/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -111,6 +111,15 @@
       "supports": "2026 年成立于上海、通用全身人形基座模型定位、2026-06-29 种子轮金额与投资方名单、核心团队名单",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "源策未来 Archon Robotics 官网首页",
+      "url": "https://www.archon.tech/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -129,6 +138,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-66f8ebf35ffaa42c",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.archon.tech/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "源策未来 Archon Robotics",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

@@ -43,7 +43,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.brightendata.com",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -59,6 +59,15 @@
       "supports": "天使轮金额、独家投资方、产品与创始人",
       "published_date": "2024-12-03",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "悦点科技 官网首页",
+      "url": "https://www.brightendata.com",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -77,6 +86,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-b8e072a67e688199",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.brightendata.com",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "悦点科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

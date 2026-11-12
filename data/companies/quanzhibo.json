@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-3c9d7ee5f6255a46",
+      "layer": "official",
+      "platform": "website",
+      "url": "http://www.motorevo.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "泉智博",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "http://www.motorevo.cn/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -90,6 +109,15 @@
       "supports": "融资轮次与投资方、公司主体与业务定位",
       "published_date": "2026-07-03",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "泉智博 官网首页",
+      "url": "http://www.motorevo.cn/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

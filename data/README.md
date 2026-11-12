@@ -131,6 +131,8 @@ Tier 1 至少需要两份近年公开榜单交叉支持，或一份榜单加机�
 
 `tools/fetch_logos.py` 为创业公司（`operating_organization` + `player_group: "new_entrant"`）和所有有官网的 `investment_firm` 从机构官网或官方页面抓取 logo，写入 `data/views/assets/logos/<id>.<ext>`，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。只用官方图像；找不到就跳过并由看板显示文字占位，不生成假 logo，也不使用 Clearbit 等第三方 logo CDN。
 
+自动抓取只按页面标记猜图，可能命中客户案例图、二维码、伙伴 logo 墙或产品截图，所以抓完必须逐张目检；发现抓错时，人工在官网确认真正的图标或页头字标后，用 `python3 tools/import_logo.py --id <id> --url <官方直链>` 覆盖，并按看板的形变规则统一规范化。`manifest.json` 里有 `method: "manual_verified"` 与 `note` 的条目即为人工核对的覆盖记录。
+
 ## 大厂关联项目与母平台底表
 
 `organizational_context` 是经营型记录上的可选对象。现有记录没有这个字段时，只表示未完成该项标注，不能推断为独立机构。`form` 与第一波标记分别维护，不按母公司的 `incumbent` 身份自动决定项目归类。

@@ -59,7 +59,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.tiiny.ai/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -75,6 +75,15 @@
       "supports": "种子轮金额与投资方、团队背景与业务方向",
       "published_date": "2025-07-24",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "本智激活 官网首页",
+      "url": "https://www.tiiny.ai/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -93,6 +102,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-ef6d6feaaf7c01d6",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.tiiny.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "本智激活",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

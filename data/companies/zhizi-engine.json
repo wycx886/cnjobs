@@ -77,13 +77,13 @@
     ]
   },
   "contacts": {
-    "website": "https://chatimg.cn",
+    "website": "https://www.metabrainagi.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "官网未列出公开招聘邮箱"
   },
-  "notes": "工商主体为智子引擎（北京）信息科技有限公司，注册地北京门头沟；公司页显示成立时间 2021-05-17。融资信息来自投资界企业页与其天使+轮事件页，未取得公司公告，故 verification_status 记为 partial。",
+  "notes": "工商主体为智子引擎（北京）信息科技有限公司，注册地北京门头沟；公司页显示成立时间 2021-05-17。融资信息来自投资界企业页与其天使+轮事件页，未取得公司公告，故 verification_status 记为 partial。 官网更正：https://chatimg.cn → https://www.metabrainagi.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -101,6 +101,15 @@
       "supports": "2023-08-24 天使+轮数千万人民币，投资方含中金资本、高瓴创投、软通高科等",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "智子引擎 官网首页",
+      "url": "https://www.metabrainagi.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -120,7 +129,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-e9032142f8748aac",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.metabrainagi.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "智子引擎",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2021,

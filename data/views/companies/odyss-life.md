@@ -48,7 +48,11 @@ Odyss N1 AI 饮食项链：常开低功耗摄像头与云端视觉模型识别�
 
 ## 结构化公开渠道
 
-当前档案尚无结构化机构渠道；上方旧入口及来源引用不等于入口归属已核实。未收录不表示没有相关渠道，按任务继续核查。
+| 类别 | 平台与用途 | 公开链接 | 归属 | 核查日期 | 状态／来源 |
+| --- | --- | --- | --- | --- | --- |
+| Layer 1 官方 | website / general | [入口](https://www.odyss.life/) | OdyssLife / Odyss | 2026-11-13 | confirmed / s04 |
+
+核验的是公开入口与主体归属，不表示岗位仍开放，也不授权发送或投递。
 
 ## 核心人物与公开主页
 
@@ -69,3 +73,4 @@ Odyss N1 AI 饮食项链：常开低功耗摄像头与云端视觉模型识别�
 | s01 | [elsewhere｜Your Next Wearable: A Health Companion Hanging Around Your Neck?](https://elsewhere.news/zh/crossing/aiodysscreekstone) | 创始人 Chris Pan 履历、产品形态、首轮数百万美元融资及 CreekStone 天使投资关系；招聘邮箱 | 2025-12-20 | 2026-11-12 |
 | s02 | [36氪｜OdyssLife 完成累计近2亿元多轮融资](https://eu.36kr.com/en/newsflashes/3739503574515717) | 2026-03-26 多轮融资合计近2亿元，HSG China 与 Monolith 分别领投，Linear Capital 与 Creekstone 继续投资 | 2026-03-26 | 2026-11-12 |
 | s03 | [Odyss 官网](https://www.odyss.life/) | Odyss N1 AI 饮食项链的产品定位与功能描述 | 未标明 | 2026-11-12 |
+| s04 | [OdyssLife / Odyss 官网首页](https://www.odyss.life/) | 公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。 | 未标明 | 2026-11-13 |

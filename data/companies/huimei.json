@@ -68,13 +68,13 @@
     ]
   },
   "contacts": {
-    "website": "http://www.huimei.com/",
+    "website": "https://www.huimei.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": "marketing@huimei.com",
     "other_email_purpose": "市场与一般联系邮箱"
   },
-  "notes": "官网所列产品覆盖CDSS、病历质控与医保审核；成立年份与招聘入口未在本次来源中确认。",
+  "notes": "官网所列产品覆盖CDSS、病历质控与医保审核；成立年份与招聘入口未在本次来源中确认。 官网更正：http://www.huimei.com/ → https://www.huimei.com/（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -92,6 +92,15 @@
       "supports": "官网产品线与市场联系邮箱",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "惠每科技 官网首页",
+      "url": "https://www.huimei.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -111,6 +120,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-6983df585a2aa9ce",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.huimei.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "惠每科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

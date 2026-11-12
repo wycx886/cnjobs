@@ -170,7 +170,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://anyverse.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -186,6 +186,15 @@
       "supports": "2025 年成立于北京、通用具身智能机器人定位、天使轮时间/金额与投资方名单、核心团队名单",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "无界动力 官网首页",
+      "url": "https://anyverse.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -204,7 +213,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-e982e6dd29f38bc1",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://anyverse.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "无界动力",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [
     {
       "name": "张玉峰",

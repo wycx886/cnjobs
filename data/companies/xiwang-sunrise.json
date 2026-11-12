@@ -101,7 +101,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.sunrise-ai.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -141,6 +141,15 @@
       "supports": "2026-01 近30亿元战略融资，投资方名单含心资本；公司为国产全栈自研推理 GPU 企业",
       "published_date": "2026-01-23",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s06",
+      "scope": "channel",
+      "title": "曦望Sunrise 官网首页",
+      "url": "https://www.sunrise-ai.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -160,7 +169,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-c7410e16e45fd87f",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.sunrise-ai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "曦望Sunrise",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s06"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2025,

@@ -125,7 +125,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://meta-circle.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -141,6 +141,15 @@
       "supports": "两轮融资总额、种子轮领投方与各轮参与机构、成立时间",
       "published_date": "2026-10-15",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "元环智能（MetaCircle） 官网首页",
+      "url": "https://meta-circle.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -159,7 +168,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-a6429190348c56b0",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://meta-circle.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "元环智能（MetaCircle）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2026,

@@ -64,7 +64,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://58znkj.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -80,6 +80,15 @@
       "supports": "2025-10-27 首轮战略融资约 5 亿元、国新基金与浙江产投联合领投、公司隶属中国兵器工业集团与 2022 年成立",
       "published_date": "2025-10-27",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "五八智能 官网首页",
+      "url": "https://58znkj.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -98,7 +107,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-6f5235fd05d93995",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://58znkj.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "五八智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2022,

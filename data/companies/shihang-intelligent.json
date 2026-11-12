@@ -11,9 +11,28 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-857fedb8e6a00b17",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://seahi.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "世航智能",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "contacts": {
-    "website": null,
+    "website": "https://seahi.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -137,6 +156,15 @@
       "supports": "A轮金额、金沙江创投继续追加、海洋具身大模型与创始人身份",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "世航智能 官网首页",
+      "url": "https://seahi.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {

@@ -44,7 +44,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://www.kitar.id/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -68,6 +68,15 @@
       "supports": "同一募资报道确认 Kitar 为已投项目及AI提效方向",
       "published_date": "2026-03-30",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "Kitar 官网首页",
+      "url": "https://www.kitar.id/",
+      "supports": "公开官网主体核实：页面标题／品牌名与公司档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -87,6 +96,25 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-4d26bbe5b6b2ef29",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.kitar.id/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Kitar",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": []
 }

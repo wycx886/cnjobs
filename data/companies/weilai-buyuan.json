@@ -60,7 +60,7 @@
     ]
   },
   "contacts": {
-    "website": null,
+    "website": "https://futuringrobot.com/",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
@@ -76,6 +76,15 @@
       "supports": "天使轮金额、领投方、公司定位与创始人",
       "published_date": "2026-01-13",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "scope": "channel",
+      "title": "未来不远（Futuring Robot） 官网首页",
+      "url": "https://futuringrobot.com/",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -94,7 +103,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-5c7d9470331777f2",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://futuringrobot.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "未来不远（Futuring Robot）",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2022,

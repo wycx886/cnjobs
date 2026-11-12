@@ -134,13 +134,13 @@
     ]
   },
   "contacts": {
-    "website": "http://www.dreame.tech",
+    "website": "https://www.dreame.tech",
     "careers_url": null,
     "recruitment_email": null,
     "other_email": null,
     "other_email_purpose": "官网未列出公开招聘邮箱"
   },
-  "notes": "工商主体为追觅科技（苏州）有限公司，公司页记成立时间 2017-12-18、注册地苏州。官网可访问，招聘邮箱未公开列出。",
+  "notes": "工商主体为追觅科技（苏州）有限公司，公司页记成立时间 2017-12-18、注册地苏州。官网可访问，招聘邮箱未公开列出。 官网更正：http://www.dreame.tech → https://www.dreame.tech（2026-11-13 子 agent 核对官方站标题/备案号）。",
   "checked_at": "2026-11-12",
   "sources": [
     {
@@ -158,6 +158,15 @@
       "supports": "2021-10-20 C 轮 36 亿元，投资方含 CPE源峰",
       "published_date": null,
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "scope": "channel",
+      "title": "追觅科技 官网首页",
+      "url": "https://www.dreame.tech",
+      "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -177,7 +186,26 @@
     ],
     "labelled_at": "2026-11-12"
   },
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch-0ae7550604963b4f",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.dreame.tech",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "追觅科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    }
+  ],
   "people": [],
   "founded": {
     "year": 2017,
