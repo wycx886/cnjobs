@@ -66,7 +66,7 @@ class CompanyRouteTests(unittest.TestCase):
 
     def test_independent_institutions_and_named_entities_keep_their_identity(self):
         entries = {r["id"]: r for r in json.loads(build.outputs()["data/index.json"])["organizations"]}
-        for identity in ("shanghai-ai-lab", "shanghai-electric", "shanghai-fanuc", "anew-labs", "qisda", "wistron-kunshan"):
+        for identity in ("noematrix", "shanghai-electric", "shanghai-fanuc", "anew-labs", "qisda", "wistron-kunshan"):
             self.assertIn(identity, entries)
             self.assertNotIn(identity, redirects(ROOT))
 

@@ -1,0 +1,65 @@
+name: Deploy dashboard to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install validation dependency
+        run: python -m pip install -r tools/requirements-dev.txt
+
+      - name: Build canonical dashboard and views
+        run: python tools/build.py
+
+      - name: Validate canonical data and generated views
+        run: python tools/validate.py --check-generated
+
+      - name: Stage the public site
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          cp -R data skills tools lib _site/
+          cp README.md AGENTS.md LICENSE index.html package.json cordis.patch.yml _site/
+          find _site -name '.DS_Store' -delete
+          find _site -name '__pycache__' -type d -prune -exec rm -rf {} +
+          test -f _site/data/views/dashboard.html
+          test -f _site/index.html
+          # The private workspace and local config are never part of the site.
+          test ! -e _site/workspace.local.json
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

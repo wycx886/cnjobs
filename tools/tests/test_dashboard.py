@@ -19,8 +19,8 @@ CHANNEL_LABELS = (
 )
 LISTED_IDS = {
     "biren", "deepexi", "enflame", "iluvatar-corex", "innovusion",
-    "insilico", "metax", "microport-medbot", "minimax", "moore-threads",
-    "unitree", "xtalpi", "zhipu",
+    "insilico", "metax", "minimax", "moore-threads", "unitree",
+    "xtalpi", "zhipu",
 }
 
 
@@ -133,10 +133,10 @@ class DashboardTests(unittest.TestCase):
         self.assertIn("profileMeta(org)", intro)
         kicker = self._source("profileKicker", "profileLead")
         self.assertIn('class="pk-class"', kicker)
-        self.assertIn("tierLabel(record)", kicker)
-        self.assertIn("编辑判断，不是官方排名", kicker)
+        self.assertNotIn("tierLabel(record)", kicker)
+        self.assertNotIn("p-tier", kicker)
         self.assertIn("categoryName(record.category_id)", kicker)
-        # The long tier basis stays in the appendix, not on the cover.
+        # No editorial tier on the cover or in the appendix.
         self.assertNotIn("tier.basis", intro)
 
     def test_cover_meta_is_class_specific_and_does_not_invent_funding(self):
@@ -178,7 +178,14 @@ class DashboardTests(unittest.TestCase):
         people_copy = self.html.split("var PEOPLE_COPY", 1)[1].split("var OPP_COPY", 1)[0]
         self.assertNotIn("创始团队", people_copy)
         self.assertIn("投资团队", people_copy)
-        self.assertIn('"档位口径"', self.html)
+        self.assertNotIn("档位口径", self.html)
+
+    def test_profile_keeps_a_single_website_button_per_class(self):
+        links = self._source("profileLinks", "personPortrait")
+        # One CTA in the investor branch and one in the operating-company branch.
+        self.assertEqual(links.count("访问官网"), 2)
+        self.assertEqual(links.count('class="pill cta"'), 2)
+        self.assertNotIn("link(website, hostOf(website)", links)
 
     def test_investor_block_sits_at_top_and_reads_round_investors(self):
         intro = self._source("profileIntroHtml", "profileBodyHtml")
@@ -236,8 +243,9 @@ class DashboardTests(unittest.TestCase):
 
     def test_directory_chrome_and_rows_follow_class(self):
         chrome = self.html.split("var CLASS_CHROME", 1)[1].split("var PEOPLE_COPY", 1)[0]
-        for text in ("全部平台", "全部机构", "业务一句话", "投资方向", "编辑档位"):
+        for text in ("全部平台", "全部机构", "业务一句话", "投资方向"):
             self.assertIn(text, chrome)
+        self.assertNotIn("编辑档位", chrome)
         self.assertNotIn("精选", chrome)
         self.assertNotIn("重点平台", chrome)
         self.assertNotIn("featured", chrome)
@@ -246,23 +254,26 @@ class DashboardTests(unittest.TestCase):
         row = self._source("rowHtml", "sectorHead")
         self.assertIn('state.cls === "investors"', row)
         self.assertIn('state.cls === "incumbents"', row)
-        self.assertIn("tierLabel(record)", row)
+        self.assertNotIn("tierLabel(record)", row)
+        self.assertIn("fourth = null", row)
+        self.assertIn('" no-meta"', row)
         self.assertIn("stageText(record.stage)", row)
         self.assertIn("shorten(record.products, 46)", row)
         self.assertIn("function renderChrome", self.html)
         self.assertIn("directoryEl.dataset.class = state.cls", self.html)
+        self.assertIn('classList.toggle("no-meta", state.cls === "investors")', self.html)
+        self.assertIn(".org-row.no-meta{", self.html)
         self.assertIn("resultLine(rows)", self.html)
         self.assertIn("已记录案例", self.html)
         self.assertIn("有业务描述", self.html)
 
-    def test_investor_tier_language_is_editorial(self):
-        self.assertIn('if (level === "tier1") return "Tier 1"', self.html)
-        self.assertIn('if (level === "tier2") return "Tier 2"', self.html)
-        self.assertIn('if (level === "unlisted") return "未列入"', self.html)
-        tier = self._source("tierBasisSection", "appendixHtml")
-        self.assertIn("编辑判断，不是官方排名", tier)
-        self.assertIn("record.tier.basis", tier)
-        self.assertIn("record.tier.source_ids", tier)
+    def test_investor_tier_is_not_rendered(self):
+        self.assertNotIn("tierLabel", self.html)
+        self.assertNotIn("TIER_ORDER", self.html)
+        self.assertNotIn("TIER_LABELS", self.html)
+        self.assertNotIn("p-tier", self.html)
+        self.assertNotIn("档位口径", self.html)
+        self.assertNotIn("编辑档位", self.html)
 
     def test_listed_startups_stay_in_startups_and_get_a_quiet_mark(self):
         listed = {}
@@ -331,7 +342,7 @@ class DashboardTests(unittest.TestCase):
         self.assertNotIn("档内先新兴机构、后成熟机构", self.html)
         self.assertIn('category: "官方顺序"', self.html)
         self.assertIn('sort: "category"', self.html)
-        self.assertIn('var TIER_ORDER = ["tier1", "tier2", "unlisted"]', self.html)
+        self.assertNotIn('var TIER_ORDER = ["tier1", "tier2", "unlisted"]', self.html)
         self.assertIn('var MATURITY_ORDER = ["established", "emerging", "founding_unconfirmed"]', self.html)
         self.assertIn(
             'MATURITY_LABELS = { established: "成熟机构", emerging: "新兴机构", founding_unconfirmed: "成立待确认" }',
@@ -361,9 +372,10 @@ class DashboardTests(unittest.TestCase):
         self.assertIn("MATURITY_ORDER", options)
         self.assertNotIn("TIER_ORDER", options)
         self.assertIn('MATURITY_ORDER.indexOf(category) !== -1', self.html)
-        # Tier stays as a quiet cover badge and appendix judgment.
+        # Financial institutions no longer surface an editorial tier in the UI.
         self.assertIn('class="pk-class"', self.html)
-        self.assertIn("档位口径", self.html)
+        self.assertNotIn("档位口径", self.html)
+        self.assertNotIn("编辑档位", self.html)
 
     def test_three_distinct_class_field_motifs(self):
         self.assertIn(

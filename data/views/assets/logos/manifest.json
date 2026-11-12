@@ -1,27 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T08:40:00+00:00",
+  "generated_at": "2026-11-12T07:20:19+00:00",
   "entries": [
     {
       "id": "01-ai",
       "status": "fetched",
-      "source_url": "https://www.lingyiwanwu.com/branding/apple-touch-icon.3bb243e8.png",
-      "website": "https://www.lingyiwanwu.com/",
-      "fetched_at": "2026-11-10T16:03:18+00:00",
+      "fetched_at": "2026-11-12T07:15:58+00:00",
       "content_type": "image/png",
-      "bytes": 6500,
-      "path": "data/views/assets/logos/01-ai.png",
-      "reason": "already_fetched"
+      "bytes": 11502,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/01-ai.png"
     },
     {
       "id": "5y-capital",
       "status": "fetched",
-      "source_url": "https://www.5ycap.com/public/1/b/1/e8b08b-a9c058-a04be3.57.png",
+      "source_url": "https://www.5ycap.com/public/1/b/1/e8b08b-a9c058-a04be3.192.png",
       "website": "https://www.5ycap.com/",
-      "fetched_at": "2026-11-11T06:04:04+00:00",
+      "fetched_at": "2026-11-12T05:30:24+00:00",
       "content_type": "image/png",
-      "bytes": 522,
-      "path": "data/views/assets/logos/5y-capital.png"
+      "bytes": 15342,
+      "path": "data/views/assets/logos/5y-capital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "addor-capital",
@@ -29,27 +30,23 @@
       "source_url": "https://addorcapital.com/favicon.ico",
       "website": "https://addorcapital.com/",
       "fetched_at": "2026-11-11T08:25:41+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 67646,
-      "path": "data/views/assets/logos/addor-capital.ico"
+      "content_type": "image/png",
+      "bytes": 23047,
+      "path": "data/views/assets/logos/addor-capital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "agibot",
       "status": "fetched",
       "source_url": "https://www.agibot.com/public/static/index/en/images/logo.png",
       "website": "https://www.agibot.com/",
-      "fetched_at": "2026-11-10T16:03:19+00:00",
+      "fetched_at": "2026-11-12T05:17:25+00:00",
       "content_type": "image/png",
-      "bytes": 5232,
+      "bytes": 11184,
       "path": "data/views/assets/logos/agibot.png",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "agve",
-      "status": "skipped",
-      "reason": "homepage_failed",
-      "website": "https://www.agve.com.cn",
-      "detail": "URLError"
+      "width": 320,
+      "height": 68
     },
     {
       "id": "ai-indeed",
@@ -57,10 +54,12 @@
       "source_url": "https://www.ai-indeed.com/favicon.ico",
       "website": "https://www.ai-indeed.com/",
       "fetched_at": "2026-11-10T16:05:14+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 8962,
-      "path": "data/views/assets/logos/ai-indeed.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 18461,
+      "path": "data/views/assets/logos/ai-indeed.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "aisphere",
@@ -69,20 +68,23 @@
       "website": "https://aishiai.com/",
       "fetched_at": "2026-11-10T16:03:19+00:00",
       "content_type": "image/png",
-      "bytes": 9698,
+      "bytes": 9873,
       "path": "data/views/assets/logos/aisphere.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "aixcoder",
       "status": "fetched",
-      "source_url": "https://www.aixcoder.com/favicon.ico?favicon.15cp9zsld1d81.ico",
+      "source_url": "https://www.aixcoder.com/icons/cta-send.png",
       "website": "https://www.aixcoder.com/",
-      "fetched_at": "2026-11-10T16:03:16+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 1649,
+      "fetched_at": "2026-11-12T05:30:16+00:00",
+      "content_type": "image/png",
+      "bytes": 59219,
       "path": "data/views/assets/logos/aixcoder.png",
-      "reason": "already_fetched"
+      "width": 1766,
+      "height": 384
     },
     {
       "id": "alphaist-partners",
@@ -90,9 +92,11 @@
       "source_url": "https://storage.ghost.io/c/b8/f8/b8f85465-f366-4f96-abfd-25b8eb188fad/content/images/size/w256h256/format/jpeg/2025/11/square-logo.jpg",
       "website": "https://alphaist.vc/",
       "fetched_at": "2026-11-11T06:04:00+00:00",
-      "content_type": "image/jpeg",
-      "bytes": 2598,
-      "path": "data/views/assets/logos/alphaist-partners.jpg"
+      "content_type": "image/png",
+      "bytes": 40612,
+      "path": "data/views/assets/logos/alphaist-partners.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "anew-labs",
@@ -101,20 +105,21 @@
       "website": "https://anewbt.com/",
       "fetched_at": "2026-11-10T16:03:22+00:00",
       "content_type": "image/png",
-      "bytes": 2771,
+      "bytes": 11979,
       "path": "data/views/assets/logos/anew-labs.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 320,
+      "height": 198
     },
     {
       "id": "approaching-ai",
       "status": "fetched",
-      "source_url": "https://approaching-ai.com/favicon.ico",
-      "website": "https://approaching-ai.com/",
-      "fetched_at": "2026-11-10T16:03:20+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4286,
-      "path": "data/views/assets/logos/approaching-ai.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 43959,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/approaching-ai.png"
     },
     {
       "id": "baichuan",
@@ -123,20 +128,23 @@
       "website": "https://www.baichuan-ai.com/",
       "fetched_at": "2026-11-10T16:03:15+00:00",
       "content_type": "image/png",
-      "bytes": 7357,
+      "bytes": 11068,
       "path": "data/views/assets/logos/baichuan.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "biomap",
       "status": "fetched",
       "source_url": "https://statics.biomap-inc.com/biomap-portal-web/favicon.ico",
       "website": "https://www.biomap.com/",
-      "fetched_at": "2026-11-10T16:03:21+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 15086,
-      "path": "data/views/assets/logos/biomap.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:30:20+00:00",
+      "content_type": "image/png",
+      "bytes": 57277,
+      "path": "data/views/assets/logos/biomap.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "biren",
@@ -145,20 +153,21 @@
       "website": "https://www.birentech.com/",
       "fetched_at": "2026-11-10T16:03:15+00:00",
       "content_type": "image/svg+xml",
-      "bytes": 5022,
+      "bytes": 5026,
       "path": "data/views/assets/logos/biren.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 116,
+      "height": 85
     },
     {
       "id": "blacklake",
       "status": "fetched",
-      "source_url": "https://www.blacklake.cn/icon.png",
-      "website": "https://www.blacklake.cn",
-      "fetched_at": "2026-11-10T16:03:16+00:00",
+      "fetched_at": "2026-11-12T07:15:58+00:00",
       "content_type": "image/png",
-      "bytes": 34370,
-      "path": "data/views/assets/logos/blacklake.png",
-      "reason": "already_fetched"
+      "bytes": 12620,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/blacklake.png"
     },
     {
       "id": "boyu-capital",
@@ -172,19 +181,23 @@
       "website": "https://www.caiyunapp.com/",
       "fetched_at": "2026-11-10T16:03:16+00:00",
       "content_type": "image/png",
-      "bytes": 7165,
+      "bytes": 13450,
       "path": "data/views/assets/logos/caiyun.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "capital-o",
       "status": "fetched",
       "source_url": "https://capitalo.fund/favicon.ico",
       "website": "https://capitalo.fund/",
-      "fetched_at": "2026-11-11T06:04:03+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4286,
-      "path": "data/views/assets/logos/capital-o.ico"
+      "fetched_at": "2026-11-12T05:30:21+00:00",
+      "content_type": "image/png",
+      "bytes": 64385,
+      "path": "data/views/assets/logos/capital-o.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "casstar",
@@ -199,19 +212,23 @@
       "source_url": "https://www.cdhfund.com/favicon.ico?v=20250805145840",
       "website": "https://www.cdhfund.com/",
       "fetched_at": "2026-11-11T08:25:30+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 67646,
-      "path": "data/views/assets/logos/cdh.ico"
+      "content_type": "image/png",
+      "bytes": 46877,
+      "path": "data/views/assets/logos/cdh.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "citic-jinshi",
       "status": "fetched",
-      "source_url": "https://www.goldstone-investment.com/public/logo/202411/W020250513375518267915.png",
+      "source_url": "https://www.goldstone-investment.com/investment/logo/202510/W020251028592356012150.png",
       "website": "https://www.goldstone-investment.com/",
-      "fetched_at": "2026-11-11T08:35:52+00:00",
+      "fetched_at": "2026-11-12T05:30:22+00:00",
       "content_type": "image/png",
-      "bytes": 5666,
-      "path": "data/views/assets/logos/citic-jinshi.png"
+      "bytes": 60368,
+      "path": "data/views/assets/logos/citic-jinshi.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "cmcapital",
@@ -219,9 +236,11 @@
       "source_url": "https://www.cmcapital.com.cn/favicon.ico",
       "website": "https://www.cmcapital.com.cn/",
       "fetched_at": "2026-11-11T08:25:25+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/cmcapital.ico"
+      "content_type": "image/png",
+      "bytes": 56153,
+      "path": "data/views/assets/logos/cmcapital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "cowin-capital",
@@ -231,74 +250,58 @@
     {
       "id": "creativefitting",
       "status": "fetched",
-      "source_url": "https://creativefitting.cn/assets/logo.png",
+      "source_url": "https://creativefitting.cn/favicon.ico",
       "website": "https://creativefitting.cn/",
-      "fetched_at": "2026-11-10T16:03:16+00:00",
+      "fetched_at": "2026-11-12T05:30:22+00:00",
       "content_type": "image/png",
-      "bytes": 17372,
+      "bytes": 8243,
       "path": "data/views/assets/logos/creativefitting.png",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "cyclone",
-      "status": "skipped",
-      "reason": "no_usable_image",
-      "website": "https://www.cyclone-robotics.com/"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "datacanvas",
       "status": "fetched",
-      "source_url": "https://www.datacanvas.com/images/logo/1.jpg",
-      "website": "https://www.datacanvas.com/",
-      "fetched_at": "2026-11-10T16:03:16+00:00",
-      "content_type": "image/jpeg",
-      "bytes": 19183,
-      "path": "data/views/assets/logos/datacanvas.jpg",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 42773,
+      "width": 320,
+      "height": 132,
+      "path": "data/views/assets/logos/datacanvas.png"
     },
     {
       "id": "deemos",
       "status": "fetched",
-      "source_url": "https://hyper3d.ai/favicon-32x32.webp",
+      "source_url": "https://hyper3d.ai/_astro/logo.BuaY5JSh.png",
       "website": "https://hyper3d.ai/",
-      "fetched_at": "2026-11-10T16:03:23+00:00",
-      "content_type": "image/webp",
-      "bytes": 620,
-      "path": "data/views/assets/logos/deemos.webp",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "deepblue",
-      "status": "fetched",
-      "source_url": "https://www.deepblueai.com/storage/uploads/20231027/bba0f01485456385aaa059dee7b4b7b9.png",
-      "website": "https://www.deepblueai.com",
-      "fetched_at": "2026-11-10T16:03:24+00:00",
+      "fetched_at": "2026-11-12T05:30:40+00:00",
       "content_type": "image/png",
-      "bytes": 4507,
-      "path": "data/views/assets/logos/deepblue.png",
-      "reason": "already_fetched"
+      "bytes": 21860,
+      "path": "data/views/assets/logos/deemos.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "deepexi",
       "status": "fetched",
-      "source_url": "https://www.deepexi.com/images/logo-zh.png",
+      "source_url": "https://www.deepexi.com/images/logo.png",
       "website": "https://www.deepexi.com/",
-      "fetched_at": "2026-11-10T16:03:24+00:00",
+      "fetched_at": "2026-11-12T05:30:33+00:00",
       "content_type": "image/png",
-      "bytes": 22720,
+      "bytes": 42171,
       "path": "data/views/assets/logos/deepexi.png",
-      "reason": "already_fetched"
+      "width": 320,
+      "height": 125
     },
     {
       "id": "deepseek",
       "status": "fetched",
-      "source_url": "https://www.deepseek.com/favicon.ico",
-      "website": "https://www.deepseek.com/",
-      "fetched_at": "2026-11-10T16:03:18+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 209762,
-      "path": "data/views/assets/logos/deepseek.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:15:59+00:00",
+      "content_type": "image/png",
+      "bytes": 6447,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/deepseek.png"
     },
     {
       "id": "dify",
@@ -309,7 +312,9 @@
       "content_type": "image/svg+xml",
       "bytes": 685,
       "path": "data/views/assets/logos/dify.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 64,
+      "height": 64
     },
     {
       "id": "dp-technology",
@@ -318,42 +323,45 @@
       "website": "https://www.dp.tech/",
       "fetched_at": "2026-11-10T16:03:19+00:00",
       "content_type": "image/png",
-      "bytes": 24559,
+      "bytes": 13570,
       "path": "data/views/assets/logos/dp-technology.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "elite-robots",
       "status": "fetched",
-      "source_url": "https://www.elibot.com/favicon.png",
+      "source_url": "https://www.elibot.com/Public/Cn/images/a1_logo1x.png",
       "website": "https://www.elibot.com/",
-      "fetched_at": "2026-11-10T16:03:28+00:00",
+      "fetched_at": "2026-11-12T05:30:51+00:00",
       "content_type": "image/png",
-      "bytes": 9854,
-      "path": "data/views/assets/logos/elite-robots.ico",
-      "reason": "already_fetched"
+      "bytes": 18898,
+      "path": "data/views/assets/logos/elite-robots.png",
+      "width": 320,
+      "height": 119
     },
     {
       "id": "enflame",
       "status": "fetched",
-      "source_url": "https://www.enflame-tech.com/assets/addons/cms/frontend/images/logo.svg",
-      "website": "https://www.enflame-tech.com/",
-      "fetched_at": "2026-11-10T16:03:20+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/svg+xml",
       "bytes": 5564,
-      "path": "data/views/assets/logos/enflame.svg",
-      "reason": "already_fetched"
+      "width": 128,
+      "height": 58,
+      "path": "data/views/assets/logos/enflame.svg"
     },
     {
       "id": "flexiv",
       "status": "fetched",
-      "source_url": "https://www.flexiv.com/favicon/apple-icon-57x57.png",
+      "source_url": "https://www.flexiv.com/favicon/apple-icon-152x152.png",
       "website": "https://www.flexiv.com",
-      "fetched_at": "2026-11-10T16:03:27+00:00",
+      "fetched_at": "2026-11-12T05:30:54+00:00",
       "content_type": "image/png",
-      "bytes": 2276,
+      "bytes": 33272,
       "path": "data/views/assets/logos/flexiv.png",
-      "reason": "already_fetched"
+      "width": 320,
+      "height": 144
     },
     {
       "id": "flowith",
@@ -362,9 +370,11 @@
       "website": "https://flowith.io/",
       "fetched_at": "2026-11-10T16:03:25+00:00",
       "content_type": "image/png",
-      "bytes": 1638,
+      "bytes": 9086,
       "path": "data/views/assets/logos/flowith.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "fortune-capital",
@@ -374,19 +384,24 @@
     {
       "id": "fourier",
       "status": "fetched",
-      "source_url": "https://www.fftai.com/favicon.svg",
-      "website": "https://www.fftai.com/en/",
-      "fetched_at": "2026-11-10T16:03:26+00:00",
+      "fetched_at": "2026-11-12T07:15:59+00:00",
       "content_type": "image/svg+xml",
-      "bytes": 880,
-      "path": "data/views/assets/logos/fourier.svg",
-      "reason": "already_fetched"
+      "bytes": 922,
+      "width": 429,
+      "height": 350,
+      "path": "data/views/assets/logos/fourier.svg"
     },
     {
       "id": "galaxea",
-      "status": "skipped",
-      "reason": "no_usable_image",
-      "website": "https://galaxea-ai.com/"
+      "status": "fetched",
+      "website": "https://galaxea-ai.com/",
+      "source_url": "https://galaxea-ai.com/favicon.png",
+      "fetched_at": "2026-11-12T05:30:01+00:00",
+      "content_type": "image/png",
+      "bytes": 9350,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/galaxea.png"
     },
     {
       "id": "galbot",
@@ -394,10 +409,12 @@
       "source_url": "https://www.galbot.com/favicon.ico",
       "website": "https://www.galbot.com/",
       "fetched_at": "2026-11-10T16:06:14+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 2165,
-      "path": "data/views/assets/logos/galbot.gif",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 14167,
+      "path": "data/views/assets/logos/galbot.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "gaorong",
@@ -405,9 +422,11 @@
       "source_url": "https://www.gaorongvc.com/static/favicon.ico",
       "website": "https://www.gaorongvc.com/",
       "fetched_at": "2026-11-11T06:04:03+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 32988,
-      "path": "data/views/assets/logos/gaorong.ico"
+      "content_type": "image/png",
+      "bytes": 44891,
+      "path": "data/views/assets/logos/gaorong.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "gaussian-robotics",
@@ -416,16 +435,23 @@
       "website": "https://www.gs-robot.com",
       "fetched_at": "2026-11-10T16:03:30+00:00",
       "content_type": "image/png",
-      "bytes": 4032,
+      "bytes": 8467,
       "path": "data/views/assets/logos/gaussian-robotics.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "genspark",
-      "status": "skipped",
-      "reason": "homepage_failed",
+      "status": "fetched",
       "website": "https://www.genspark.ai/",
-      "detail": "HTTPError"
+      "source_url": "https://www.genspark.ai/apple-touch-icon.png",
+      "fetched_at": "2026-11-12T05:18:38+00:00",
+      "content_type": "image/png",
+      "bytes": 9978,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/genspark.png"
     },
     {
       "id": "gsr-ventures",
@@ -434,15 +460,10 @@
       "website": "https://gsrventureschina.com/",
       "fetched_at": "2026-11-11T06:04:03+00:00",
       "content_type": "image/png",
-      "bytes": 7577,
-      "path": "data/views/assets/logos/gsr-ventures.png"
-    },
-    {
-      "id": "guiji",
-      "status": "skipped",
-      "reason": "homepage_failed",
-      "website": "https://www.guiji.ai/",
-      "detail": "URLError"
+      "bytes": 4286,
+      "path": "data/views/assets/logos/gsr-ventures.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "guoxin-fund",
@@ -458,7 +479,9 @@
       "content_type": "image/svg+xml",
       "bytes": 3044,
       "path": "data/views/assets/logos/haivivi.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 140,
+      "height": 140
     },
     {
       "id": "hillhouse",
@@ -466,9 +489,11 @@
       "source_url": "https://hillhouseinvestment.cn/wp-content/uploads/2024/01/Hillhouse_Primary_On_BG_Symbol_RGB_AW.jpg",
       "website": "https://hillhouseinvestment.cn/",
       "fetched_at": "2026-11-11T08:25:09+00:00",
-      "content_type": "image/jpeg",
-      "bytes": 3127,
-      "path": "data/views/assets/logos/hillhouse.jpg"
+      "content_type": "image/png",
+      "bytes": 2978,
+      "path": "data/views/assets/logos/hillhouse.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "hongshan",
@@ -478,18 +503,21 @@
       "fetched_at": "2026-11-11T06:04:02+00:00",
       "content_type": "image/svg+xml",
       "bytes": 759,
-      "path": "data/views/assets/logos/hongshan.svg"
+      "path": "data/views/assets/logos/hongshan.svg",
+      "width": 283,
+      "height": 283
     },
     {
       "id": "hypershell",
       "status": "fetched",
       "source_url": "https://hypershell.tech/cdn/shop/files/favicon_e2d9586c-2582-4e67-bf6a-4d199db1d5f5_32x32.png?v=1742873109",
       "website": "https://hypershell.tech/",
-      "fetched_at": "2026-11-10T16:03:30+00:00",
+      "fetched_at": "2026-11-12T05:31:05+00:00",
       "content_type": "image/png",
-      "bytes": 1155,
+      "bytes": 8725,
       "path": "data/views/assets/logos/hypershell.png",
-      "reason": "already_fetched"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "idg-capital",
@@ -498,70 +526,54 @@
       "website": "https://idgcapital.com/",
       "fetched_at": "2026-11-11T06:04:00+00:00",
       "content_type": "image/png",
-      "bytes": 1238,
-      "path": "data/views/assets/logos/idg-capital.png"
+      "bytes": 7406,
+      "path": "data/views/assets/logos/idg-capital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "iluvatar-corex",
       "status": "fetched",
-      "source_url": "https://www.iluvatar.com/_nuxt/icons/icon_512x512.1247e4.png",
-      "website": "https://www.iluvatar.com",
-      "fetched_at": "2026-11-10T16:03:27+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 104713,
-      "path": "data/views/assets/logos/iluvatar-corex.png",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "im-motors",
-      "status": "fetched",
-      "source_url": "https://cdn.immotors.com/app/assets/image/common/favicon.ico",
-      "website": "https://www.immotors.com",
-      "fetched_at": "2026-11-10T16:03:27+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 9966,
-      "path": "data/views/assets/logos/im-motors.ico",
-      "reason": "already_fetched"
+      "bytes": 35152,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/iluvatar-corex.png"
     },
     {
       "id": "infimind",
       "status": "fetched",
       "source_url": "https://www.infimind.com/favicon.ico",
       "website": "https://www.infimind.com/",
-      "fetched_at": "2026-11-10T16:03:38+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 1705,
+      "fetched_at": "2026-11-12T05:31:02+00:00",
+      "content_type": "image/png",
+      "bytes": 33374,
       "path": "data/views/assets/logos/infimind.png",
-      "reason": "already_fetched"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "infinigence",
       "status": "fetched",
       "source_url": "https://www.infinigence-ai.com/favicon.ico",
       "website": "https://www.infinigence-ai.com/",
-      "fetched_at": "2026-11-10T16:03:36+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4318,
-      "path": "data/views/assets/logos/infinigence.ico",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "infrawaves",
-      "status": "skipped",
-      "reason": "homepage_failed",
-      "website": "https://www.infrawaves.com/",
-      "detail": "URLError"
+      "fetched_at": "2026-11-12T05:31:10+00:00",
+      "content_type": "image/png",
+      "bytes": 53964,
+      "path": "data/views/assets/logos/infinigence.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "innovusion",
       "status": "fetched",
-      "source_url": "https://www.seyond.cn/wp-content/uploads/2024/11/cropped-seyond_favicon-180x180.png",
-      "website": "https://www.seyond.cn/",
-      "fetched_at": "2026-11-10T16:03:29+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 5893,
-      "path": "data/views/assets/logos/innovusion.png",
-      "reason": "already_fetched"
+      "bytes": 10499,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/innovusion.png"
     },
     {
       "id": "insilico",
@@ -570,10 +582,11 @@
       "website": "https://insilico.com/",
       "fetched_at": "2026-11-10T16:06:12+00:00",
       "content_type": "image/png",
-      "bytes": 19667,
+      "bytes": 55455,
       "path": "data/views/assets/logos/insilico.png",
       "reason": "already_fetched",
-      "detail": "URLError"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "jaka",
@@ -581,10 +594,12 @@
       "source_url": "https://www.jaka.com/favicon.ico",
       "website": "https://www.jaka.com",
       "fetched_at": "2026-11-10T16:03:30+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 1837,
+      "content_type": "image/png",
+      "bytes": 26107,
       "path": "data/views/assets/logos/jaka.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 320,
+      "height": 82
     },
     {
       "id": "jinpu-investment",
@@ -596,12 +611,13 @@
       "status": "fetched",
       "reason": "homepage_failed",
       "website": "https://www.jinqiucapital.com/",
-      "detail": "URLError",
       "source_url": "https://www.jinqiucapital.com/favicon-512.png",
       "fetched_at": "2026-11-11T08:00:39+00:00",
       "content_type": "image/png",
-      "bytes": 88571,
-      "path": "data/views/assets/logos/jinqiu.png"
+      "bytes": 24946,
+      "path": "data/views/assets/logos/jinqiu.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "jishi-capital",
@@ -609,9 +625,11 @@
       "source_url": "https://stonevc.com/uploadfiles/logo/icon.jpg",
       "website": "https://stonevc.com/",
       "fetched_at": "2026-11-11T08:37:45+00:00",
-      "content_type": "image/jpeg",
-      "bytes": 58543,
-      "path": "data/views/assets/logos/jishi-capital.jpg"
+      "content_type": "image/png",
+      "bytes": 94267,
+      "path": "data/views/assets/logos/jishi-capital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "jsdesign",
@@ -619,34 +637,22 @@
       "source_url": "https://js.design/favicon.ico",
       "website": "https://js.design/",
       "fetched_at": "2026-11-10T16:03:30+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 3870,
-      "path": "data/views/assets/logos/jsdesign.ico",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "jundo",
-      "status": "skipped",
-      "reason": "homepage_failed",
-      "website": "https://www.jundorobot.com",
-      "detail": "URLError"
-    },
-    {
-      "id": "keenon",
-      "status": "skipped",
-      "reason": "no_usable_image",
-      "website": "https://www.keenon.com"
+      "content_type": "image/png",
+      "bytes": 44845,
+      "path": "data/views/assets/logos/jsdesign.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "kepler-robotics",
       "status": "fetched",
-      "source_url": "https://www.gotokepler.com/favicon.ico",
-      "website": "https://www.gotokepler.com/",
-      "fetched_at": "2026-11-10T16:03:34+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 138409,
-      "path": "data/views/assets/logos/kepler-robotics.png",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 5487,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/kepler-robotics.png"
     },
     {
       "id": "kuaizi",
@@ -654,10 +660,12 @@
       "source_url": "https://static2.kuaizi.co/common/saas/kuaizi/img/favicon.ico",
       "website": "https://kuaizi.ai/",
       "fetched_at": "2026-11-10T16:03:37+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/kuaizi.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 42129,
+      "path": "data/views/assets/logos/kuaizi.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "laiye",
@@ -665,10 +673,12 @@
       "source_url": "https://laiye.com/favicon.ico",
       "website": "https://laiye.com/",
       "fetched_at": "2026-11-10T16:03:32+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16306,
+      "content_type": "image/png",
+      "bytes": 15172,
       "path": "data/views/assets/logos/laiye.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "lanchi",
@@ -676,30 +686,33 @@
       "source_url": "https://lanchiventures.com/wp-content/uploads/2024/06/2024062013052544072-300x300.jpg",
       "website": "https://lanchiventures.com/",
       "fetched_at": "2026-11-11T06:04:06+00:00",
-      "content_type": "image/jpeg",
-      "bytes": 5444,
-      "path": "data/views/assets/logos/lanchi.jpg"
+      "content_type": "image/png",
+      "bytes": 19752,
+      "path": "data/views/assets/logos/lanchi.png",
+      "width": 320,
+      "height": 78
     },
     {
       "id": "langboat",
       "status": "fetched",
-      "source_url": "https://www.langboat.com/favicon.ico",
-      "website": "https://www.langboat.com/",
-      "fetched_at": "2026-11-10T16:03:39+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 2691,
-      "path": "data/views/assets/logos/langboat.png",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 11011,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/langboat.png"
     },
     {
       "id": "legend-star",
       "status": "fetched",
-      "source_url": "https://www.legendstar.com.cn/images/favicon.ico",
+      "source_url": "https://www.legendstar.com.cn/images/base/footer_logo.png",
       "website": "https://www.legendstar.com.cn/",
-      "fetched_at": "2026-11-11T08:25:14+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 19541,
-      "path": "data/views/assets/logos/legend-star.png"
+      "fetched_at": "2026-11-12T05:31:03+00:00",
+      "content_type": "image/png",
+      "bytes": 22901,
+      "path": "data/views/assets/logos/legend-star.png",
+      "width": 320,
+      "height": 147
     },
     {
       "id": "leyan",
@@ -708,20 +721,23 @@
       "website": "https://www.leyantech.com/",
       "fetched_at": "2026-11-10T16:03:32+00:00",
       "content_type": "image/png",
-      "bytes": 7383,
+      "bytes": 12121,
       "path": "data/views/assets/logos/leyan.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "liblib",
       "status": "fetched",
       "source_url": "https://www.liblib.art/favicon.ico",
       "website": "https://www.liblib.art/",
-      "fetched_at": "2026-11-10T16:03:33+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 15406,
-      "path": "data/views/assets/logos/liblib.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:31:04+00:00",
+      "content_type": "image/png",
+      "bytes": 18773,
+      "path": "data/views/assets/logos/liblib.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "lige-wanwu",
@@ -733,11 +749,12 @@
       "status": "fetched",
       "source_url": "https://www.limxdynamics.com/favicon.ico",
       "website": "https://www.limxdynamics.com/",
-      "fetched_at": "2026-11-10T16:03:42+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 1250,
-      "path": "data/views/assets/logos/limx.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:17:21+00:00",
+      "content_type": "image/png",
+      "bytes": 38115,
+      "path": "data/views/assets/logos/limx.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "longriver",
@@ -751,21 +768,22 @@
       "source_url": "https://www.luchentech.com/favicon.ico",
       "website": "https://www.luchentech.com/",
       "fetched_at": "2026-11-10T16:03:34+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/luchentech.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 39752,
+      "path": "data/views/assets/logos/luchentech.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "manus",
       "status": "fetched",
-      "source_url": "https://manus.im/apple-icon.png?apple-icon.153es_5lvwth1.png",
-      "website": "https://manus.im/",
-      "fetched_at": "2026-11-10T16:03:40+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 4942,
-      "path": "data/views/assets/logos/manus.png",
-      "reason": "already_fetched"
+      "bytes": 19610,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/manus.png"
     },
     {
       "id": "matwings",
@@ -776,29 +794,31 @@
       "content_type": "image/svg+xml",
       "bytes": 5483,
       "path": "data/views/assets/logos/matwings.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 96,
+      "height": 21
     },
     {
       "id": "megarobo",
       "status": "fetched",
-      "source_url": "https://www.megarobo.com/assets/addons/cms/frontend/img/logo2.svg",
-      "website": "https://www.megarobo.com/",
-      "fetched_at": "2026-11-10T16:03:37+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/svg+xml",
       "bytes": 872,
-      "path": "data/views/assets/logos/megarobo.svg",
-      "reason": "already_fetched"
+      "width": 30,
+      "height": 30,
+      "path": "data/views/assets/logos/megarobo.svg"
     },
     {
       "id": "metasota",
       "status": "fetched",
+      "path": "data/views/assets/logos/metasota.png",
       "source_url": "https://metasota.ai/favicon.ico",
       "website": "https://metasota.ai/",
-      "fetched_at": "2026-11-10T16:06:11+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 3126,
-      "path": "data/views/assets/logos/metasota.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:20:19+00:00",
+      "content_type": "image/png",
+      "bytes": 29703,
+      "width": 256,
+      "height": 256
     },
     {
       "id": "metax",
@@ -806,37 +826,36 @@
       "source_url": "https://www.metax-tech.com/favicon.ico",
       "website": "https://www.metax-tech.com/",
       "fetched_at": "2026-11-10T16:03:37+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/metax.ico",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "microport-medbot",
-      "status": "skipped",
-      "reason": "no_website"
+      "content_type": "image/png",
+      "bytes": 23627,
+      "path": "data/views/assets/logos/metax.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "minimax",
       "status": "fetched",
-      "source_url": "https://www.minimax.io/favicon.ico",
+      "source_url": "https://filecdn.minimax.chat/public/58eca777-e31f-448a-9823-e2220e49b426.png",
       "website": "https://www.minimax.io/",
-      "fetched_at": "2026-11-10T16:03:44+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4286,
-      "path": "data/views/assets/logos/minimax.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:17:26+00:00",
+      "content_type": "image/png",
+      "bytes": 46238,
+      "path": "data/views/assets/logos/minimax.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "modelbest",
       "status": "fetched",
       "source_url": "https://www.modelbest.cn/modelbest/4.CkXvbXzi.webp",
       "website": "https://www.modelbest.cn/en/",
-      "fetched_at": "2026-11-10T16:03:39+00:00",
-      "content_type": "image/webp",
-      "bytes": 4718,
-      "path": "data/views/assets/logos/modelbest.webp",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:31:06+00:00",
+      "content_type": "image/png",
+      "bytes": 52971,
+      "path": "data/views/assets/logos/modelbest.png",
+      "width": 320,
+      "height": 115
     },
     {
       "id": "monolith",
@@ -847,66 +866,72 @@
     {
       "id": "moonshot",
       "status": "fetched",
-      "source_url": "https://www.moonshot.cn/favicon.ico",
+      "source_url": "https://statics.kimi.ai/moonshot-ai/favicon.ico",
       "website": "https://www.moonshot.cn/",
-      "fetched_at": "2026-11-10T16:03:45+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 3310,
-      "path": "data/views/assets/logos/moonshot.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:31:10+00:00",
+      "content_type": "image/png",
+      "bytes": 42500,
+      "path": "data/views/assets/logos/moonshot.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "moore-threads",
       "status": "fetched",
-      "source_url": "https://www.mthreads.com/favicon/apple-icon-57x57.png",
+      "source_url": "https://www.mthreads.com/favicon/apple-icon-152x152.png",
       "website": "https://www.mthreads.com/",
-      "fetched_at": "2026-11-10T16:03:40+00:00",
+      "fetched_at": "2026-11-12T05:31:08+00:00",
       "content_type": "image/png",
-      "bytes": 5155,
+      "bytes": 38203,
       "path": "data/views/assets/logos/moore-threads.png",
-      "reason": "already_fetched"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "mpci",
       "status": "fetched",
-      "source_url": "https://www.mpc.vc/favicon.ico",
+      "source_url": "https://www.mpc.vc/wp-content/uploads/2024/07/2024070100033793.png",
       "website": "https://www.mpc.vc/",
-      "fetched_at": "2026-11-11T06:04:04+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 495,
-      "path": "data/views/assets/logos/mpci.png"
+      "fetched_at": "2026-11-12T05:31:12+00:00",
+      "content_type": "image/png",
+      "bytes": 61828,
+      "path": "data/views/assets/logos/mpci.png",
+      "width": 320,
+      "height": 173
     },
     {
       "id": "nebulon-ventures",
       "status": "fetched",
-      "source_url": "https://nebulonvc.com/assets/nebulon-logo.png",
+      "source_url": "https://nebulonvc.com/assets/nebula.webp",
       "website": "https://nebulonvc.com/",
-      "fetched_at": "2026-11-11T06:04:06+00:00",
+      "fetched_at": "2026-11-12T05:31:19+00:00",
       "content_type": "image/png",
-      "bytes": 81992,
-      "path": "data/views/assets/logos/nebulon-ventures.png"
+      "bytes": 49768,
+      "path": "data/views/assets/logos/nebulon-ventures.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "noematrix",
       "status": "fetched",
-      "source_url": "https://www.noematrix.ai/favicon/apple-icon-57x57.png",
+      "source_url": "https://www.noematrix.ai/favicon/apple-icon-152x152.png",
       "website": "https://www.noematrix.ai/",
-      "fetched_at": "2026-11-10T16:03:46+00:00",
+      "fetched_at": "2026-11-12T05:31:32+00:00",
       "content_type": "image/png",
-      "bytes": 4627,
+      "bytes": 27599,
       "path": "data/views/assets/logos/noematrix.png",
-      "reason": "already_fetched"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "nullmax",
       "status": "fetched",
-      "source_url": "https://www.nullmax.ai/favicon.ico",
-      "website": "https://www.nullmax.ai",
-      "fetched_at": "2026-11-10T16:03:48+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 59582,
-      "path": "data/views/assets/logos/nullmax.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 21183,
+      "width": 320,
+      "height": 123,
+      "path": "data/views/assets/logos/nullmax.png"
     },
     {
       "id": "oriental-fortune",
@@ -916,13 +941,12 @@
     {
       "id": "plaud",
       "status": "fetched",
-      "source_url": "https://www.plaud.ai/cdn/shop/files/plaud-fa.png?crop=center&height=180&v=1765790183&width=180",
-      "website": "https://www.plaud.ai/",
-      "fetched_at": "2026-11-10T16:04:09+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 9152,
-      "path": "data/views/assets/logos/plaud.png",
-      "reason": "already_fetched"
+      "bytes": 14248,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/plaud.png"
     },
     {
       "id": "powerlaw",
@@ -930,10 +954,12 @@
       "source_url": "https://www.milvai.cn/favicon.ico",
       "website": "https://www.milvai.cn/",
       "fetched_at": "2026-11-10T16:03:44+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 2100,
+      "content_type": "image/png",
+      "bytes": 17335,
       "path": "data/views/assets/logos/powerlaw.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "puhua-capital",
@@ -951,9 +977,11 @@
       "source_url": "https://www.qimingvc.com/sites/default/files/favicon_1.ico",
       "website": "https://www.qimingvc.com/cn/",
       "fetched_at": "2026-11-11T06:04:08+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/qiming.ico"
+      "content_type": "image/png",
+      "bytes": 54250,
+      "path": "data/views/assets/logos/qiming.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "qingcheng-ai",
@@ -961,10 +989,12 @@
       "source_url": "https://www.qc-ai.cn/favicon.ico",
       "website": "https://www.qc-ai.cn/",
       "fetched_at": "2026-11-10T16:03:44+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/qingcheng-ai.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 44195,
+      "path": "data/views/assets/logos/qingcheng-ai.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "quickcep",
@@ -972,28 +1002,34 @@
       "source_url": "https://www.quickcep.cn/-/dam/assets/organization_jz3cv0--main-version/eyJfcmFpbHMiOnsiZGF0YSI6eyJpZCI6MTcyMjEsInBhdGgiOiJzaGFyZS1pY29uIiwidGltZXN0YW1wIjoiMjAyNi0wMy0xMlQxMzo1Mjo0MS4yMDUrMDg6MDAiLCJ0b2tlbiI6IiJ9LCJleHAiOiIyMDI2LTExLTEzVDE1OjU5OjU5Ljk5OVoiLCJwdXIiOiJvcmdhbml6YXRpb25fanozY3YwLS1tYWluLXZlcnNpb24ifX0--1bbdb34b77a9b62518a73c4bd6d111886615230afe81c5ba5fe013b26a382e8d/share-icon?size=_128x128_preview",
       "website": "https://www.quickcep.cn/",
       "fetched_at": "2026-11-10T16:03:47+00:00",
-      "content_type": "image/webp",
-      "bytes": 27124,
-      "path": "data/views/assets/logos/quickcep.webp",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 16665,
+      "path": "data/views/assets/logos/quickcep.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "quicktron",
       "status": "fetched",
-      "source_url": "https://www.quicktron.com/favicon.ico",
-      "website": "https://www.quicktron.com",
-      "fetched_at": "2026-11-10T16:03:53+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/quicktron.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 36522,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/quicktron.png"
     },
     {
       "id": "recurrent-ai",
-      "status": "skipped",
-      "reason": "homepage_failed",
+      "status": "fetched",
       "website": "https://www.rcrai.com/",
-      "detail": "HTTPError"
+      "source_url": "https://www.rcrai.com/Public/Uploads/uploadfile/images/20260323/salesmate-logo-968.png",
+      "fetched_at": "2026-11-12T05:26:22+00:00",
+      "content_type": "image/png",
+      "bytes": 28328,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/recurrent-ai.png"
     },
     {
       "id": "robotera",
@@ -1002,27 +1038,11 @@
       "website": "https://www.robotera.com/en/",
       "fetched_at": "2026-11-10T16:03:54+00:00",
       "content_type": "image/png",
-      "bytes": 2197,
+      "bytes": 18958,
       "path": "data/views/assets/logos/robotera.png",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "shanghai-ai-lab",
-      "status": "fetched",
-      "source_url": "https://www.shlab.org.cn/static/asset/img/favicon.ico",
-      "website": "https://www.shlab.org.cn",
-      "fetched_at": "2026-11-10T16:03:47+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 1150,
-      "path": "data/views/assets/logos/shanghai-ai-lab.ico",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "sharge",
-      "status": "skipped",
-      "reason": "no_usable_image",
-      "website": "https://www.shargetech.com/",
-      "detail": "URLError"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "shengshu",
@@ -1030,32 +1050,22 @@
       "source_url": "https://www.genspi.com/favicon.ico",
       "website": "https://www.genspi.com/zh/",
       "fetched_at": "2026-11-10T16:03:56+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 40378,
+      "content_type": "image/png",
+      "bytes": 46566,
       "path": "data/views/assets/logos/shengshu.png",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "shengsuanyun",
-      "status": "fetched",
-      "source_url": "https://www.shengsuanyun.com/favicon.ico",
-      "website": "https://www.shengsuanyun.com/",
-      "fetched_at": "2026-11-10T16:03:56+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 18890,
-      "path": "data/views/assets/logos/shengsuanyun.ico",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "shulex",
       "status": "fetched",
-      "source_url": "https://www.shulex.com/assets/brand/icons/apple-touch-icon-180-v1.png",
-      "website": "https://www.shulex.com/",
-      "fetched_at": "2026-11-10T16:03:50+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 6606,
-      "path": "data/views/assets/logos/shulex.png",
-      "reason": "already_fetched"
+      "bytes": 17522,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/shulex.png"
     },
     {
       "id": "shunwei",
@@ -1064,19 +1074,20 @@
       "website": "https://shunwei.com/",
       "fetched_at": "2026-11-11T06:04:07+00:00",
       "content_type": "image/png",
-      "bytes": 4289,
-      "path": "data/views/assets/logos/shunwei.png"
+      "bytes": 77734,
+      "path": "data/views/assets/logos/shunwei.png",
+      "width": 181,
+      "height": 320
     },
     {
       "id": "siliconflow",
       "status": "fetched",
-      "source_url": "https://www.siliconflow.cn/logo-new.svg",
-      "website": "https://www.siliconflow.cn/",
-      "fetched_at": "2026-11-10T16:03:48+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/svg+xml",
       "bytes": 8015,
-      "path": "data/views/assets/logos/siliconflow.svg",
-      "reason": "already_fetched"
+      "width": 156,
+      "height": 32,
+      "path": "data/views/assets/logos/siliconflow.svg"
     },
     {
       "id": "smic-juyuan",
@@ -1089,19 +1100,23 @@
       "source_url": "https://soulcapital.com/html/images/logo.ico",
       "website": "https://soulcapital.com/index.html",
       "fetched_at": "2026-11-11T06:04:11+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 11118,
-      "path": "data/views/assets/logos/soul-capital.ico"
+      "content_type": "image/png",
+      "bytes": 16711,
+      "path": "data/views/assets/logos/soul-capital.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "source-code",
       "status": "fetched",
-      "source_url": "https://cdn.sourcecodecap.com/wp-content/uploads/2021/10/Bota_Logo1013-ai.png",
+      "source_url": "https://cdn.sourcecodecap.com/wp-content/uploads/2019/12/36.png",
       "website": "https://sourcecodecap.com/",
-      "fetched_at": "2026-11-11T06:04:13+00:00",
+      "fetched_at": "2026-11-12T05:31:15+00:00",
       "content_type": "image/png",
-      "bytes": 18943,
-      "path": "data/views/assets/logos/source-code.png"
+      "bytes": 7105,
+      "path": "data/views/assets/logos/source-code.png",
+      "width": 631,
+      "height": 162
     },
     {
       "id": "spirit-ai",
@@ -1109,10 +1124,12 @@
       "source_url": "https://www.spirit-ai.com/templates/dist/images/favicon.ico",
       "website": "https://www.spirit-ai.com/",
       "fetched_at": "2026-11-10T16:04:02+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/spirit-ai.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 52222,
+      "path": "data/views/assets/logos/spirit-ai.png",
+      "reason": "already_fetched",
+      "width": 320,
+      "height": 130
     },
     {
       "id": "stepfun",
@@ -1121,41 +1138,45 @@
       "website": "https://www.stepfun.com/",
       "fetched_at": "2026-11-10T16:03:50+00:00",
       "content_type": "image/svg+xml",
-      "bytes": 773,
+      "bytes": 776,
       "path": "data/views/assets/logos/stepfun.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 20,
+      "height": 20
     },
     {
       "id": "synyi",
       "status": "fetched",
-      "source_url": "https://www.synyi.com/static/images/home/colorLogo.png",
+      "source_url": "https://s3.cn-north-1.amazonaws.com.cn/static.synyi.com/website/home/Banner/SZYN/SZYN-MAIN.png",
       "website": "https://www.synyi.com",
-      "fetched_at": "2026-11-10T16:03:50+00:00",
+      "fetched_at": "2026-11-12T05:31:19+00:00",
       "content_type": "image/png",
-      "bytes": 4929,
+      "bytes": 69650,
       "path": "data/views/assets/logos/synyi.png",
-      "reason": "already_fetched"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "szvc",
       "status": "fetched",
-      "source_url": "https://www.szvc.com.cn/static/favicon.ico",
+      "source_url": "https://www.szvc.com.cn/uploads/2025-03-28/da540ea7-3b53-4f51-aeb3-caeec2b528921743143540091.png",
       "website": "https://www.szvc.com.cn/",
-      "fetched_at": "2026-11-11T08:24:54+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4286,
-      "path": "data/views/assets/logos/szvc.ico"
+      "fetched_at": "2026-11-12T05:31:22+00:00",
+      "content_type": "image/png",
+      "bytes": 25784,
+      "path": "data/views/assets/logos/szvc.png",
+      "width": 397,
+      "height": 157
     },
     {
       "id": "tabcut",
       "status": "fetched",
-      "source_url": "https://assert.tabcut.com/public/images/logo.png",
-      "website": "https://www.tabcut.com/",
-      "fetched_at": "2026-11-10T16:03:59+00:00",
+      "fetched_at": "2026-11-12T07:19:41+00:00",
       "content_type": "image/png",
-      "bytes": 676,
-      "path": "data/views/assets/logos/tabcut.png",
-      "reason": "already_fetched"
+      "bytes": 23394,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/tabcut.png"
     },
     {
       "id": "tars",
@@ -1167,24 +1188,24 @@
     {
       "id": "tec-do",
       "status": "fetched",
-      "source_url": "https://www.tec-do.com/templates/image/favicon.ico",
-      "website": "https://www.tec-do.com/",
-      "fetched_at": "2026-11-10T16:04:01+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 192,
-      "path": "data/views/assets/logos/tec-do.png",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 13080,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/tec-do.png"
     },
     {
       "id": "timi-robot",
       "status": "fetched",
-      "source_url": "http://www.tmirob.com/images/favicon.ico",
+      "source_url": "http://www.tmirob.com/uploads/images/a039fb8698872d9f81540d92b42af6a1.png",
       "website": "http://www.tmirob.com/",
-      "fetched_at": "2026-11-10T16:03:54+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 4286,
-      "path": "data/views/assets/logos/timi-robot.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T05:31:20+00:00",
+      "content_type": "image/png",
+      "bytes": 28590,
+      "path": "data/views/assets/logos/timi-robot.png",
+      "width": 1686,
+      "height": 458
     },
     {
       "id": "today-ai",
@@ -1193,9 +1214,11 @@
       "website": "https://today.ai/",
       "fetched_at": "2026-11-10T16:05:55+00:00",
       "content_type": "image/png",
-      "bytes": 6300,
+      "bytes": 5522,
       "path": "data/views/assets/logos/today-ai.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "trumed",
@@ -1203,37 +1226,21 @@
       "source_url": "https://www.trumed-inv.com/favicon.ico",
       "website": "https://www.trumed-inv.com/",
       "fetched_at": "2026-11-11T06:04:10+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/trumed.ico"
-    },
-    {
-      "id": "udit",
-      "status": "skipped",
-      "reason": "no_usable_image",
-      "website": "https://www.utopilot.com.cn/"
-    },
-    {
-      "id": "uii",
-      "status": "fetched",
-      "source_url": "https://www.uii-ai.com/assets/imgs/home/favicon.ico?v=1",
-      "website": "https://www.uii-ai.com",
-      "fetched_at": "2026-11-10T16:04:05+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 3380,
-      "path": "data/views/assets/logos/uii.png",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 51626,
+      "path": "data/views/assets/logos/trumed.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "uls-robotics",
       "status": "fetched",
-      "source_url": "https://www.ulsrobotics.com/favicon.ico",
-      "website": "https://www.ulsrobotics.com/",
-      "fetched_at": "2026-11-10T16:04:03+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 558,
-      "path": "data/views/assets/logos/uls-robotics.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 25272,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/uls-robotics.png"
     },
     {
       "id": "unitree",
@@ -1242,9 +1249,11 @@
       "website": "https://www.unitree.com/",
       "fetched_at": "2026-11-10T16:03:59+00:00",
       "content_type": "image/svg+xml",
-      "bytes": 578,
+      "bytes": 620,
       "path": "data/views/assets/logos/unitree.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 111,
+      "height": 85
     },
     {
       "id": "vast",
@@ -1253,10 +1262,11 @@
       "website": "https://www.vastworld.ai/",
       "fetched_at": "2026-11-10T16:04:09+00:00",
       "content_type": "image/png",
-      "bytes": 6594,
+      "bytes": 10181,
       "path": "data/views/assets/logos/vast.png",
       "reason": "already_fetched",
-      "detail": "URLError"
+      "width": 256,
+      "height": 256
     },
     {
       "id": "viaim",
@@ -1264,26 +1274,22 @@
       "source_url": "https://www.viaim.ai/favicon.ico",
       "website": "https://www.viaim.ai/",
       "fetched_at": "2026-11-10T16:04:04+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 3082,
+      "content_type": "image/png",
+      "bytes": 21391,
       "path": "data/views/assets/logos/viaim.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "westwell",
       "status": "fetched",
-      "source_url": "https://cdn.westwell-lab.com/website/assets/logo.png?x-oss-process=image/format,webp/quality,q_100&v=1.0.0",
-      "website": "https://www.westwell-lab.com/",
-      "fetched_at": "2026-11-10T16:04:08+00:00",
-      "content_type": "image/webp",
-      "bytes": 10914,
-      "path": "data/views/assets/logos/westwell.webp",
-      "reason": "already_fetched"
-    },
-    {
-      "id": "winverse-ai",
-      "status": "skipped",
-      "reason": "no_website"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 41329,
+      "width": 480,
+      "height": 287,
+      "path": "data/views/assets/logos/westwell.png"
     },
     {
       "id": "x-square",
@@ -1294,18 +1300,19 @@
       "content_type": "image/svg+xml",
       "bytes": 1142,
       "path": "data/views/assets/logos/x-square.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 95,
+      "height": 66
     },
     {
       "id": "xiaoduo",
       "status": "fetched",
-      "source_url": "https://www.xiaoduoai.com/assets/addons/ldcms/ldcms2024/images/favicon.ico",
-      "website": "https://www.xiaoduoai.com/",
-      "fetched_at": "2026-11-10T16:04:03+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/xiaoduo.ico",
-      "reason": "already_fetched"
+      "fetched_at": "2026-11-12T07:19:41+00:00",
+      "content_type": "image/png",
+      "bytes": 22661,
+      "width": 256,
+      "height": 256,
+      "path": "data/views/assets/logos/xiaoduo.png"
     },
     {
       "id": "xmov",
@@ -1313,10 +1320,12 @@
       "source_url": "https://www.xmov.ai/favicon.ico",
       "website": "https://www.xmov.ai/",
       "fetched_at": "2026-11-10T16:04:04+00:00",
-      "content_type": "image/vnd.microsoft.icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/xmov.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 34096,
+      "path": "data/views/assets/logos/xmov.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "xtalpi",
@@ -1327,7 +1336,9 @@
       "content_type": "image/svg+xml",
       "bytes": 22262,
       "path": "data/views/assets/logos/xtalpi.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 89,
+      "height": 89
     },
     {
       "id": "xverse",
@@ -1335,10 +1346,12 @@
       "source_url": "https://www.xverse.cn/favicon.ico",
       "website": "https://www.xverse.cn",
       "fetched_at": "2026-11-10T16:04:06+00:00",
-      "content_type": "image/x-icon",
-      "bytes": 16958,
-      "path": "data/views/assets/logos/xverse.ico",
-      "reason": "already_fetched"
+      "content_type": "image/png",
+      "bytes": 20645,
+      "path": "data/views/assets/logos/xverse.png",
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "yingdao",
@@ -1349,7 +1362,9 @@
       "content_type": "image/svg+xml",
       "bytes": 1553,
       "path": "data/views/assets/logos/yingdao.svg",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 30,
+      "height": 30
     },
     {
       "id": "yunqi",
@@ -1358,8 +1373,10 @@
       "website": "https://yunqi.vc/",
       "fetched_at": "2026-11-11T06:04:10+00:00",
       "content_type": "image/svg+xml",
-      "bytes": 555,
-      "path": "data/views/assets/logos/yunqi.svg"
+      "bytes": 594,
+      "path": "data/views/assets/logos/yunqi.svg",
+      "width": 64,
+      "height": 40
     },
     {
       "id": "zhenfund",
@@ -1368,8 +1385,10 @@
       "website": "https://www.zhenfund.com/",
       "fetched_at": "2026-11-11T06:04:16+00:00",
       "content_type": "image/png",
-      "bytes": 5953,
-      "path": "data/views/assets/logos/zhenfund.png"
+      "bytes": 13028,
+      "path": "data/views/assets/logos/zhenfund.png",
+      "width": 256,
+      "height": 256
     },
     {
       "id": "zhipu",
@@ -1378,9 +1397,11 @@
       "website": "https://www.zhipuai.cn/",
       "fetched_at": "2026-11-10T16:04:07+00:00",
       "content_type": "image/png",
-      "bytes": 1035,
+      "bytes": 11372,
       "path": "data/views/assets/logos/zhipu.png",
-      "reason": "already_fetched"
+      "reason": "already_fetched",
+      "width": 256,
+      "height": 256
     }
   ]
 }

@@ -4,20 +4,20 @@
   "latest_operating_check": "2026-11-12",
   "latest_investment_firm_check": "2026-11-11",
   "counts": {
-    "organizations": 245,
-    "companies": 245,
-    "operating_organizations": 198,
+    "organizations": 238,
+    "companies": 238,
+    "operating_organizations": 191,
     "investment_firms": 47,
-    "first": 104,
-    "watchlist": 23,
+    "first": 98,
+    "watchlist": 22,
     "later": 118
   },
   "statistics": {
     "operating_organizations": {
-      "organizations": 198,
+      "organizations": 191,
       "categories": 10,
-      "source_records": 1473,
-      "recruitment_links": 129,
+      "source_records": 1403,
+      "recruitment_links": 126,
       "public_recruitment_emails": 42
     },
     "investment_firms": {
@@ -2870,35 +2870,6 @@
       "investment_status": "partial"
     },
     {
-      "id": "deepblue",
-      "name": "深兰科技",
-      "aliases": [
-        "DeepBlue",
-        "深兰",
-        "深兰人工智能科技(上海)股份有限公司",
-        "深兰科技（上海）有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "计算机视觉、智能机器人与自动驾驶",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "watchlist",
-        "rationale": "多线布局AI装备的新进公司，2025年获浦东创投Pre-IPO投资；业务线较分散、公开财务与客户验证有限，先列观察而非第一波。",
-        "source_ids": [
-          "s05",
-          "s06"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/deepblue.json",
-      "markdown_path": "data/views/companies/deepblue.md",
-      "category_id": "06",
-      "category_name": "企业与垂直行业软件",
-      "investment_status": "confirmed_disclosure"
-    },
-    {
       "id": "deepdraw",
       "name": "深绘智能 / Deepdraw",
       "aliases": [
@@ -3905,33 +3876,6 @@
       "markdown_path": "data/views/companies/iluvatar-corex.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
-      "investment_status": "partial"
-    },
-    {
-      "id": "im-motors",
-      "name": "智己汽车",
-      "aliases": [
-        "IM Motors",
-        "智己",
-        "智己汽车科技有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "高端智能电动车与智能驾驶/座舱",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "上汽高端智能电动车单元，2024年完成94亿元B轮，智能驾驶/座舱与产品岗位密集；作为有独立法人边界的新进单元列入第一波。",
-        "source_ids": [
-          "s05"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/im-motors.json",
-      "markdown_path": "data/views/companies/im-motors.md",
-      "category_id": "08",
-      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -5074,35 +5018,6 @@
       "investment_status": "confirmed_disclosure"
     },
     {
-      "id": "microport-medbot",
-      "name": "微创机器人",
-      "aliases": [
-        "MicroPort MedBot",
-        "MedBot",
-        "图迈",
-        "上海微创医疗机器人(集团)股份有限公司",
-        "上海微创医疗机器人（集团）股份有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "手术机器人",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "公司已于2021年11月2日在香港联交所主板上市（02252.HK），上市是已核实的公开事实。编辑归类上仍列为创业公司，在档案中以「已上市」标记披露，不因其上市而改列现有巨头。",
-        "source_ids": [
-          "s07"
-        ],
-        "labelled_at": "2026-11-11"
-      },
-      "json_path": "data/companies/microport-medbot.json",
-      "markdown_path": "data/views/companies/microport-medbot.md",
-      "category_id": "08",
-      "category_name": "具身智能与机器人",
-      "investment_status": "confirmed_disclosure"
-    },
-    {
       "id": "midea-building-technologies",
       "name": "美的楼宇科技",
       "aliases": [
@@ -5872,48 +5787,6 @@
       "investment_status": "confirmed_disclosure"
     },
     {
-      "id": "shanghai-ai-lab",
-      "name": "上海人工智能实验室",
-      "aliases": [
-        "Shanghai AI Laboratory",
-        "Shanghai AI Lab",
-        "书生",
-        "InternLM",
-        "浦江实验室",
-        "上海AI实验室"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "通用与多模态大模型、具身智能、AI for Science",
-      "checked_at": "2026-11-03",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "上海市政府支持下成立的研究型AI机构，书生大模型与开源评测体系影响力大，属于研究型新进主体；列为第一波。",
-        "source_ids": [
-          "s06",
-          "s07"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/shanghai-ai-lab.json",
-      "markdown_path": "data/views/companies/shanghai-ai-lab.md",
-      "category_id": "01",
-      "category_name": "基础模型",
-      "investment_status": "not_found",
-      "organizational_context": {
-        "form": "independent_organization",
-        "parent_platform_ids": [],
-        "relationship_status": "confirmed",
-        "summary": "由上海人工智能创新中心发起设立的独立人工智能研究机构，2020年7月揭牌，非企业内部实验室；不以股权融资为运营方式。",
-        "source_ids": [
-          "s06",
-          "s07"
-        ],
-        "checked_at": "2026-11-03"
-      }
-    },
-    {
       "id": "shanghai-electric",
       "name": "上海电气",
       "aliases": [
@@ -6024,38 +5897,6 @@
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
       "investment_status": "confirmed_disclosure"
-    },
-    {
-      "id": "shengsuanyun",
-      "name": "胜算云 SSYCloud",
-      "aliases": [
-        "胜算云",
-        "SSYCloud",
-        "ShengSuanYun",
-        "上海胜算速惠云科技有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "多模型API与多云算力服务、企业AI网关，以及LoomLoom工作流规模化执行与交易平台",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "按官网2025模型中心与2026企业网关、LoomLoom及OPC产品活动列为AI基础设施与工作流服务研究候选；这是业务分类，不表示技术领先、投资回报或个人适配。",
-        "source_ids": [
-          "s01",
-          "s02",
-          "s03",
-          "s06",
-          "s11"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/shengsuanyun.json",
-      "markdown_path": "data/views/companies/shengsuanyun.md",
-      "category_id": "02",
-      "category_name": "算力与基础设施",
-      "investment_status": "partial"
     },
     {
       "id": "shoplazza",
@@ -6706,61 +6547,6 @@
       "markdown_path": "data/views/companies/ucloud.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
-      "investment_status": "confirmed_disclosure"
-    },
-    {
-      "id": "udit",
-      "name": "友道智途",
-      "aliases": [
-        "UDIT",
-        "上海友道智途科技有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "L4/L3商用车自动驾驶与港口物流",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "上汽商用车智能驾驶单元，聚焦港口/厂区L4与干线物流，2021年以6.43亿元专项基金设立；作为有新进边界的单元列入第一波。",
-        "source_ids": [
-          "s06",
-          "s07"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/udit.json",
-      "markdown_path": "data/views/companies/udit.md",
-      "category_id": "08",
-      "category_name": "具身智能与机器人",
-      "investment_status": "not_found"
-    },
-    {
-      "id": "uii",
-      "name": "联影智能",
-      "aliases": [
-        "United Imaging Intelligence",
-        "UII",
-        "上海联影智能医疗科技有限公司"
-      ],
-      "organization_type": "operating_organization",
-      "focus": "医学影像AI与影像大模型",
-      "checked_at": "2026-11-11",
-      "targeting": {
-        "kind": "editorial_assessment",
-        "player_group": "new_entrant",
-        "wave": "first",
-        "rationale": "联影集团旗下医疗AI公司，2025年完成10亿元A轮，影像大模型与临床落地岗位对口；列为第一波。",
-        "source_ids": [
-          "s06",
-          "s07"
-        ],
-        "labelled_at": "2026-11-03"
-      },
-      "json_path": "data/companies/uii.json",
-      "markdown_path": "data/views/companies/uii.md",
-      "category_id": "06",
-      "category_name": "企业与垂直行业软件",
       "investment_status": "confirmed_disclosure"
     },
     {

@@ -6,7 +6,7 @@
 
 [大厂项目与拆分机构](corporate-ventures.md) · [母平台排查清单](incumbents.md)。有明确目标的内部团队、实验室或项目也可单列；按组织形态和母平台关系区分，不一律视为独立公司。
 
-当前圈选 **104 个第一波候选**：95 个经营型机构、9 个投资机构；另有 23 个观察候选。
+当前圈选 **98 个第一波候选**：89 个经营型机构、9 个投资机构；另有 22 个观察候选。
 
 这是基于现有材料的编辑性寻源名单，不是全市场清单、机构质量排名、成立年份证明或招聘承诺。不设统一成立年份门槛；上市也不单独决定新进／已有。标签整理日期与实际核查日期分开记录。
 
@@ -25,7 +25,6 @@
 | [MiniMax](companies/minimax.md) | 01 | 已核验披露 | 2026-11-11 |
 | [面壁智能 ModelBest](companies/modelbest.md) | 01 | 部分核验／口径有限 | 2026-11-11 |
 | [月之暗面 Kimi](companies/moonshot.md) | 01 | 部分核验／口径有限 | 2026-11-11 |
-| [上海人工智能实验室](companies/shanghai-ai-lab.md) | 01 | 未找到可靠披露 | 2026-11-03 |
 | [阶跃星辰 StepFun](companies/stepfun.md) | 01 | 已核验披露 | 2026-11-11 |
 | [智谱 Z.ai](companies/zhipu.md) | 01 | 已核验披露 | 2026-11-11 |
 | [趋境科技 Approaching.AI](companies/approaching-ai.md) | 02 | 部分核验／口径有限 | 2026-11-11 |
@@ -39,7 +38,6 @@
 | [沐曦股份 MetaX](companies/metax.md) | 02 | 已核验披露 | 2026-11-11 |
 | [摩尔线程 Moore Threads](companies/moore-threads.md) | 02 | 部分核验／口径有限 | 2026-11-11 |
 | [清程极智 Qingcheng.AI](companies/qingcheng-ai.md) | 02 | 已核验披露 | 2026-11-11 |
-| [胜算云 SSYCloud](companies/shengsuanyun.md) | 02 | 部分核验／口径有限 | 2026-11-11 |
 | [硅基流动 SiliconFlow](companies/siliconflow.md) | 02 | 已核验披露 | 2026-11-11 |
 | [硅心科技 / aiXcoder](companies/aixcoder.md) | 03 | 部分核验／口径有限 | 2026-11-12 |
 | [Dify / LangGenius](companies/dify.md) | 03 | 已核验披露 | 2026-11-11 |
@@ -67,7 +65,6 @@
 | [幂律智能 / PowerLaw AI](companies/powerlaw.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [循环智能 / Recurrent AI](companies/recurrent-ai.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [森亿智能](companies/synyi.md) | 06 | 已核验披露 | 2026-11-12 |
-| [联影智能](companies/uii.md) | 06 | 已核验披露 | 2026-11-11 |
 | [西井科技](companies/westwell.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [影刀 / 杭州分叉智能](companies/yingdao.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [极睿科技 / Infimind](companies/infimind.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
@@ -85,19 +82,16 @@
 | [星海图](companies/galaxea.md) | 08 | 已核验披露 | 2026-11-12 |
 | [银河通用](companies/galbot.md) | 08 | 已核验披露 | 2026-11-12 |
 | [高仙机器人](companies/gaussian-robotics.md) | 08 | 已核验披露 | 2026-11-11 |
-| [智己汽车](companies/im-motors.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [图达通](companies/innovusion.md) | 08 | 已核验披露 | 2026-11-11 |
 | [苏州钧舵机器人](companies/jundo.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [擎朗智能](companies/keenon.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [开普勒机器人](companies/kepler-robotics.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [逐际动力](companies/limx.md) | 08 | 已核验披露 | 2026-11-11 |
-| [微创机器人](companies/microport-medbot.md) | 08 | 已核验披露 | 2026-11-11 |
 | [穹彻智能](companies/noematrix.md) | 08 | 已核验披露 | 2026-11-11 |
 | [快仓智能](companies/quicktron.md) | 08 | 已核验披露 | 2026-11-11 |
 | [星动纪元](companies/robotera.md) | 08 | 已核验披露 | 2026-11-12 |
 | [千寻智能](companies/spirit-ai.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [它石智航](companies/tars.md) | 08 | 已核验披露 | 2026-11-11 |
-| [友道智途](companies/udit.md) | 08 | 未找到可靠披露 | 2026-11-11 |
 | [傲鲨智能](companies/uls-robotics.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [宇树科技](companies/unitree.md) | 08 | 已核验披露 | 2026-11-11 |
 | [自变量机器人](companies/x-square.md) | 08 | 已核验披露 | 2026-11-11 |
@@ -143,7 +137,6 @@
 | [苏州艾吉威机器人](companies/agve.md) | 经营型机构 | 2011年成立的苏州本地AMR/无人叉车厂商，自研无反光板激光导航，属机器人赛道成长型企业；与快仓、擎朗口径一致归为新进。最新融资、收入规模本轮未核实，列 watchlist。 |
 | [鹿影科技 / Avolution.ai（历史项目）](companies/avolution.md) | 经营型机构 | 历史项目；并入MiniMax的报道未取得官方收购确认，现行独立主体及存续状态需核实。 |
 | [苏州中科类脑](companies/cas-brain-inspired-computing.md) | 经营型机构 | 尚未证实苏州具体主体与合肥中科类脑的对应关系；s01 只是未核实的通用入口，保留 unresolved／watchlist。 |
-| [深兰科技](companies/deepblue.md) | 经营型机构 | 多线布局AI装备的新进公司，2025年获浦东创投Pre-IPO投资；业务线较分散、公开财务与客户验证有限，先列观察而非第一波。 |
 | [苏州优科斯](companies/eucs.md) | 经营型机构 | 未检索到“苏州优科斯”及 eucs.com.cn 的可访问公开资料（官网连接失败），主体是否存在不明，保持 unresolved。 |
 | [稿定科技 / 稿定设计](companies/gaoding.md) | 经营型机构 | 现有材料主要呈现既有设计工具及相关业务，需区分新进AI机构与既有平台的AI扩展。 |
 | [视见科技](companies/imed.md) | 经营型机构 | s02 为深圳视见医疗报道，与原视见科技／苏州标签对应关系待核实；保留 watchlist，不先判断新进或已有玩家。 |

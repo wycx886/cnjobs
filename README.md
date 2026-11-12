@@ -30,7 +30,11 @@ dsh web
 
 安装后 DSH 会从包内的 `skills/` 读取 skill，并在系统提示里注明框架根目录，因此 Skill 中的 `data/…`、`tools/…` 相对路径始终指向已安装副本。
 
-Web 端在左侧栏新增 **CN Jobs** 导航项（与 Plugins / 账户额度 同一列），点击后主区域直接渲染本仓库生成的看板；会话区顶部另有 **CN Jobs** 标签页作为同一看板的会话内入口。看板由 host 半包把 `data/views/` 挂到 `/cnjobs/` 提供，数据与使用普通 clone 打开 `dashboard.html` 完全一致。卸载：
+Web 端在左侧栏新增 **中国AI机会索引** 导航项（与 Plugins / 账户额度 同一列），点击后主区域直接渲染线上看板；会话区顶部另有 **中国AI机会索引** 标签页作为同一看板的会话内入口。看板默认读取 GitHub Pages 的公开地址，插件自身的 host 半包仍把 `data/views/` 挂到 `/cnjobs/`，作为离线／本地入口。
+
+**3）网页版（无需安装）** — 看板公开部署在 GitHub Pages：<https://wycx886.github.io/cnjobs/>。维护者推送 `main` 后，`Deploy dashboard to GitHub Pages` 工作流会自动构建并部署；所有使用者刷新即最新，不需要重装插件。站点只发布 `data/`、`skills/`、`tools/`、`lib/` 与根入口文件，私人工作区和本地配置不会进入 Pages。
+
+卸载：
 
 ```bash
 dsh plugin --profile web remove cnjobs

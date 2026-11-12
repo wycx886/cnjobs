@@ -58,7 +58,7 @@ test('registers a sidebar row, its page and a view tab', async () => {
   assert.ok(row, 'must add a left-sidebar navigation row')
   assert.equal(row.meta.id, 'cnjobs')
   assert.equal(row.meta.order, 40)
-  assert.equal(row.meta.label(), 'CN Jobs')
+  assert.equal(row.meta.label(), '中国AI机会索引')
 
   const page = registrations.find((entry) => entry.meta.name === 'main')
   assert.ok(page, 'must route the main column for that panel key')
@@ -88,13 +88,13 @@ test('the sidebar page and the view tab render the dashboard iframe', async () =
   const pageWrapper = page.render({})
   const pageElement = pageWrapper.type(pageWrapper.props)
   assert.equal(pageElement.type, 'div')
-  assert.equal(pageElement.children[0].props.src, '/cnjobs/dashboard.html')
+  assert.equal(pageElement.children[0].props.src, 'https://wycx886.github.io/cnjobs/data/views/dashboard.html')
 
   const wrapper = view.render({})
   const element = wrapper.type(wrapper.props)
   assert.equal(element.type, 'div')
   const iframe = element.children[0]
   assert.equal(iframe.type, 'iframe')
-  assert.equal(iframe.props.src, '/cnjobs/dashboard.html')
+  assert.equal(iframe.props.src, 'https://wycx886.github.io/cnjobs/data/views/dashboard.html')
   assert.equal(iframe.props.style.width, '100%')
 })

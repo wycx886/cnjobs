@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_FILES = frozenset({
     ".gitignore", "AGENTS.md", "README.md",
     "LICENSE", "LICENSE.md",
+    "index.html",
     "package.json", "cordis.patch.yml",
 })
 PUBLIC_DIRS = frozenset({

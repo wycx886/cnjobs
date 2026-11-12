@@ -166,9 +166,9 @@ test('serves the generated dashboard and its logo assets', async () => {
   assert.match(page.headers['content-type'], /^text\/html/)
   assert.match(page.body().toString('utf8'), /<title>/)
 
-  const icon = await request('/cnjobs/assets/logos/deepseek.ico')
+  const icon = await request('/cnjobs/assets/logos/unitree.svg')
   assert.equal(icon.statusCode, 200)
-  assert.equal(icon.headers['content-type'], 'image/x-icon')
+  assert.equal(icon.headers['content-type'], 'image/svg+xml')
   assert.ok(icon.body().length > 0)
 })
 

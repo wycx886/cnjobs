@@ -37,7 +37,6 @@ LABELS = {
         "recent": "新兴机构", "new_generation": "新兴机构",
         "established": "成熟机构", "founding_unconfirmed": "成立待确认",
     },
-    "tiers": {"tier1": "Tier 1", "tier2": "Tier 2", "unlisted": "未列入"},
     "coverage_roles": {"main": "主要样本", "watchlist": "观察补充", "adjacent": "相关机构"},
     "funding": {
         "confirmed_disclosure": "已核验披露（非完整现股东表）", "partial": "部分核验",
@@ -334,6 +333,7 @@ button{font:inherit;color:inherit}
 .dir-sub{font-size:11px;color:var(--muted);letter-spacing:.06em;margin:4px 0 0;font-variant-numeric:tabular-nums}
 .sort-note{font-size:10.5px;color:var(--muted);margin:0}
 .org-cols{display:grid;grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px 130px;gap:24px;padding:14px 30px 10px 10px;border-bottom:1px solid var(--line);font-size:10px;letter-spacing:.16em;color:var(--muted)}
+.org-cols.no-meta{grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px}
 .sector-group{margin-top:34px}
 .sector-head{display:flex;align-items:baseline;gap:11px;border-bottom:1px solid var(--line);padding:0 10px 9px}
 .sh-icon{width:16px;height:16px;flex:0 0 auto;color:var(--accent-2);align-self:center}
@@ -348,6 +348,7 @@ button{font:inherit;color:inherit}
 .subhead h4{font-family:var(--sans);font-size:10.5px;font-weight:500;letter-spacing:.18em;margin:0;color:var(--ink-2)}
 .subhead .sub-count{font-size:9.5px;letter-spacing:.1em;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
 .org-row{position:relative;appearance:none;display:grid;grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px 130px;gap:24px;align-items:center;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);padding:15px 30px 15px 10px;cursor:pointer;color:var(--ink);overflow:hidden}
+.org-row.no-meta{grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px}
 .org-row::before{content:"";position:absolute;inset:0;z-index:0;background:var(--surface-2);transform:scaleX(0);transform-origin:left;transition:transform .38s cubic-bezier(.2,.7,.2,1)}
 .org-row:hover::before,.org-row:focus-visible::before{transform:scaleX(1)}
 .org-row:hover,.org-row:focus-visible{outline:0;box-shadow:inset 2px 0 0 var(--accent)}
@@ -364,10 +365,10 @@ button{font:inherit;color:inherit}
 .org-row:hover .org-name{color:var(--accent-2)}
 
 /* logos */
-.logo-frame{width:34px;height:34px;flex:0 0 auto;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;overflow:hidden;transition:transform .35s cubic-bezier(.2,.7,.2,1)}
+.logo-frame{--logo-base:34px;--logo-ar:1;width:calc(var(--logo-base) * max(1, min(var(--logo-ar), 2.2)));height:34px;flex:0 0 auto;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;overflow:hidden;transition:transform .35s cubic-bezier(.2,.7,.2,1),width .2s ease}
 .logo-frame img{width:100%;height:100%;object-fit:contain;padding:4px;background:#fff;display:block}
 .logo-frame .monogram{font-family:var(--serif);font-size:15px;color:var(--accent-2);line-height:1}
-.logo-frame.xl{width:76px;height:76px}
+.logo-frame.xl{--logo-base:76px;height:76px}
 .logo-frame.xl img{padding:10px}
 .logo-frame.xl .monogram{font-size:34px}
 
@@ -424,8 +425,6 @@ a.pill:hover{border-color:var(--ink);color:var(--ink)}
 .p-kicker{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:0 0 16px;font-size:10px;letter-spacing:.26em;color:var(--hero-muted)}
 .p-kicker .pk-class{color:var(--accent)}
 .p-kicker .pk-sep{display:inline-block;width:20px;height:1px;background:rgba(242,238,228,.32)}
-.p-tier{display:inline-flex;align-items:baseline;gap:6px;border:1px solid rgba(185,135,79,.46);border-radius:2px;padding:1px 7px;font-size:9.5px;letter-spacing:.16em;color:var(--accent);cursor:help}
-.p-tier span{font-size:8.5px;letter-spacing:.06em;color:var(--hero-muted)}
 .p-listed{display:inline-flex;align-items:baseline;gap:6px;border:1px solid rgba(127,174,154,.5);border-radius:2px;padding:1px 7px;font-size:9.5px;letter-spacing:.16em;color:var(--jade);cursor:help}
 .p-listed span{font-size:8.5px;letter-spacing:.06em;color:var(--hero-muted)}
 .p-focus .p-lead{margin:0;max-width:44em;font-size:15.5px;line-height:1.82;color:rgba(242,238,228,.86)}
@@ -584,10 +583,12 @@ footer a:hover{color:var(--accent-2)}
 @media (max-width:1180px){
   .org-cols{grid-template-columns:minmax(190px,1fr) minmax(0,1.8fr) 120px 110px;gap:16px}
   .org-row{grid-template-columns:minmax(190px,1fr) minmax(0,1.8fr) 120px 110px;gap:16px}
+  .org-cols.no-meta,.org-row.no-meta{grid-template-columns:minmax(190px,1fr) minmax(0,1.8fr) 120px}
 }
 @media (max-width:1080px){
   .org-cols{display:none}
   .org-row{grid-template-columns:minmax(0,1fr) auto;gap:4px 14px;padding:14px 26px 14px 8px}
+  .org-row.no-meta{grid-template-columns:minmax(0,1fr) auto}
   .cell-name{grid-column:1;grid-row:1}
   .cell-meta{grid-column:2;grid-row:1;justify-self:end;text-align:right}
   .org-desc{grid-column:1 / -1;grid-row:2}
@@ -623,7 +624,7 @@ footer a:hover{color:var(--accent-2)}
   .dir-head{display:block}
   .sort-note{margin-top:6px}
   .p-brand{gap:14px}
-  .logo-frame.xl{width:56px;height:56px}
+  .logo-frame.xl{--logo-base:56px;height:56px}
   .logo-frame.xl img{padding:7px}
   .logo-frame.xl .monogram{font-size:25px}
   .p-name{font-size:clamp(2rem,8.6vw,2.8rem)}
@@ -752,7 +753,7 @@ footer a:hover{color:var(--accent-2)}
               <pre><code>{
   "meta": { "default_class": "startups", "generated_from": [...] },
   "labels": {...},
-  "classes": [{ "id": "startups", "count": 102 }, ...],
+  "classes": [{ "id": "startups", "count": __STARTUPS__ }, ...],
   "taxonomy": {...},
   "logos": { "unitree": "assets/logos/unitree.svg" },
   "organizations": [
@@ -808,9 +809,7 @@ footer a:hover{color:var(--accent-2)}
   var LOGOS = DATA.logos || {};
   var COLLATOR = new Intl.Collator("zh-Hans-CN", { numeric: true, sensitivity: "base" });
   var L = DATA.labels;
-  var TIER_ORDER = ["tier1", "tier2", "unlisted"];
   var MATURITY_ORDER = ["established", "emerging", "founding_unconfirmed"];
-  var TIER_LABELS = { tier1: "Tier 1", tier2: "Tier 2", unlisted: "未列入" };
   var MATURITY_LABELS = { established: "成熟机构", emerging: "新兴机构", founding_unconfirmed: "成立待确认" };
   var MATURITY_MARKS = { established: "熟", emerging: "新", founding_unconfirmed: "待" };
   var MATURITY_BOUNDARY = {
@@ -850,7 +849,7 @@ footer a:hover{color:var(--accent-2)}
     },
     investors: {
       dir: "全部机构",
-      cols: ["名称", "投资方向", "阶段 · 成立", "编辑档位"],
+      cols: ["名称", "投资方向", "阶段 · 成立"],
       sectors: "点选类型卡片筛选下方机构，再次点击取消；卡片内数字为当前类别的机构数。"
     },
     unresolved: {
@@ -1033,11 +1032,6 @@ footer a:hover{color:var(--accent-2)}
     return ORGS.filter(function (org) { return org.class === id; });
   }
 
-  function tierKey(record) {
-    var level = record.tier && record.tier.level;
-    return TIER_ORDER.indexOf(level) !== -1 ? level : "unlisted";
-  }
-
   function maturityKey(record) {
     var group = record.group;
     if (group === "established") return "established";
@@ -1152,6 +1146,26 @@ footer a:hover{color:var(--accent-2)}
     }
     return '<span class="' + cls + '" aria-hidden="true"><span class="monogram">' + esc(mark) + "</span></span>";
   }
+
+  function markLogoAspect(img) {
+    if (!img || img.tagName !== "IMG" || !img.parentNode) return;
+    var frame = img.parentNode;
+    if (!frame.classList || !frame.classList.contains("logo-frame")) return;
+    var w = img.naturalWidth;
+    var h = img.naturalHeight;
+    if (!w || !h) return;
+    var ratio = w / h;
+    if (isFinite(ratio) && ratio > 0) frame.style.setProperty("--logo-ar", ratio.toFixed(3));
+  }
+
+  function syncLogoAspects(scope) {
+    if (!scope || !scope.querySelectorAll) return;
+    Array.prototype.forEach.call(scope.querySelectorAll(".logo-frame img"), markLogoAspect);
+  }
+
+  document.addEventListener("load", function (event) {
+    markLogoAspect(event.target);
+  }, true);
 
   document.addEventListener("error", function (event) {
     var img = event.target;
@@ -1723,11 +1737,12 @@ footer a:hover{color:var(--accent-2)}
     var third;
     var fourth;
     var descTitle;
-    if (state.cls === "investors") {
+    var isInvestors = state.cls === "investors";
+    if (isInvestors) {
       desc = record.focus || "—";
       descTitle = record.focus || "";
       third = record.stage ? stageText(record.stage) : (record.founded && record.founded.year != null ? record.founded.year + " 年成立" : "—");
-      fourth = tierLabel(record) || "未列入";
+      fourth = null;
     } else if (state.cls === "incumbents") {
       desc = record.products ? shorten(record.products, 46) : (record.focus || "—");
       descTitle = record.products || record.focus || "";
@@ -1739,11 +1754,12 @@ footer a:hover{color:var(--accent-2)}
       third = record.locations_text ? shorten(record.locations_text, 24) : "—";
       fourth = "人物 " + (record.people || []).length + " · 渠道 " + (record.channels || []).length;
     }
-    return '<button type="button" class="org-row" data-open="' + esc(record.id) + '">' +
+    var metaCell = fourth == null ? "" : '<span class="cell-meta">' + esc(fourth) + "</span>";
+    return '<button type="button" class="org-row' + (isInvestors ? " no-meta" : "") + '" data-open="' + esc(record.id) + '">' +
       '<span class="cell-name">' + logoHtml(org) + '<span class="org-name">' + esc(record.name) + "</span>" + listedMark(org) + "</span>" +
       '<span class="org-desc" title="' + esc(descTitle) + '">' + esc(desc) + "</span>" +
       '<span class="cell-loc">' + esc(third) + "</span>" +
-      '<span class="cell-meta">' + esc(fourth) + "</span>" +
+      metaCell +
       '<span class="row-arrow" aria-hidden="true">→</span>' +
       "</button>";
   }
@@ -1766,6 +1782,7 @@ footer a:hover{color:var(--accent-2)}
     dirTitleEl.textContent = chrome.dir;
     sectorsHintEl.textContent = chrome.sectors;
     directoryEl.dataset.class = state.cls;
+    orgColsEl.classList.toggle("no-meta", state.cls === "investors");
     orgColsEl.innerHTML = chrome.cols.map(function (text) { return "<span>" + esc(text) + "</span>"; }).join("");
   }
 
@@ -1802,6 +1819,7 @@ footer a:hover{color:var(--accent-2)}
       return '<section class="sector-group' + (state.cls === "investors" ? " maturity-group" : "") + '" aria-label="' + esc(section.info.name) + '">' +
         sectorHead(section.info, section.rows.length) + body + "</section>";
     }).join("");
+    syncLogoAspects(listEl);
   }
 
   function renderClass() {
@@ -1906,14 +1924,6 @@ footer a:hover{color:var(--accent-2)}
       out.push(link(channel.url, label(L.platforms, channel.platform) || channel.platform, "pill"));
     });
     return out.join("");
-  }
-
-  function tierLabel(record) {
-    var level = record.tier && record.tier.level;
-    if (level === "tier1") return "Tier 1";
-    if (level === "tier2") return "Tier 2";
-    if (level === "unlisted") return "未列入";
-    return "";
   }
 
   function roleLabel(role) {
@@ -2125,10 +2135,7 @@ footer a:hover{color:var(--accent-2)}
     var parts = ['<span class="pk-class">' + esc(classMeta(org.class).label) + "</span>"];
     var listed = listedMark(org, "kicker");
     if (listed) parts.push(listed);
-    if (org.class === "investors") {
-      var tier = tierLabel(record);
-      if (tier) parts.push('<span class="p-tier" title="编辑判断，不是官方排名">' + esc(tier) + "<span>编辑判断</span></span>");
-    } else if (record.category_id) {
+    if (org.class !== "investors" && record.category_id) {
       parts.push('<span class="pk-sep" aria-hidden="true"></span>', '<span class="sr-only">，</span>',
         "<span>" + esc(categoryName(record.category_id)) + "</span>");
     }
@@ -2174,7 +2181,6 @@ footer a:hover{color:var(--accent-2)}
       }
       return '<div class="p-links">' + links.join("") + "</div>";
     }
-    if (website) links.push(link(website, hostOf(website), "pill"));
     var socials = socialLinks(record);
     if (socials) links.push(socials);
     if (website) {
@@ -2382,15 +2388,6 @@ footer a:hover{color:var(--accent-2)}
       '<p class="source-line">核查 ' + esc(context.checked_at) + "；依据 " + sourceLinks(record, context.source_ids) + "</p>");
   }
 
-  function tierBasisSection(record) {
-    if (!record.tier) return "";
-    return aSection("档位口径",
-      '<p class="kv"><span>档位</span>' + esc(tierLabel(record) || "未记录") + "</p>" +
-      paragraphs(record.tier.basis) +
-      '<p class="source-line">编辑判断，不是官方排名，也不是收益或规模排名；依据 ' +
-      sourceLinks(record, record.tier.source_ids) + "；标记 " + esc(record.tier.labelled_at) + "</p>");
-  }
-
   function appendixHtml(org) {
     var record = org.record;
     var cls = org.class;
@@ -2398,7 +2395,6 @@ footer a:hover{color:var(--accent-2)}
       '<div class="appendix-head"><span>档案附录</span><h2 id="appendix-title">附录</h2></div>';
     if (cls === "investors") {
       out += aSection("研究判断", paragraphs(record.why_follow) + paragraphs(record.difference));
-      out += tierBasisSection(record);
     } else if (cls === "incumbents") {
       out += comparisonSection(record);
     } else {
@@ -2505,6 +2501,7 @@ footer a:hover{color:var(--accent-2)}
     profileCrumb.innerHTML = "<b>" + esc(org.record.name) + "</b> · " + esc(classMeta(org.class).label);
     profileIntro.innerHTML = profileIntroHtml(org);
     profileBody.innerHTML = profileBodyHtml(org);
+    syncLogoAspects(profileIntro);
     document.body.classList.add("profile-open");
     homeView.setAttribute("aria-hidden", "true");
     if (!(options && options.write === false)) writeHash();

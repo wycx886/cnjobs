@@ -54,7 +54,7 @@ python3 tools/fetch_logos.py --id hongshan
 python3 tools/fetch_logos.py --workers 8
 ```
 
-工具默认读取**创业公司**（`operating_organization` 且 `player_group == "new_entrant"`）和**所有有官网的 `investment_firm`**；传入 `--id` 时投资机构不再被跳过。它从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
+工具默认读取**创业公司**（`operating_organization` 且 `player_group == "new_entrant"`）和**所有有官网的 `investment_firm`**；传入 `--id` 时投资机构不再被跳过。它从 `contacts.website` 或官方 `channels` 找 apple-touch-icon、favicon、og:image 或明确 logo；幂等跳过已有文件，限制超时与文件大小，并把来源、抓取日期或跳过原因写入 `data/views/assets/logos/manifest.json`。新抓取或已有位图会做去边、放大、方形画布/自然比例与白底反色规范化；宽幅字标保留原始比例，看板据此加宽图标框。离线重跑用 `python3 tools/fetch_logos.py --normalize-only`，清理已删档案的孤儿 logo 用 `--prune`。不接入 Clearbit 等第三方 logo CDN；缺失时看板使用文字占位，不阻断构建。
 
 ## DSH 插件入口
 
@@ -77,7 +77,7 @@ git remote -v
 .venv/bin/python tools/publish.py --message "更新公共资料"
 ```
 
-发布工具生成阅读版、校验、运行测试并检查共享边界，仅暂存共享文件后提交和普通推送；失败即停止，不强制推送或自动解决远端冲突。只检查可运行 `.venv/bin/python tools/publish.py --check-only`。Fork 使用者应使用自己的远端；克隆原仓库不自动获得写入权限。
+发布工具生成阅读版、校验、运行测试并检查共享边界，仅暂存共享文件后提交和普通推送；失败即停止，不强制推送或自动解决远端冲突。只检查可运行 `.venv/bin/python tools/publish.py --check-only`。推送到 `main` 后，`.github/workflows/pages.yml` 会自动构建并部署 GitHub Pages 看板；站点只包含公共目录，私人工作区不进入构建产物。Fork 使用者应使用自己的远端；克隆原仓库不自动获得写入权限。
 
 ## 共享边界
 
