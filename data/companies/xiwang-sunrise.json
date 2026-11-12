@@ -1,0 +1,169 @@
+{
+  "schema_version": 3,
+  "id": "xiwang-sunrise",
+  "name": "曦望Sunrise",
+  "aliases": [
+    "杭州曦望芯科智能科技有限公司"
+  ],
+  "category_id": "02",
+  "focus": "国产高性能推理 GPU",
+  "products": "云边视觉推理芯片 S1、大模型推理 GPGPU S2，兼容 CUDA 生态，S3 在研",
+  "locations_text": "浙江杭州",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：曦望聚焦推理 GPU，与沐曦、壁仞等训练／通用 GPU 厂商形成场景差异；公开披露的 S1／S2 已量产并兼容 CUDA，但公司成立时间较短，产品与客户结构仍待持续披露验证。",
+    "peer_names": [
+      "沐曦股份；壁仞科技；摩尔线程"
+    ]
+  },
+  "investment": {
+    "summary": "2026-01-22 战略融资近 30 亿元人民币，中金资本、普华资本参与；2026-04-20 战略融资超 10 亿元人民币，普华资本继续参与；2026-01-22 战略融资投资方另据投资界报道包括心资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "战略融资",
+        "announced_on": "2026-01-22",
+        "amount_text": "近30亿人民币",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "心资本",
+            "firm_id": "soul-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "中金资本、普华资本、IDG资本、高榕创投等参与。"
+      },
+      {
+        "round": "战略融资",
+        "announced_on": "2026-04-20",
+        "amount_text": "超10亿人民币",
+        "investors": [
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "杭州资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "普华资本、杭州资本及多家产业方参与。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "工商主体为杭州曦望芯科智能科技有限公司，公司页记成立时间 2025-06-12，注册地浙江杭州；官网未在公司页列出。公司成立时间短、融资节奏密集，产品量产与客户情况仅按公司页转述记录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜曦望Sunrise 公司页",
+      "url": "https://vc.pedaily.cn/company/818143.html",
+      "supports": "成立时间、GPU 产品线、融资历程与投资方",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜曦望Sunrise 2026-01-22 战略融资详情",
+      "url": "https://vc.pedaily.cn/invest/416356.html",
+      "supports": "近 30 亿元战略融资，投资方含中金资本、普华资本等",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界｜曦望Sunrise 2026-04-20 战略融资详情",
+      "url": "https://vc.pedaily.cn/invest/424723.html",
+      "supports": "超 10 亿元战略融资，投资方含普华资本等",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s05",
+      "title": "投资界｜曦望一年完成近30亿融资，聚焦推理 GPU",
+      "url": "https://news.pedaily.cn/202601/560331.shtml",
+      "supports": "2026-01 近30亿元战略融资，投资方名单含心资本；公司为国产全栈自研推理 GPU 企业",
+      "published_date": "2026-01-23",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "曦望Sunrise",
+    "original_track": "02",
+    "original_subtrack": "GPU芯片与集群网络"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中金资本、普华资本 2020 年后披露的国产推理 GPU 投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "投资界公司页工商信息：杭州曦望芯科智能科技有限公司成立于 2025-06-12。"
+  }
+}

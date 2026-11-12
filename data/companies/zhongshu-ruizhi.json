@@ -1,0 +1,135 @@
+{
+  "schema_version": 3,
+  "id": "zhongshu-ruizhi",
+  "name": "中数睿智",
+  "aliases": [
+    "北京中数睿智科技有限公司"
+  ],
+  "category_id": "06",
+  "focus": "人工智能大模型应用开发服务商",
+  "products": "北京中数睿智科技有限公司（简称 “中数睿智”）2020 年注册于海淀中关村，秉持 “让 AI 从数字世界走向物理世界” 的使命愿景，依托 AI 与动态本体技术，打造因果模型、智能体空间、智能体操作系统一体化智能体基础设施，提供可迭代演进的企业智能系统。公司面向高风险、高可靠关键物理生产场景，输出 “超高效、零幻觉、高可靠” 产业级 AI 底座，为国内物理世界 AI 基础设施赛道标杆，引领因果智能、产业智能体技术创新。原创元因果认知理论，",
+  "locations_text": "北京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「人工智能大模型应用开发服务商」；同页列出的邻近企业包括机本智能、空间直觉。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "机本智能",
+      "空间直觉"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2025-07-16 A+轮，金额2亿人民币，投资方包括鼎晖投资、北京市人工智能产业投资基金、泰亚投资、苏州相城基金、每日互动、卓远资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2025-07-16",
+        "amount_text": "2亿人民币",
+        "investors": [
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "北京市人工智能产业投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "泰亚投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "苏州相城基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "每日互动",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "卓远资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“2亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://zhongshuruizhi.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2020年04月08日。注册主体为北京中数睿智科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜中数睿智",
+      "url": "https://vc.pedaily.cn/company/712554.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜中数睿智A+轮",
+      "url": "https://vc.pedaily.cn/invest/355526.html",
+      "supports": "本轮披露日期（2025-07-16）、轮次、金额与投资方名单",
+      "published_date": "2025-07-16",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "中数睿智",
+    "original_track": "06",
+    "original_subtrack": "企业Agent与数据平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（企业Agent与数据平台）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2020,
+    "basis": "投资界企业档案工商信息：成立时间2020年04月08日。"
+  }
+}

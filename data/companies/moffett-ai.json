@@ -1,0 +1,197 @@
+{
+  "schema_version": 3,
+  "id": "moffett-ai",
+  "name": "墨芯人工智能",
+  "aliases": [
+    "墨芯人工智能科技（深圳）有限公司",
+    "Moffett AI"
+  ],
+  "category_id": "02",
+  "focus": "稀疏化 AI 芯片与加速方案",
+  "products": "终端与云端 AI 芯片加速方案、稀疏化计算卡 SparsePrime",
+  "locations_text": "广东深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：墨芯以稀疏化计算为核心卖点，与通用 GPU 厂商不同；其云端与终端芯片并行，和燧原、沐曦等训练／推理芯片公司在稀疏化软件生态上形成差异化，但公开客户与出货数据较少。",
+    "peer_names": [
+      "燧原科技；沐曦股份；爱芯元智"
+    ]
+  },
+  "investment": {
+    "summary": "2023-11-14 A+ 轮金额未披露，金浦投资参与；同轮另有华大松禾天使基金、岩山科技、将门创投等；2025-12-04 C 轮金额未披露，深创投、金鼎资本、华穗创投参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2023-11-14",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华大松禾天使基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "岩山科技",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "将门创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2024-04-10",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "盛景嘉成",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "尚理投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额数亿元人民币。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-12-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "金鼎资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "华穗创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "投资界融资事件页披露；金额未披露。企业页轮次记为C，机构列表页曾记B+，以企业页C轮为准。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.moffettai.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为墨芯人工智能科技（深圳）有限公司，公司页记成立时间 2018-08-10、注册地广东深圳。公司页另记 2025-12-04 C 轮，金额未披露；本档案未收录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜墨芯人工智能 公司页",
+      "url": "https://vc.pedaily.cn/company/185365.html",
+      "supports": "成立时间、稀疏化 AI 芯片业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜墨芯人工智能 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/296790.html",
+      "supports": "2023-11-14 A+ 轮，投资方含金浦投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界融资事件｜墨芯人工智能C轮",
+      "url": "https://vc.pedaily.cn/invest/457235.html",
+      "supports": "轮次、披露日期与投资方名单",
+      "published_date": "2025-12-04",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "墨芯人工智能",
+    "original_track": "02",
+    "original_subtrack": "推理与模型服务"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因金浦投资 2020 年后披露的 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界公司页工商信息：墨芯人工智能科技（深圳）有限公司成立于 2018-08-10。"
+  }
+}

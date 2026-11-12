@@ -1,0 +1,113 @@
+{
+  "schema_version": 3,
+  "id": "deepthink-ai",
+  "name": "深知未来 / DEEPTHINK.AI",
+  "aliases": [
+    "深圳深知未来智能有限公司",
+    "深知未来",
+    "DEEPTHINK.AI"
+  ],
+  "category_id": "06",
+  "focus": "人工智能全彩夜视产品研发商",
+  "products": "深知未来智能有限公司(DEEPTHINK.AI) 成立于2017年，是全球领先的全彩夜视人工智能解决方案提供商。公司作为国家级高新技术企业，打破了传统算法的技术局限，自主研发了创新的Al ISP全彩夜视技术，从源头突破了传统夜视成像的硬件技术极限，实现在无补光条件下，全天候一致体验的全彩视觉商用解决方案提供商。我们坚持100%国产化的产品设计理念,将超越工业级标准的极弱光全彩夜视产品解决方案普惠应用于各行各业，惠及人们的生产、生活。深知",
+  "locations_text": "深圳市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「人工智能全彩夜视产品研发商」；同页列出的邻近企业包括3Chat.ai、南栖仙策。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "南栖仙策"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2021-12-16 A轮，金额数千万人民币，投资方包括达晨财智、琥珀资本 Ambrum Capital、国宏嘉信资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2021-12-16",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "琥珀资本 Ambrum Capital",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "国宏嘉信资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2017年10月30日。注册主体为深圳深知未来智能有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜深知未来 / DEEPTHINK.AI",
+      "url": "https://vc.pedaily.cn/company/38762.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜深知未来 / DEEPTHINK.AIA轮",
+      "url": "https://vc.pedaily.cn/invest/190957.html",
+      "supports": "本轮披露日期（2021-12-16）、轮次、金额与投资方名单",
+      "published_date": "2021-12-16",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "深知未来 / DEEPTHINK.AI",
+    "original_track": "06",
+    "original_subtrack": "视觉感知解决方案"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（视觉感知解决方案）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2017,
+    "basis": "投资界企业档案工商信息：成立时间2017年10月30日。"
+  }
+}

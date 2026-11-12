@@ -1,0 +1,272 @@
+{
+  "schema_version": 3,
+  "id": "liberai",
+  "name": "LiberAI（将闲科技）",
+  "aliases": [
+    "Liber AI",
+    "将闲科技",
+    "北京将闲科技有限公司"
+  ],
+  "category_id": "01",
+  "focus": "物理世界模型与具身智能基础模型",
+  "products": "RDT 系列模型（RDT-1B、RDT-2）、高自由度灵巧操作具身基础模型、UMI 数据采集与训练体系",
+  "locations_text": "北京（北京将闲科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较以机器人本体或运动控制为主的公司，LiberAI 公开定位为物理世界模型与具身基础模型，强调 UMI 人类数据与世界模型结合；未披露商业化收入。",
+    "peer_names": [
+      "宇树科技",
+      "星海图",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2025-12 种子轮由真格基金独家投资；2026-03 天使轮红杉中国加码；2026-05 天使+轮约 5 亿元由真格基金、红杉中国、顺为资本、美团龙珠联合投资；2026-06 Pre-A 轮数亿元由顺为资本领投；2026-09-17 Pre-A++ 轮数亿元，中关村科学城、达晨财智、高信资本、华映资本参与。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2025-12",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "《科创板日报》记 2025 年 12 月真格基金独家投资其种子轮。"
+      },
+      {
+        "round": "天使",
+        "announced_on": "2026-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "《科创板日报》记 2026 年 3 月红杉中国加码其天使轮。"
+      },
+      {
+        "round": "天使+",
+        "announced_on": "2026-05",
+        "amount_text": "约5亿元",
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "notes": "北京商报记种子轮、天使轮、天使+轮合计融资金额数亿元；《科创板日报》记天使+轮约 5 亿元。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2026-06",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "元禾原点",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "慕华科创",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": null
+      },
+      {
+        "round": "Pre-A++",
+        "announced_on": "2026-09-17",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "中关村科学城",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "高信资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "华映资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“数亿人民币”。现有档案列至 2026-06 Pre-A，缺本轮。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人刘松铭，2025 年 12 月成立，工商主体为北京将闲科技有限公司；2026-06-12 发布首个模型。地点与成立时间取自《科创板日报》。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "北京商报｜物理世界模型企业 Liber AI 完成数亿元融资",
+      "url": "https://finance.sina.cn/2026-05-17/detail-inhyfhfm8718256.d.html",
+      "supports": "物理世界模型定位、种子/天使/天使+ 轮投资方与创始团队背景",
+      "published_date": "2026-05-17",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "科创板日报｜年内第三轮融资！世界模型公司 LiberAI 完成数亿元 Pre-A 轮融资",
+      "url": "https://finance.sina.cn/2026-06-15/detail-inicnckz5064255.d.html",
+      "supports": "四轮融资时间与投资方、公司成立时间、产品路线",
+      "published_date": "2026-06-15",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界融资事件｜LiberAI Pre-A++轮",
+      "url": "https://vc.pedaily.cn/invest/426971.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2026-09-17",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "LiberAI（将闲科技）",
+    "original_track": "01",
+    "original_subtrack": "物理世界模型与具身智能基础模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因真格基金 2025 年独家投资其种子轮、顺为资本参与 2026 年天使+轮及 Pre-A 轮等 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "《科创板日报》记 2025 年 12 月成立，工商主体北京将闲科技有限公司。"
+  }
+}

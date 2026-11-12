@@ -1,0 +1,168 @@
+{
+  "schema_version": 3,
+  "id": "metacircle",
+  "name": "元环智能（MetaCircle）",
+  "aliases": [
+    "MetaCircle",
+    "元环智能"
+  ],
+  "category_id": "01",
+  "focus": "元模型（meta-model）研发",
+  "products": "元模型与自研基准",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：公开信息聚焦元模型与自研基准，成立仅 4 个月即完成连续两轮融资；技术路线与产品细节披露有限。",
+    "peer_names": [
+      "智谱 Z.ai",
+      "MiniMax",
+      "月之暗面"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10-15 公布成立 4 个月完成连续两轮共数亿元融资；种子轮由顺为资本领投，上海未来产业基金、星连资本、君礼资本跟投，种子+轮引入多家产业方与国资机构。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子/种子+",
+        "announced_on": "2026-10-15",
+        "amount_text": "数亿元（两轮合计）",
+        "investors": [
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海未来产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "君礼资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海半导体产投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "360战投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "首程资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海人工智能产业系列基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "BV百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "山行资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "云时资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文将种子轮与种子+轮合并披露，未拆分单轮金额；顺为仅明确为种子轮领投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "报道称公司成立于 2026 年，融资时成立 4 个月。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "北京商报｜元环智能完成数亿元融资，顺为资本领投种子轮",
+      "url": "https://finance.eastmoney.com/a/202610153897217128.html",
+      "supports": "两轮融资总额、种子轮领投方与各轮参与机构、成立时间",
+      "published_date": "2026-10-15",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "元环智能（MetaCircle）",
+    "original_track": "01",
+    "original_subtrack": "元模型（meta-model）研发"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因顺为资本 2026 年领投其种子轮这一 2020 年后披露的 AI 投资而建档；公开技术与产品细节有限，先观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2026,
+    "basis": "报道称融资时公司成立 4 个月（2026 年 10 月）。"
+  }
+}

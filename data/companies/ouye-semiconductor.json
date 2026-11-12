@@ -1,0 +1,135 @@
+{
+  "schema_version": 3,
+  "id": "ouye-semiconductor",
+  "name": "欧冶半导体",
+  "aliases": [
+    "深圳市欧冶半导体有限公司"
+  ],
+  "category_id": "02",
+  "focus": "智能汽车芯片及解决方案供应商",
+  "products": "欧冶半导体是国内首家聚焦智能汽车第三代E/E架构的系统级SoC芯片供应商，由创始团队和先进制造产业投资基金共同发起设立，投资方包含众多汽车产业链龙头。欧冶半导体围绕智能汽车第三代电子电气架构（Zonal架构），提供系统级、系列化芯片及解决方案，龙泉560系列产品覆盖智能汽车端侧智能部件（CMS后视镜/智能大灯等）、智能区域控制器（ZCU）和行泊一体中央计算单元的芯片需求，同时具备智能算法和灵活分层交付的软件及解决方案，缩短了客户开发新产",
+  "locations_text": "深圳市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「智能汽车芯片及解决方案供应商」；同页列出的邻近企业包括孛璞半导体、华毅瀛飞。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "孛璞半导体",
+      "华毅瀛飞"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2024-11-20 B轮，金额数亿人民币，投资方包括国投招商、中科创星、深圳鲲鹏资本、星宇投资、青稞资本、永鑫资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2024-11-20",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "国投招商",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": "casstar",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "深圳鲲鹏资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "星宇投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "青稞资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "永鑫资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://oritek.com.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2021年12月29日。注册主体为深圳市欧冶半导体有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜欧冶半导体",
+      "url": "https://vc.pedaily.cn/company/615732.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜欧冶半导体B轮",
+      "url": "https://vc.pedaily.cn/invest/333858.html",
+      "supports": "本轮披露日期（2024-11-20）、轮次、金额与投资方名单",
+      "published_date": "2024-11-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "欧冶半导体",
+    "original_track": "02",
+    "original_subtrack": "智能汽车芯片"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（智能汽车芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界企业档案工商信息：成立时间2021年12月29日。"
+  }
+}

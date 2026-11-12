@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因高瓴创投2026年披露的AI体育硬件天使+轮投资而建档；按AI消费硬件业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "sportvision",
+  "name": "思博威视 / SportVision",
+  "aliases": [
+    "思博威视",
+    "SportVision",
+    "深圳思博威视体育科技有限公司"
+  ],
+  "category_id": "09",
+  "focus": "AI体育科技：运动算法与AI智能教练",
+  "products": "AI网球训练相机、运动算法与AI智能教练体系",
+  "locations_text": "深圳（深圳思博威视体育科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以AI网球训练相机等硬件切入运动训练场景，强调算法与硬件结合；与纯运动App或传统体育器材厂商不同。",
+    "peer_names": [
+      "Keep",
+      "Garmin",
+      "乐刻运动"
+    ]
+  },
+  "investment": {
+    "summary": "2026-05-19宣布完成天使+轮融资，高瓴创投领投；此前天使轮由清水湾基金投资。金额均未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使+",
+        "announced_on": "2026-05-19",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "东方财富援引报道：高瓴创投领投天使+轮，资金用于核心技术研发、产品量产与市场推广；金额未披露。"
+      }
+    ]
+  },
+  "notes": "公开报道未列官网与招聘入口；网站与联系字段留空。公司此前获清水湾基金天使轮投资，未计入本轮投资方。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "AI体育科技公司SportVision完成天使+轮融资",
+      "url": "https://finance.eastmoney.com/news/1354,202605193742219911.html",
+      "supports": "融资轮次与领投方、运营主体与产品定位、此前天使轮投资方",
+      "published_date": "2026-05-19",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "思博威视（SportVision）",
+    "original_track": "09",
+    "original_subtrack": "消费电子"
+  },
+  "people": []
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 3,
+  "id": "nuoyin",
+  "name": "诺因智能",
+  "aliases": [
+    "深圳诺因智能有限公司",
+    "Knowin"
+  ],
+  "category_id": "08",
+  "focus": "消费级具身大模型与家庭机器人",
+  "products": "GLOW 生成式具身大模型（KnowinDream、KnowinWorld、KnowinBrain、KnowinAgent、KnowinAct）、KNOWIN-X1",
+  "locations_text": "深圳（深圳诺因智能有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以生成式具身大模型加消费级家庭机器人为路线，公开强调仿真数据生成与真实反馈闭环；产品尚处量产准备阶段。",
+    "peer_names": [
+      "宇树科技",
+      "星海图",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "源码律动首期美元基金2026-03-30官宣首笔投资为诺因智能，轮次与金额未披露；2026-08-10 天使++ 轮 5 亿元，经纬创投领投，红点创投、商汤国香资本、华登科技、L2F 光源创业者基金跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "未披露轮次",
+        "announced_on": "2026-03-30",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "源码律动",
+            "firm_id": "source-code-rhythm",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02",
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02",
+          "s03"
+        ],
+        "notes": "2026-03-30 为源码律动首期基金募资官宣日，非诺因智能融资公告日；报道仅称首笔投资，未披露轮次、金额、领投关系。请勿与公司原有 2026-08-10 天使++轮混为同一轮。"
+      },
+      {
+        "round": "天使++",
+        "announced_on": "2026-08-10",
+        "amount_text": "5亿元",
+        "investors": [
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红点创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "商汤国香资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华登科技",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "L2F 光源创业者基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人兼 CEO 李银川；公司 2025 年成立，团队超 200 人（公司口径）。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜诺因完成 5 亿元天使++轮融资，经纬创投领投",
+      "url": "https://finance.sina.cn/2026-08-10/detail-inimuvrt8301036.d.html",
+      "supports": "天使++轮金额与投资方、GLOW 模型与 KNOWIN-X1、创始人",
+      "published_date": "2026-08-10",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜黄云刚带队，源码律动募资1.5亿美元",
+      "url": "https://news.pedaily.cn/202603/562200.shtml",
+      "supports": "源码律动首期美元基金首笔投资为诺因智能，方向为家庭具身智能，创始人李银川曾任职华为",
+      "published_date": "2026-03-30",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "36氪｜源码律动完成超1.5亿美元首期基金募资，已启动人民币基金募资",
+      "url": "https://www.36kr.com/p/3744847635169285",
+      "supports": "同一募资报道确认诺因智能为源码律动已投项目及家庭具身智能方向",
+      "published_date": "2026-03-30",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "诺因智能",
+    "original_track": "08",
+    "original_subtrack": "消费级具身大模型与家庭机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因经纬创投 2026 年领投其天使++轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "报道称公司成立于 2025 年。"
+  }
+}

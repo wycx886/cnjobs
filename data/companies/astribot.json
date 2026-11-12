@@ -1,0 +1,116 @@
+{
+  "schema_version": 3,
+  "id": "astribot",
+  "name": "星尘智能",
+  "aliases": [
+    "Astribot",
+    "星尘智能（深圳）有限公司"
+  ],
+  "category_id": "08",
+  "focus": "绳驱 AI 机器人",
+  "products": "绳驱 AI 机器人（量产）",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以绳驱传动切入 AI 机器人，云启被投页称其实现绳驱 AI 机器人量产；与刚性关节人形机器人路线不同。",
+    "peer_names": [
+      "宇树科技",
+      "智元机器人",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2025-04-10 披露连续完成 A 轮及 A+ 轮数亿元融资，锦秋基金、蚂蚁集团领投，云启资本、道彤资本等老股东跟投，华兴资本担任独家财务顾问。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A/A+",
+        "announced_on": "2025-04-10",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "锦秋基金",
+            "firm_id": "jinqiu",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "道彤资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文将 A 轮与 A+ 轮合并披露，未拆分单轮金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "云启被投页列其首投轮次为天使轮、首投年份 2023。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "界面新闻｜AI 机器人公司星尘智能完成 A 轮及 A+ 轮数亿元融资",
+      "url": "https://www.sohu.com/a/882109318_313745",
+      "supports": "A/A+ 轮金额、领投与跟投方",
+      "published_date": "2025-04-10",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "云启资本｜云启被投",
+      "url": "https://yunqi.vc/invest",
+      "supports": "星尘智能首投轮次天使轮、首投年份 2023，及绳驱机器人量产表述",
+      "published_date": "2026-11-11",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "星尘智能",
+    "original_track": "08",
+    "original_subtrack": "绳驱 AI 机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因云启资本自 2023 年天使轮起投资、并于 2025 年 A/A+ 轮跟投这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

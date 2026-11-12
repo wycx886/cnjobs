@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "id": "booster",
+  "name": "加速进化",
+  "aliases": [
+    "Booster Robotics",
+    "北京加速进化科技有限公司"
+  ],
+  "category_id": "08",
+  "focus": "人形机器人本体、运控系统与开发者工具",
+  "products": "人形机器人、运控操作系统、SDK",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：面向科研、教育与家庭场景提供人形机器人软硬件平台；与仅做本体的公司相比，公开强调运控系统与开发者工具。",
+    "peer_names": [
+      "宇树科技",
+      "智元机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2024-05-07 Pre-A 轮数千万人民币，源码资本领投，水木创投、盈港资本跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-05-07",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "水木创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "盈港资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "本轮资金用于小批量量产、市场推广、人才招募与研发迭代（报道口径）。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "新浪财经｜人形机器人公司加速进化完成数千万 Pre-A 轮融资，源码资本领投",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2024-05-07/doc-inaukqqf9305522.shtml",
+      "supports": "Pre-A 轮金额、领投与跟投方、资金用途",
+      "published_date": "2024-05-07",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "加速进化",
+    "original_track": "08",
+    "original_subtrack": "人形机器人本体、运控系统与开发者工具"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因源码资本 2024 年领投其 Pre-A 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

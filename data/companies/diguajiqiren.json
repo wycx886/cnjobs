@@ -1,0 +1,174 @@
+{
+  "schema_version": 3,
+  "id": "diguajiqiren",
+  "name": "地瓜机器人 D-Robotics",
+  "aliases": [
+    "D-Robotics",
+    "地瓜机器人"
+  ],
+  "category_id": "02",
+  "founded": {
+    "year": 2024,
+    "basis": "SVTR 创投库条目：2024 年成立于深圳，由地平线机器人事业部独立而来。"
+  },
+  "focus": "机器人软硬件通用底座：AI 芯片、开发套件与数据采集—训练—仿真—部署全链路软件平台。",
+  "products": "旭日系列 AI 芯片、RDK 开发套件与机器人软件平台，服务机器人厂商、科研院校与开发者。",
+  "locations_text": "深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：地瓜机器人提供的是机器人方向的芯片与开发底座，与摩尔线程、燧原科技等通用 AI 算力芯片公司客户与形态不同；本档不评价算力或生态。",
+    "peer_names": [
+      "摩尔线程；燧原科技；无问芯穹"
+    ]
+  },
+  "investment": {
+    "summary": "2025-05 A 轮融资 1 亿美元，高瓴创投、五源资本、线性资本、和暄资本、九合创投、Vertex Growth、砺思资本、敦鸿资产、沸点资本、梅花创投、黄浦江资本共同参投；SVTR 另记录 2026-09 C 轮 4 亿美元且五源资本继续在列。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A轮",
+        "announced_on": "2025-05",
+        "amount_text": "1亿美元",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "和暄资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "九合创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Vertex Growth",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "砺思资本",
+            "firm_id": "monolith",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "敦鸿资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "沸点资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "梅花创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "黄浦江资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://d-robotics.cc/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开招聘邮箱"
+  },
+  "notes": "以五源资本 2025 年参与的 A 轮为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。地瓜机器人由地平线机器人事业部独立而来，本档不据此确认法律主体股权关系。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜地瓜机器人 D-Robotics",
+      "url": "https://svtr.ai/orgs/diguajiqiren",
+      "supports": "2024 年成立于深圳、由地平线机器人事业部独立、机器人芯片与开发底座定位、2025-05 A 轮金额与投资方名单、2026-09 C 轮记录",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "雷峰网｜地瓜机器人完成1亿美元A轮融资，加速构建具身智能生态版图",
+      "url": "https://m.leiphone.com/category/industrynews/8USZk1z1KyhVLpi5.html",
+      "supports": "2025-05-28 完成1亿美元A轮，高瓴创投、五源资本、线性资本、和暄资本、九合创投、Vertex Growth、砺思资本、敦鸿资产、沸点资本、梅花创投、黄浦江资本共同参投",
+      "published_date": "2025-05-28",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "地瓜机器人",
+    "original_track": "02",
+    "original_subtrack": "异构算力与调度"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因五源资本 2025 年参与 A 轮、2026 年继续在 C 轮投资方名单而建档的机器人算力底座公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因金沙江创投2025年披露的零售AI A轮投资而建档；按零售电商应用归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "shanghui-intelligent",
+  "name": "商汤善惠",
+  "aliases": [
+    "商汤善惠",
+    "善惠智能",
+    "商汤善惠智能科技"
+  ],
+  "category_id": "07",
+  "focus": "零售AI：商品识别算法与无人零售智能柜",
+  "products": "无人零售智能柜解决方案、商品识别与运营提效算法",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：源自商汤集团的零售AI团队，以视觉商品识别和智能柜运营为落地场景；与通用零售SaaS或纯算法授权商不同。",
+    "peer_names": [
+      "云拿科技",
+      "爱笔智能",
+      "万店掌"
+    ]
+  },
+  "investment": {
+    "summary": "2025-01-20宣布完成A轮融资，金沙江创投领投，微木资本、嘉实基金、金弘基金等跟投；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2025-01-20",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "微木资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "嘉实基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "金弘基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金融界报道本轮由金沙江创投领投，微木资本、嘉实基金和金弘基金等跟投；金额未披露。"
+      }
+    ]
+  },
+  "notes": "公司源自商汤集团；公开报道未列注册地、官网与招聘入口，网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "商汤善惠完成金沙江创投领投A轮融资，聚焦零售AI业务",
+      "url": "http://field.10jqka.com.cn/20250120/c665589457.shtml",
+      "supports": "融资轮次与投资方、业务定位、CEO身份",
+      "published_date": "2025-01-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "商汤善惠",
+    "original_track": "07",
+    "original_subtrack": "商品视觉与商业内容"
+  },
+  "people": [
+    {
+      "name": "黄迪",
+      "role": "CEO",
+      "previous_firms": [
+        "商汤集团"
+      ],
+      "background": "公开报道以商汤善惠CEO身份受访，表示将把无人零售方案复制到海外市场。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一融资报道点名其CEO身份；未取得个人公开主页。"
+    }
+  ]
+}

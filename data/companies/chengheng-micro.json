@@ -1,0 +1,127 @@
+{
+  "schema_version": 3,
+  "id": "chengheng-micro",
+  "name": "诚恒微电",
+  "aliases": [
+    "无锡诚恒微电子有限公司"
+  ],
+  "category_id": "02",
+  "focus": "边端侧AI SoC及方案研发商",
+  "products": "无锡诚恒微电子有限公司（简称“诚恒微”）成立于2023年，总部位于无锡，在北京、上海、长沙、深圳等地设有分/子公司及研发中心，核心团队具备深厚的技术背景与丰富的行业经验，专注于边端侧AI SoC及解决方案的创新研发与产业应用，产品面向算力需求较高的具身智能与边缘计算等通用市场，覆盖AIBOX、机器人、无人机、视觉系统等智能终端，公司以“芯片定义机器智觉”为核心战略，致力于为智能机器的“自主进化”提供核心算力与感知平台，推动自主可控的边端",
+  "locations_text": "无锡市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「边端侧AI SoC及方案研发商」；同页列出的邻近企业包括一微半导体、宏芯宇电子。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "一微半导体",
+      "宏芯宇电子"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2026-10-14 战略融资，金额1.7亿人民币，投资方包括中金资本、中车资本、毅达资本、国联投资、奇安投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "战略融资",
+        "announced_on": "2026-10-14",
+        "amount_text": "1.7亿人民币",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中车资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "毅达资本",
+            "firm_id": "addor-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "国联投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "奇安投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“1.7亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2023年06月29日。注册主体为无锡诚恒微电子有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜诚恒微电",
+      "url": "https://vc.pedaily.cn/company/819736.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜诚恒微电战略融资",
+      "url": "https://vc.pedaily.cn/invest/427718.html",
+      "supports": "本轮披露日期（2026-10-14）、轮次、金额与投资方名单",
+      "published_date": "2026-10-14",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "诚恒微电",
+    "original_track": "02",
+    "original_subtrack": "边端AI SoC"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因毅达资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（边端AI SoC）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界企业档案工商信息：成立时间2023年06月29日。"
+  }
+}

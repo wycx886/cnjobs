@@ -19,9 +19,60 @@
     ]
   },
   "investment": {
-    "summary": "2025年12月30日在港交所主板上市（股份代号3696）。官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等；上市前各轮未逐项展开。",
+    "summary": "2025年12月30日在港交所主板上市（股份代号3696）。2021-06-22完成2.55亿美元C轮，CPE源峰、华平投资、启明创投、礼来亚洲基金、创新工场参与。官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等；上市前各轮未逐项展开。",
     "verification_status": "partial",
     "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021-06-22",
+        "amount_text": "2.55亿美元",
+        "investors": [
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "华平投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "礼来亚洲基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "金额 2.55 亿美元，投资方数量较多，此处列部分。"
+      },
       {
         "round": "已上市",
         "announced_on": "2025-12-30",
@@ -42,7 +93,7 @@
     "other_email_purpose": "业务拓展"
   },
   "notes": "原表“多款新药临床II/III期”不作为本次更新结论；临床阶段须逐条查项目管线，避免把合作/授权与股权投资混淆。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -121,6 +172,41 @@
       "supports": "股份代号3696；2025年12月30日于聯交所主板上市；全球发售所得款项净额2,350.3百萬港元（行使超额配股权后）。",
       "published_date": "2026-04-28",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "X 账号 @biogerontology 主页",
+      "url": "https://x.com/biogerontology",
+      "supports": "公开专业主页与本次人物身份观察：Alex Zhavoronkov；职务：创始人、董事长兼CEO",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "Alex Zhavoronkov 个人主页 Biography 列出 Twitter/X: @biogerontology",
+      "url": "https://alexzhavoronkov.com/biography",
+      "supports": "本人主页 Social Media 一节写明 Twitter/X: @biogerontology，并介绍其为 Insilico Medicine 创始人兼 CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s12",
+      "scope": "person",
+      "title": "Insilico Medicine 官网 Leadership 团队页",
+      "url": "https://insilico.com/team",
+      "supports": "官方团队页将 Alex Zhavoronkov, PhD 列为 Chairman of the Board、Executive Director、CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s13",
+      "title": "投资界｜英矽智能 C轮详情",
+      "url": "https://vc.pedaily.cn/invest/104095.html",
+      "supports": "2021-06-22 C 轮 2.55 亿美元，投资方含 CPE源峰",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {
@@ -194,17 +280,34 @@
             "s08"
           ],
           "notes": "本人同名个人网站，Biography 页自述为 Insilico 创始人兼CEO。"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/biogerontology",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "notes": "官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。 已读 X 主页：显示名 Alex Zhavoronkov, PhD (aka Aleksandrs Zavoronkovs)；简介写明帖文为个人观点、不代表 Insilico Medicine；蓝V，约 4.7 万关注。本人主页直接给出该 handle。"
         }
       ],
       "source_ids": [
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。 已读 X 主页：显示名 Alex Zhavoronkov, PhD (aka Aleksandrs Zavoronkovs)；简介写明帖文为个人观点、不代表 Insilico Medicine；蓝V，约 4.7 万关注。本人主页直接给出该 handle。",
+      "historical_source_ids": [
         "s05",
         "s06",
         "s07",
         "s08"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。"
+      ]
     },
     {
       "name": "任峰（Feng Ren）",

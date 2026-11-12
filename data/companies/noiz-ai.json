@@ -1,0 +1,100 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因金沙江创投2026年披露的声音AIGC种子轮投资而建档；按多模态生成业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": "https://noiz.ai/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未见公开招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "noiz-ai",
+  "name": "Noiz AI（声音动力）",
+  "aliases": [
+    "Noiz AI",
+    "声音动力",
+    "深圳声音动力科技",
+    "Noiz"
+  ],
+  "category_id": "05",
+  "focus": "AI声音生成：文本转语音、声音克隆与声音设计",
+  "products": "Noiz AI（文本转语音、声音克隆、声音设计工具）",
+  "locations_text": "深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以声音创作工具切入内容生产，产品面向文本转语音、克隆与设计；区别于数字人整机或通用视频生成平台。",
+    "peer_names": [
+      "硅基智能",
+      "魔珐科技",
+      "MiniMax"
+    ]
+  },
+  "investment": {
+    "summary": "2026-08-10报道完成数千万元种子轮融资，最近一次融资来自金沙江创投；金额为数千万元。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2026-08-10",
+        "amount_text": "数千万元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "notes": "亿欧网报道2026-08-10深圳声音动力科技宣布完成种子轮，投资方为金沙江创投，金额未披露；IT桔子稿称金额为数千万元。"
+      }
+    ]
+  },
+  "notes": "官网可访问；运营主体为深圳声音动力科技，成立于2025-10-28。未找到公开招聘页与邮箱。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "Noiz AI获得金沙江数千万元种子融资",
+      "url": "https://news.qq.com/rain/a/20260810A0819P00",
+      "supports": "融资轮次与金额、投资方、产品方向",
+      "published_date": "2026-08-10",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "金沙江创投投资深圳声音动力科技",
+      "url": "https://news.qq.com/rain/a/20260811A01MGZ00",
+      "supports": "运营主体全称、成立日期、种子轮投资方与用途",
+      "published_date": "2026-08-11",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Noiz AI（声音动力）",
+    "original_track": "05",
+    "original_subtrack": "数字人与内容生产"
+  },
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "亿欧网报道：深圳声音动力科技有限公司成立于2025年10月28日。"
+  }
+}

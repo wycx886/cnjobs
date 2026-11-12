@@ -1,0 +1,186 @@
+{
+  "schema_version": 3,
+  "id": "dreame",
+  "name": "追觅科技",
+  "aliases": [
+    "追觅科技（苏州）有限公司",
+    "Dreame"
+  ],
+  "category_id": "08",
+  "focus": "智能清洁与服务机器人",
+  "products": "扫地机器人、洗地机、吸尘器、割草机器人等智能清洁产品",
+  "locations_text": "江苏苏州",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：追觅以高速数字马达与智能清洁机器人为核心，与科沃斯、石头科技在扫地机器人市场直接竞争；相较两者，追觅的品类扩张更快，已延伸至割草机器人等户外场景。",
+    "peer_names": [
+      "科沃斯；石头科技；云鲸智能"
+    ]
+  },
+  "investment": {
+    "summary": "2021-10-20 C 轮披露 36 亿元人民币，CPE源峰参与；同轮另有华兴新经济基金、小米集团、泰康资产、达晨创投、顺为资本等。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021-10-20",
+        "amount_text": "36亿人民币",
+        "investors": [
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华兴新经济基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "小米集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "泰康资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "达晨创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额 36 亿元人民币，投资方数量较多，此处列部分。"
+      },
+      {
+        "round": "B++",
+        "announced_on": "2021-09-23",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "小米集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "泰康资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "CPE源峰",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华兴新经济基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.dreame.tech",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为追觅科技（苏州）有限公司，公司页记成立时间 2017-12-18、注册地苏州。官网可访问，招聘邮箱未公开列出。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜追觅科技 公司页",
+      "url": "https://vc.pedaily.cn/company/38059.html",
+      "supports": "成立时间、智能清洁产品与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜追觅科技 C轮详情",
+      "url": "https://vc.pedaily.cn/invest/116727.html",
+      "supports": "2021-10-20 C 轮 36 亿元，投资方含 CPE源峰",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "追觅科技",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因 CPE源峰 2020 年后披露的服务机器人投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2017,
+    "basis": "投资界公司页工商信息：追觅科技（苏州）有限公司成立于 2017-12-18。"
+  }
+}

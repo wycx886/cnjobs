@@ -1,0 +1,130 @@
+{
+  "schema_version": 3,
+  "id": "pudu",
+  "name": "普渡科技",
+  "aliases": [
+    "深圳市普渡科技股份有限公司",
+    "Pudu Robotics"
+  ],
+  "category_id": "08",
+  "focus": "商用服务机器人",
+  "products": "餐饮、酒店、零售、工业与医疗场景的智能配送机器人与清洁机器人",
+  "locations_text": "广东深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：普渡科技以商用配送机器人起家并扩展清洁产品线，与擎朗智能在餐饮配送场景直接竞争；相较擎朗，普渡的海外收入占比与产品矩阵更突出，但公开财务数据有限。",
+    "peer_names": [
+      "擎朗智能；云迹科技；高仙机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2023-02-15 C++ 轮披露超亿元人民币，普华资本参与；2023-05-04 C+++ 轮数亿元人民币，普华资本继续参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C++",
+        "announced_on": "2023-02-15",
+        "amount_text": "超亿人民币",
+        "investors": [
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额超亿元人民币。"
+      },
+      {
+        "round": "C+++",
+        "announced_on": "2023-05-04",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "阅度基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "金额数亿元人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.pudutech.com/zh-CN",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为深圳市普渡科技股份有限公司，公司页记成立时间 2016-01-13、注册地广东深圳。公司页另记 2026-04-23 E 轮近 10 亿元；本档案只收录普华资本参与的两轮。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜普渡科技 公司页",
+      "url": "https://vc.pedaily.cn/company/121282.html",
+      "supports": "成立时间、商用服务机器人业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜普渡科技 C++轮详情",
+      "url": "https://vc.pedaily.cn/invest/258662.html",
+      "supports": "2023-02-15 C++ 轮超亿元，投资方含普华资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界｜普渡科技 C+++轮详情",
+      "url": "https://vc.pedaily.cn/invest/443262.html",
+      "supports": "2023-05-04 C+++ 轮数亿元，投资方含普华资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "普渡科技",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因普华资本 2020 年后披露的商用服务机器人投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2016,
+    "basis": "投资界公司页工商信息：深圳市普渡科技股份有限公司成立于 2016-01-13。"
+  }
+}

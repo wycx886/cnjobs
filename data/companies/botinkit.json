@@ -1,0 +1,159 @@
+{
+  "schema_version": 3,
+  "id": "botinkit",
+  "name": "不停科技 Botinkit",
+  "aliases": [
+    "Botinkit",
+    "不停科技"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2021,
+    "basis": "SVTR 创投库条目：2021 年成立于深圳。"
+  },
+  "focus": "AI 数字厨房与烹饪机器人：面向餐饮后厨的标准化烹饪设备与数字化解决方案。",
+  "products": "烹饪机器人及 AI 数字厨房解决方案。",
+  "locations_text": "深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：不停科技聚焦餐饮后厨的烹饪自动化，与擎朗智能等通用服务配送机器人路线不同，更接近炒菜机器人这一细分设备市场；本档不评价产品性能。",
+    "peer_names": [
+      "橡鹿机器人；擎朗智能"
+    ]
+  },
+  "investment": {
+    "summary": "2025-04 B 轮融资 3000 万美元，五源资本领投、Alphaist Partners跟投；2023-07 A 轮五源资本亦参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B轮",
+        "announced_on": "2025-04",
+        "amount_text": "3000万美元",
+        "investors": [
+          {
+            "name": "阿尔法公社",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Alphaist Partners",
+            "firm_id": "alphaist-partners",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投；部分公开报道称五源资本领投，未取得原文核对，按参投记录。"
+      },
+      {
+        "round": "A轮",
+        "announced_on": "2023-07",
+        "amount_text": "1300万美元",
+        "investors": [
+          {
+            "name": "光远资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Brizan Venture",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.botinkit.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开招聘邮箱"
+  },
+  "notes": "以五源资本 2023 与 2025 年两次参与融资为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜不停科技 Botinkit",
+      "url": "https://svtr.ai/orgs/botinkit",
+      "supports": "2021 年成立于深圳、AI 数字厨房/烹饪机器人定位、2023-07 A 轮与 2025-04 B 轮金额及投资方名单、创始人名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投中网｜「不停科技」获数千万美元B轮融资",
+      "url": "https://www.chinaventure.com.cn/news/80-20250403-385766.html",
+      "supports": "2025-04-03 B 轮数千万美元，五源资本领投、Alphaist Partners跟投；AI 数字厨房解决方案与智能烹饪机器人",
+      "published_date": "2025-04-03",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "不停科技",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因五源资本 2023 年与 2025 年两次参与融资而建档的 AI 数字厨房公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "陈锐",
+      "role": "创始人",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出；未取得个人公开主页，职务与履历待公司公告核实。"
+    }
+  ]
+}

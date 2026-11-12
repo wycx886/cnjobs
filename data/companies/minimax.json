@@ -20,9 +20,95 @@
     ]
   },
   "investment": {
-    "summary": "2026-01-09 在港交所主板上市（00100.HK，MINIMAX-W），發售價 165.00 港元；招股书相关报道列阿里、米哈游、IDG、腾讯等历史投资方，属部分投资背景，不等于完整当前股东表。",
+    "summary": "2024-12-28 B+ 轮 1.23 亿美元，中金资本、视觉中国、上海国资母基金、基石资本参与；2025-12-31 基石投资轮 3.5 亿美元，博裕资本、阿里巴巴、阿布扎比投资局、IDG资本参与；2026-01-09 在港交所主板上市（00100.HK，MINIMAX-W），發售價 165.00 港元。招股书相关报道列阿里、米哈游、IDG、腾讯等历史投资方，属部分投资背景，不等于完整当前股东表。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "B+",
+        "announced_on": "2024-12-28",
+        "amount_text": "1.23亿美元",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "视觉中国",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "上海国资母基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "金额 1.23 亿美元。"
+      },
+      {
+        "round": "基石投资",
+        "announced_on": "2025-12-31",
+        "amount_text": "3.5亿美元",
+        "investors": [
+          {
+            "name": "博裕资本",
+            "firm_id": "boyu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "阿布扎比投资局",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "金额 3.5 亿美元，投资方数量较多，此处列部分。"
+      },
       {
         "round": "已上市",
         "announced_on": "2026-01-09",
@@ -44,7 +130,7 @@
     "other_email_purpose": "投资者关系邮箱（非招聘）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -103,6 +189,22 @@
       "supports": "公司设有投资者关系站（公司公告、股价信息），确认其为港交所上市公司",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投资界｜MiniMax B+轮详情",
+      "url": "https://vc.pedaily.cn/invest/442446.html",
+      "supports": "2024-12-28 B+ 轮 1.23 亿美元，投资方含中金资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s09",
+      "title": "投资界｜MiniMax 基石投资轮详情",
+      "url": "https://vc.pedaily.cn/invest/405386.html",
+      "supports": "2025-12-31 基石投资轮 3.5 亿美元，投资方含博裕资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

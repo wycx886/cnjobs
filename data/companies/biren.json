@@ -24,9 +24,114 @@
     ]
   },
   "investment": {
-    "summary": "公司官网《关于我们》载明2026年1月2日在香港联交所上市，股票代码06082.HK；官网“投资者阵容”列启明、IDG、上海国投、上海AI产业基金、源码、高瓴创投等历史投资方，该列表非完整现行持股名册。上市后已移出创业公司分组。",
+    "summary": "公司官网《关于我们》载明2026年1月2日在香港联交所上市，股票代码06082.HK；上市前公开披露的融资包括2020-07-16 A+轮（中芯聚源）、2020-08-18 Pre-B轮（金浦投资、高瓴创投、云九资本、高榕创投）、2021-03-30 B轮数亿元（招商资本、平安创投、源码资本、IDG资本）。官网“投资者阵容”列启明、IDG、上海国投、上海AI产业基金、源码、高瓴创投等历史投资方，该列表非完整现行持股名册。上市后已移出创业公司分组。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2020-07-16",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "Pre-B",
+        "announced_on": "2020-08-18",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "云九资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-03-30",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "招商资本",
+            "firm_id": "cmcapital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "平安创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "金额数亿元人民币，投资方数量较多，此处列部分。"
+      },
       {
         "round": "已上市",
         "announced_on": "2026-01-02",
@@ -48,7 +153,7 @@
     "other_email_purpose": "商务合作邮箱"
   },
   "notes": "careersUrl指官网，使用加入我们菜单；投资者阵容是官网列举，非完整当前持股表。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -117,6 +222,30 @@
       "supports": "投资者关系页列出2025-12-22发布的全球发售文件（Global Offering），支持已进入公开招股与上市披露阶段。",
       "published_date": "2025-12-22",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "投资界｜壁仞科技 Pre-B轮详情",
+      "url": "https://vc.pedaily.cn/invest/26984.html",
+      "supports": "2020-08-18 Pre-B 轮，投资方含金浦投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s10",
+      "title": "投资界｜壁仞科技 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/111520.html",
+      "supports": "2020-07-16 A+ 轮，投资方含中芯聚源",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s11",
+      "title": "投资界｜壁仞科技 B轮详情",
+      "url": "https://vc.pedaily.cn/invest/89726.html",
+      "supports": "2021-03-30 B 轮数亿元，投资方含招商资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

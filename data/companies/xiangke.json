@@ -1,0 +1,118 @@
+{
+  "schema_version": 3,
+  "id": "xiangke",
+  "name": "享刻智能",
+  "aliases": [
+    "EncoSmart"
+  ],
+  "category_id": "08",
+  "focus": "以多模态感知为核心的泛生活服务机器人",
+  "products": "机器人产品及自动化解决方案（初代产品开发中）",
+  "locations_text": "北京",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：面向餐饮、清洁等泛生活服务场景提供低成本机器人产品与自动化方案；彼时产品仍处初代开发阶段，后续进展未见本次来源披露。",
+    "peer_names": [
+      "擎朗智能",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2023-04-11 天使轮 4000 万元，真格基金与中关村智友科学家基金联合领投，德迅资本、九阳股份、振邦智能跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2023-04-11",
+        "amount_text": "4000万元",
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中关村智友科学家基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "德迅资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "九阳股份",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "振邦智能",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人兼 CEO 陈震，原速感科技创始人；公司 2022 年 11 月成立于北京。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜享刻智能获 4000 万天使轮融资，真格基金、中关村智友科学家基金联合领投",
+      "url": "https://finance.sina.com.cn/jjxw/2023-04-11/doc-imypyyan4216464.shtml",
+      "supports": "天使轮金额、投资方、公司成立时间与创始人",
+      "published_date": "2023-04-11",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "享刻智能",
+    "original_track": "08",
+    "original_subtrack": "以多模态感知为核心的泛生活服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因真格基金 2023 年联合领投其天使轮这一 2020 年后披露的 AI 投资而建档；公开信息以早期融资为主，先观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2022,
+    "basis": "报道称公司于 2022 年 11 月成立于北京。"
+  }
+}

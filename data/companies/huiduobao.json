@@ -1,0 +1,112 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因金沙江创投2026年披露的法律AI Pre-A轮投资而建档；按企业垂直软件归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": "https://www.jurisai.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未见公开招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "huiduobao",
+  "name": "慧多宝法律AI",
+  "aliases": [
+    "慧多宝",
+    "慧多宝法律AI",
+    "JurisAI",
+    "上海法忞銮智能科技有限公司"
+  ],
+  "category_id": "06",
+  "founded": {
+    "year": 2023,
+    "basis": "雪球转载头部科技报道：运营主体上海法忞銮智能科技有限公司成立于2023年9月。"
+  },
+  "focus": "法律AI：面向律师与机构的法律工作流智能体",
+  "products": "慧多宝法律AI（JurisAI.cn 网页与微信小程序“慧多宝AI”）",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以法律长链路任务自主执行和私有化部署为卖点，区别于只做法律问答或通用文档生成的工具。",
+    "peer_names": [
+      "幂律智能",
+      "得理科技",
+      "无讼"
+    ]
+  },
+  "investment": {
+    "summary": "2026-04报道完成Pre-A轮融资，金沙江创投领投，浦东创投跟投，见灼资本担任财务顾问；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2026-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "浦东创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "头部科技2026-04-20发布的报道称“近日”完成Pre-A轮，金沙江创投领投、浦东创投跟投；见灼资本为财务顾问，不计为投资方。金额未披露。"
+      }
+    ]
+  },
+  "notes": "官网可访问；未找到公开招聘页与招聘邮箱。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "金沙江创投领投，法律科技新星「慧多宝法律AI」完成Pre-A轮融资",
+      "url": "https://xueqiu.com/2381804930/384690465",
+      "supports": "融资轮次、领投与跟投方、运营主体与成立时间、产品与创始人身份",
+      "published_date": "2026-04-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "慧多宝法律AI",
+    "original_track": "06",
+    "original_subtrack": "法律与销售智能"
+  },
+  "people": [
+    {
+      "name": "王薇",
+      "role": "创始人兼CEO",
+      "previous_firms": [],
+      "background": "毕业于复旦大学法律系，曾在美国华盛顿大学深造并在中美专业服务机构任职，亦曾在人工智能企业任核心高管。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一报道点名创始人兼CEO身份；未取得个人公开主页。"
+    }
+  ]
+}

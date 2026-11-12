@@ -1,0 +1,111 @@
+{
+  "schema_version": 3,
+  "id": "memory-tensor",
+  "name": "记忆张量",
+  "aliases": [
+    "记忆张量（上海）科技有限公司"
+  ],
+  "category_id": "01",
+  "focus": "大模型研发商",
+  "products": "记忆张量（上海）科技有限公司是上海算法创新研究院孵化的新型大模型公司，由中科院院士担任首席科学顾问。公司聚焦于人工智能基础理论和系统性创新，以“低成本、低幻觉”为核心特色，致力于探索符合中国国情的大模型发展新路径，推动AI应用更广泛落地。公司持续围绕大模型记忆增强与管理框架进行技术迭代，自主研发的基于记忆分层架构的“忆3”大模型已实现商业化落地，业务稳步增长，获得招商证券、中国银行、中国电信等头部国央企业认可。",
+  "locations_text": "上海市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「大模型研发商」；同页列出的邻近企业包括机本智能、空间直觉。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "机本智能",
+      "空间直觉"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2026-09-04 Pre-A+轮，金额未披露，投资方包括东方富海、新尚投资、孚腾资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A+",
+        "announced_on": "2026-09-04",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "东方富海",
+            "firm_id": "oriental-fortune",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "新尚投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "孚腾资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“未披露”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2024年11月20日。注册主体为记忆张量（上海）科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜记忆张量",
+      "url": "https://vc.pedaily.cn/company/817080.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜记忆张量Pre-A+轮",
+      "url": "https://vc.pedaily.cn/invest/426755.html",
+      "supports": "本轮披露日期（2026-09-04）、轮次、金额与投资方名单",
+      "published_date": "2026-09-04",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "记忆张量",
+    "original_track": "01",
+    "original_subtrack": "通用与多模态模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入基础模型（通用与多模态模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2024,
+    "basis": "投资界企业档案工商信息：成立时间2024年11月20日。"
+  }
+}

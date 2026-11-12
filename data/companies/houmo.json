@@ -1,0 +1,154 @@
+{
+  "schema_version": 3,
+  "id": "houmo",
+  "name": "后摩智能",
+  "aliases": [
+    "后摩智能"
+  ],
+  "category_id": "02",
+  "focus": "基于存算一体技术的大算力AI计算芯片",
+  "products": "公开报道口径为存算一体大算力计算芯片；具体产品型号与量产进度未在本次来源中确认",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与爱芯元智、地平线等以边缘或车载推理芯片为主的方向相比，后摩智能公开叙事集中在存算一体架构；技术指标与量产规模未作横向评测。",
+    "peer_names": [
+      "爱芯元智",
+      "地平线"
+    ]
+  },
+  "investment": {
+    "summary": "2021-08-24 界面新闻报道完成3亿元人民币Pre-A轮融资，由启明创投领投，经纬中国追加投资，和玉资本、中关村启航、沃赋资本、华清辰瑞跟投；红杉中国、联想创投、弘毅创投、IMO创投继续跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2021-08-24",
+        "amount_text": "3亿元人民币",
+        "investors": [
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "经纬中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "和玉资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中关村启航",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "沃赋资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华清辰瑞",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉资本中国基金",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "弘毅创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IMO创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "界面新闻称本轮为Pre-A轮，金额3亿元人民币；原有股东继续跟投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "本次未能打开可读的公开官网或招聘页"
+  },
+  "notes": "界面新闻2021-08-24报道称公司为基于存算一体技术的大算力计算芯片公司；成立年份、注册地与官网信息未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "后摩智能完成3亿元Pre-A轮融资，加速推动颠覆性存算一体技术落地",
+      "url": "https://www.jiemian.com/article/6517349.html",
+      "supports": "Pre-A轮3亿元人民币、启明创投领投及投资方名单、存算一体AI芯片业务定位",
+      "published_date": "2021-08-24",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "后摩智能",
+    "original_track": "02",
+    "original_subtrack": "存算一体AI芯片"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因启明创投2021年披露的Pre-A轮领投而建档，属于AI芯片新进厂商；官网与产品细节未取得，先观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

@@ -19,9 +19,44 @@
     ]
   },
   "investment": {
-    "summary": "2025-08-25披露2亿元A轮系列融资：中金资本旗下基金、红杉中国、华山资本、愉悦资本领投，招银国际等参投，Brizan Ventures等老股东加注。",
+    "summary": "2024-10-18 Pre-A 轮由啟赋资本、壹叁资本、羲融善道参与；2025-08-25披露2亿元A轮系列融资：中金资本旗下基金、红杉中国、华山资本、愉悦资本领投，招银国际等参投，Brizan Ventures等老股东加注；2026-03-23 A+ 轮由啟赋资本、蚂蚁集团、达晨财智、尚颀资本参与。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-10-18",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "壹叁资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "羲融善道",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "金额未披露。"
+      },
       {
         "round": "A",
         "announced_on": "2025-08-25",
@@ -80,6 +115,49 @@
           "s01"
         ],
         "notes": "界面新闻称本轮为A轮系列融资，Brizan Ventures等老股东持续加注。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2026-03-23",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "金额未披露。"
       }
     ]
   },
@@ -91,7 +169,7 @@
     "other_email_purpose": "经销商/商业合作"
   },
   "notes": "未查到公开招聘邮箱；可通过BOSS直聘深圳跃然创新公司页投递。页面明确对应HAIVIVI品牌且展示人事经理等招聘者。bd@为经销合作，不能当投递邮箱。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -160,6 +238,22 @@
       "supports": "报道李勇为Haivivi创始人，并引述其对AI玩具产品路线的判断。",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "投资界｜奇布奇布 Pre-A轮详情",
+      "url": "https://vc.pedaily.cn/invest/337890.html",
+      "supports": "2024-10-18 Pre-A 轮，投资方含啟赋资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s10",
+      "title": "投资界｜奇布奇布 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/423558.html",
+      "supports": "2026-03-23 A+ 轮，投资方含啟赋资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

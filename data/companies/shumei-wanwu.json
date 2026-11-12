@@ -1,0 +1,148 @@
+{
+  "schema_version": 3,
+  "id": "shumei-wanwu",
+  "name": "数美万物 / Hitems",
+  "aliases": [
+    "数美万物",
+    "Hitems",
+    "Hi3D",
+    "北京数美万物科技有限公司"
+  ],
+  "category_id": "05",
+  "founded": {
+    "year": 2024,
+    "basis": "搜狐转载Z Finance报道：数美万物于2024年2月成立并获得红杉中国、IDG资本初始投资。"
+  },
+  "focus": "生成式AI驱动的创意电商与3D内容社区，连接创意生成、定制生产与跨境销售",
+  "products": "Hitems 个性化物品创意社区；Hi3D AI 3D模型生成与打印服务平台",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：数美万物把生成式AI的3D内容生成与可打印、可售卖的实物商品链路结合，面向跨境创意消费；与影眸科技、VAST等偏模型或创作工具的路线相比，更强调社区与交易闭环。",
+    "peer_names": [
+      "影眸科技 / Deemos；VAST / Tripo；LiblibAI"
+    ]
+  },
+  "investment": {
+    "summary": "2025-01-14 完成数千万美元 Pre-A 轮融资，美团龙珠领投，锦秋基金跟投，老股东红杉中国、IDG资本继续跟投；融资后估值约1.5亿美元。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A轮",
+        "announced_on": "2025-01-14",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "锦秋基金",
+            "firm_id": "jinqiu",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "notes": "观点网明确美团龙珠领投、锦秋基金跟投；搜狐转载报道补充老股东红杉中国与IDG资本继续支持，融资后估值约1.5亿美元。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.hitem3d.ai/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开统一招聘邮箱"
+  },
+  "notes": "创始人任利锋为抖音早期产品负责人、原字节跳动 PICO 副总裁；公司2024年2月成立即获红杉中国、IDG资本投资。产品现以 Hi3D 品牌提供 AI 3D 生成与打印服务。未披露本轮后的完整股东名册。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "观点网｜数美万物完成数千万美元Pre-A轮融资 估值1.5亿美元",
+      "url": "https://www.guandian.cn/m/show/463093",
+      "supports": "2025-01-14 Pre-A轮数千万美元，美团龙珠领投、锦秋基金跟投，红杉中国与IDG资本继续跟投",
+      "published_date": "2025-01-14",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "搜狐｜张一鸣和王兴又联手投了新项目，抖音创始成员，估值已超1.5亿美元",
+      "url": "https://www.sohu.com/a/848831543_122074763",
+      "supports": "公司2024年2月成立及红杉中国、IDG初始投资；任利锋履历；Hitems 创意电商定位",
+      "published_date": "2025-01-14",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "Hi3D 官网",
+      "url": "https://www.hitem3d.ai/",
+      "supports": "Hi3D AI 3D 模型生成、拆分打印与定制打印服务等产品形态",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "数美万物",
+    "original_track": "05",
+    "original_subtrack": "3D与世界模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因锦秋基金参与其2025年披露的 Pre-A 轮融资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "任利锋",
+      "role": "创始人",
+      "previous_firms": [
+        "字节跳动",
+        "PICO"
+      ],
+      "background": "抖音团队创始成员并任产品负责人，后任西瓜视频总裁、字节跳动 PICO 副总裁；2024年创业做数美万物。",
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "姓名、职务与履历来自搜狐转载的Z Finance报道；未取得个人公开主页逐项复核。"
+    }
+  ]
+}

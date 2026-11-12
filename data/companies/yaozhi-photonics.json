@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "id": "yaozhi-photonics",
+  "name": "曜智光科",
+  "aliases": [
+    "曜智光科（上海）科技有限公司"
+  ],
+  "category_id": "02",
+  "focus": "AI光芯片计算单元研发制造商",
+  "products": "曜智光科于今年9月成立，是一支由MIT、哈佛、清华、上交大等顶尖院校的博士组成，覆盖微纳制造、纳米材料、光子芯片与光量子计算等交叉领域的创业团队。项目聚焦于设计与制造面向未来AI光芯片的三维光网络/光波导神经网络计算单元，并以先进制造工艺为基底，融合量子计算、类脑计算与存算一体化等前沿概念，构建颠覆性的人工智能光算力平台。",
+  "locations_text": "上海市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「AI光芯片计算单元研发制造商」；同页列出的邻近企业包括孛璞半导体、华毅瀛飞。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "孛璞半导体",
+      "华毅瀛飞"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2025-12-03 种子轮，金额未披露，投资方包括浦东创投、中科创星。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2025-12-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "浦东创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": "casstar",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“未披露”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2025年09月05日。注册主体为曜智光科（上海）科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜曜智光科",
+      "url": "https://vc.pedaily.cn/company/865724.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜曜智光科种子轮",
+      "url": "https://vc.pedaily.cn/invest/370409.html",
+      "supports": "本轮披露日期（2025-12-03）、轮次、金额与投资方名单",
+      "published_date": "2025-12-03",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "曜智光科",
+    "original_track": "02",
+    "original_subtrack": "光计算芯片"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（光计算芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "投资界企业档案工商信息：成立时间2025年09月05日。"
+  }
+}

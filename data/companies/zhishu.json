@@ -1,0 +1,99 @@
+{
+  "schema_version": 3,
+  "id": "zhishu",
+  "name": "指数科技",
+  "aliases": [
+    "AFH",
+    "指数科技"
+  ],
+  "category_id": "03",
+  "focus": "AI 生成硬件设计（AI For Hardware）",
+  "products": "AFH 平台：自然语言需求到电路图生成、嵌入式代码编写与生产资料交付",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：把生成式 AI 用于硬件设计流程，公开称可将部分设计流程从数周压缩至分钟级；与通用编程工具不同，垂直在电子设计。",
+    "peer_names": [
+      "芯华章",
+      "广立微"
+    ]
+  },
+  "investment": {
+    "summary": "2025-12-19 Pre-A 轮近亿元，云启资本领投，誉尊资本、尚势资本等跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-12-19",
+        "amount_text": "近亿元",
+        "investors": [
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "誉尊资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "尚势资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人叶群松；公司称 2025 年营收同比翻番，预计 2026 年产品级服务落地。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜指数科技完成近亿元 Pre-A 轮融资，云启资本领投",
+      "url": "https://news.pedaily.cn/202512/558865.shtml",
+      "supports": "Pre-A 轮金额与投资方、AFH 平台与创始人",
+      "published_date": "2025-12-19",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "指数科技",
+    "original_track": "03",
+    "original_subtrack": "AI 生成硬件设计（AI For Hardware）"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因云启资本 2025 年领投其 Pre-A 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 3,
+  "id": "lingcifang-robot",
+  "name": "零次方机器人",
+  "aliases": [
+    "合肥零次方机器人有限公司"
+  ],
+  "category_id": "08",
+  "focus": "一家通用人形机器人研发商",
+  "products": "合肥零次方机器人有限公司是一家通用人形机器人研发商，由清华大学和江淮前沿技术协同创新中心联合孵化。公司的几位早期创始者的共同标签为，\"00后\"-\"清华大学\"-\"人工智能专业\"，一同开启了具身智能领域的创新征程。随着公司的快速发展，零次方持续吸引了来自百度、字节跳动、科大讯飞、美的等科技与产业巨头的顶尖人才——既有深耕行业十余年的战略专家，亦不乏具备破局思维的年轻攻坚力量。",
+  "locations_text": "合肥市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「一家通用人形机器人研发商」；同页列出的邻近企业包括简智机器人、RoboScience。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "简智机器人",
+      "RoboScience"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2026-09-11 A+轮，金额未披露，投资方包括清科产投、滨湖产业集团、同创伟业、力合科创。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2026-09-11",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "清科产投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "滨湖产业集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "同创伟业",
+            "firm_id": "cowin-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "力合科创",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“未披露”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2025年01月02日。注册主体为合肥零次方机器人有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜零次方机器人",
+      "url": "https://vc.pedaily.cn/company/714151.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜零次方机器人A+轮",
+      "url": "https://vc.pedaily.cn/invest/428741.html",
+      "supports": "本轮披露日期（2026-09-11）、轮次、金额与投资方名单",
+      "published_date": "2026-09-11",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "零次方机器人",
+    "original_track": "08",
+    "original_subtrack": "人形与四足本体"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（人形与四足本体）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2025,
+    "basis": "投资界企业档案工商信息：成立时间2025年01月02日。"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 3,
+  "id": "xkool",
+  "name": "小库科技 / XKool",
+  "aliases": [
+    "深圳小库科技有限公司",
+    "小库科技",
+    "XKool"
+  ],
+  "category_id": "05",
+  "focus": "人工智能设计平台服务商",
+  "products": "小库科技，以设计智能驱动建筑产业智能化。小库跨界组合的顶级稀缺团队，长期致力于将新科技转化为设计生产力。其自主研发第三代建筑行业底层数字语言ABC（AI- BIM- Cloud），着力解决建筑产业的设计生产低效与开发决策协同难题。基于独家的ABC模式打造的智能设计引擎，及其针对设计角色的产品小库设计云，为设计方提供分析-设计-审核-管理全流程增效；并以AI+服务应用于项目方，特别是地产全周期生产与管理，助力其增强设计效率、质量与收益，并",
+  "locations_text": "深圳市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「人工智能设计平台服务商」；同页列出的邻近企业包括3Chat.ai、南栖仙策。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "南栖仙策"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2020-12-16 A+轮，金额数千万美元，投资方包括海纳亚洲创投基金、五源资本、嘉御资本、东方富海。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2020-12-16",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "海纳亚洲创投基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "嘉御资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "东方富海",
+            "firm_id": "oriental-fortune",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万美元”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.xkool.org",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2016年08月30日。注册主体为深圳小库科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜小库科技 / XKool",
+      "url": "https://vc.pedaily.cn/company/26158.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜小库科技 / XKoolA+轮",
+      "url": "https://vc.pedaily.cn/invest/20954.html",
+      "supports": "本轮披露日期（2020-12-16）、轮次、金额与投资方名单",
+      "published_date": "2020-12-16",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "小库科技 / XKool",
+    "original_track": "05",
+    "original_subtrack": "图像社区与设计"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入多模态生成与创作工具（图像社区与设计）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2016,
+    "basis": "投资界企业档案工商信息：成立时间2016年08月30日。"
+  }
+}

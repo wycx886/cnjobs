@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "id": "hai-robotics",
+  "name": "海柔创新",
+  "aliases": [
+    "Hai Robotics",
+    "深圳市海柔创新科技有限公司"
+  ],
+  "category_id": "08",
+  "focus": "箱式仓储机器人系统",
+  "products": "库宝机器人 HAIPICK、HAIQ 软件系统、工作站",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以料箱到人仓储机器人为核心，强调存储密度、出库效率与改造成本；与通用人形机器人公司场景不同。",
+    "peer_names": [
+      "极智嘉",
+      "快仓智能"
+    ]
+  },
+  "investment": {
+    "summary": "2020-09-02 B 轮由源码资本领投，老股东华登国际、零一创投跟投；含 A 轮两轮融资金额过亿，B 轮单轮金额未披露。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2020-09-02",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华登国际",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "零一创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称加上 A 轮两轮融资金额过亿，未单独披露 B 轮金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人兼 CEO 陈宇奇；公司 2016 年底成立。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "澎湃新闻｜源码资本领投，物流仓储机器人创企海柔创新获 B 轮融资",
+      "url": "https://www.thepaper.cn/newsDetail_forward_8981375",
+      "supports": "B 轮领投与跟投方、公司成立时间、创始人与产品",
+      "published_date": "2020-09-02",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "海柔创新",
+    "original_track": "08",
+    "original_subtrack": "箱式仓储机器人系统"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因源码资本 2020 年领投其 B 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2016,
+    "basis": "报道称公司成立于 2016 年底。"
+  }
+}

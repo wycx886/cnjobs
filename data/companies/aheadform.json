@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "id": "aheadform",
+  "name": "首形科技（AheadForm）",
+  "aliases": [
+    "AheadForm",
+    "首形科技（上海）有限公司"
+  ],
+  "category_id": "08",
+  "focus": "超高仿生情感交互人形机器人",
+  "products": "人脸机器人、情绪基座模型",
+  "locations_text": "上海（首形科技（上海）有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：聚焦人脸机器人与情感交互，与侧重全身运动控制的人形机器人公司路径不同；金额未披露，商业化阶段较早。",
+    "peer_names": [
+      "宇树科技",
+      "智元机器人",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2025-08-19 新一轮融资，顺为资本领投，老股东招商局创投、深创投、智元机器人超额加注，奇绩创坛、五源资本追投；金额未披露。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "新一轮",
+        "announced_on": "2025-08-19",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "招商局创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "智元机器人",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "奇绩创坛",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称老股东超额加注、两家机构追投，未披露金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人胡宇航，哥伦比亚大学博士；公司 2024 年 6 月成立于上海。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "搜狐｜海归博士创立，顺为资本领投首形科技新一轮融资",
+      "url": "http://business.sohu.com/a/925490946_118792",
+      "supports": "融资领投与参与方、公司成立时间、创始人与产品方向",
+      "published_date": "2025-08-19",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "首形科技（AheadForm）",
+    "original_track": "08",
+    "original_subtrack": "超高仿生情感交互人形机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因顺为资本 2025 年领投其新一轮融资这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2024,
+    "basis": "报道称公司于 2024 年 6 月成立。"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因金沙江创投与高瓴创投2025年披露的AI工作流种子轮投资而建档；按开发平台业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": "https://refly.ai/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未见公开招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "refly-ai",
+  "name": "Refly.AI",
+  "aliases": [
+    "Refly.AI",
+    "Refly",
+    "Refly AI"
+  ],
+  "category_id": "03",
+  "focus": "面向非技术用户的AI工作流平台（Vibe Workflow）",
+  "products": "Refly.AI 1.0（自然语言搭建可执行AI工作流）",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：在Agent与固定工作流之间取中间态，强调可视化、可控与可复用；与纯对话Agent或传统自动化工具路线不同。",
+    "peer_names": [
+      "Dify",
+      "扣子（Coze）",
+      "n8n"
+    ]
+  },
+  "investment": {
+    "summary": "2025-12报道完成数百万美元种子轮融资，金沙江、高瓴创投以及ClassIn共同投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2025-12",
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "ClassIn",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪出海报道三家共同投资，未区分领投与跟投；金额为数百万美元。"
+      }
+    ]
+  },
+  "notes": "官网可访问；公开报道未列注册地。未找到公开招聘页与邮箱。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "36氪出海·AI｜对话Refly.AI黄巍：首轮获得朱啸虎、高瓴投资，95后字节系创业者要做全球第一个Vibe Workflow",
+      "url": "https://news.qq.com/rain/a/20251218A0608O00",
+      "supports": "种子轮金额与投资方、创始人身份与产品定位",
+      "published_date": "2025-12-18",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Refly.AI",
+    "original_track": "03",
+    "original_subtrack": "Agent工作流与开发平台"
+  },
+  "people": [
+    {
+      "name": "黄巍",
+      "role": "创始人",
+      "previous_firms": [
+        "字节跳动",
+        "飞书"
+      ],
+      "background": "1996年出生，曾在字节跳动飞书团队负责Aily智能伙伴创建平台，并参与Coze平台算法工程与产品设计。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一报道点名创始人身份；未取得个人公开主页。"
+    }
+  ]
+}

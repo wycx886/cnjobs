@@ -19,9 +19,181 @@
     ]
   },
   "investment": {
-    "summary": "公司2026-06-29公告披露连续四轮融资并至C轮，估值超过28亿美元（约200亿元人民币）；公告称IDG参与C轮，红杉中国与小米此前多轮投资，美团、阿里、字节、小米曾分别领投不同阶段。未分轮披露金额与日期，故仅记C轮。融资金额和估值为该时点公司披露。",
+    "summary": "2024-08-23 Pre-A 轮由德联资本、基石资本、水木清华校友种子基金参与；2024-11-04 Pre-A 轮数亿元由德联资本、基石资本、啟赋资本、南山战新投、九合创投、一苇资本参与，同日 Pre-A+ 轮亿级由啟赋资本、南山战新投、九合创投参与；2026-02-25 Pre-B 轮数亿元由中金资本、啟赋资本、上汽集团、美团龙珠参与；2026-06-29 C 轮由 IDG 资本参与，公司公告称连续四轮融资并至C轮，估值超过28亿美元。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-08-23",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "德联资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "水木清华校友种子基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "投资界融资事件页披露；金额未披露。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-11-04",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "德联资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "南山战新投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "九合创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "一苇资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“数亿人民币”。E、F 两批同页记录已去重。"
+      },
+      {
+        "round": "Pre-A+",
+        "announced_on": "2024-11-04",
+        "amount_text": "亿级人民币",
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "南山战新投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "九合创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "金额亿级人民币。"
+      },
+      {
+        "round": "Pre-B",
+        "announced_on": "2026-02-25",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "上汽集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "金额数亿元人民币。"
+      },
       {
         "round": "C",
         "announced_on": "2026-06-29",
@@ -51,7 +223,7 @@
     "other_email_purpose": "商业合作"
   },
   "notes": "邮箱为公开招聘渠道；岗位及开放状态以招聘页面为准。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -112,6 +284,38 @@
       "supports": "公司新闻稿引述“Wang Qian, founder and CEO of X Square Robot”，并记公司2023年成立、总部深圳、2026年4月发布WALL-B。",
       "published_date": "2026-06-29",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投资界融资事件｜自变量机器人2024-08-23 Pre-A轮",
+      "url": "https://vc.pedaily.cn/invest/327930.html",
+      "supports": "轮次、披露日期与投资方名单",
+      "published_date": "2024-08-23",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s09",
+      "title": "投资界融资事件｜自变量机器人2024-11-04 Pre-A轮",
+      "url": "https://vc.pedaily.cn/invest/333278.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2024-11-04",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s10",
+      "title": "投资界融资事件｜自变量机器人2024-11-04 Pre-A+轮",
+      "url": "https://vc.pedaily.cn/invest/333283.html",
+      "supports": "轮次、披露日期与投资方名单",
+      "published_date": "2024-11-04",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s11",
+      "title": "投资界融资事件｜自变量机器人2026-02-25 Pre-B轮",
+      "url": "https://vc.pedaily.cn/invest/421942.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2026-02-25",
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

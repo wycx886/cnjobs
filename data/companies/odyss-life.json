@@ -1,0 +1,166 @@
+{
+  "schema_version": 3,
+  "id": "odyss-life",
+  "name": "OdyssLife / Odyss",
+  "aliases": [
+    "Odyss",
+    "OdyssLife",
+    "ODYSS",
+    "Odyss N1"
+  ],
+  "category_id": "09",
+  "founded": {
+    "year": 2025,
+    "basis": "2025-12-20 十字路口访谈中创始人称当年开始创业、团队约10人；官网使用 2025 年备案号。"
+  },
+  "focus": "以AI项链形态持续记录饮食与运动行为，提供个性化健康数据与计划",
+  "products": "Odyss N1 AI 饮食项链：常开低功耗摄像头与云端视觉模型识别进食行为，输出营养、热量与健康计划",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：Odyss 选择项链形态切入饮食记录，强调常开、无感记录与健康计划；与 Plaud 等录音办公硬件、闪极等 AI 眼镜/穿戴相比，场景更垂直，硬件与云端 VLM 协同是核心。",
+    "peer_names": [
+      "Plaud / 机智连接；闪极科技 SHARGE；跃然创新 Haivivi"
+    ]
+  },
+  "investment": {
+    "summary": "2025年完成首轮数百万美元融资，CreekStone 为天使投资方；2026-03-26 宣布多轮融资累计近2亿元，HSG China 与 Monolith 分别领投，老股东 Linear Capital、Creekstone 继续增资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": null,
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "CreekStone",
+            "firm_id": "creek-stone",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "创始人在2025-12-20访谈中称刚完成首轮数百万美元融资，CreekStone 合伙人李一豪以天使投资人身份参与；未披露该轮具体日期与领投方。"
+      },
+      {
+        "round": "多轮融资",
+        "announced_on": "2026-03-26",
+        "amount_text": "近2亿元",
+        "investors": [
+          {
+            "name": "HSG China（红杉中国）",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Monolith 砺思资本",
+            "firm_id": "monolith",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Linear Capital 线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Creekstone",
+            "firm_id": "creek-stone",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "36氪称本轮为连续多轮融资合计近2亿元，HSG China 与 Monolith 分别领投，Linear Capital 与 Creekstone 作为老股东继续增资；未把合计金额拆分为单轮金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.odyss.life/",
+    "careers_url": null,
+    "recruitment_email": "hr@odyss.life",
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "创始人 Chris Pan 曾任华为小艺算法、HarmonyOS 产品及字节跳动 Coze 早期产品成员，后负责 AI 硬件项目。产品仍处早期，官网展示 N1 项链与测试计划；融资与产品进展不构成销量或回报证据。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "elsewhere｜Your Next Wearable: A Health Companion Hanging Around Your Neck?",
+      "url": "https://elsewhere.news/zh/crossing/aiodysscreekstone",
+      "supports": "创始人 Chris Pan 履历、产品形态、首轮数百万美元融资及 CreekStone 天使投资关系；招聘邮箱",
+      "published_date": "2025-12-20",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "36氪｜OdyssLife 完成累计近2亿元多轮融资",
+      "url": "https://eu.36kr.com/en/newsflashes/3739503574515717",
+      "supports": "2026-03-26 多轮融资合计近2亿元，HSG China 与 Monolith 分别领投，Linear Capital 与 Creekstone 继续投资",
+      "published_date": "2026-03-26",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "Odyss 官网",
+      "url": "https://www.odyss.life/",
+      "supports": "Odyss N1 AI 饮食项链的产品定位与功能描述",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "OdyssLife",
+    "original_track": "09",
+    "original_subtrack": "穿戴与助力"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因 Creek Stone 与砺思资本参与其2025-2026年披露融资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "Chris Pan",
+      "role": "创始人",
+      "previous_firms": [
+        "华为",
+        "字节跳动"
+      ],
+      "background": "曾在华为参与小艺算法与 HarmonyOS 产品；2022年加入字节跳动，参与 Coze 早期产品，后负责 AI 硬件与 AI 眼镜项目。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "姓名与履历来自十字路口访谈英文稿；未取得个人公开主页逐项复核。"
+    }
+  ]
+}

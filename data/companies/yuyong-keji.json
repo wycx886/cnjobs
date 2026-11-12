@@ -1,0 +1,131 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因高榕创投2026年披露的AI首轮投资而建档；按通用Agent业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "yuyong-keji",
+  "name": "语用科技 / Pragmatik Labs",
+  "aliases": [
+    "语用科技（Pragmatik Labs）",
+    "Pragmatik Labs",
+    "p7k",
+    "上海语用科技"
+  ],
+  "category_id": "04",
+  "founded": {
+    "year": 2026,
+    "basis": "新浪财经2026-08-12报道：林俊旸2026年3月从阿里离职后在上海创办该公司并官宣。"
+  },
+  "focus": "下一代智能体：数字Agent与物理Agent",
+  "products": "公开产品未披露；公司口径为数字Agent、物理Agent、从研究到产品、长程探索",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：由前通义千问技术负责人创办，公开路线从基础模型转向智能体训练；与主打通用模型或单一应用的公司不同。",
+    "peer_names": [
+      "月之暗面",
+      "MiniMax",
+      "阶跃星辰"
+    ]
+  },
+  "investment": {
+    "summary": "2026-08-12官宣首轮融资，高榕创投与红杉中国共同领投，腾讯及上海未来产业基金参与；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "首轮",
+        "announced_on": "2026-08-12",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海未来产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "新浪财经报道首轮由高榕创投、红杉中国共同领投，腾讯及上海未来产业基金参与；金额未披露，报道另提投后估值约20亿美元，未计入金额字段。"
+      }
+    ]
+  },
+  "notes": "2026-08-12由创始人林俊旸在社交平台官宣；办公地上海。未找到可确认的独立官网与招聘入口，故网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "林俊旸官宣，已在上海创办AI公司——语用科技，首轮融资由高榕创投与红杉中国共同领投",
+      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-08-12/doc-inimzyti6825151.shtml",
+      "supports": "公司名称、创办地、首轮投资方与领投关系、创始人身份",
+      "published_date": "2026-08-12",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "语用科技（Pragmatik Labs）",
+    "original_track": "04",
+    "original_subtrack": "通用Agent与个人应用"
+  },
+  "people": [
+    {
+      "name": "林俊旸",
+      "role": "创始人",
+      "previous_firms": [
+        "阿里巴巴",
+        "通义千问"
+      ],
+      "background": "前阿里通义千问技术负责人，2026年3月离职后在上海创办语用科技，提出从训练模型转向训练智能体。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一融资报道点名创始人身份；未取得个人公开主页。"
+    }
+  ]
+}

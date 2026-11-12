@@ -1,0 +1,82 @@
+{
+  "schema_version": 3,
+  "id": "creao-ai",
+  "name": "Creao AI",
+  "aliases": [
+    "Creao"
+  ],
+  "category_id": "04",
+  "focus": "AI 代理自动化与虚拟环境运营",
+  "products": "AI Agent 自动化平台（公开细节有限）",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：公开定位为 AI 代理自动化与虚拟环境运营，产品细节披露有限；本次仅见天使轮融资信息。",
+    "peer_names": [
+      "Manus",
+      "钉钉 AI 助理"
+    ]
+  },
+  "investment": {
+    "summary": "2025-08-01 天使轮数百万美元，云启资本独家投资。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2025-08-01",
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称云启资本独家投资。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "融资用于技术研发与市场拓展（报道口径）。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "i黑马｜Creao AI 完成数百万美元天使轮融资，云启资本领投",
+      "url": "http://www.iheima.com/article-388172.html",
+      "supports": "天使轮金额、独家投资方与业务方向",
+      "published_date": "2025-08-01",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Creao AI",
+    "original_track": "04",
+    "original_subtrack": "AI 代理自动化与虚拟环境运营"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因云启资本 2025 年独家投资其天使轮这一 2020 年后披露的 AI 投资而建档；公开产品细节有限，先观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

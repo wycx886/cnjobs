@@ -1,0 +1,130 @@
+{
+  "schema_version": 3,
+  "id": "tsingmao",
+  "name": "清昴智能",
+  "aliases": [
+    "清昴智能科技（北京）有限公司",
+    "TsingMao"
+  ],
+  "category_id": "03",
+  "focus": "AI 模型推理与部署优化工具链",
+  "products": "MLGuider 模型推理和部署优化工具链，面向 AIGC、自动驾驶与 AIoT",
+  "locations_text": "北京",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：清昴智能以模型部署与推理优化工具链为核心，属于开发平台层，与硅基流动等模型服务平台存在交集但更偏向端侧与异构硬件的部署优化；公开客户与收入数据较少。",
+    "peer_names": [
+      "硅基流动；潞晨科技；趋境科技"
+    ]
+  },
+  "investment": {
+    "summary": "2024-05-31 Pre-A+ 轮披露数千万人民币，啟赋资本参与；同轮另有达晨财智、奇绩创坛。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A+",
+        "announced_on": "2024-05-31",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "奇绩创坛",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额数千万人民币。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-03-07",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "哈勃投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.tsingmao.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为清昴智能科技（北京）有限公司，公司页记成立时间 2022-10-26、注册地北京。公司页另记 2025-03-05 A 轮，金额未披露；本档案未收录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜清昴智能 公司页",
+      "url": "https://vc.pedaily.cn/company/681283.html",
+      "supports": "成立时间、MLGuider 工具链业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜清昴智能 Pre-A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/315697.html",
+      "supports": "2024-05-31 Pre-A+ 轮数千万，投资方含啟赋资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "清昴智能",
+    "original_track": "03",
+    "original_subtrack": "Agent工作流与开发平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因啟赋资本 2020 年后披露的模型部署工具链投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2022,
+    "basis": "投资界公司页工商信息：清昴智能科技（北京）有限公司成立于 2022-10-26。"
+  }
+}

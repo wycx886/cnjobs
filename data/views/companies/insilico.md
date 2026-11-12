@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/insilico.json)
 
-机构／项目 ID：`insilico` · 主赛道：10 科学智能与生物医药 · 核查日期：2026-11-11
+机构／项目 ID：`insilico` · 主赛道：10 科学智能与生物医药 · 核查日期：2026-11-12
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-11-11）
 
@@ -30,7 +30,7 @@ Pharma.AI；PandaOmics；Chemistry42；inClinico
 
 ## 投资背景
 
-2025年12月30日在港交所主板上市（股份代号3696）。官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等；上市前各轮未逐项展开。
+2025年12月30日在港交所主板上市（股份代号3696）。2021-06-22完成2.55亿美元C轮，CPE源峰、华平投资、启明创投、礼来亚洲基金、创新工场参与。官网列出的长期科技和医疗投资者包括华平、启明、药明康德、B Capital、Prosperity7、OrbiMed、Deerfield、兰亭、礼来亚洲、Eight Roads、百度风投、创新工场等；上市前各轮未逐项展开。
 
 **披露状态：** 部分核验。
 
@@ -60,7 +60,7 @@ Pharma.AI；PandaOmics；Chemistry42；inClinico
 
 | 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
 | --- | --- | --- | --- | --- | --- |
-| Alex Zhavoronkov | 创始人、董事长兼CEO | 拉脱维亚出生；2014年创办 Insilico Medicine 并任CEO，2016年起将生成式对抗网络（GAN）与强化学习用于药物发现。此前在 ATI Technologies、Biogerontology Research Foundation 等机构任职，兼任 Buck Institute 人工智能兼职教授，发表同行评审论文200余篇。；原平台：ATI Technologies、Biogerontology Research Foundation | confirmed / 2026-11-11 / s05,s06,s07,s08 | [scholar](https://scholar.google.com/citations?hl=en&user=8Icccp0AAAAJ) (confirmed, s05,s06,s07,s08) · [personal_site](https://alexzhavoronkov.com/biography) (confirmed, s05,s06,s07,s08) | 官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。 |
+| Alex Zhavoronkov | 创始人、董事长兼CEO | 拉脱维亚出生；2014年创办 Insilico Medicine 并任CEO，2016年起将生成式对抗网络（GAN）与强化学习用于药物发现。此前在 ATI Technologies、Biogerontology Research Foundation 等机构任职，兼任 Buck Institute 人工智能兼职教授，发表同行评审论文200余篇。；原平台：ATI Technologies、Biogerontology Research Foundation | confirmed / 2026-11-12 / s10,s11,s12 | [scholar](https://scholar.google.com/citations?hl=en&user=8Icccp0AAAAJ) (confirmed, s05,s06,s07,s08) · [personal_site](https://alexzhavoronkov.com/biography) (confirmed, s05,s06,s07,s08) · [x](https://x.com/biogerontology) (confirmed, s10,s11,s12) | 官网团队页与本人主页一致；2026年部分报道称其为 co-CEO（与任峰并列），官网当前表述为 Chairman/Executive Director/CEO，本条以官网为准。 已读 X 主页：显示名 Alex Zhavoronkov, PhD (aka Aleksandrs Zavoronkovs)；简介写明帖文为个人观点、不代表 Insilico Medicine；蓝V，约 4.7 万关注。本人主页直接给出该 handle。 |
 | 任峰（Feng Ren） | 首席科学官（CSO）、执行董事、联席CEO | 哈佛大学化学博士（2007）；在葛兰素史克（GSK）从事小分子创新药研发11年，曾任首席科学家、项目负责人及神经退行性疾病DPU化学负责人；2018年加入美迪西（Medicilon）任高级副总裁；2021年加入英矽智能任CSO，负责内部管线与外部合作，后任联席CEO。；原平台：GSK、Medicilon（美迪西） | confirmed / 2026-11-11 / s05,s08 | 暂未收录公开主页 | 职务与履历取自公司官网英文与中文团队页。 |
 | Alex Aliper | President | 在 Insilico 主导将AI用于多组学数据、生成化学与生成生物学，并组建百人级AI工程团队；曾入选 Deep Knowledge Analytics “Top 100 AI Leaders in Drug Discovery” 与 Endpoint News “20 under 40”。 | confirmed / 2026-11-11 / s05,s08 | 暂未收录公开主页 | 职务与履历取自公司官网英文与中文团队页。 |
 
@@ -81,3 +81,7 @@ Pharma.AI；PandaOmics；Chemistry42；inClinico
 | s07 | [Alex Zhavoronkov Google Scholar 主页](https://scholar.google.com/citations?user=8Icccp0AAAAJ) | 其 Google Scholar 作者主页（由 Insilico 官网团队页直接链接），列出论文与被引数据。 | 未标明 | 2026-11-11 |
 | s08 | [英矽智能官网中文领导团队页](https://insilico.com/team_sc) | 中文团队页：Alex Zhavoronkov 博士为董事会主席、执行董事、首席执行官兼首席商务官；任峰博士为首席科学官、执行董事、联合首席执行官；Alex Aliper 博士为总裁；并附三人履历。 | 未标明 | 2026-11-11 |
 | s09 | [英矽智能 2025 年度报告（港交所）](https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042803626_c.pdf) | 股份代号3696；2025年12月30日于聯交所主板上市；全球发售所得款项净额2,350.3百萬港元（行使超额配股权后）。 | 2026-04-28 | 2026-11-11 |
+| s10 | [X 账号 @biogerontology 主页](https://x.com/biogerontology) | 公开专业主页与本次人物身份观察：Alex Zhavoronkov；职务：创始人、董事长兼CEO | 未标明 | 2026-11-12 |
+| s11 | [Alex Zhavoronkov 个人主页 Biography 列出 Twitter/X: @biogerontology](https://alexzhavoronkov.com/biography) | 本人主页 Social Media 一节写明 Twitter/X: @biogerontology，并介绍其为 Insilico Medicine 创始人兼 CEO。 | 未标明 | 2026-11-12 |
+| s12 | [Insilico Medicine 官网 Leadership 团队页](https://insilico.com/team) | 官方团队页将 Alex Zhavoronkov, PhD 列为 Chairman of the Board、Executive Director、CEO。 | 未标明 | 2026-11-12 |
+| s13 | [投资界｜英矽智能 C轮详情](https://vc.pedaily.cn/invest/104095.html) | 2021-06-22 C 轮 2.55 亿美元，投资方含 CPE源峰 | 未标明 | 2026-11-12 |

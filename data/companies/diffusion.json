@@ -1,0 +1,128 @@
+{
+  "schema_version": 3,
+  "id": "diffusion",
+  "name": "扩散智能（DiffuSpace）",
+  "aliases": [
+    "DiffuSpace",
+    "扩散智能"
+  ],
+  "category_id": "01",
+  "focus": "扩散语言模型（dLLM）研发",
+  "products": "扩散语言模型训练与推理；计划开源新一代更大参数模型",
+  "locations_text": "深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：选择与主流自回归模型不同的扩散语言模型路线，公开称可并行解码与全局迭代；公司成立时间短，产品与商业化尚待验证。",
+    "peer_names": [
+      "智谱 Z.ai",
+      "月之暗面",
+      "MiniMax"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10-09 宣布连续完成两轮融资，总金额数亿元；经纬创投、顺为资本、君联资本联合领投，中科创星、华为哈勃、地平线等跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使轮系列",
+        "announced_on": "2026-10-09",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "君联资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": "casstar",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华为哈勃",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "地平线",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称连续完成两轮融资、总金额数亿元，未拆分单轮金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "2026 年 5 月由香港大学 NLP 实验室联合主管孔令鹏教授与在读博士龚珊三、叶佳成等在深圳联合创立。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "金融界｜扩散智能完成数亿元融资，创全球扩散语言模型最大规模融资纪录",
+      "url": "https://www.163.com/dy/article/L8QJM36C0519QIKK.html",
+      "supports": "两轮融资总额、联合领投与跟投方、公司成立时间与技术路线",
+      "published_date": "2026-10-09",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "扩散智能（DiffuSpace）",
+    "original_track": "01",
+    "original_subtrack": "扩散语言模型（dLLM）研发"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因经纬创投、顺为资本 2026 年联合领投其融资这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2026,
+    "basis": "报道称公司于 2026 年 5 月在深圳联合创立。"
+  }
+}

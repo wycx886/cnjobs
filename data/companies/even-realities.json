@@ -1,0 +1,129 @@
+{
+  "schema_version": 3,
+  "id": "even-realities",
+  "name": "逸文科技 / Even Realities",
+  "aliases": [
+    "深圳市逸文科技有限公司",
+    "逸文科技",
+    "Even Realities"
+  ],
+  "category_id": "09",
+  "focus": "AI+AR数字化眼镜制造商",
+  "products": "Even Realities（逸文科技）成立于2023年，总部位于中国深圳与德国柏林，是一家面向全球消费者的数字化眼镜领军企业，致力于通过引领全球的创新能力，推进传统眼镜的数字化与AI化。Even G1 是公司旗下推出的第一款AI+AR数字化眼镜，为用户提供极致的屈光及光学显示体验，在可替代日常眼镜的基础上结合AR科技提供实用的提效工具，更无感、更便捷地让数字世界赋能现实。产品创新性突出，一经推出即在海外市场火爆销售，并受到广泛好评。",
+  "locations_text": "深圳市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「AI+AR数字化眼镜制造商」；同页列出的邻近企业包括微光科技、南壁新能源。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "微光科技",
+      "南壁新能源"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2024-12-11 A轮，金额未披露，投资方包括Monolith砺思资本、鼎晖投资、HongShan红杉中国、青山资本、爱尔眼科。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2024-12-11",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "Monolith砺思资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "HongShan红杉中国",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "青山资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "爱尔眼科",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“未披露”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2023年06月02日。注册主体为深圳市逸文科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜逸文科技 / Even Realities",
+      "url": "https://vc.pedaily.cn/company/707137.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜逸文科技 / Even RealitiesA轮",
+      "url": "https://vc.pedaily.cn/invest/336882.html",
+      "supports": "本轮披露日期（2024-12-11）、轮次、金额与投资方名单",
+      "published_date": "2024-12-11",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "逸文科技 / Even Realities",
+    "original_track": "09",
+    "original_subtrack": "穿戴与助力"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入AI 消费硬件（穿戴与助力）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界企业档案工商信息：成立时间2023年06月02日。"
+  }
+}

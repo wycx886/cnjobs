@@ -21,8 +21,69 @@
     ]
   },
   "investment": {
-    "summary": "幻方/梁文锋创办并支持；路透2026年10月22日报道称约1000亿元新融资接近完成，参与者包括兆易创新、美团、吉利等，消息源为知情人士，并非公司公告。",
-    "verification_status": "not_found"
+    "summary": "幻方/梁文锋创办并支持；路透2026年10月22日报道称约1000亿元新融资接近完成，参与者包括兆易创新、美团、吉利等，消息源为知情人士，并非公司公告。投资界融资事件页另记2026-10-30 B轮1055亿元人民币，投资方含CPE源峰、博裕资本、中芯聚源、腾讯投资、宁德时代、国家人工智能产业投资基金。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2026-10-30",
+        "amount_text": "1055亿人民币",
+        "investors": [
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "博裕资本",
+            "firm_id": "boyu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "腾讯投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "宁德时代",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "国家人工智能产业投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "金额 1055 亿元人民币，投资方数量很多，此处列部分。"
+      }
+    ]
   },
   "contacts": {
     "website": "https://www.deepseek.com/",
@@ -32,7 +93,7 @@
     "other_email_purpose": "API服务咨询（非招聘）"
   },
   "notes": "融资是媒体引述知情人士，不能写成公司已官宣；原表国家基金/腾讯等名单及CFO说法未逐项确认。API邮箱非招聘，来自公开产品服务资料；本次未写入结构化融资轮次：路透2026-10-22报道的约1000亿元融资为知情人士消息、非公司公告，不符合写入条件。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -109,6 +170,14 @@
       "published_date": "2025-01-28",
       "checked_at": "2026-11-11",
       "scope": "person"
+    },
+    {
+      "id": "s10",
+      "title": "投资界｜DeepSeek B轮详情",
+      "url": "https://vc.pedaily.cn/invest/447445.html",
+      "supports": "2026-10-30 B 轮 1055 亿元，投资方含 CPE源峰、博裕资本、中芯聚源",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

@@ -1,0 +1,134 @@
+{
+  "schema_version": 3,
+  "id": "beingbeyond",
+  "name": "智在无界",
+  "aliases": [
+    "北京智在无界科技有限公司",
+    "BeingBeyond",
+    "智在无界 BeingBeyond"
+  ],
+  "category_id": "08",
+  "focus": "人形机器人通用基础模型与具身智能系统",
+  "products": "Being-VL跨模态模型、Being-H手部动作生成、Being-M全身动作生成、Being-W运动控制模型；D1桌面级灵巧手机械臂、Being-Dex、Being-Actor与U1",
+  "locations_text": "北京（投资界报道称北京智在无界科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与星海图、自变量机器人同属具身智能方向，智在无界公开路线强调以互联网人类视频预训练通用动作模型、再迁移到不同机器人本体；模型效果与量产进度未作横向评测。",
+    "peer_names": [
+      "星海图",
+      "自变量机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2025-06-16 投资界报道完成数千万元融资，联想之星领投，智谱Z基金、燕缘创投、彬复资本跟投；资金用于核心技术研发、模型迭代与产业化验证。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2025-06-16",
+        "amount_text": "数千万元人民币",
+        "investors": [
+          {
+            "name": "联想之星",
+            "firm_id": "legend-star",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "智谱Z基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "燕缘创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "彬复资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "投资界称数千万元融资，联想之星领投；联想之星合伙人称公司为其天使投资项目，故轮次记为天使轮。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.beingbeyond.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "marketing@beingbeyond.com",
+    "other_email_purpose": "官网所列商务合作邮箱"
+  },
+  "notes": "投资界报道公司成立于2025年1月；官网列四大基础模型与软硬一体产品。招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "智在无界完成数千万元融资，联想之星领投",
+      "url": "https://news.pedaily.cn/202506/551071.shtml",
+      "supports": "数千万元融资、联想之星领投、智谱Z基金/燕缘创投/彬复资本跟投、2025年1月成立、创始人卢宗青与技术路线",
+      "published_date": "2025-06-16",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "BeingBeyond 智在无界｜以大规模人类数据为基础的具身通用基础模型",
+      "url": "https://www.beingbeyond.com/",
+      "supports": "官网四大模型与产品线、商务合作邮箱",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "智在无界",
+    "original_track": "08",
+    "original_subtrack": "人形机器人通用基础模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因联想之星2025年披露领投的天使轮而建档，属于具身智能基础模型新进厂商；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "卢宗青",
+      "role": "创始人",
+      "previous_firms": [
+        "北京大学",
+        "智源研究院"
+      ],
+      "background": "投资界报道称其为北京大学计算机学院长聘副教授，曾任智源研究院多模态交互研究中心负责人；核心成员多来自智源研究院。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "创始人身份与履历取自投资界报道；未取得个人公开主页。"
+    }
+  ]
+}

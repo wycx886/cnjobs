@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/agibot.json)
 
-机构／项目 ID：`agibot` · 主赛道：08 具身智能与机器人 · 核查日期：2026-11-11
+机构／项目 ID：`agibot` · 主赛道：08 具身智能与机器人 · 核查日期：2026-11-12
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-10-31）
 
@@ -30,7 +30,7 @@
 
 ## 投资背景
 
-2025-03-24公司向财新证实完成新B轮，腾讯领投，龙旗科技、卧龙电气、华发集团、蓝驰创投等产业方及老股东跟投；该轮金额未披露。更早轮次本轮未取得可核验披露，未结构化。
+2023-12-14 A+++ 轮超 6 亿元人民币，蓝驰创投、中科创星、鼎晖投资、基石资本、高瓴创投、临港新片区基金等参与；2025-03-24 公司向财新证实完成新 B 轮，腾讯领投，龙旗科技、卧龙电气、华发集团、蓝驰创投等产业方及老股东跟投，该轮金额未披露。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -81,3 +81,4 @@
 | s05 | [【智元机器人招聘】-猎聘](https://www.liepin.com/company/13530971/) | 公开企业主页主体：智元机器人；只核验入口归属，不表示具体岗位开放。 | 未标明 | 2026-10-31 |
 | s06 | [智元机器人官网「董事会&合伙人」](https://www.agibot.com.cn/company/leadership) | 邓泰华任创始人/董事会主席/CEO，彭志辉任联合创始人/总裁/CTO，姜青松任联合创始人/联席总裁/COO，姚卯青任联合创始人/联席总裁、具身业务体系总裁 | 未标明 | 2026-11-11 |
 | s07 | [AGIBOT official Board & Partners](https://www.agibot.com/company/leadership) | 英文官网同一页面：Deng Taihua 为 Founder/Chairman/CEO，Peng Zhihui 为 Co-Founder/President/CTO，Jiang Qingsong 为 Co-Founder/Co-President/COO，Yao Maoqing 为 Co-Founder/Co-President 兼 Embodied AI Business 总裁 | 未标明 | 2026-11-11 |
+| s08 | [投资界融资事件｜智元机器人A+++轮](https://vc.pedaily.cn/invest/367068.html) | 轮次、金额、披露日期与投资方名单 | 2023-12-14 | 2026-11-12 |

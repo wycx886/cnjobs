@@ -1,0 +1,178 @@
+{
+  "schema_version": 3,
+  "id": "hidream-ai",
+  "name": "智象未来",
+  "aliases": [
+    "智象未来（合肥）科技股份有限公司",
+    "HiDream.ai"
+  ],
+  "category_id": "05",
+  "focus": "多模态内容生成基础模型与创作智能体",
+  "products": "HiDream 系列全模态大模型；创作智能体 vivago R1（公司页称可进行无限时长内容创作）",
+  "locations_text": "安徽合肥",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：智象未来以多模态生成模型和 vivago 创作智能体切入内容生产，与生数科技（Vidu）、爱诗科技（PixVerse）在视频生成方向可比；其自研千亿参数全模态模型与智能体产品并行，融资规模在同类中较大。",
+    "peer_names": [
+      "生数科技；爱诗科技；VAST"
+    ]
+  },
+  "investment": {
+    "summary": "2026-05-20 B+ 轮披露亿级人民币，金浦投资参与；2026-07-23 C 轮 15 亿元人民币，金浦投资继续参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B+",
+        "announced_on": "2026-05-20",
+        "amount_text": "亿级人民币",
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "湖南财鑫集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "复聚投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额亿级人民币。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2026-07-23",
+        "amount_text": "15亿人民币",
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "社保基金四川振兴科创基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "工银资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "弘颐资管",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "敦鸿资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "金额 15 亿元人民币，投资方数量较多，此处列部分。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.hidreamai.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为智象未来（合肥）科技股份有限公司，公司页记成立时间 2023-03-21、注册地安徽合肥；品牌英文名 HiDream.ai，官网可访问。公司页另记 2026-09-15 C+ 轮。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜智象未来 公司页",
+      "url": "https://vc.pedaily.cn/company/683396.html",
+      "supports": "成立时间、HiDream 模型与 vivago 产品、融资历程与官网",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜智象未来 B+轮详情",
+      "url": "https://vc.pedaily.cn/invest/425999.html",
+      "supports": "2026-05-20 B+ 轮亿级人民币，投资方含金浦投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界｜智象未来 C轮详情",
+      "url": "https://vc.pedaily.cn/invest/425998.html",
+      "supports": "2026-07-23 C 轮 15 亿元，投资方含金浦投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "智象未来",
+    "original_track": "05",
+    "original_subtrack": "视频与动漫生成"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因金浦投资 2020 年后披露的多模态生成模型投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界公司页工商信息：智象未来（合肥）科技股份有限公司成立于 2023-03-21。"
+  }
+}

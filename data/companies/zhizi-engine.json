@@ -1,0 +1,129 @@
+{
+  "schema_version": 3,
+  "id": "zhizi-engine",
+  "name": "智子引擎",
+  "aliases": [
+    "智子引擎（北京）信息科技有限公司"
+  ],
+  "category_id": "01",
+  "focus": "多模态对话大模型研发与 To B 落地",
+  "products": "自研多模态对话大模型，应用产品「元乘象 ChatImg」，提供图文聊天、故事创作与广告文案等能力",
+  "locations_text": "北京门头沟",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：智子引擎以多模态对话模型和「元乘象 ChatImg」切入 To B 场景，与面壁智能、百川智能同处通用模型层；相较后者，其公开披露的融资规模与产品迭代节奏更早期。",
+    "peer_names": [
+      "面壁智能；百川智能；月之暗面"
+    ]
+  },
+  "investment": {
+    "summary": "2023-08-24 天使+轮披露数千万人民币，中金资本参与；公司页另记 2024-05-16 Pre-A 轮由徐汇科创投投资，金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使+",
+        "announced_on": "2023-08-24",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "软通高科",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "中金资本、高瓴创投、软通高科等参与；金额为数千万人民币。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2024-05-16",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "徐汇科创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://chatimg.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为智子引擎（北京）信息科技有限公司，注册地北京门头沟；公司页显示成立时间 2021-05-17。融资信息来自投资界企业页与其天使+轮事件页，未取得公司公告，故 verification_status 记为 partial。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜智子引擎 公司页",
+      "url": "https://vc.pedaily.cn/company/682341.html",
+      "supports": "成立时间、注册地、多模态大模型与元乘象 ChatImg 产品、融资历程与官网",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜智子引擎 天使+轮详情",
+      "url": "https://vc.pedaily.cn/invest/285061.html",
+      "supports": "2023-08-24 天使+轮数千万人民币，投资方含中金资本、高瓴创投、软通高科等",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "智子引擎",
+    "original_track": "01",
+    "original_subtrack": "通用与多模态模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中金资本 2020 年后披露的多模态大模型投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界公司页工商信息：智子引擎（北京）信息科技有限公司成立于 2021-05-17。"
+  }
+}

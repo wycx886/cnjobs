@@ -1,0 +1,170 @@
+{
+  "schema_version": 3,
+  "id": "matrixtime",
+  "name": "聚时科技",
+  "aliases": [
+    "聚时科技（上海）有限公司",
+    "Matrixtime"
+  ],
+  "category_id": "06",
+  "focus": "AI 驱动的半导体视觉检测与量测",
+  "products": "半导体缺陷检测设备、AI 视觉检测量测设备及良率分析管理系统",
+  "locations_text": "上海松江",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：聚时科技以 AI 视觉检测切入半导体前道量测，与中科飞测、精测电子等国产检测设备公司在半导体场景可比；其 AI 良率分析软件与设备一体化是差异化点，但公开客户与产能数据有限。",
+    "peer_names": [
+      "中科飞测；精测电子；天准科技"
+    ]
+  },
+  "investment": {
+    "summary": "2021-08-26 A+ 轮披露数亿元人民币，中芯聚源参与；2021-12-28 A++ 轮亿级人民币，中芯聚源继续参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2021-08-26",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "汇川产投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "云晖资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "快克股份",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额数亿元人民币。"
+      },
+      {
+        "round": "A++",
+        "announced_on": "2021-12-28",
+        "amount_text": "亿级人民币",
+        "investors": [
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "韦豪创芯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "显鋆投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "海南中芯科技",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "金额亿级人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.matrixtime.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为聚时科技（上海）有限公司，公司页记成立时间 2018-03-12、注册地上海松江。公司页另记 2025-10-20 B 轮数亿元；本档案只收录中芯聚源参与的两轮。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜聚时科技 公司页",
+      "url": "https://vc.pedaily.cn/company/175238.html",
+      "supports": "成立时间、半导体 AI 检测业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜聚时科技 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/111501.html",
+      "supports": "2021-08-26 A+ 轮数亿元，投资方含中芯聚源",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界｜聚时科技 A++轮详情",
+      "url": "https://vc.pedaily.cn/invest/198181.html",
+      "supports": "2021-12-28 A++ 轮亿级，投资方含中芯聚源",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "聚时科技",
+    "original_track": "06",
+    "original_subtrack": "企业Agent与数据平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中芯聚源 2020 年后披露的半导体 AI 检测投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界公司页工商信息：聚时科技（上海）有限公司成立于 2018-03-12。"
+  }
+}

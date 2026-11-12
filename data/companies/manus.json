@@ -96,6 +96,69 @@
       "supports": "2026年9月1日Manus宣布恢复独立运营，创始团队肖弘、张涛、季逸超将继续领导公司。",
       "published_date": "2026-09-01",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "X 账号 @Red_Xiao_ 主页",
+      "url": "https://x.com/red_xiao_",
+      "supports": "公开专业主页与本次人物身份观察：肖弘；职务：创始人兼CEO",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "IT之家：Manus 恢复独立运营，创始人肖弘（Red Xiao）等留任",
+      "url": "https://www.ithome.com/0/996/898.htm",
+      "supports": "2026-09-01 报道写明创始团队为创始人肖弘（Red Xiao）、首席科学家季逸超（Peak Ji）及联合创始人张涛（Hidecloud），将继续领导公司。",
+      "published_date": "2026-09-01",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "X 账号 @peakji 主页",
+      "url": "https://x.com/peakji",
+      "supports": "公开专业主页与本次人物身份观察：季逸超；职务：联合创始人兼首席科学家",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "IT之家：Manus 恢复独立运营，首席科学家季逸超（Peak Ji）留任",
+      "url": "https://www.ithome.com/0/996/898.htm",
+      "supports": "报道将季逸超与英文名 Peak Ji 对应，并确认其与肖弘、张涛继续领导恢复独立运营后的 Manus。",
+      "published_date": "2026-09-01",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "扬子晚报转载：季逸超以 @peakji 就官方账号被冻结发声明",
+      "url": "https://m.yzwb.net/wap/news/4369712.html",
+      "supports": "报道写明「Manus联合创始人兼首席科学家季逸超的X平台账号（@peakji）」发布声明。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "X 账号 @hidecloud 主页",
+      "url": "https://x.com/hidecloud",
+      "supports": "公开专业主页与本次人物身份观察：张涛；职务：联合创始人、产品负责人",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s12",
+      "scope": "person",
+      "title": "IT之家：Manus 恢复独立运营，联合创始人张涛（Hidecloud）留任",
+      "url": "https://www.ithome.com/0/996/898.htm",
+      "supports": "报道将联合创始人张涛与英文/网名 Hidecloud 对应，并确认其继续领导公司。",
+      "published_date": "2026-09-01",
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {
@@ -122,15 +185,31 @@
       "role": "创始人兼CEO",
       "background": "连续创业者，蝴蝶效应（Butterfly Effect，Manus 母公司）创始人兼CEO，主导推出通用AI智能体产品 Manus；公司经历2025年被Meta收购、2026年9月恢复独立运营。",
       "previous_firms": [],
-      "profiles": [],
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/red_xiao_",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s06",
+            "s07"
+          ],
+          "notes": "多家媒体报道一致；公司注册与总部已迁至新加坡，本条只记人物身份，不涉及组织归属判断。 已读 X 主页：显示名 Red Xiao；简介 Founder & CEO @manusai；蓝V，约 2.1 万关注。与 IT之家对 Red Xiao=肖弘 的对应及现职一致。官方 @ManusAI 为公司账号，不入库。"
+        }
+      ],
       "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "多家媒体报道一致；公司注册与总部已迁至新加坡，本条只记人物身份，不涉及组织归属判断。 已读 X 主页：显示名 Red Xiao；简介 Founder & CEO @manusai；蓝V，约 2.1 万关注。与 IT之家对 Red Xiao=肖弘 的对应及现职一致。官方 @ManusAI 为公司账号，不入库。",
+      "historical_source_ids": [
         "s03",
         "s04",
         "s05"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "多家媒体报道一致；公司注册与总部已迁至新加坡，本条只记人物身份，不涉及组织归属判断。"
+      ]
     },
     {
       "name": "季逸超",
@@ -139,14 +218,32 @@
       "previous_firms": [
         "Peak Labs"
       ],
-      "profiles": [],
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/peakji",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s08",
+            "s09",
+            "s10"
+          ],
+          "notes": "36氪与2026年9月复运报道均记载其联合创始人/首席科学家身份。 已读 X 主页：显示名 Yichao 'Peak' Ji；简介 Co-founder & Chief Scientist @ManusAI；蓝V，约 3.1 万关注。2010 年加入，非新冒用号。"
+        }
+      ],
       "source_ids": [
+        "s08",
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "36氪与2026年9月复运报道均记载其联合创始人/首席科学家身份。 已读 X 主页：显示名 Yichao 'Peak' Ji；简介 Co-founder & Chief Scientist @ManusAI；蓝V，约 3.1 万关注。2010 年加入，非新冒用号。",
+      "historical_source_ids": [
         "s03",
         "s05"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "36氪与2026年9月复运报道均记载其联合创始人/首席科学家身份。"
+      ]
     },
     {
       "name": "张涛",
@@ -155,14 +252,30 @@
       "previous_firms": [
         "光年之外"
       ],
-      "profiles": [],
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/hidecloud",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s11",
+            "s12"
+          ],
+          "notes": "职务表述来自36氪访谈与复运报道，未见公司官方团队页。 已读 X 主页：显示名 hidecloud；简介 Co-founder of @manusai；地点 Singapore；蓝V，约 3.1 万关注。账号创建于 2007 年。职务沿用档案已有「联合创始人、产品负责人」，报道只确认联合创始人身份。"
+        }
+      ],
       "source_ids": [
+        "s11",
+        "s12"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "职务表述来自36氪访谈与复运报道，未见公司官方团队页。 已读 X 主页：显示名 hidecloud；简介 Co-founder of @manusai；地点 Singapore；蓝V，约 3.1 万关注。账号创建于 2007 年。职务沿用档案已有「联合创始人、产品负责人」，报道只确认联合创始人身份。",
+      "historical_source_ids": [
         "s03",
         "s05"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "职务表述来自36氪访谈与复运报道，未见公司官方团队页。"
+      ]
     }
   ]
 }

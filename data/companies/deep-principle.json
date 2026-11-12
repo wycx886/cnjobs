@@ -1,0 +1,92 @@
+{
+  "schema_version": 3,
+  "id": "deep-principle",
+  "name": "深度原理",
+  "aliases": [
+    "Deep Principle",
+    "深度原理科技"
+  ],
+  "category_id": "10",
+  "focus": "AI for Chemistry/Materials：生成式AI、量子化学与高通量实验结合的材料发现平台",
+  "products": "ReactiveAI平台，含ReactGen分子与反应生成、量子化学高通量筛选及高通量合成实验闭环",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与深势科技、百图生科同属AI for Science方向，深度原理公开叙事聚焦化学材料发现与实验闭环；平台性能与商业化进度未作横向评测。",
+    "peer_names": [
+      "深势科技",
+      "百图生科 BioMap"
+    ]
+  },
+  "investment": {
+    "summary": "2025-03-19 联想控股官网发布消息，深度原理完成亿元级Pre-A轮战略融资，联想之星参与投资；资金用于ReactiveAI平台在新材料、能源、医药等领域的产业化落地。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-03-19",
+        "amount_text": "亿元级人民币",
+        "investors": [
+          {
+            "name": "联想之星",
+            "firm_id": "legend-star",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "联想控股消息称本轮为亿元级Pre-A轮战略融资，联想之星参与投资；同轮其他投资方未在该来源中列出。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.deepprinciple.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "info@deepprinciple.com",
+    "other_email_purpose": "官网所列一般联系邮箱"
+  },
+  "notes": "官网英文站以Agentic AI for Materials Discovery & Innovation为定位；成立年份与招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "【产业孵化与投资】联想之星参与深度原理亿元级Pre-A轮融资",
+      "url": "https://www.legendholdings.com.cn/News/detail.aspx?contentid=2522&nodeid=1124&page=ContentPage",
+      "supports": "Pre-A轮亿元级、联想之星参与投资、ReactiveAI平台与材料化学业务",
+      "published_date": "2025-03-19",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "Deep Principle｜Agentic AI for Materials Discovery & Innovation",
+      "url": "https://www.deepprinciple.com/",
+      "supports": "官网业务定位与一般联系邮箱",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "深度原理",
+    "original_track": "10",
+    "original_subtrack": "AI for Chemistry/Materials"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因联想之星2025年披露参与的Pre-A轮而建档，属于AI for Science材料化学方向；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

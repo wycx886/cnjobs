@@ -1,0 +1,119 @@
+{
+  "schema_version": 3,
+  "id": "rosenbot",
+  "name": "罗森博特",
+  "aliases": [
+    "北京罗森博特科技有限公司"
+  ],
+  "category_id": "08",
+  "focus": "医疗机器人技术供应商",
+  "products": "北京罗森博特科技有限公司成立于2017年，专注于医疗机器人前沿技术原始创新，以原创医疗机器人技术赋能医疗机构，成为顶尖的医疗机器人技术供应商。公司成立以来，始终致力于打造具有骨折复位功能的新一代骨科手术机器人系统，在全球率先实现了术中实时3D导航、辅助骨折复位操作、自动手术规划等先进技术，完成从骨折闭合复位到微创固定全手术全流程的智能化手术操作，满足临床治疗的迫切需求。公司是国家高新技术企业、中关村高新技术企业、海淀区首批胚芽企业。",
+  "locations_text": "北京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「医疗机器人技术供应商」；同页列出的邻近企业包括原磁智造、犀燃医疗。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "原磁智造",
+      "犀燃医疗"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2022-12-20 B轮，金额超亿人民币，投资方包括中关村科学城、深创投、招商局创投、盛景资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2022-12-20",
+        "amount_text": "超亿人民币",
+        "investors": [
+          {
+            "name": "中关村科学城",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "深创投",
+            "firm_id": "szvc",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "招商局创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "盛景资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“超亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2017年09月26日。注册主体为北京罗森博特科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜罗森博特",
+      "url": "https://vc.pedaily.cn/company/23277.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜罗森博特B轮",
+      "url": "https://vc.pedaily.cn/invest/242437.html",
+      "supports": "本轮披露日期（2022-12-20）、轮次、金额与投资方名单",
+      "published_date": "2022-12-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "罗森博特",
+    "original_track": "08",
+    "original_subtrack": "骨科手术机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因深创投在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（骨科手术机器人）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2017,
+    "basis": "投资界企业档案工商信息：成立时间2017年09月26日。"
+  }
+}

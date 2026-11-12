@@ -1,0 +1,101 @@
+{
+  "schema_version": 3,
+  "id": "jobright",
+  "name": "Jobright.ai",
+  "aliases": [
+    "Jobright"
+  ],
+  "category_id": "04",
+  "founded": {
+    "year": 2023,
+    "basis": "SVTR 创投库条目：2023 年成立于美国。"
+  },
+  "focus": "AI 求职平台：按个人技能与经验做个性化职位推荐，并提供公司信息摘要。",
+  "products": "Jobright.ai 求职平台，提供 AI 职位匹配与公司洞察。",
+  "locations_text": "美国（旧金山）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：Jobright 以 AI 做职位匹配与求职流程加速，与面向企业的海纳 AI 面试产品处于招聘链条的不同环节；本档不评价匹配效果。",
+    "peer_names": [
+      "海纳AI；BOSS直聘"
+    ]
+  },
+  "investment": {
+    "summary": "2024-11 种子轮融资 500 万美元，蓝驰创投（BlueRun Ventures）与源码资本等在投资方名单中。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2024-11",
+        "amount_text": "500万美元",
+        "investors": [
+          {
+            "name": "威诚资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 条目原文将投资方写作「威诚资本、源码资本、BlueRun Ventures Aster、蓝驰创投」；BlueRun Ventures 为蓝驰旧英文名，Aster 主体未进一步核实，结构化未单列。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://jobright.ai/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开招聘邮箱"
+  },
+  "notes": "以蓝驰创投 2024 年参与的种子轮为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜Jobright.ai",
+      "url": "https://svtr.ai/orgs/jobright-ai",
+      "supports": "2023 年成立于美国、AI 求职平台定位、2024-11 种子轮金额与投资方名单、后续融资记录",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Jobright.ai",
+    "original_track": "04",
+    "original_subtrack": "搜索与知识研究"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因蓝驰创投 2024 年参与种子轮而建档的 AI 求职工具；公开产品与团队信息较少，先观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

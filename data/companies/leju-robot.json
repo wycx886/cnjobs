@@ -1,0 +1,162 @@
+{
+  "schema_version": 3,
+  "id": "leju-robot",
+  "name": "乐聚机器人",
+  "aliases": [
+    "乐聚智能（深圳）股份有限公司",
+    "乐聚智能"
+  ],
+  "category_id": "08",
+  "focus": "人形机器人与教育／服务机器人",
+  "products": "Aelos、Talos 教育机器人及 KUAVO 开源鸿蒙人形机器人",
+  "locations_text": "广东深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：乐聚以教育机器人起家并推进 KUAVO 人形机器人量产，与优必选、宇树相比，教育场景积累更深、人形产品商业化节奏更早期；其 Pre-IPO 轮与创业板申报使其资本化进度领先部分同行。",
+    "peer_names": [
+      "优必选；宇树科技；智元机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2025-10-22 Pre-IPO 轮披露近 15 亿元人民币，中信金石参与；同轮另有深投控、龙华资本、东方精工、拓普集团等。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-IPO",
+        "announced_on": "2025-10-22",
+        "amount_text": "近15亿人民币",
+        "investors": [
+          {
+            "name": "中信金石",
+            "firm_id": "citic-jinshi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深投控",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "龙华资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "东方精工",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "拓普集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "中信金石、深投控、龙华资本、东方精工、拓普集团等 19 家机构参与；金额近 15 亿元。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2025-07-24",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "东方精工",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中美绿色基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "合肥产投集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.lejurobot.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为乐聚智能（深圳）股份有限公司，公司页记成立时间 2016-03-24、注册地深圳。公司页显示其深交所创业板上市申请于 2026-05-19 受理、2026-09-30 状态为中止；按任务口径，辅导／递表／中止不标记为已上市。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜乐聚机器人 公司页",
+      "url": "https://vc.pedaily.cn/company/16595.html",
+      "supports": "成立时间、注册地、产品线与融资历程、上市审核进程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜乐聚机器人 Pre-IPO轮详情",
+      "url": "https://vc.pedaily.cn/invest/364583.html",
+      "supports": "2025-10-22 Pre-IPO 轮近 15 亿元，投资方含中信金石等",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "乐聚机器人",
+    "original_track": "08",
+    "original_subtrack": "人形与四足本体"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中信金石 2020 年后披露的人形机器人投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2016,
+    "basis": "投资界公司页工商信息：乐聚智能（深圳）股份有限公司成立于 2016-03-24。"
+  }
+}

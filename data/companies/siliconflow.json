@@ -21,7 +21,7 @@
     ]
   },
   "investment": {
-    "summary": "2024-07 天使+轮近亿元人民币，某知名产业方领投，智谱AI、360、水木清华校友基金跟投，耀途资本超额跟进；2025-06 A轮数亿元人民币，阿里云领投，创新工场等老股东超额跟投。",
+    "summary": "2024-07 天使+轮近亿元人民币，某知名产业方领投，智谱AI、360、水木清华校友基金跟投，耀途资本超额跟进；2025-02-20 Pre-A轮亿级人民币，普华资本、华创资本、耀途资本、美团战略投资部参与；2025-06 A轮数亿元人民币，阿里云领投，创新工场等老股东超额跟投。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
       {
@@ -76,6 +76,49 @@
         "notes": "公司未披露领投产业方名称。"
       },
       {
+        "round": "Pre-A",
+        "announced_on": "2025-02-20",
+        "amount_text": "亿级人民币",
+        "investors": [
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "华创资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "耀途资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          },
+          {
+            "name": "美团战略投资部",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s09"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s09"
+        ],
+        "notes": "金额亿级人民币。"
+      },
+      {
         "round": "A",
         "announced_on": "2025-06-09",
         "amount_text": "数亿元人民币",
@@ -112,7 +155,7 @@
     "other_email_purpose": "市场合作邮箱（非招聘）"
   },
   "notes": "未查到可核验的公开投递邮箱或独立招聘官网；about页只是官网公司介绍，需从官网/认证招聘平台查岗位，勿投市场邮箱。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -182,6 +225,14 @@
       "supports": "2024-07 完成总金额近亿元人民币天使+轮：某知名产业方领投，智谱AI、360、水木清华校友基金跟投，老股东耀途资本超额跟进。",
       "published_date": "2024-07-04",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s09",
+      "title": "投资界｜硅基流动 Pre-A轮详情",
+      "url": "https://vc.pedaily.cn/invest/342180.html",
+      "supports": "2025-02-20 Pre-A 轮亿级人民币，投资方含普华资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

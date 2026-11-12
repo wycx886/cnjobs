@@ -1,0 +1,135 @@
+{
+  "schema_version": 3,
+  "id": "xingyun-ic",
+  "name": "行云集成电路",
+  "aliases": [
+    "北京行云集成电路有限公司"
+  ],
+  "category_id": "02",
+  "focus": "大模型GPU芯片研发商",
+  "products": "行云集成成立于2023年8月，其核心团队主要来自清华大学及全球芯片公司，致力于研发下一代针对大模型推理场景的高效能GPU芯片。公司依托深厚的技术积累和清晰的商业路径，瞄准万亿规模的中下游市场，其目标是通过异构计算和白盒硬件形态革命性地重塑大模型计算系统，推动大模型走向更高质量和更低成本，从而解决大模型产业中面临的算力成本和供应问题，推动产业链价值重塑，为AI应用时代提供底层支持。",
+  "locations_text": "北京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「大模型GPU芯片研发商」；同页列出的邻近企业包括芯联动力、奕泰微电子。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "芯联动力",
+      "奕泰微电子"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2024-11-18 天使+轮，金额数亿人民币，投资方包括春华资本、清科创投、君盛投资、中新资本、同创伟业、嘉御资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使+",
+        "announced_on": "2024-11-18",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "春华资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "清科创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "君盛投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "中新资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "同创伟业",
+            "firm_id": "cowin-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "嘉御资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2023年08月17日。注册主体为北京行云集成电路有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜行云集成电路",
+      "url": "https://vc.pedaily.cn/company/702230.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜行云集成电路天使+轮",
+      "url": "https://vc.pedaily.cn/invest/333762.html",
+      "supports": "本轮披露日期（2024-11-18）、轮次、金额与投资方名单",
+      "published_date": "2024-11-18",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "行云集成电路",
+    "original_track": "02",
+    "original_subtrack": "大模型推理GPU"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（大模型推理GPU）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界企业档案工商信息：成立时间2023年08月17日。"
+  }
+}

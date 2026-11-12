@@ -1,0 +1,161 @@
+{
+  "schema_version": 3,
+  "id": "songying-tech",
+  "name": "松应科技",
+  "aliases": [
+    "上海松应科技有限公司"
+  ],
+  "category_id": "03",
+  "focus": "物理仿真与具身智能训练平台",
+  "products": "ORCA studio／ORCA OS 物理 AI 仿真系统，为具身智能体提供仿真训练与国产芯片适配",
+  "locations_text": "上海闵行",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：松应科技以物理仿真训练平台服务具身智能客户，与提供算力调度或数据平台的厂商不同；其公开定位接近「具身智能的仿真基础设施」，可比公司包括无问芯穹与趋境科技，但后两者更偏算力与推理底座。",
+    "peer_names": [
+      "无问芯穹；趋境科技；星海图"
+    ]
+  },
+  "investment": {
+    "summary": "2026-08-28 A+ 轮披露数亿元人民币，中金资本参与；公司页另记 2026-07-15 A 轮、2026-02-02 Pre-A+ 轮等。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2026-08-28",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "洪山资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "尚融资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高信资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "中金资本、洪山资本、尚融资本、高信资本等参与。"
+      },
+      {
+        "round": "Pre-A+",
+        "announced_on": "2026-02-02",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "典实资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "易方达私募",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "丹贝资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中新资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额为数亿人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "工商主体为上海松应科技有限公司，公司页记成立时间 2021 年、注册地上海闵行；官网未在公司页列出，contacts.website 留空。融资信息来自投资界企业页与 A+ 轮事件页。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜松应科技 公司页",
+      "url": "https://vc.pedaily.cn/company/818254.html",
+      "supports": "成立时间、注册地、ORCA 物理仿真业务、融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜松应科技 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/426620.html",
+      "supports": "2026-08-28 A+ 轮数亿元，投资方含中金资本等",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "松应科技",
+    "original_track": "03",
+    "original_subtrack": "Agent工作流与开发平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中金资本 2020 年后披露的具身智能仿真平台投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界公司页：上海松应科技有限公司成立时间 2021 年。"
+  }
+}

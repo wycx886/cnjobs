@@ -1,0 +1,171 @@
+{
+  "schema_version": 3,
+  "id": "tensorworld",
+  "name": "物原科技",
+  "aliases": [
+    "TensorWorld"
+  ],
+  "category_id": "01",
+  "founded": {
+    "year": 2026,
+    "basis": "SVTR 创投库条目：2026 年 7 月成立于北京。"
+  },
+  "focus": "物理原生基座模型：理解物理世界结构与运行规律，用于具身智能、工程设计与科学探索。",
+  "products": "公开口径为物理原生基座模型；具体产品形态未披露。",
+  "locations_text": "北京",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：物原科技与以语言/多模态为主的通用模型公司不同，公开定位为面向物理世界模拟与操作的基座模型，应用方向靠近具身智能与科学计算；本档不评价模型能力。",
+    "peer_names": [
+      "星海图；地瓜机器人；智谱"
+    ]
+  },
+  "investment": {
+    "summary": "2026-11-05 天使轮融资过亿美元，红杉中国为参投方之一；金额与投资方名单取自 SVTR 创投库。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2026-11-05",
+        "amount_text": "过亿美元",
+        "investors": [
+          {
+            "name": "凯辉基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": "ant-group",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "鼎晖VGC",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "星连资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "和玉资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团战投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蔚来资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投；红杉中国在投资方名单中，按参投记录。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "以红杉中国 2026 年披露的物理原生模型投资为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。公司无独立公开官网与招聘入口记录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜物原科技 TensorWorld",
+      "url": "https://svtr.ai/orgs/tensorworld",
+      "supports": "2026-07 成立于北京、物理原生基座模型定位、天使轮时间/金额与投资方名单、核心团队名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "物原科技",
+    "original_track": "01",
+    "original_subtrack": "通用与多模态模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因红杉中国参与 2026-11 天使轮而建档的物理原生基座模型公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "吴海旭",
+      "role": "创始人",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出；未取得个人公开主页，职务与履历待公司公告核实。"
+    }
+  ]
+}

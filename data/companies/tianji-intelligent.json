@@ -1,0 +1,129 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因高瓴创投与高榕创投2026年披露的具身智能B轮投资而建档；按机器人本体与核心部件业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "tianji-intelligent",
+  "name": "天机智能",
+  "aliases": [
+    "天机智能",
+    "广东天机智能系统有限公司",
+    "天机机器人"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2015,
+    "basis": "凤凰网转载证券时报报道：天机智能成立于2015年，总部位于东莞松山湖。"
+  },
+  "focus": "具身智能基础设施：力控人形双臂与机器人本体",
+  "products": "力控人形双臂、机器人及控制系统",
+  "locations_text": "东莞松山湖",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以力控人形双臂和机器人本体为核心，面向具身智能整机厂商供货；与直接做整机或只做算法的公司定位不同。",
+    "peer_names": [
+      "泉智博",
+      "因时机器人",
+      "傲意科技"
+    ]
+  },
+  "investment": {
+    "summary": "2026-05-25宣布完成10亿元B轮及B+轮融资，高瓴创投、美团战投联合领投，腾讯、高榕创投、光合创投、纪源资本等联合跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B及B+",
+        "announced_on": "2026-05-25",
+        "amount_text": "10亿元",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团战投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "光合创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "证券时报报道本轮由高瓴创投、美团战投联合领投，腾讯、高榕创投、光合创投、纪源资本等联合跟投；10亿元为B轮及B+轮合计，投后估值近百亿元。"
+      }
+    ]
+  },
+  "notes": "公开报道未列官网与招聘入口；网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "高瓴、美团联合领投，天机智能完成10亿元融资",
+      "url": "https://finance.ifeng.com/c/8tQ2Yl5ZkQ4",
+      "supports": "融资轮次与金额、领投与跟投方、成立时间与总部、产品定位",
+      "published_date": "2026-05-25",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "天机智能",
+    "original_track": "08",
+    "original_subtrack": "人形与四足本体"
+  },
+  "people": []
+}

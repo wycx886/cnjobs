@@ -1,0 +1,113 @@
+{
+  "schema_version": 3,
+  "id": "moredian",
+  "name": "魔点科技 / Moredian",
+  "aliases": [
+    "杭州魔点科技有限公司",
+    "魔点科技",
+    "Moredian"
+  ],
+  "category_id": "06",
+  "focus": "人工智能办公硬件服务商",
+  "products": "杭州魔点科技有限公司，成立于2016年12月底，总部位于浙江杭州。魔点是一家将先进的人工智能技术与行业应用相结合的科技型企业，深耕智能办公、智慧校园和智慧社区等领域。凭借领先的产品化能力和高效的数据服务水平，魔点坚持用互联网、AI思维打造智能硬件，着重打造“智连”能力，实现“人、物、组织”以及生态的智能连接，助推人工智能技术场景化落地，让科技服务于人，让数据创造价值。同时，依托 “云+端”开放OpenAPI的核心模式，魔点赋能各行业实现",
+  "locations_text": "杭州市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「人工智能办公硬件服务商」；同页列出的邻近企业包括3Chat.ai、南栖仙策。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "南栖仙策"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2020-11-26 C轮，金额1.2亿人民币，投资方包括同创伟业、浙大联创投资、陆石投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2020-11-26",
+        "amount_text": "1.2亿人民币",
+        "investors": [
+          {
+            "name": "同创伟业",
+            "firm_id": "cowin-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "浙大联创投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "陆石投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“1.2亿人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.moredian.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2016年12月14日。注册主体为杭州魔点科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜魔点科技 / Moredian",
+      "url": "https://vc.pedaily.cn/company/40193.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜魔点科技 / MoredianC轮",
+      "url": "https://vc.pedaily.cn/invest/40389.html",
+      "supports": "本轮披露日期（2020-11-26）、轮次、金额与投资方名单",
+      "published_date": "2020-11-26",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "魔点科技 / Moredian",
+    "original_track": "06",
+    "original_subtrack": "智能办公与通行"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（智能办公与通行）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2016,
+    "basis": "投资界企业档案工商信息：成立时间2016年12月14日。"
+  }
+}

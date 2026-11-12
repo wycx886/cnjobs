@@ -18,9 +18,9 @@ CHANNEL_LABELS = (
     "官网", "官网投递", "职业邮箱", "BOSS 直聘企业主页", "猎聘企业主页", "LinkedIn 公司主页",
 )
 LISTED_IDS = {
-    "biren", "deepexi", "enflame", "iluvatar-corex", "innovusion",
-    "insilico", "metax", "minimax", "moore-threads", "unitree",
-    "xtalpi", "zhipu",
+    "4paradigm", "biren", "deepexi", "enflame", "horizon-robotics",
+    "iluvatar-corex", "innovusion", "insilico", "mech-mind", "metax",
+    "minimax", "moore-threads", "unitree", "xtalpi", "zhipu",
 }
 
 

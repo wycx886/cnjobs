@@ -1,0 +1,96 @@
+{
+  "schema_version": 3,
+  "id": "duannao-tech",
+  "name": "端脑科技",
+  "aliases": [
+    "脑花科技（无锡）有限公司",
+    "Cephalon"
+  ],
+  "category_id": "02",
+  "focus": "AIGC分布式算力平台服务商",
+  "products": "端脑科技是一家专注于AIGC分布式算力网络平台的公司，端脑科技致力于构建分布式算力网络，通过将分散的计算资源进行整合和优化，为客户提供强大的计算能力支持。分布式算力具有高度灵活性和可扩展性，能够有效应对大规模数据处理和计算密集型任务，极大提高了企业的工作效率和成果质量。",
+  "locations_text": "无锡市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「AIGC分布式算力平台服务商」；同页列出的邻近企业包括3Chat.ai、南栖仙策。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "南栖仙策"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2024-08-05 天使轮，金额数千万人民币，投资方包括鼎晖投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2024-08-05",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://cephalon.cloud/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2023年05月10日。注册主体为脑花科技（无锡）有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜端脑科技",
+      "url": "https://vc.pedaily.cn/company/684459.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜端脑科技天使轮",
+      "url": "https://vc.pedaily.cn/invest/452350.html",
+      "supports": "本轮披露日期（2024-08-05）、轮次、金额与投资方名单",
+      "published_date": "2024-08-05",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "端脑科技",
+    "original_track": "02",
+    "original_subtrack": "异构算力与调度"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（异构算力与调度）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2023,
+    "basis": "投资界企业档案工商信息：成立时间2023年05月10日。"
+  }
+}

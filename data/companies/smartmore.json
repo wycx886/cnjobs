@@ -1,0 +1,232 @@
+{
+  "schema_version": 3,
+  "id": "smartmore",
+  "name": "思谋科技",
+  "aliases": [
+    "深圳思谋信息科技有限公司",
+    "SmartMore",
+    "思谋"
+  ],
+  "category_id": "06",
+  "focus": "工业AI智能体与机器视觉软硬件",
+  "products": "工业多模态大模型IndustryGPT；SMore ViMo工业AI视觉软件、ViScanner智能读码器、ViNeo视觉传感器及智能制造软硬一体化产品",
+  "locations_text": "深圳（官网列香港、北京、上海、东京、新加坡等研发与商务中心）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较梅卡曼德偏机器人3D视觉与抓取，思谋科技公开产品同时覆盖工业视觉软件、读码器与智能体平台；客户与交付规模未作横向评测。",
+    "peer_names": [
+      "梅卡曼德",
+      "海克斯康制造智能"
+    ]
+  },
+  "investment": {
+    "summary": "2020-10-28 A 轮超亿美元，松禾资本、红杉中国、基石资本、闻天下投资、联想创投、IDG资本、真格基金参与；2021-06-24 TechWeb报道完成B轮2亿美元融资，IDG、基石、红杉中国、松禾、联想创投、真格基金领投，和暄资本、雄牛资本、绅湾资本以产业资源形式参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2020-10-28",
+        "amount_text": "超亿美元",
+        "investors": [
+          {
+            "name": "松禾资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "闻天下投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“超亿美元”。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-06-24",
+        "amount_text": "2亿美元",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "松禾资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "联想创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "和暄资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "雄牛资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "绅湾资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "报道称IDG、基石、红杉中国、松禾、联想创投、真格基金领投，其余三家以产业资源形式参与。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.smartmore.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "sales@smartmore.com",
+    "other_email_purpose": "销售与商务合作邮箱"
+  },
+  "notes": "官网公司简介称思谋集团与深圳思谋信息科技有限公司于2019年成立。招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "思谋科技宣布完成B轮2亿美元融资 IDG红杉中国领投",
+      "url": "http://m.techweb.com.cn/article/2021-06-24/2845707.shtml",
+      "supports": "B轮2亿美元、IDG/基石/红杉中国/松禾/联想创投/真格领投及参与方、2019年12月成立与工业AI业务",
+      "published_date": "2021-06-24",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "关于思谋_公司简介_发展历程-SmartMore官网",
+      "url": "https://www.smartmore.com/aboutus",
+      "supports": "思谋集团2019年成立、IndustryGPT与工业AI智能体产品、全球网点",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界融资事件｜思谋信息A轮",
+      "url": "https://vc.pedaily.cn/invest/24861.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2020-10-28",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "思谋科技",
+    "original_track": "06",
+    "original_subtrack": "工业AI视觉与智能制造智能体"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因IDG资本2021年披露的B轮领投而建档，属于工业AI新进厂商；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

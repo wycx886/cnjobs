@@ -1,0 +1,121 @@
+{
+  "schema_version": 3,
+  "id": "matrixorigin",
+  "name": "矩阵起源 / MatrixOrigin",
+  "aliases": [
+    "矩阵起源（深圳）信息科技有限公司",
+    "矩阵起源",
+    "MatrixOrigin"
+  ],
+  "category_id": "06",
+  "focus": "数据智能平台技术服务商",
+  "products": "矩阵起源是业界领先的数据智能（Data & AI）平台技术和服务提供商，主要团队成员来自国内外知名科技公司，具备强大的创新能力。 矩阵起源的目标是打造并使用世界一流的数据基础设施技术和产品，协助企业实现从信息化、数字化到智能化的转型和升级。矩阵起源在云计算、数据库、大数据及人工智能相关领域拥有核心竞争力，具备广阔的行业和国际视野以及前瞻性，能够快速有效的将先进技术在不同领域实用化并规模化扩展。MatrixOne 秉持开源开放、生态共建的",
+  "locations_text": "深圳市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「数据智能平台技术服务商」；同页列出的邻近企业包括途深智合、Sand.ai。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "途深智合",
+      "Sand.ai"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2021-10-29 天使+轮，金额数千万美元，投资方包括钟鼎资本、五源资本、险峰长青、基石资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使+",
+        "announced_on": "2021-10-29",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "险峰长青",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万美元”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.matrixorigin.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2021年01月06日。注册主体为矩阵起源（深圳）信息科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜矩阵起源 / MatrixOrigin",
+      "url": "https://vc.pedaily.cn/company/192050.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜矩阵起源 / MatrixOrigin天使+轮",
+      "url": "https://vc.pedaily.cn/invest/314671.html",
+      "supports": "本轮披露日期（2021-10-29）、轮次、金额与投资方名单",
+      "published_date": "2021-10-29",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "矩阵起源 / MatrixOrigin",
+    "original_track": "06",
+    "original_subtrack": "数据智能平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因基石资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（数据智能平台）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界企业档案工商信息：成立时间2021年01月06日。"
+  }
+}

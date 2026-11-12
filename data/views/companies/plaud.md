@@ -61,7 +61,7 @@ Plaud Note / Note Pro / NotePin；Plaud Intelligence
 
 | 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
 | --- | --- | --- | --- | --- | --- |
-| 许高 | 联合创始人兼CEO | Plaud 联合创始人兼CEO，连续创业者；公司2021年创立，推出卡片式AI录音硬件Plaud Note及后续可穿戴产品线。 | confirmed / 2026-11-11 / s08,s10 | [linkedin](https://www.linkedin.com/in/nathan-xu-80b48755) (partial, s10) | 中文媒体多记为联合创始人兼CEO；英文职业档案使用 Nathan Xu 一名，姓名对应关系仅有搜索摘要支持，故主页标记 partial。 |
+| 许高 | 联合创始人兼CEO | Plaud 联合创始人兼CEO，连续创业者；公司2021年创立，推出卡片式AI录音硬件Plaud Note及后续可穿戴产品线。 | confirmed / 2026-11-12 / s11,s12,s13 | [linkedin](https://www.linkedin.com/in/nathan-xu-80b48755) (partial, s10) · [x](https://x.com/nathan_xu_gao) (confirmed, s11,s12,s13) | 中文媒体多记为联合创始人兼CEO。英文报道（Forbes Australia 2025-09-03）与 X 简介均使用 Nathan Xu，并写明 Plaud cofounder and CEO / Building @PLAUDAI；与本条已记录职务一致。姓名对应此前仅有搜索摘要支持，现由职务唯一性及 SuperAI 官方贴标记该 handle 加固，不再标 partial。 已读 X 主页：显示名 Nathan Xu；简介 Building @PLAUDAI. CEO and Co-founder.；地点 San Francisco；资料网站跳转 plaud.ai；蓝V。近期发帖以 Plaud 产品负责人身份回复用户（原生连接器更新等）。会议官方帖将 handle 与姓名、公司对应。 |
 | 莫子皓 | 中国区CEO | Plaud中国区CEO，2025年接受36氪专访介绍中国区产品策略与商业化。 | partial / 2026-11-11 / s09 | 暂未收录公开主页 | 仅36氪专访标题与正文提及职务，未找到独立来源或本人主页。 |
 
 ## 核查备注
@@ -82,3 +82,6 @@ Plaud Note / Note Pro / NotePin；Plaud Intelligence
 | s08 | [腾讯新闻：Plaud AI CEO许高——全球出货近70万台设备背后](https://news.qq.com/rain/a/20250524A02ZCA00) | 报道许高为Plaud AI创始人/联合创始人兼CEO。 | 2025-05-24 | 2026-11-11 |
 | s09 | [36氪专访Plaud中国区CEO](https://www.36kr.com/p/3480790709083017) | Plaud中国区CEO（莫子皓）受访，介绍中国区产品与商业化。 | 未标明 | 2026-11-11 |
 | s10 | [LinkedIn：Nathan Xu（PLAUD 联合创始人兼CEO）](https://www.linkedin.com/in/nathan-xu-80b48755) | 档案自述 Co-founder & CEO at PLAUD。 | 未标明 | 2026-11-11 |
+| s11 | [X 账号 @Nathan_Xu_Gao 主页](https://x.com/nathan_xu_gao) | 公开专业主页与本次人物身份观察：许高；职务：联合创始人兼CEO | 未标明 | 2026-11-12 |
+| s12 | [SuperAI 官方账号发帖介绍 Nathan Xu @Nathan_Xu_Gao from @PLAUDAI](https://x.com/superai_conf/status/2087090493993963879) | 已验证的会议官方账号 @superai_conf（business）于 2026-08-11 发帖，点名 Nathan Xu @Nathan_Xu_Gao from @PLAUDAI，并附 SuperAI 2026 演讲视频「Lossless Context — Nathan Xu, Plaud」。 | 2026-08-11 | 2026-11-12 |
+| s13 | [Forbes Australia：How an AI notetaker became one of the few profitable AI startups](https://www.forbes.com.au/news/innovation/how-an-ai-notetaker-became-one-of-the-few-profitable-ai-startups/) | Forbes Australia 报道 Plaud 及其创始人兼 CEO（公司档案已用该文作为许高/Nathan Xu 职务来源）。 | 未标明 | 2026-11-12 |

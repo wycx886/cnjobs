@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "id": "weilai-buyuan",
+  "name": "未来不远（Futuring Robot）",
+  "aliases": [
+    "Futuring Robot",
+    "未来不远机器人"
+  ],
+  "category_id": "08",
+  "focus": "面向 C 端家庭场景的通用机器人",
+  "products": "AVLA 端到端模型、家庭通用机器人",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：公开定位为 C 端家庭场景通用机器人，强调动态家庭环境中的端到端模型与原子技能组合；暂未见规模化出货披露。",
+    "peer_names": [
+      "宇树科技",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2026-01-13 天使轮 2 亿元，真格基金领投，联新资本、源来资本及掌门部分老股东跟投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2026-01-13",
+        "amount_text": "2亿元",
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "联新资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源来资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文另称掌门部分老股东跟投，未具名。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人兼 CEO 张翼；2022 年创立；2025 年下半年起进入超过 200 个真实家庭（公司口径）。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜未来不远机器人完成 2 亿元天使轮融资，真格基金领投",
+      "url": "https://www.163.com/dy/article/KJ5CT27K05198R3E.html",
+      "supports": "天使轮金额、领投方、公司定位与创始人",
+      "published_date": "2026-01-13",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "未来不远（Futuring Robot）",
+    "original_track": "08",
+    "original_subtrack": "面向 C 端家庭场景的通用机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因真格基金 2026 年领投其天使轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2022,
+    "basis": "报道称公司自 2022 年创立。"
+  }
+}

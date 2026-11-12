@@ -1,0 +1,272 @@
+{
+  "schema_version": 3,
+  "id": "pokebot",
+  "name": "破壳机器人（PokeBot）",
+  "aliases": [
+    "破壳智能",
+    "PokeBot",
+    "破壳(北京)智能科技有限公司"
+  ],
+  "category_id": "08",
+  "focus": "通用具身智能家庭机器人",
+  "products": "家庭机器人（轮式底盘+双臂）、自研本体、在线强化学习方案",
+  "locations_text": "北京（破壳(北京)智能科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：公开路线为家庭场景轮式双臂机器人，自研本体并把强化学习融入预训练与后训练；先做物体传递、收纳等简单操作，再扩展复杂任务。",
+    "peer_names": [
+      "宇树科技",
+      "星海图",
+      "银河通用"
+    ]
+  },
+  "investment": {
+    "summary": "2026-04-26 天使轮数千万美元，云启资本、顺为资本、弘晖基金、小米集团、星海图、百度风投、英诺天使基金、水木清华校友种子基金、东方嘉富参与；2026-08-03 Pre-A 轮亿美元级，顺为资本与经纬创投共同领投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2026-04-26",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "弘晖基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "小米集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "星海图",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "百度风投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "英诺天使基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "水木清华校友种子基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "东方嘉富",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文未区分领投与跟投，按 undisclosed 记录。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2026-08-03",
+        "amount_text": "亿美元级",
+        "investors": [
+          {
+            "name": "顺为资本",
+            "firm_id": "shunwei",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "九坤创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "钧山资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "SEEFund",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "猎聘投资",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "元诺资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "小米战投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "弘晖基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "英诺天使基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "东方嘉富",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "原文称云启、小米战投、弘晖、英诺、东方嘉富为老股东持续加注。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "天眼查于 2026-04-26 公布天使轮信息；公司公开路线为家庭机器人。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "中金在线｜破壳机器人天使轮融资，融资额数千万美元，投资方为云启资本、顺为资本等",
+      "url": "http://sc.stock.cnfol.com/gushiyaowen/20260427/32180549.shtml",
+      "supports": "天使轮金额、投资方与产品路线",
+      "published_date": "2026-04-27",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "新浪财经｜顺为资本与经纬创投领投破壳机器人 Pre-A 轮融资",
+      "url": "https://finance.sina.cn/2026-08-03/detail-inikzkki4595760.d.html",
+      "supports": "Pre-A 轮金额、领投与跟投方",
+      "published_date": "2026-08-03",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "破壳机器人（PokeBot）",
+    "original_track": "08",
+    "original_subtrack": "通用具身智能家庭机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因云启资本、顺为资本 2026 年参与其天使轮及 Pre-A 轮等 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

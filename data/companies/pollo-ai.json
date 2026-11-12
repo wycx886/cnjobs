@@ -1,0 +1,89 @@
+{
+  "schema_version": 3,
+  "id": "pollo-ai",
+  "name": "Pollo AI",
+  "aliases": [
+    "Pollo.AI"
+  ],
+  "category_id": "05",
+  "focus": "AI 视频生成与一站式创作平台",
+  "products": "聚合 Kling AI、Runway、Veo 系列、Stable Diffusion 等模型的视频/图像生成与编辑工作流",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：不做基础模型，以模型聚合与创作工作流切入 AI 视频生成；与模型自研厂商形成反向定位，公开披露了月活与年化收入。",
+    "peer_names": [
+      "LiblibAI"
+    ]
+  },
+  "investment": {
+    "summary": "2025-12-04 种子轮 1400 万美元，高成资本领投，真格基金跟投；为公司首轮机构融资。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2025-12-04",
+        "amount_text": "1400万美元",
+        "investors": [
+          {
+            "name": "高成资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人朱陈彪；平台 2024 年 10 月上线；公司称截至 2025 年 12 月注册用户超 2000 万、年化收入超 2000 万美元。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "新浪科技｜真格天使项目「Pollo AI」完成 1400 万美元种子轮融资",
+      "url": "https://news.sina.cn/ai/2025-12-09/detail-inhaeiwh2868919.d.html",
+      "supports": "种子轮金额、投资方、产品与经营数据、创始人",
+      "published_date": "2025-12-09",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Pollo AI",
+    "original_track": "05",
+    "original_subtrack": "AI 视频生成与一站式创作平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因真格基金 2025 年跟投其种子轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

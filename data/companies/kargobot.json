@@ -1,0 +1,131 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因高榕创投2026年披露的自动驾驶B轮投资而建档；按具身智能与机器人业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "kargobot",
+  "name": "卡尔动力 KargoBot",
+  "aliases": [
+    "卡尔动力",
+    "KargoBot",
+    "卡尔动力科技"
+  ],
+  "category_id": "08",
+  "focus": "干线物流自动驾驶与智能货运",
+  "products": "KargoOmni 自动驾驶货运系统、无驾驶舱运输机器人、L4 自动驾驶卡车编队",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以干线物流为场景，采用智能混合编队与单车智能并行方案；与乘用车Robotaxi或港口封闭场景的自动驾驶公司路线不同。",
+    "peer_names": [
+      "智加科技",
+      "嬴彻科技",
+      "小马智行"
+    ]
+  },
+  "investment": {
+    "summary": "2026-03-02宣布完成超1亿美元B轮融资，地平线与高榕创投联合领投，红旗创投、峰尚资本、东方嘉富等参与投资，部分老股东超额跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2026-03-02",
+        "amount_text": "超1亿美元",
+        "investors": [
+          {
+            "name": "地平线",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红旗创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "峰尚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "东方嘉富",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "新浪财经报道地平线与高榕创投联合领投，其余为参与投资，部分老股东超额跟投。"
+      }
+    ]
+  },
+  "notes": "公开报道未列注册地、官网与招聘入口；网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "卡尔动力完成超1亿美元B轮融资 地平线与高榕创投联合领投",
+      "url": "https://finance.sina.cn/stock/jdts/2026-03-02/detail-inhpqknu5379986.d.html",
+      "supports": "融资轮次、金额、领投与参投方、业务与技术路线、CEO身份",
+      "published_date": "2026-03-02",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "卡尔动力（KargoBot）",
+    "original_track": "08",
+    "original_subtrack": "干线物流自动驾驶"
+  },
+  "people": [
+    {
+      "name": "韦峻青",
+      "role": "CEO",
+      "previous_firms": [],
+      "background": "公开报道以卡尔动力CEO身份受访，介绍公司从商业模式验证迈向规模化落地。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一融资报道点名其CEO身份；未取得个人公开主页。"
+    }
+  ]
+}

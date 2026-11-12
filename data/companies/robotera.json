@@ -19,9 +19,100 @@
     ]
   },
   "investment": {
-    "summary": "2026年3月完成10亿元人民币战略轮；2026年4月完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本、中金资本等联合注资，科捷智能、东风产投、工银资本、联通旗下基金等产业方参与。更早轮次本次未逐项核实。",
+    "summary": "2025-07-07 A 轮 5 亿元人民币，鼎晖投资、海尔资本、厚雪资本、华映资本、襄禾资本、丰立智能、清流资本、清控天诚、正悦投资、众为资本参与；2026年3月完成10亿元人民币战略轮；2026年4月完成超2亿美元新一轮，顺丰集团领投，红杉中国、IDG资本、中金资本等联合注资，科捷智能、东风产投、工银资本、联通旗下基金等产业方参与。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "A",
+        "announced_on": "2025-07-07",
+        "amount_text": "5亿人民币",
+        "investors": [
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "海尔资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "厚雪资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "华映资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "襄禾资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "丰立智能",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "清流资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "清控天诚",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "正悦投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          },
+          {
+            "name": "众为资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s11"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s11"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“5亿人民币”。现有档案仅列 2026 年两轮，缺本轮。"
+      },
       {
         "round": "战略轮",
         "announced_on": "2026-03",
@@ -364,6 +455,14 @@
       "published_date": "2026-03-05",
       "checked_at": "2026-11-12",
       "scope": "organization"
+    },
+    {
+      "id": "s11",
+      "title": "投资界融资事件｜星动纪元A轮",
+      "url": "https://vc.pedaily.cn/invest/355153.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2025-07-07",
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

@@ -1,0 +1,116 @@
+{
+  "schema_version": 3,
+  "id": "huimei",
+  "name": "惠每科技",
+  "aliases": [
+    "Dr.Mayson",
+    "惠每"
+  ],
+  "category_id": "10",
+  "focus": "医疗人工智能：临床决策支持（CDSS）、病历质控与医保智能审核",
+  "products": "大模型CDSS、Agent Store、超级智能体、语音病历生成、病历内涵质控、VTE智能防治、医保智能审核及一体化终端方案",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较汇医慧影偏医学影像、森亿智能偏临床数据平台，惠每科技公开产品更集中在CDSS与病历/医保质控；具体医院覆盖与效果未作横向评测。",
+    "peer_names": [
+      "汇医慧影",
+      "森亿智能"
+    ]
+  },
+  "investment": {
+    "summary": "2023-09-27 i黑马报道完成D轮超3亿元融资，钟鼎资本领投，润璋创投、苏州宜和等跟投，老股东启明创投继续投资；泰合资本担任独家财务顾问。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "D",
+        "announced_on": "2023-09-27",
+        "amount_text": "超3亿元人民币",
+        "investors": [
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "润璋创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "苏州宜和",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "报道称启明创投为老股东继续投资；未披露各投资方具体金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.huimei.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "marketing@huimei.com",
+    "other_email_purpose": "市场与一般联系邮箱"
+  },
+  "notes": "官网所列产品覆盖CDSS、病历质控与医保审核；成立年份与招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "惠每科技完成D轮超3亿元融资",
+      "url": "https://www.163.com/dy/article/IFLJCPEV05118I96.html",
+      "supports": "D轮超3亿元、钟鼎资本领投、润璋创投/苏州宜和跟投、启明创投继续投资",
+      "published_date": "2023-09-27",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "惠每科技｜医疗AI-专科CDSS-临床决策支持系统",
+      "url": "http://www.huimei.com/",
+      "supports": "官网产品线与市场联系邮箱",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "惠每科技",
+    "original_track": "10",
+    "original_subtrack": "临床决策支持与医疗质控AI"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因启明创投在2023年D轮继续投资而建档，属于医疗垂直AI厂商；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

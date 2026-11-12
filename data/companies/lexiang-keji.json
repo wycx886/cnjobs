@@ -1,0 +1,115 @@
+{
+  "schema_version": 3,
+  "id": "lexiang-keji",
+  "name": "乐享科技",
+  "aliases": [
+    "苏州乐享智能科技有限公司",
+    "Lexiang"
+  ],
+  "category_id": "08",
+  "focus": "消费级具身智能机器人",
+  "products": "Z-Bot、W-Bot（WaWa）",
+  "locations_text": "苏州（苏州乐享智能科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与面向工业或商用场景的机器人公司相比，乐享科技公开产品聚焦家庭室内外的消费级具身机器人，处于早期产品验证阶段。",
+    "peer_names": [
+      "宇树科技",
+      "银河通用",
+      "星尘智能"
+    ]
+  },
+  "investment": {
+    "summary": "真格基金于 2024 年年底公司创办时成为天使投资方；2025-09-28 天使++ 轮 2 亿元由钟鼎资本领投，老股东 IDG 资本加投。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2024",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "报道称真格基金于 2024 年年底乐享科技创办时成为天使投资方，未披露该轮金额。"
+      },
+      {
+        "round": "天使++",
+        "announced_on": "2025-09-28",
+        "amount_text": "2亿元",
+        "investors": [
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": null
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人郭人杰，1997 年生，曾任追觅中国区执行总裁；公司称 9 个月内完成三轮融资，天使轮累计近 5 亿元。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "新浪科技｜真格天使项目「乐享科技」完成 2 亿元天使++轮融资",
+      "url": "https://finance.sina.cn/tech/2025-09-28/detail-infrzitr9020785.d.html",
+      "supports": "天使++轮金额与投资方、真格天使投资时间、产品与团队",
+      "published_date": "2025-09-28",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "乐享科技",
+    "original_track": "08",
+    "original_subtrack": "消费级具身智能机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因真格基金 2024 年年底天使投资、且公司 2025 年披露后续融资这一 2020 年后 AI 投资线索而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2024,
+    "basis": "报道称公司于 2024 年年底创办。"
+  }
+}

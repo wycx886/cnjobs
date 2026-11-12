@@ -1,0 +1,261 @@
+{
+  "schema_version": 3,
+  "id": "axera",
+  "name": "爱芯元智",
+  "aliases": [
+    "爱芯元智半导体股份有限公司",
+    "Axera"
+  ],
+  "category_id": "02",
+  "focus": "边缘与端侧人工智能处理器芯片",
+  "products": "高性能低功耗 AI 视觉处理器芯片及全栈解决方案",
+  "locations_text": "浙江宁波",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：爱芯元智主攻边缘侧 AI 视觉处理器，与地平线、黑芝麻智能在智能驾驶与视觉感知芯片方向可比；其公开融资节奏密集，2025 年 C 轮披露超 10 亿元。",
+    "peer_names": [
+      "地平线机器人；黑芝麻智能；影微创新"
+    ]
+  },
+  "investment": {
+    "summary": "2021-08-06 A+ 轮披露数亿元人民币，博裕资本参与；同轮另有韦豪创芯、纪源资本、美团龙珠、元禾璞华等。2022-01-17 A++ 轮 8 亿元人民币，启明创投、联想之星、韦豪创芯、美团、美团龙珠、和聚资本、纪源资本、耀途资本共同参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2021-08-06",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "博裕资本",
+            "firm_id": "boyu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "韦豪创芯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "纪源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "元禾璞华",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额数亿元人民币，投资方数量较多，此处列部分。"
+      },
+      {
+        "round": "A++",
+        "announced_on": "2022-01-17",
+        "amount_text": "8亿元人民币",
+        "investors": [
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "韦豪创芯",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "美团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "美团龙珠",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "和聚资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "纪源资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "联想之星",
+            "firm_id": "legend-star",
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "耀途资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "凤凰网报道称本轮为A++轮8亿元，上述机构共同参与，未区分领投与跟投。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2025-04-09",
+        "amount_text": "超10亿人民币",
+        "investors": [
+          {
+            "name": "宁波通商基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "镇海产业基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "渝富高质产业母基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "两江资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "元禾璞华",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额超 10 亿元人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://axera-tech.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为爱芯元智半导体股份有限公司，公司页记成立时间 2020-04-20、注册地浙江宁波。官网可访问，招聘邮箱未公开列出。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜爱芯元智 公司页",
+      "url": "https://vc.pedaily.cn/company/19851.html",
+      "supports": "成立时间、AI 视觉处理器业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜爱芯元智 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/120323.html",
+      "supports": "2021-08-06 A+ 轮数亿元，投资方含博裕资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "不足半年，AI芯片研发商爱芯元智再获8亿元A++轮融资",
+      "url": "https://finance.ifeng.com/c/8CsgU7mEJlE",
+      "supports": "A++轮8亿元、启明创投与联想之星等共同参与、爱芯元智2019年5月成立及AX630A/AX620A产品",
+      "published_date": "2022-01-17",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "爱芯元智",
+    "original_track": "02",
+    "original_subtrack": "推理与模型服务"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因博裕资本 2020 年后披露的边缘 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2020,
+    "basis": "投资界公司页工商信息：爱芯元智半导体股份有限公司成立于 2020-04-20。"
+  }
+}

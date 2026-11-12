@@ -1,0 +1,148 @@
+{
+  "schema_version": 3,
+  "id": "rockflow",
+  "name": "贝卡未来 RockFlow",
+  "aliases": [
+    "RockFlow",
+    "rockflow.ai",
+    "贝卡未来"
+  ],
+  "category_id": "04",
+  "founded": {
+    "year": 2021,
+    "basis": "SVTR 创投库条目：2021 年成立于新加坡。"
+  },
+  "focus": "AI 原生一站式投资与交易服务：美港股、期权、ETF，以及金融 AI Agent「Bobby」。",
+  "products": "RockFlow App 与金融 AI Agent「Bobby」，支持美港股交易、简化期权与跟单等功能。",
+  "locations_text": "新加坡（官网 rockflow.ai；母公司近期取得香港证监会相关牌照）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：RockFlow 以 AI Agent 作为投资服务入口，与富途、老虎证券等以交易通道和行情工具起家的平台路径不同；本档不比较合规或收益表现。",
+    "peer_names": [
+      "富途；老虎证券"
+    ]
+  },
+  "investment": {
+    "summary": "2025-11 B 轮融资 3000 万美元，蓝驰创投作为原有投资人继续参与；该轮由一家全球数字金融服务平台领投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B轮",
+        "announced_on": "2025-11-27",
+        "amount_text": "3000万美元",
+        "investors": [
+          {
+            "name": "砺思资本",
+            "firm_id": "monolith",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": "ant-group",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "participant",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "Forwest Capital",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "Evergreen",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "notes": "蓝驰创投官方新闻称本轮由一家全球数字金融服务平台领投，蓝驰作为原有投资人继续参与；SVTR 创投库记金额 3000 万美元，蓝驰新闻仅称数千万美元。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://rockflow.ai",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开招聘邮箱"
+  },
+  "notes": "以蓝驰创投 2025 年披露的 AI 金融 Agent 投资为建档线索；融资信息取自 SVTR 创投库与蓝驰官方新闻，官网未逐一核验招聘入口。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜贝卡未来 RockFlow",
+      "url": "https://svtr.ai/orgs/rockflow",
+      "supports": "2021 年成立于新加坡、AI 原生投资交易平台与 Bobby Agent 定位、2025-11 B 轮金额与投资方名单、创始人名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "Singapore’s RockFlow Raises Tens of Millions to Accelerate AI Agent Capabilities and Global Expansion",
+      "url": "https://lanchiventures.com/singapores-rockflow-raises-tens-of-millions-to-accelerate-ai-agent-capabilities-and-global-expansion/",
+      "supports": "2025-11 B 轮由全球数字金融服务平台领投、蓝驰创投等原有投资人继续参与、Bobby 产品与牌照信息",
+      "published_date": "2025-11-27",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "贝卡未来 RockFlow",
+    "original_track": "04",
+    "original_subtrack": "个人助手"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因蓝驰创投 2025 年继续参与 B 轮而建档的 AI 原生投资交易平台；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "赖蕴琦（Vakee）",
+      "role": "创始人兼 CEO",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "蓝驰官方新闻引用其 Founder & CEO 身份；未取得个人公开主页。"
+    }
+  ]
+}

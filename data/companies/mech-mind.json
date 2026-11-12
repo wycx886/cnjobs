@@ -1,0 +1,126 @@
+{
+  "schema_version": 3,
+  "id": "mech-mind",
+  "name": "梅卡曼德机器人",
+  "aliases": [
+    "梅卡曼德",
+    "Mech-Mind"
+  ],
+  "category_id": "08",
+  "focus": "工业机器人AI大脑、3D视觉与具身智能平台",
+  "products": "Mech-Eye工业级3D相机、Mech-Vision机器视觉软件、Mech-Viz机器人编程软件、Mech-DLK深度学习软件、Mech-MSR测量软件及具身智能机器人平台",
+  "locations_text": "北京（投资界报道列北京、上海、深圳、广州、长沙、青岛及慕尼黑、东京等团队）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较思谋科技同时覆盖工业视觉与读码/智能体软件，梅卡曼德公开产品更集中在机器人3D视觉、抓取与编程软件；具体市占率未作横向评测。",
+    "peer_names": [
+      "思谋科技",
+      "非夕科技 Flexiv"
+    ]
+  },
+  "investment": {
+    "summary": "2021-09-27 投资界报道完成近10亿元C系列融资，美团、IDG资本领投，老股东红杉中国、源码资本跟投；泰合资本担任独家财务顾问。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2021-09-27",
+        "amount_text": "近10亿元人民币",
+        "investors": [
+          {
+            "name": "美团",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "投资界称本轮为C系列融资，金额近10亿元；美团与IDG资本领投。"
+      },
+      {
+        "round": "已上市",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "官网页眉标注股票代码09615.HK；上市日期与发行细节未在本次来源中确认。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.mech-mind.com.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网提供联系表单与销售热线，未列出公开邮箱"
+  },
+  "notes": "官网展示3D相机、视觉与机器人编程软件，并标注股票代码09615.HK；成立年份、招聘入口与上市日期未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "梅卡曼德获近10亿元C轮融资，美团、IDG资本领投",
+      "url": "https://finance.sina.com.cn/jjxw/2021-09-27/doc-iktzscyx6572996.shtml",
+      "supports": "C系列近10亿元、美团与IDG资本领投、红杉中国/源码资本跟投、机器人与3D视觉业务",
+      "published_date": "2021-09-27",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "梅卡曼德机器人｜通用智能机器人的AI大脑和3D视觉",
+      "url": "https://www.mech-mind.com.cn/",
+      "supports": "官网产品线、联系表单与股票代码09615.HK",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "梅卡曼德",
+    "original_track": "08",
+    "original_subtrack": "工业机器人3D视觉与具身智能"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因IDG资本2021年披露的C轮领投而建档，属于工业机器人视觉与具身智能厂商；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

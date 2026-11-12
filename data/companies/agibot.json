@@ -18,9 +18,132 @@
     ]
   },
   "investment": {
-    "summary": "2025-03-24公司向财新证实完成新B轮，腾讯领投，龙旗科技、卧龙电气、华发集团、蓝驰创投等产业方及老股东跟投；该轮金额未披露。更早轮次本轮未取得可核验披露，未结构化。",
+    "summary": "2023-12-14 A+++ 轮超 6 亿元人民币，蓝驰创投、中科创星、鼎晖投资、基石资本、高瓴创投、临港新片区基金等参与；2025-03-24 公司向财新证实完成新 B 轮，腾讯领投，龙旗科技、卧龙电气、华发集团、蓝驰创投等产业方及老股东跟投，该轮金额未披露。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "A+++",
+        "announced_on": "2023-12-14",
+        "amount_text": "超6亿人民币",
+        "investors": [
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": "casstar",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "长飞基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "C资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "立景创新",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "三花控股集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "临港新片区基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "银杏谷资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "临港前沿投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "鼎晖百孚",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "高瓴资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“超6亿人民币”。页面“立景创新”重复出现，仅记一次；投资方角色未区分。"
+      },
       {
         "round": "B",
         "announced_on": "2025-03",
@@ -82,7 +205,7 @@
     "other_email_purpose": "销售"
   },
   "notes": "未查到通用招聘邮箱；用官方飞书职位投递。agibot.cn 为敏捷医疗，不属于智元，已排除混淆。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -143,6 +266,14 @@
       "supports": "英文官网同一页面：Deng Taihua 为 Founder/Chairman/CEO，Peng Zhihui 为 Co-Founder/President/CTO，Jiang Qingsong 为 Co-Founder/Co-President/COO，Yao Maoqing 为 Co-Founder/Co-President 兼 Embodied AI Business 总裁",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "投资界融资事件｜智元机器人A+++轮",
+      "url": "https://vc.pedaily.cn/invest/367068.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2023-12-14",
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

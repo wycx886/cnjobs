@@ -248,6 +248,33 @@
       "supports": "新加坡国立大学计算机系个人主页：Yang You，Presidential Young Professor，UC Berkeley 计算机博士（导师 James Demmel），业界经历列出 HPC-AI Tech（潞晨科技英文名）",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "X 账号 @YangYou1991 主页",
+      "url": "https://x.com/yangyou1991",
+      "supports": "公开专业主页与本次人物身份观察：尤洋；职务：创始人",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "Yang You 新加坡国立大学个人主页，链接 Twitter @YangYou1991",
+      "url": "https://www.comp.nus.edu.sg/~youy/",
+      "supports": "NUS 个人主页 About 表写明 Twitter Follow @YangYou1991，并列出 Industry Experience 含 HPC-AI Tech。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "潞晨科技官网团队页：尤洋教授 潞晨科技创始人",
+      "url": "https://www.luchentech.com/team",
+      "supports": "官方团队页将尤洋教授列为潞晨科技创始人，履历与 NUS/UC Berkeley 背景一致。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {
@@ -321,15 +348,32 @@
             "s07"
           ],
           "notes": "NUS 个人主页以英文名 Yang You 展示，业界经历含 HPC-AI Tech（潞晨科技英文品牌）；中文姓名与主页的对应依据公司官网团队页与本人履历一致性判断，页面本身未写中文名。"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/yangyou1991",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s08",
+            "s09",
+            "s10"
+          ],
+          "notes": "身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。 已读 X 主页：显示名 Yang You；简介 Presidential Young Professor at @NUSingapore. Ph.D. from @UCBerkeley. Founder and Chairman of @HPCAITech；蓝V，约 8791 关注。网站跳转到其 NUS HPC-AI Lab。潞晨科技即 HPC-AI Tech / Colossal-AI。"
         }
       ],
       "source_ids": [
+        "s08",
+        "s09",
+        "s10"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。 已读 X 主页：显示名 Yang You；简介 Presidential Young Professor at @NUSingapore. Ph.D. from @UCBerkeley. Founder and Chairman of @HPCAITech；蓝V，约 8791 关注。网站跳转到其 NUS HPC-AI Lab。潞晨科技即 HPC-AI Tech / Colossal-AI。",
+      "historical_source_ids": [
         "s05",
         "s06"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。"
+      ]
     }
   ],
   "founded": {

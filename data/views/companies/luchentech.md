@@ -61,7 +61,7 @@ Colossal-AI、Colossal-Cloud、Open-Sora
 
 | 姓名 | 角色／职务 | 背景概要／原平台 | 身份核验／来源 | 公开主页 | 说明 |
 | --- | --- | --- | --- | --- | --- |
-| 尤洋 | 创始人 | 加州大学伯克利分校博士，曾获 ACM-IEEE CS George Michael Memorial HPC Fellowship，入选2021福布斯亚洲30岁以下精英。 | confirmed / 2026-11-11 / s05,s06 | [personal_site](https://www.comp.nus.edu.sg/~youy/) (partial, s07) | 身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。 |
+| 尤洋 | 创始人 | 加州大学伯克利分校博士，曾获 ACM-IEEE CS George Michael Memorial HPC Fellowship，入选2021福布斯亚洲30岁以下精英。 | confirmed / 2026-11-12 / s08,s09,s10 | [personal_site](https://www.comp.nus.edu.sg/~youy/) (partial, s07) · [x](https://x.com/yangyou1991) (confirmed, s08,s09,s10) | 身份与履历取自公司官网团队页（2026-11-11核查）；官网称「创始人」，未据其他资料改写为董事长等职务。 已读 X 主页：显示名 Yang You；简介 Presidential Young Professor at @NUSingapore. Ph.D. from @UCBerkeley. Founder and Chairman of @HPCAITech；蓝V，约 8791 关注。网站跳转到其 NUS HPC-AI Lab。潞晨科技即 HPC-AI Tech / Colossal-AI。 |
 
 ## 核查备注
 
@@ -78,3 +78,6 @@ Colossal-AI、Colossal-Cloud、Open-Sora
 | s05 | [潞晨科技官网「关于我们」团队介绍](https://www.luchentech.com/team) | 尤洋为潞晨科技创始人；加州大学伯克利分校博士，入选2021福布斯亚洲30岁以下精英等履历 | 未标明 | 2026-11-11 |
 | s06 | [搜狐｜清华校友尤洋创办潞晨科技，专注AI Infra赛道](https://www.sohu.com/a/1059369985_701814) | 报道称「清华校友尤洋创办潞晨科技」，并记其清华硕士、加州大学伯克利博士及新加坡国立大学教职背景 | 2026-08-06 | 2026-11-11 |
 | s07 | [Yang You's Homepage (NUS Computer Science)](https://www.comp.nus.edu.sg/~youy/) | 新加坡国立大学计算机系个人主页：Yang You，Presidential Young Professor，UC Berkeley 计算机博士（导师 James Demmel），业界经历列出 HPC-AI Tech（潞晨科技英文名） | 未标明 | 2026-11-11 |
+| s08 | [X 账号 @YangYou1991 主页](https://x.com/yangyou1991) | 公开专业主页与本次人物身份观察：尤洋；职务：创始人 | 未标明 | 2026-11-12 |
+| s09 | [Yang You 新加坡国立大学个人主页，链接 Twitter @YangYou1991](https://www.comp.nus.edu.sg/~youy/) | NUS 个人主页 About 表写明 Twitter Follow @YangYou1991，并列出 Industry Experience 含 HPC-AI Tech。 | 未标明 | 2026-11-12 |
+| s10 | [潞晨科技官网团队页：尤洋教授 潞晨科技创始人](https://www.luchentech.com/team) | 官方团队页将尤洋教授列为潞晨科技创始人，履历与 NUS/UC Berkeley 背景一致。 | 未标明 | 2026-11-12 |

@@ -1,0 +1,150 @@
+{
+  "schema_version": 3,
+  "id": "metis-pharma",
+  "name": "剂泰科技 / METiS",
+  "aliases": [
+    "剂泰医药",
+    "剂泰科技",
+    "METiS Pharmaceuticals",
+    "METiS",
+    "杭州剂泰医药科技有限责任公司"
+  ],
+  "category_id": "10",
+  "focus": "AI驱动的纳米材料与药物递送系统设计，开发靶向递送与制剂新药",
+  "products": "AiLNP AI 纳米递送系统设计平台、NanoForge AI 纳米递送平台，以及小分子与核酸药物管线",
+  "locations_text": "北京（剂泰科技（北京）股份有限公司）；早期主体在杭州",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：剂泰科技以AI设计脂质纳米颗粒等递送系统，把AI用于制剂与递送这一相对空白的环节；与晶泰科技、英矽智能偏分子发现相比，更聚焦纳米递送与制剂工程。",
+    "peer_names": [
+      "晶泰科技 XtalPi；英矽智能 Insilico Medicine；天鹜科技 Matwings"
+    ]
+  },
+  "investment": {
+    "summary": "2022-04-06 宣布连续完成两轮融资合计1.5亿美元，由人保资本、国寿股权领投，红杉中国、五源资本、招银国际、光速中国、Monolith（砺思资本）、峰瑞资本等新老股东跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B轮",
+        "announced_on": "2022-04-06",
+        "amount_text": "1.5亿美元（两轮合计）",
+        "investors": [
+          {
+            "name": "人保资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "国寿股权",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "招银国际",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "Monolith 砺思资本",
+            "firm_id": "monolith",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "峰瑞资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "摩熵医药转述公司公告：两轮融资合计1.5亿美元，人保资本、国寿股权领投，其余点名机构跟投；未拆分为单轮金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.metispharmaceuticals.cn/",
+    "careers_url": "https://app.mokahr.com/social-recruitment/metis/47224#/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网招聘入口跳转 Moka，未公开统一邮箱"
+  },
+  "notes": "公司由晶泰科技孵化，早期以AI药物制剂与递送系统为主；官网现列 AiLNP、NanoForge 平台及多条药物管线。2022年融资为两轮合计披露，未据此推断当前持股或回报。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "摩熵医药｜砺思资本机构页及剂泰医药融资记录",
+      "url": "https://www.pharnexcloud.com/trz/institution_9fb76a0d36468237d74f899a2d30343a",
+      "supports": "2022-04-06 剂泰连续两轮融资合计1.5亿美元，人保资本、国寿股权领投，Monolith 等跟投；剂泰业务定位",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "剂泰科技官网",
+      "url": "https://www.metispharmaceuticals.cn/",
+      "supports": "AiLNP、NanoForge AI 纳米递送平台、在研管线与北京主体",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "剂泰医药",
+    "original_track": "10",
+    "original_subtrack": "药物发现与临床管线"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因砺思资本参与其2022年披露的B轮融资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

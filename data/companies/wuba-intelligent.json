@@ -1,0 +1,107 @@
+{
+  "schema_version": 3,
+  "id": "wuba-intelligent",
+  "name": "五八智能",
+  "aliases": [],
+  "category_id": "08",
+  "focus": "面向大安全与大工业场景的具身智能整机与零部件",
+  "products": "人形机器人、行业级四足机器人及核心零部件，提供中试与整机交付",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：五八智能依托中国兵器工业集团背景，主攻大安全与大工业场景的人形／四足机器人，与宇树、云深处等四足厂商相比更偏行业级交付与央企体系内应用，消费与开发者生态披露较少。",
+    "peer_names": [
+      "宇树科技；云深处科技；乐聚机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2025-10-27 首轮战略融资约 5 亿元人民币，国新基金、浙江产投联合领投；中国国有企业混合所有制改革基金等跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "战略融资",
+        "announced_on": "2025-10-27",
+        "amount_text": "约5亿人民币",
+        "investors": [
+          {
+            "name": "国新基金",
+            "firm_id": "guoxin-fund",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "浙江产投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中国国有企业混合所有制改革基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "浙江城西科创制造业母基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "国新基金、浙江产投联合领投，多家机构跟投；金额约 5 亿元。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "公开报道称五八智能为中国兵器工业集团核心具身智能企业，2022 年成立，重点布局人形机器人与行业级四足机器人；本轮为首轮战略融资。未取得独立官网与工商登记页面，法律主体全称待补证，aliases 仅保留常用简称。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜五八智能完成约5亿元首轮战略融资，国新基金、浙江产投联合领投",
+      "url": "https://news.pedaily.cn/202510/556370.shtml",
+      "supports": "2025-10-27 首轮战略融资约 5 亿元、国新基金与浙江产投联合领投、公司隶属中国兵器工业集团与 2022 年成立",
+      "published_date": "2025-10-27",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "五八智能",
+    "original_track": "08",
+    "original_subtrack": "人形与四足本体"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因国新基金 2020 年后披露的具身智能整机投资而建档；公开信息以央企背景与行业级交付为主，独立官网与工商信息待补，先列观察。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2022,
+    "basis": "投资界报道：五八智能自 2022 年成立。"
+  }
+}

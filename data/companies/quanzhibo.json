@@ -1,0 +1,101 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因高瓴创投2026年披露的机器人关节模组A+++轮投资而建档；按具身智能产业链归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "quanzhibo",
+  "name": "泉智博",
+  "aliases": [
+    "泉智博",
+    "无锡泉智博科技有限公司",
+    "泉智博科技"
+  ],
+  "category_id": "08",
+  "focus": "机器人一体化关节模组",
+  "products": "机器人一体化关节模组；与灵心巧手联合的“关节+灵巧手”方案",
+  "locations_text": "无锡",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：面向具身智能整机厂商供应一体化关节模组，属于上游核心零部件；与做整机或灵巧手本体的公司定位不同。",
+    "peer_names": [
+      "因时机器人",
+      "绿的谐波",
+      "傲意科技"
+    ]
+  },
+  "investment": {
+    "summary": "2026-07-03宣布完成A+++轮融资，高瓴创投领投，智元机器人、灵心巧手以战略产业方身份入局；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+++",
+        "announced_on": "2026-07-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "智元机器人",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "灵心巧手",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "每日经济新闻报道高瓴创投领投，智元机器人、灵心巧手以战略产业方身份同步入局；金额未披露。"
+      }
+    ]
+  },
+  "notes": "公开报道未列官网与招聘入口；网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "高瓴领投！智元、灵心巧手入局 泉智博一年半拿下7轮融资 关节模组能否缓解具身机器人“量产焦虑”？",
+      "url": "https://www.nbd.com.cn/articles/2026-07-03/4451861.html",
+      "supports": "融资轮次与投资方、公司主体与业务定位",
+      "published_date": "2026-07-03",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "泉智博",
+    "original_track": "08",
+    "original_subtrack": "机器人核心零部件"
+  },
+  "people": []
+}

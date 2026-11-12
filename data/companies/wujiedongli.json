@@ -1,0 +1,223 @@
+{
+  "schema_version": 3,
+  "id": "wujiedongli",
+  "name": "无界动力",
+  "aliases": [
+    "Wujie Dynamics",
+    "无界动力（北京）技术研发有限公司"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2025,
+    "basis": "SVTR 创投库条目：2025 年成立于北京。"
+  },
+  "focus": "通用具身智能机器人：以原生世界模型与强化学习研发通用具身大脑，主攻工厂场景的双臂轮式机器人。",
+  "products": "公开口径为通用具身大脑与双臂轮式机器人；具体量产产品未披露。",
+  "locations_text": "北京",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：无界动力公开定位为工厂场景的通用具身大脑与双臂轮式本体，与以人形全身本体为主的星动纪元、它石智航路线不同；本档只按公开业务分类，不评价技术优劣。",
+    "peer_names": [
+      "自变量机器人；星动纪元；它石智航"
+    ]
+  },
+  "investment": {
+    "summary": "2025-11 首轮天使融资 4200 万美元，红杉中国与线性资本领投；2026-06 天使轮累计金额超 2 亿美元，红杉中国继续参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2025-11-11",
+        "amount_text": "4200万美元",
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "地平线",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华业天成",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "同歌创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库记为天使轮 4200 万美元；公开报道口径为 3 亿元人民币左右，按 SVTR 美元口径记录。"
+      },
+      {
+        "round": "天使",
+        "announced_on": "2026-06-26",
+        "amount_text": "超2亿美元",
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "京东关联基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华业天成",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "弘毅投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "丰源投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "C资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "雅瑞资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "盛宇投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库将该轮列为天使轮、累计超 2 亿美元，未区分领投与跟投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "以红杉中国 2020 年后披露的具身智能投资为建档线索；融资与投资方信息取自 SVTR 创投库条目，未取得公司官方公告原文。公司无独立公开官网与招聘入口记录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜无界动力",
+      "url": "https://svtr.ai/orgs/wujiedongli",
+      "supports": "2025 年成立于北京、通用具身智能机器人定位、天使轮时间/金额与投资方名单、核心团队名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "无界动力",
+    "original_track": "08",
+    "original_subtrack": "具身模型与操作"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因红杉中国在 2025-11 天使轮领投而建档的通用具身智能机器人公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "张玉峰",
+      "role": "创始人",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出；未取得个人公开主页，职务与履历待公司公告核实。"
+    }
+  ]
+}

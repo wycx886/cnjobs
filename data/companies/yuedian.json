@@ -1,0 +1,82 @@
+{
+  "schema_version": 3,
+  "id": "yuedian",
+  "name": "悦点科技",
+  "aliases": [
+    "悦点科技"
+  ],
+  "category_id": "06",
+  "focus": "企业级 Agentic AI 应用生成平台",
+  "products": "Agentic AI Platform、Action Graph、企业知识处理与模型微调",
+  "locations_text": "北京",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：面向企业私有数据与复杂业务逻辑提供端到端 Agentic AI 平台；公开称已实现亿级收入并保持盈利（公司口径）。",
+    "peer_names": [
+      "第四范式",
+      "明略科技"
+    ]
+  },
+  "investment": {
+    "summary": "2024-12-03 天使轮数千万人民币，云启资本独家投资。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2024-12-03",
+        "amount_text": "数千万元人民币",
+        "investors": [
+          {
+            "name": "云启资本",
+            "firm_id": "yunqi",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文称云启资本独家投资。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人任鑫琦；公司成立于北京。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "搜狐｜专注企业级 Agentic AI，悦点科技获云启资本数千万元天使轮投资",
+      "url": "https://www.sohu.com/a/832759375_122070276",
+      "supports": "天使轮金额、独家投资方、产品与创始人",
+      "published_date": "2024-12-03",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "悦点科技",
+    "original_track": "06",
+    "original_subtrack": "企业级 Agentic AI 应用生成平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因云启资本 2024 年独家投资其天使轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

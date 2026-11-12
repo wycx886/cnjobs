@@ -1,0 +1,134 @@
+{
+  "schema_version": 3,
+  "id": "archon-robotics",
+  "name": "源策未来 Archon Robotics",
+  "aliases": [
+    "Archon Robotics",
+    "源策未来"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2026,
+    "basis": "SVTR 创投库条目：2026 年成立于上海。"
+  },
+  "focus": "通用全身人形机器人基座模型：构建全身智能（Whole-body Intelligence）。",
+  "products": "公开口径为通用全身人形基座模型，目标年内开源；具体产品未披露。",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：源策未来公开定位为人形全身基座模型，与本溯智能等以动作模型为核心的团队同处具身模型层；本档不评价模型能力或开源进度。",
+    "peer_names": [
+      "自变量机器人；星动纪元；它石智航"
+    ]
+  },
+  "investment": {
+    "summary": "2026-06-29 种子轮融资 2800 万美元，五源资本与上海创智学院、高榕创投、奇绩创坛等共同参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子",
+        "announced_on": "2026-06-29",
+        "amount_text": "2800万美元",
+        "investors": [
+          {
+            "name": "上海创智学院",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "奇绩创坛",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "戈壁创投与香港大学联名基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "真格基金",
+            "firm_id": "zhenfund",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "以五源资本 2026 年参与的种子轮为建档线索；融资与团队信息取自 SVTR 创投库条目，未取得公司官方公告原文。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜源策未来 Archon Robotics",
+      "url": "https://svtr.ai/orgs/archon-robotics",
+      "supports": "2026 年成立于上海、通用全身人形基座模型定位、2026-06-29 种子轮金额与投资方名单、核心团队名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "源策未来",
+    "original_track": "08",
+    "original_subtrack": "具身模型与操作"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因五源资本参与 2026-06 种子轮而建档的人形机器人基座模型公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

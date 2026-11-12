@@ -116,6 +116,33 @@
       "supports": "档案自述 Co-founder & CEO at PLAUD。",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "X 账号 @Nathan_Xu_Gao 主页",
+      "url": "https://x.com/nathan_xu_gao",
+      "supports": "公开专业主页与本次人物身份观察：许高；职务：联合创始人兼CEO",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s12",
+      "scope": "person",
+      "title": "SuperAI 官方账号发帖介绍 Nathan Xu @Nathan_Xu_Gao from @PLAUDAI",
+      "url": "https://x.com/superai_conf/status/2087090493993963879",
+      "supports": "已验证的会议官方账号 @superai_conf（business）于 2026-08-11 发帖，点名 Nathan Xu @Nathan_Xu_Gao from @PLAUDAI，并附 SuperAI 2026 演讲视频「Lossless Context — Nathan Xu, Plaud」。",
+      "published_date": "2026-08-11",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s13",
+      "scope": "person",
+      "title": "Forbes Australia：How an AI notetaker became one of the few profitable AI startups",
+      "url": "https://www.forbes.com.au/news/innovation/how-an-ai-notetaker-became-one-of-the-few-profitable-ai-startups/",
+      "supports": "Forbes Australia 报道 Plaud 及其创始人兼 CEO（公司档案已用该文作为许高/Nathan Xu 职务来源）。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {
@@ -189,15 +216,32 @@
             "s10"
           ],
           "notes": "LinkedIn 抓取被拒；搜索结果摘要显示档案名 Nathan Xu、Co-founder & CEO at PLAUD，与中文报道中的许高对应关系未在页面直接确认（2026-11-11 核查）。"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/nathan_xu_gao",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s11",
+            "s12",
+            "s13"
+          ],
+          "notes": "中文媒体多记为联合创始人兼CEO。英文报道（Forbes Australia 2025-09-03）与 X 简介均使用 Nathan Xu，并写明 Plaud cofounder and CEO / Building @PLAUDAI；与本条已记录职务一致。姓名对应此前仅有搜索摘要支持，现由职务唯一性及 SuperAI 官方贴标记该 handle 加固，不再标 partial。 已读 X 主页：显示名 Nathan Xu；简介 Building @PLAUDAI. CEO and Co-founder.；地点 San Francisco；资料网站跳转 plaud.ai；蓝V。近期发帖以 Plaud 产品负责人身份回复用户（原生连接器更新等）。会议官方帖将 handle 与姓名、公司对应。"
         }
       ],
       "source_ids": [
+        "s11",
+        "s12",
+        "s13"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "中文媒体多记为联合创始人兼CEO。英文报道（Forbes Australia 2025-09-03）与 X 简介均使用 Nathan Xu，并写明 Plaud cofounder and CEO / Building @PLAUDAI；与本条已记录职务一致。姓名对应此前仅有搜索摘要支持，现由职务唯一性及 SuperAI 官方贴标记该 handle 加固，不再标 partial。 已读 X 主页：显示名 Nathan Xu；简介 Building @PLAUDAI. CEO and Co-founder.；地点 San Francisco；资料网站跳转 plaud.ai；蓝V。近期发帖以 Plaud 产品负责人身份回复用户（原生连接器更新等）。会议官方帖将 handle 与姓名、公司对应。",
+      "historical_source_ids": [
         "s08",
         "s10"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "中文媒体多记为联合创始人兼CEO；英文职业档案使用 Nathan Xu 一名，姓名对应关系仅有搜索摘要支持，故主页标记 partial。"
+      ]
     },
     {
       "name": "莫子皓",

@@ -1,0 +1,137 @@
+{
+  "schema_version": 3,
+  "id": "biogeom",
+  "name": "百奥几何 / BioGeometry",
+  "aliases": [
+    "北京百奥几何生物科技有限公司",
+    "百奥几何",
+    "BioGeometry"
+  ],
+  "category_id": "10",
+  "focus": "生成式AI蛋白设计服务商",
+  "products": "百奥几何是一家前沿的数字生物企业，专注于将生成式AI应用于蛋白设计。通过用数智驱动的方法搭建蛋白序列、结构和功能之间的桥梁，我们致力于从头打造可编程的蛋白质，并将其应用于生物医药和合成生物学。公司由 AI 制药顶级科学家唐建博士于 2022年创立，深度学习之父、图灵奖获得者 Yoshua Bengio 担任首席科学顾问。目前，公司已经打造人工智能大分子药物设计平台（GeoBiologics）和高通量大分子药物湿实验验证两大基础平台，实现",
+  "locations_text": "北京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「生成式AI蛋白设计服务商」；同页列出的邻近企业包括阿泰克生物、环启新肽。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "阿泰克生物",
+      "环启新肽"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2026-10-28 A+轮，金额1亿美元，投资方包括国寿股权、国开科创、瑞力投资、国方创新、上海生物医药产业股权投资、达晨财智。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A+",
+        "announced_on": "2026-10-28",
+        "amount_text": "1亿美元",
+        "investors": [
+          {
+            "name": "国寿股权",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "国开科创",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "瑞力投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "国方创新",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "上海生物医药产业股权投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "达晨财智",
+            "firm_id": "fortune-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“1亿美元”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.biogeom.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2021年12月22日。注册主体为北京百奥几何生物科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜百奥几何 / BioGeometry",
+      "url": "https://vc.pedaily.cn/company/659593.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜百奥几何 / BioGeometryA+轮",
+      "url": "https://vc.pedaily.cn/invest/446590.html",
+      "supports": "本轮披露日期（2026-10-28）、轮次、金额与投资方名单",
+      "published_date": "2026-10-28",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "百奥几何 / BioGeometry",
+    "original_track": "10",
+    "original_subtrack": "蛋白质与生物大模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入科学智能与生物医药（蛋白质与生物大模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界企业档案工商信息：成立时间2021年12月22日。"
+  }
+}

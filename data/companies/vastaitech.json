@@ -1,0 +1,277 @@
+{
+  "schema_version": 3,
+  "id": "vastaitech",
+  "name": "瀚博半导体",
+  "aliases": [
+    "瀚博半导体（上海）股份有限公司",
+    "Vastai Technologies"
+  ],
+  "category_id": "02",
+  "focus": "AI 推理与图形渲染 GPU",
+  "products": "全栈 GPU 芯片及加速卡，面向 AI 核心算力、图形渲染与 AIGC",
+  "locations_text": "上海",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：瀚博半导体同时覆盖 AI 推理与图形渲染 GPU，与沐曦、壁仞等通用 GPU 公司相比，渲染与视频处理色彩更强；其多轮融资引入阿里、招商资本、国寿等产业与金融机构。",
+    "peer_names": [
+      "沐曦股份；壁仞科技；摩尔线程"
+    ]
+  },
+  "investment": {
+    "summary": "2021-12-20 B 轮 16 亿元人民币，阿里巴巴、人保资本、经纬创投、五源资本、国寿投资、未来资产、基石资本、慕华科创、红点中国、耀途资本、元木资本参与；2024-09-25 C+ 轮金额未披露，招商资本参与；同轮另有中网投、赛富投资基金、经纬创投、国寿投资、基石资本等。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2021-12-20",
+        "amount_text": "16亿人民币",
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "人保资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "国寿投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "未来资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "基石资本",
+            "firm_id": "jishi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "慕华科创",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "红点中国",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "耀途资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          },
+          {
+            "name": "元木资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "投资界融资事件页披露；金额原文“16亿人民币”。"
+      },
+      {
+        "round": "C+",
+        "announced_on": "2024-09-25",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "招商资本",
+            "firm_id": "cmcapital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中网投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "赛富投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "国寿投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2024-06-14",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红点中国",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.vastaitech.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为瀚博半导体（上海）股份有限公司，公司页记成立时间 2018-12-20、注册地上海。公司页另记 2025-10-22 Pre-IPO 轮，金额未披露；按任务口径不标记为已上市。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜瀚博半导体 公司页",
+      "url": "https://vc.pedaily.cn/company/26596.html",
+      "supports": "成立时间、GPU 业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜瀚博半导体 C+轮详情",
+      "url": "https://vc.pedaily.cn/invest/354891.html",
+      "supports": "2024-09-25 C+ 轮，投资方含招商资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界融资事件｜瀚博半导体B轮",
+      "url": "https://vc.pedaily.cn/invest/190895.html",
+      "supports": "轮次、金额、披露日期与投资方名单",
+      "published_date": "2021-12-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "瀚博半导体",
+    "original_track": "02",
+    "original_subtrack": "GPU芯片与集群网络"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因招商资本 2020 年后披露的 GPU 投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界公司页工商信息：瀚博半导体（上海）股份有限公司成立于 2018-12-20。"
+  }
+}

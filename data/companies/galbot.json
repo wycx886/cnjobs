@@ -20,9 +20,52 @@
     ]
   },
   "investment": {
-    "summary": "2025-06完成11亿元融资，宁德时代及溥泉资本领投，国开科创、北京机器人产业基金、纪源资本等参与；2026-03-02完成25亿元融资，投资方包括国家人工智能产业投资基金、中国石化、中信投资控股、中银资产、上汽金控、中芯聚源、亦庄国投等。长江商报2026-03-05报道2025-12的3亿美元轮由中国移动领投，中金资本、中科院基金、苏创投、央视融媒体基金、天奇股份等跟投（该文称C轮）。财新称其为估值最高的未上市人形机器人企业。",
+    "summary": "2024-06-21 天使轮 7 亿元人民币，招银国际资本、美团战略投资部、IDG资本、源码资本参与；2025-06完成11亿元融资，宁德时代及溥泉资本领投，招银国际资本、国开科创、北京机器人产业基金、纪源资本等参与；2026-03-02完成25亿元融资，投资方包括国家人工智能产业投资基金、中国石化、中信投资控股、中银资产、上汽金控、中芯聚源、亦庄国投等。长江商报2026-03-05报道2025-12的3亿美元轮由中国移动领投，中金资本、中科院基金、苏创投、央视融媒体基金、天奇股份等跟投（该文称C轮）。财新称其为估值最高的未上市人形机器人企业。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2024-06-21",
+        "amount_text": "7亿人民币",
+        "investors": [
+          {
+            "name": "招银国际资本",
+            "firm_id": "cmbi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "美团战略投资部",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s17"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "undisclosed",
+            "source_ids": [
+              "s17"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s17"
+        ],
+        "notes": "金额 7 亿元人民币，投资方数量较多，此处列部分。"
+      },
       {
         "round": "新一轮",
         "announced_on": "2025-06-24",
@@ -66,6 +109,14 @@
             "role": "participant",
             "source_ids": [
               "s12"
+            ]
+          },
+          {
+            "name": "招银国际资本",
+            "firm_id": "cmbi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s18"
             ]
           }
         ],
@@ -363,6 +414,40 @@
       "supports": "2026-03-05报道：2025-12完成的3亿美元融资由中国移动领投，中金资本、中科院基金、苏创投、央视融媒体基金、天奇股份等跟投，老股东追加投资；该文称本轮为C轮。",
       "published_date": "2026-03-05",
       "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s15",
+      "scope": "person",
+      "title": "X 账号 @HughWang19 主页",
+      "url": "https://x.com/hughwang19",
+      "supports": "公开专业主页与本次人物身份观察：王鹤；职务：创始人兼CTO",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s16",
+      "scope": "person",
+      "title": "He Wang 个人主页 hughw19.github.io 直接链接 Twitter @HughWang19",
+      "url": "https://hughw19.github.io/",
+      "supports": "页面自述 Tenure-track Assistant Professor at Peking University、Founder and CTO of Galbot，HTML 中含指向 https://twitter.com/HughWang19 的链接。X 资料网站亦跳回该主页。",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s17",
+      "title": "投资界｜银河通用 天使轮详情",
+      "url": "https://vc.pedaily.cn/invest/319034.html",
+      "supports": "2024-06-21 天使轮 7 亿元，投资方含招银国际资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s18",
+      "title": "投资界｜银河通用 B轮详情",
+      "url": "https://vc.pedaily.cn/invest/363835.html",
+      "supports": "2025-06-23 B 轮 11 亿元，投资方含招银国际资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {
@@ -438,16 +523,31 @@
             "s11"
           ],
           "notes": "北京大学计算机学院官方教师页面直接列出该个人主页链接，页面内容为其本人学术与项目介绍。"
+        },
+        {
+          "platform": "x",
+          "url": "https://x.com/hughwang19",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-12",
+          "source_ids": [
+            "s15",
+            "s16"
+          ],
+          "notes": "北大官方教师页与百科条目一致确认其助理教授与创始人兼CTO身份。 已读 X 主页：显示名 He Wang；简介 Assistant Professor of Computer Science at Peking University, Founder and CTO of Galbot.；地点 Beijing；蓝V，约 2044 关注。与本人主页职务完全一致。"
         }
       ],
       "source_ids": [
+        "s15",
+        "s16"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "confirmed",
+      "notes": "北大官方教师页与百科条目一致确认其助理教授与创始人兼CTO身份。 已读 X 主页：显示名 He Wang；简介 Assistant Professor of Computer Science at Peking University, Founder and CTO of Galbot.；地点 Beijing；蓝V，约 2044 关注。与本人主页职务完全一致。",
+      "historical_source_ids": [
         "s07",
         "s08",
         "s11"
-      ],
-      "checked_at": "2026-11-11",
-      "verification_status": "confirmed",
-      "notes": "北大官方教师页与百科条目一致确认其助理教授与创始人兼CTO身份。"
+      ]
     },
     {
       "name": "姚腾洲",

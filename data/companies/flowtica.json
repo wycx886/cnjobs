@@ -1,0 +1,137 @@
+{
+  "schema_version": 3,
+  "id": "flowtica",
+  "name": "Flowtica",
+  "aliases": [
+    "Flowtica AI",
+    "Flowtica AI Pte. Ltd."
+  ],
+  "category_id": "09",
+  "founded": {
+    "year": 2024,
+    "basis": "SVTR 创投库条目：2024 年成立，主体注册于新加坡。"
+  },
+  "focus": "AI 原生个人智能硬件与个人情境操作系统：录音转写、手写识别与信息自动整理。",
+  "products": "AI 录音笔 Scribe、磁吸式墨水屏 AI 伴侣 Verso，以及 Personal Context OS。",
+  "locations_text": "新加坡",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：Flowtica 以录音笔与墨水屏伴侣组成个人情境硬件组合，与 Plaud 的单品录音卡路线、未来智能的办公硬件路线相近但产品形态不同；本档不评价识别与整理效果。",
+    "peer_names": [
+      "Plaud；未来智能 viaim；闪极科技"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10-21 天使轮融资数千万元人民币，五源资本与祥峰投资、源码资本、清水湾基金共同参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2026-10-21",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "祥峰投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源码资本",
+            "firm_id": "source-code",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "清水湾基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.flowtica.ai",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开招聘邮箱"
+  },
+  "notes": "以五源资本 2026 年参与的天使轮为建档线索；融资与团队信息取自 SVTR 创投库条目，未取得公司官方公告原文。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜Flowtica",
+      "url": "https://svtr.ai/orgs/flowtica",
+      "supports": "2024 年成立并注册于新加坡、AI 录音笔/墨水屏伴侣产品定位、2026-10-21 天使轮金额与投资方名单、联合创始人名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Flowtica",
+    "original_track": "09",
+    "original_subtrack": "录音与办公硬件"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因五源资本参与 2026-10 天使轮而建档的 AI 个人硬件公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "Zac Zuo",
+      "role": "联合创始人",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出；未取得个人公开主页。"
+    },
+    {
+      "name": "Rian Cheng",
+      "role": "联合创始人",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出；未取得个人公开主页。"
+    }
+  ]
+}

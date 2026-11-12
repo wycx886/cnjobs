@@ -1,0 +1,140 @@
+{
+  "schema_version": 3,
+  "id": "physis",
+  "name": "逆矩阵科技（Physis）",
+  "aliases": [
+    "逆矩阵",
+    "Physis",
+    "悟界"
+  ],
+  "category_id": "01",
+  "focus": "通用世界基座模型",
+  "products": "悟界·Physis-v0.1",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：公开定位为面向物理世界的通用世界基座模型，以预测下一物理状态为核心；与语言基座模型公司方向不同，商业化仍在早期。",
+    "peer_names": [
+      "智谱 Z.ai",
+      "月之暗面"
+    ]
+  },
+  "investment": {
+    "summary": "2026-06 种子++ 轮超亿美元，经纬创投、光合创投、五源资本、BAI 资本、钟鼎资本等共同参与，蚂蚁集团战略投资，老股东高瓴创投、燕缘创投加注。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "种子++",
+        "announced_on": "2026-06-17",
+        "amount_text": "超亿美元",
+        "investors": [
+          {
+            "name": "经纬创投",
+            "firm_id": "mpci",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "光合创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "BAI资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "钟鼎资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "燕缘创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "原文未区分领投，按共同参与记为 participant。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人陈博远；2026-06-12 在北京智源大会发布悟界·Physis-v0.1。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "证券时报｜经纬创投等一线基金齐加注，世界模型公司逆矩阵完成超亿美元种子++轮融资",
+      "url": "http://gubaf10.eastmoney.com/news,cjpl,1728408217.html",
+      "supports": "种子++轮金额与投资方、公司定位、创始人与产品发布",
+      "published_date": "2026-06-17",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "逆矩阵科技（Physis）",
+    "original_track": "01",
+    "original_subtrack": "通用世界基座模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因经纬创投参与其 2026 年超亿美元种子++轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": []
+}

@@ -4,7 +4,7 @@
 
 [返回索引](../README.md) · [原始 JSON](../../companies/minimax.json)
 
-机构／项目 ID：`minimax` · 主赛道：01 基础模型 · 核查日期：2026-11-11
+机构／项目 ID：`minimax` · 主赛道：01 基础模型 · 核查日期：2026-11-12
 
 **目标标记：** 第一波候选 · new_entrant（编辑归类，2026-11-11）
 
@@ -30,7 +30,7 @@ MiniMax 模型/API、海螺AI、Talkie/星野
 
 ## 投资背景
 
-2026-01-09 在港交所主板上市（00100.HK，MINIMAX-W），發售價 165.00 港元；招股书相关报道列阿里、米哈游、IDG、腾讯等历史投资方，属部分投资背景，不等于完整当前股东表。
+2024-12-28 B+ 轮 1.23 亿美元，中金资本、视觉中国、上海国资母基金、基石资本参与；2025-12-31 基石投资轮 3.5 亿美元，博裕资本、阿里巴巴、阿布扎比投资局、IDG资本参与；2026-01-09 在港交所主板上市（00100.HK，MINIMAX-W），發售價 165.00 港元。招股书相关报道列阿里、米哈游、IDG、腾讯等历史投资方，属部分投资背景，不等于完整当前股东表。
 
 **披露状态：** 已核验披露（非完整现股东表）。
 
@@ -75,3 +75,5 @@ MiniMax 模型/API、海螺AI、Talkie/星野
 | s05 | [MiniMax Investor Relations: Management Team (EN)](https://ir.minimax.cn/en/corporate-information/management) | 英文管理团队页：Dr. Yan Junjie 为 Founder/Chairman/CEO/CTO，Ms. Yun Yeyi 为 Executive Director/COO，Mr. Zhao Pengyu 为 Executive Director 兼大语言模型研究负责人 | 未标明 | 2026-11-11 |
 | s06 | [HKEXnews｜MiniMax Group Inc. 最終發售價及配發結果公告](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0108/2026010801343_c.pdf) | 股份代號 00100、最終發售價 165.00 港元、上市日期 2026-01-09 | 2026-01-08 | 2026-11-11 |
 | s07 | [MiniMax 投资者关系](https://ir.minimax.cn/) | 公司设有投资者关系站（公司公告、股价信息），确认其为港交所上市公司 | 未标明 | 2026-11-11 |
+| s08 | [投资界｜MiniMax B+轮详情](https://vc.pedaily.cn/invest/442446.html) | 2024-12-28 B+ 轮 1.23 亿美元，投资方含中金资本 | 未标明 | 2026-11-12 |
+| s09 | [投资界｜MiniMax 基石投资轮详情](https://vc.pedaily.cn/invest/405386.html) | 2025-12-31 基石投资轮 3.5 亿美元，投资方含博裕资本 | 未标明 | 2026-11-12 |

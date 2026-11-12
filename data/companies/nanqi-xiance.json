@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "id": "nanqi-xiance",
+  "name": "南栖仙策",
+  "aliases": [
+    "南栖仙策（南京）高新技术有限公司"
+  ],
+  "category_id": "01",
+  "focus": "通用智能决策研发商",
+  "products": "南栖仙策是一家人工智能决策服务商，具备全球领先的人工智能能力，基于强化学习、环境模拟、策略迁移、自动机器学习等独有开放环境自主决策的核心技术，打破了AlphaGo等以往决策技术无法突破封闭环境的屏障，致力于在广泛的业务中释放人工智能的决策力量。",
+  "locations_text": "南京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「通用智能决策研发商」；同页列出的邻近企业包括3Chat.ai、丛容地健康。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "丛容地健康"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2026-11-10 B++轮，金额数千万人民币，投资方包括南京市创投集团、毅达资本。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B++",
+        "announced_on": "2026-11-10",
+        "amount_text": "数千万人民币",
+        "investors": [
+          {
+            "name": "南京市创投集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "毅达资本",
+            "firm_id": "addor-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万人民币”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2022年01月14日。注册主体为南栖仙策（南京）高新技术有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜南栖仙策",
+      "url": "https://vc.pedaily.cn/company/685401.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜南栖仙策B++轮",
+      "url": "https://vc.pedaily.cn/invest/457225.html",
+      "supports": "本轮披露日期（2026-11-10）、轮次、金额与投资方名单",
+      "published_date": "2026-11-10",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "南栖仙策",
+    "original_track": "01",
+    "original_subtrack": "领域模型"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因毅达资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入基础模型（领域模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2022,
+    "basis": "投资界企业档案工商信息：成立时间2022年01月14日。"
+  }
+}

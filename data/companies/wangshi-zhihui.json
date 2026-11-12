@@ -1,0 +1,135 @@
+{
+  "schema_version": 3,
+  "id": "wangshi-zhihui",
+  "name": "望石智慧",
+  "aliases": [
+    "北京望石智慧科技有限公司"
+  ],
+  "category_id": "10",
+  "focus": "人工智能驱动新药研发商",
+  "products": "望石智慧是一家人工智能驱动新药研发商，致力于用人工智能驱动新药研发，改变以往以专家为核心的单引擎药品研发模式，构建以科技为推动力的机器+专家的双引擎研发模式，结合人工智能、计算物理、计算化学、计算生物学、微流控等技术，打造新型的药品研发平台。",
+  "locations_text": "北京市",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：投资界企业页将公司描述为「人工智能驱动新药研发商」；同页列出的邻近企业包括3Chat.ai、南栖仙策。此处只作业务对照，不比较技术或商业优劣。",
+    "peer_names": [
+      "3Chat.ai",
+      "南栖仙策"
+    ]
+  },
+  "investment": {
+    "summary": "投资界企业档案载：2020-12-23 B轮，金额数千万美元，投资方包括君联资本、鼎晖投资、海纳亚洲创投基金、长岭资本、线性资本、高瓴创投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2020-12-23",
+        "amount_text": "数千万美元",
+        "investors": [
+          {
+            "name": "君联资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "鼎晖投资",
+            "firm_id": "cdh",
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "海纳亚洲创投基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "长岭资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "按投资界融资事件页记录；金额原文为“数千万美元”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.stonewise.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "公开渠道未见招聘邮箱"
+  },
+  "notes": "投资界企业档案载成立时间2018年07月09日。注册主体为北京望石智慧科技有限公司。本轮信息来自投资界融资事件页；投资方角色未逐家披露的记为 undisclosed，金额未披露不补。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界企业档案｜望石智慧",
+      "url": "https://vc.pedaily.cn/company/124983.html",
+      "supports": "成立时间、注册主体、业务定位、融资历程与投资方名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界融资事件｜望石智慧B轮",
+      "url": "https://vc.pedaily.cn/invest/89951.html",
+      "supports": "本轮披露日期（2020-12-23）、轮次、金额与投资方名单",
+      "published_date": "2020-12-23",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "望石智慧",
+    "original_track": "10",
+    "original_subtrack": "药物发现与临床管线"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入科学智能与生物医药（药物发现与临床管线）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界企业档案工商信息：成立时间2018年07月09日。"
+  }
+}

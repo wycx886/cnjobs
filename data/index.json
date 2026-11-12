@@ -4,21 +4,21 @@
   "latest_operating_check": "2026-11-12",
   "latest_investment_firm_check": "2026-11-11",
   "counts": {
-    "organizations": 238,
-    "companies": 238,
-    "operating_organizations": 191,
+    "organizations": 353,
+    "companies": 353,
+    "operating_organizations": 306,
     "investment_firms": 47,
-    "first": 98,
-    "watchlist": 22,
+    "first": 197,
+    "watchlist": 38,
     "later": 118
   },
   "statistics": {
     "operating_organizations": {
-      "organizations": 191,
+      "organizations": 306,
       "categories": 10,
-      "source_records": 1403,
-      "recruitment_links": 126,
-      "public_recruitment_emails": 42
+      "source_records": 1664,
+      "recruitment_links": 127,
+      "public_recruitment_emails": 43
     },
     "investment_firms": {
       "organizations": 47,
@@ -1813,6 +1813,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "4paradigm",
+      "name": "第四范式",
+      "aliases": [
+        "范式智能技术集团股份有限公司",
+        "4Paradigm"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业级人工智能平台与决策类 AI 应用",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因 CPE源峰、博裕资本 2020 年后披露的企业 AI 平台投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/4paradigm.json",
+      "markdown_path": "data/views/companies/4paradigm.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "abb-china",
       "name": "ABB（中国）",
       "aliases": [
@@ -1878,7 +1905,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用机器人、具身模型、量产与应用生态",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -1953,6 +1980,32 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "partial"
+    },
+    {
+      "id": "aheadform",
+      "name": "首形科技（AheadForm）",
+      "aliases": [
+        "AheadForm",
+        "首形科技（上海）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "超高仿生情感交互人形机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因顺为资本 2025 年领投其新一轮融资这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/aheadform.json",
+      "markdown_path": "data/views/companies/aheadform.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "ai-indeed",
@@ -2224,6 +2277,34 @@
       "investment_status": "partial"
     },
     {
+      "id": "apex-context",
+      "name": "极致上下文 / Pexo",
+      "aliases": [
+        "极致上下文",
+        "北京极致上下文科技有限公司",
+        "Pexo",
+        "Apex Context"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向营销场景的多模态内容 Agent，从需求理解到成片交付",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因 HT Investment 参与其2025年披露的数百万美元投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/apex-context.json",
+      "markdown_path": "data/views/companies/apex-context.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
+    },
+    {
       "id": "approaching-ai",
       "name": "趋境科技 Approaching.AI",
       "aliases": [
@@ -2250,6 +2331,32 @@
       "markdown_path": "data/views/companies/approaching-ai.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "archon-robotics",
+      "name": "源策未来 Archon Robotics",
+      "aliases": [
+        "Archon Robotics",
+        "源策未来"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用全身人形机器人基座模型：构建全身智能（Whole-body Intelligence）。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因五源资本参与 2026-06 种子轮而建档的人形机器人基座模型公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/archon-robotics.json",
+      "markdown_path": "data/views/companies/archon-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -2281,6 +2388,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "astribot",
+      "name": "星尘智能",
+      "aliases": [
+        "Astribot",
+        "星尘智能（深圳）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "绳驱 AI 机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因云启资本自 2023 年天使轮起投资、并于 2025 年 A/A+ 轮跟投这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/astribot.json",
+      "markdown_path": "data/views/companies/astribot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "avolution",
       "name": "鹿影科技 / Avolution.ai（历史项目）",
       "aliases": [
@@ -2305,6 +2438,33 @@
       "markdown_path": "data/views/companies/avolution.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
+    },
+    {
+      "id": "axera",
+      "name": "爱芯元智",
+      "aliases": [
+        "爱芯元智半导体股份有限公司",
+        "Axera"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "边缘与端侧人工智能处理器芯片",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因博裕资本 2020 年后披露的边缘 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/axera.json",
+      "markdown_path": "data/views/companies/axera.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
       "investment_status": "partial"
     },
     {
@@ -2391,6 +2551,113 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "basal-intelligence",
+      "name": "本溯智能 BASAL Intelligence",
+      "aliases": [
+        "BASAL Intelligence",
+        "BASAL",
+        "北京本溯智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "动作原生的 In-Context 具身基础模型：让机器人换场景免重训、凭少量示范现场学习。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因五源资本参与 2026-10 种子轮而建档的具身基础模型公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/basal-intelligence.json",
+      "markdown_path": "data/views/companies/basal-intelligence.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "bci-sonics",
+      "name": "华超神控（BCI-Sonics）",
+      "aliases": [
+        "BCI-Sonics",
+        "华超神控",
+        "华超神控（上海）科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 超声脑机接口与神经调控",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因经纬创投 2026 年领投其天使轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/bci-sonics.json",
+      "markdown_path": "data/views/companies/bci-sonics.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "beingbeyond",
+      "name": "智在无界",
+      "aliases": [
+        "北京智在无界科技有限公司",
+        "BeingBeyond",
+        "智在无界 BeingBeyond"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人形机器人通用基础模型与具身智能系统",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因联想之星2025年披露领投的天使轮而建档，属于具身智能基础模型新进厂商；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/beingbeyond.json",
+      "markdown_path": "data/views/companies/beingbeyond.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "benzhi",
+      "name": "本智激活",
+      "aliases": [
+        "本智激活"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "端侧原生 AI 大模型全栈软硬件",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因云启资本 2025 年领投其种子轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/benzhi.json",
+      "markdown_path": "data/views/companies/benzhi.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "bestechnic",
       "name": "恒玄科技",
       "aliases": [
@@ -2447,6 +2714,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "biogeom",
+      "name": "百奥几何 / BioGeometry",
+      "aliases": [
+        "北京百奥几何生物科技有限公司",
+        "百奥几何",
+        "BioGeometry"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "生成式AI蛋白设计服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入科学智能与生物医药（蛋白质与生物大模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/biogeom.json",
+      "markdown_path": "data/views/companies/biogeom.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
+    },
+    {
       "id": "biomap",
       "name": "百图生科 BioMap",
       "aliases": [
@@ -2483,7 +2778,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用GPU与智算解决方案",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2500,6 +2795,33 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bitintelligence",
+      "name": "比特智路",
+      "aliases": [
+        "北京比特智路信息技术有限公司",
+        "BitIntelligence"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 基础设施网络与通信效率",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中芯聚源 2020 年后披露的 AI 网络基础设施投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/bitintelligence.json",
+      "markdown_path": "data/views/companies/bitintelligence.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
     },
     {
       "id": "blacklake",
@@ -2531,6 +2853,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "booster",
+      "name": "加速进化",
+      "aliases": [
+        "Booster Robotics",
+        "北京加速进化科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人形机器人本体、运控系统与开发者工具",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因源码资本 2024 年领投其 Pre-A 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/booster.json",
+      "markdown_path": "data/views/companies/booster.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "bosch",
       "name": "博世（中国）",
       "aliases": [
@@ -2555,6 +2903,32 @@
       "markdown_path": "data/views/companies/bosch.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "botinkit",
+      "name": "不停科技 Botinkit",
+      "aliases": [
+        "Botinkit",
+        "不停科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 数字厨房与烹饪机器人：面向餐饮后厨的标准化烹饪设备与数字化解决方案。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因五源资本 2023 年与 2025 年两次参与融资而建档的 AI 数字厨房公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/botinkit.json",
+      "markdown_path": "data/views/companies/botinkit.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -2675,6 +3049,58 @@
       }
     },
     {
+      "id": "changmugu",
+      "name": "长木谷",
+      "aliases": [
+        "北京长木谷医疗科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "骨科人工智能方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（骨科手术规划软件）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/changmugu.json",
+      "markdown_path": "data/views/companies/changmugu.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "chengheng-micro",
+      "name": "诚恒微电",
+      "aliases": [
+        "无锡诚恒微电子有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "边端侧AI SoC及方案研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因毅达资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（边端AI SoC）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/chengheng-micro.json",
+      "markdown_path": "data/views/companies/chengheng-micro.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "china-wafer-level-csp",
       "name": "苏州晶方半导体",
       "aliases": [
@@ -2725,6 +3151,31 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "creao-ai",
+      "name": "Creao AI",
+      "aliases": [
+        "Creao"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 代理自动化与虚拟环境运营",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因云启资本 2025 年独家投资其天使轮这一 2020 年后披露的 AI 投资而建档；公开产品细节有限，先观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/creao-ai.json",
+      "markdown_path": "data/views/companies/creao-ai.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "creativefitting",
@@ -2842,6 +3293,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "dealism",
+      "name": "Dealism",
+      "aliases": [
+        "Dealism",
+        "Vibe Selling Agent",
+        "Dealism AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI销售Agent：对话式销售与客户沟通自动化",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因高瓴创投2025年披露的AI销售Agent天使轮投资而建档；按企业垂直软件归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/dealism.json",
+      "markdown_path": "data/views/companies/dealism.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "deemos",
       "name": "影眸科技 / Deemos / Hyper3D",
       "aliases": [
@@ -2867,6 +3345,61 @@
       "markdown_path": "data/views/companies/deemos.md",
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
+    },
+    {
+      "id": "deep-principle",
+      "name": "深度原理",
+      "aliases": [
+        "Deep Principle",
+        "深度原理科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI for Chemistry/Materials：生成式AI、量子化学与高通量实验结合的材料发现平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因联想之星2025年披露参与的Pre-A轮而建档，属于AI for Science材料化学方向；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/deep-principle.json",
+      "markdown_path": "data/views/companies/deep-principle.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
+    },
+    {
+      "id": "deep-robotics",
+      "name": "云深处科技 / DEEP Robotics",
+      "aliases": [
+        "云深处科技股份有限公司",
+        "云深处科技",
+        "DEEP Robotics"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "四足机器人巡检服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（人形与四足本体）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/deep-robotics.json",
+      "markdown_path": "data/views/companies/deep-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -2946,6 +3479,34 @@
       "investment_status": "partial"
     },
     {
+      "id": "deeproute",
+      "name": "元戎启行 / DeepRoute.ai",
+      "aliases": [
+        "深圳元戎启行科技有限公司",
+        "元戎启行",
+        "DeepRoute.ai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "L4级自动驾驶方案提供商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（自动驾驶）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/deeproute.json",
+      "markdown_path": "data/views/companies/deeproute.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "deepseek",
       "name": "深度求索 DeepSeek",
       "aliases": [
@@ -2955,7 +3516,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "通用与推理基础模型、开源模型与API",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -2971,7 +3532,61 @@
       "markdown_path": "data/views/companies/deepseek.md",
       "category_id": "01",
       "category_name": "基础模型",
-      "investment_status": "not_found"
+      "investment_status": "partial"
+    },
+    {
+      "id": "deepthink-ai",
+      "name": "深知未来 / DEEPTHINK.AI",
+      "aliases": [
+        "深圳深知未来智能有限公司",
+        "深知未来",
+        "DEEPTHINK.AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能全彩夜视产品研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（视觉感知解决方案）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/deepthink-ai.json",
+      "markdown_path": "data/views/companies/deepthink-ai.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "deepwise",
+      "name": "深睿医疗",
+      "aliases": [
+        "DeepWise"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医学影像AI辅助诊断与临床科研平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因君联资本2025年披露参与的新一轮融资而建档，属于医学影像AI厂商；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/deepwise.json",
+      "markdown_path": "data/views/companies/deepwise.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
     },
     {
       "id": "didi",
@@ -3002,6 +3617,32 @@
       "investment_status": "partial"
     },
     {
+      "id": "diffusion",
+      "name": "扩散智能（DiffuSpace）",
+      "aliases": [
+        "DiffuSpace",
+        "扩散智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "扩散语言模型（dLLM）研发",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因经纬创投、顺为资本 2026 年联合领投其融资这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/diffusion.json",
+      "markdown_path": "data/views/companies/diffusion.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "dify",
       "name": "Dify / LangGenius",
       "aliases": [
@@ -3030,6 +3671,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "diguajiqiren",
+      "name": "地瓜机器人 D-Robotics",
+      "aliases": [
+        "D-Robotics",
+        "地瓜机器人"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "机器人软硬件通用底座：AI 芯片、开发套件与数据采集—训练—仿真—部署全链路软件平台。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因五源资本 2025 年参与 A 轮、2026 年继续在 C 轮投资方名单而建档的机器人算力底座公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/diguajiqiren.json",
+      "markdown_path": "data/views/companies/diguajiqiren.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "dp-technology",
       "name": "深势科技",
       "aliases": [
@@ -3055,6 +3722,60 @@
       "category_id": "10",
       "category_name": "科学智能与生物医药",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "dreame",
+      "name": "追觅科技",
+      "aliases": [
+        "追觅科技（苏州）有限公司",
+        "Dreame"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能清洁与服务机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因 CPE源峰 2020 年后披露的服务机器人投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/dreame.json",
+      "markdown_path": "data/views/companies/dreame.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "duannao-tech",
+      "name": "端脑科技",
+      "aliases": [
+        "脑花科技（无锡）有限公司",
+        "Cephalon"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AIGC分布式算力平台服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（异构算力与调度）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/duannao-tech.json",
+      "markdown_path": "data/views/companies/duannao-tech.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
     },
     {
       "id": "ecarx-holdings",
@@ -3124,6 +3845,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "encos",
+      "name": "因克斯智能 / Encos",
+      "aliases": [
+        "南京因克斯智能科技有限公司",
+        "因克斯智能",
+        "Encos"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "机器人减速电机生产商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因深创投在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（机器人关节与减速电机）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/encos.json",
+      "markdown_path": "data/views/companies/encos.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "enflame",
       "name": "燧原科技 Enflame",
       "aliases": [
@@ -3131,7 +3880,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "云端AI芯片及数据中心训推系统",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3180,6 +3929,34 @@
         ],
         "checked_at": "2026-11-02"
       }
+    },
+    {
+      "id": "even-realities",
+      "name": "逸文科技 / Even Realities",
+      "aliases": [
+        "深圳市逸文科技有限公司",
+        "逸文科技",
+        "Even Realities"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI+AR数字化眼镜制造商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入AI 消费硬件（穿戴与助力）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/even-realities.json",
+      "markdown_path": "data/views/companies/even-realities.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial"
     },
     {
       "id": "flexiv",
@@ -3237,6 +4014,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "flowtica",
+      "name": "Flowtica",
+      "aliases": [
+        "Flowtica AI",
+        "Flowtica AI Pte. Ltd."
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 原生个人智能硬件与个人情境操作系统：录音转写、手写识别与信息自动整理。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因五源资本参与 2026-10 天使轮而建档的 AI 个人硬件公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/flowtica.json",
+      "markdown_path": "data/views/companies/flowtica.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial"
+    },
+    {
       "id": "fourier",
       "name": "傅利叶",
       "aliases": [
@@ -3263,6 +4066,34 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "frontis",
+      "name": "衔远科技",
+      "aliases": [
+        "北京衔远科技有限公司",
+        "Frontis AI",
+        "Frontis"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向企业产品创新与知识工作的生成式AI平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因启明创投2023年披露的领投天使轮而建档，产品面向企业生成式AI工作流；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/frontis.json",
+      "markdown_path": "data/views/companies/frontis.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
     },
     {
       "id": "galaxea",
@@ -3551,6 +4382,32 @@
       "investment_status": "partial"
     },
     {
+      "id": "hai-robotics",
+      "name": "海柔创新",
+      "aliases": [
+        "Hai Robotics",
+        "深圳市海柔创新科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "箱式仓储机器人系统",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因源码资本 2020 年领投其 B 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/hai-robotics.json",
+      "markdown_path": "data/views/companies/hai-robotics.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "haivivi",
       "name": "跃然创新 Haivivi",
       "aliases": [
@@ -3560,7 +4417,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "AI玩具、语音互动与陪伴",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3634,6 +4491,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "hidream-ai",
+      "name": "智象未来",
+      "aliases": [
+        "智象未来（合肥）科技股份有限公司",
+        "HiDream.ai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多模态内容生成基础模型与创作智能体",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因金浦投资 2020 年后披露的多模态生成模型投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/hidream-ai.json",
+      "markdown_path": "data/views/companies/hidream-ai.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
+    },
+    {
       "id": "hikrobot",
       "name": "海康机器人",
       "aliases": [
@@ -3657,6 +4541,59 @@
       "markdown_path": "data/views/companies/hikrobot.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "horizon-robotics",
+      "name": "地平线",
+      "aliases": [
+        "Horizon Robotics",
+        "Horizon"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能驾驶芯片与车载智能计算方案",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因君联资本2021年披露的C6轮投资而建档，属于智能驾驶芯片与计算方案厂商；已上市但仍按创业公司档案记录。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/horizon-robotics.json",
+      "markdown_path": "data/views/companies/horizon-robotics.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "houmo",
+      "name": "后摩智能",
+      "aliases": [
+        "后摩智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "基于存算一体技术的大算力AI计算芯片",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因启明创投2021年披露的Pre-A轮领投而建档，属于AI芯片新进厂商；官网与产品细节未取得，先观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/houmo.json",
+      "markdown_path": "data/views/companies/houmo.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
       "investment_status": "partial"
     },
     {
@@ -3771,6 +4708,116 @@
       "investment_status": "partial"
     },
     {
+      "id": "huiduobao",
+      "name": "慧多宝法律AI",
+      "aliases": [
+        "慧多宝",
+        "慧多宝法律AI",
+        "JurisAI",
+        "上海法忞銮智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "法律AI：面向律师与机构的法律工作流智能体",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因金沙江创投2026年披露的法律AI Pre-A轮投资而建档；按企业垂直软件归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/huiduobao.json",
+      "markdown_path": "data/views/companies/huiduobao.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "huimei",
+      "name": "惠每科技",
+      "aliases": [
+        "Dr.Mayson",
+        "惠每"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医疗人工智能：临床决策支持（CDSS）、病历质控与医保智能审核",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因启明创投在2023年D轮继续投资而建档，属于医疗垂直AI厂商；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/huimei.json",
+      "markdown_path": "data/views/companies/huimei.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
+    },
+    {
+      "id": "huituo-intelligent",
+      "name": "慧拓智能",
+      "aliases": [
+        "中科慧拓（湖北）科技有限公司",
+        "中科慧拓"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "矿山无人驾驶与智慧矿山",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中金资本、国新基金 2020 年后披露的矿山无人驾驶投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/huituo-intelligent.json",
+      "markdown_path": "data/views/companies/huituo-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "huiyi-huiying",
+      "name": "慧影医疗 / 汇医慧影",
+      "aliases": [
+        "慧影医疗科技（北京）股份有限公司",
+        "慧影医疗",
+        "汇医慧影"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医学影像AI技术服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（医疗影像与临床软件）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/huiyi-huiying.json",
+      "markdown_path": "data/views/companies/huiyi-huiying.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "hyc",
       "name": "苏州华兴源创",
       "aliases": [
@@ -3850,6 +4897,34 @@
       "investment_status": "partial"
     },
     {
+      "id": "ikingtec",
+      "name": "云圣智能 / iKingtec",
+      "aliases": [
+        "云圣智能（江苏）科技股份有限公司",
+        "云圣智能",
+        "iKingtec"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "超低空天地一体运营商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（工业无人机）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/ikingtec.json",
+      "markdown_path": "data/views/companies/ikingtec.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "iluvatar-corex",
       "name": "天数智芯",
       "aliases": [
@@ -3912,6 +4987,33 @@
       }
     },
     {
+      "id": "inceptio-tech",
+      "name": "嬴彻科技",
+      "aliases": [
+        "嬴彻科技（上海）有限公司",
+        "Inceptio Technology"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "干线物流自动驾驶",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因招银国际资本 2020 年后披露的商用车自动驾驶投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/inceptio-tech.json",
+      "markdown_path": "data/views/companies/inceptio-tech.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "infimind",
       "name": "极睿科技 / Infimind",
       "aliases": [
@@ -3950,7 +5052,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "异构算力与AI原生基础设施",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -3977,7 +5079,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "智算集群与高速算力网络",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4139,7 +5241,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "生成式AI药物发现平台与自研创新药管线",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -4285,6 +5387,31 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "jobright",
+      "name": "Jobright.ai",
+      "aliases": [
+        "Jobright"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 求职平台：按个人技能与经验做个性化职位推荐，并提供公司信息摘要。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因蓝驰创投 2024 年参与种子轮而建档的 AI 求职工具；公开产品与团队信息较少，先观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/jobright.json",
+      "markdown_path": "data/views/companies/jobright.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
       "id": "jsdesign",
       "name": "即时设计 / JSDesign",
       "aliases": [
@@ -4334,6 +5461,59 @@
       },
       "json_path": "data/companies/jundo.json",
       "markdown_path": "data/views/companies/jundo.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "kaolayouran",
+      "name": "考拉悠然",
+      "aliases": [
+        "成都考拉悠然科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI智能安防解决方案提供商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入基础模型（多模态行业模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/kaolayouran.json",
+      "markdown_path": "data/views/companies/kaolayouran.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "kargobot",
+      "name": "卡尔动力 KargoBot",
+      "aliases": [
+        "卡尔动力",
+        "KargoBot",
+        "卡尔动力科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "干线物流自动驾驶与智能货运",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因高榕创投2026年披露的自动驾驶B轮投资而建档；按具身智能与机器人业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/kargobot.json",
+      "markdown_path": "data/views/companies/kargobot.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "partial"
@@ -4492,6 +5672,32 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "kitar",
+      "name": "Kitar",
+      "aliases": [
+        "Kitar"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "东南亚二手电商平台，用AI重构商品发布、匹配与交易效率",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因源码律动2026年披露的首期基金投资而建档；公开信息仅限基金官宣口径，业务与团队证据偏薄，先观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/kitar.json",
+      "markdown_path": "data/views/companies/kitar.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
     },
     {
       "id": "kuaishou",
@@ -4659,6 +5865,59 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "leju-robot",
+      "name": "乐聚机器人",
+      "aliases": [
+        "乐聚智能（深圳）股份有限公司",
+        "乐聚智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人形机器人与教育／服务机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中信金石 2020 年后披露的人形机器人投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/leju-robot.json",
+      "markdown_path": "data/views/companies/leju-robot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "lexiang-keji",
+      "name": "乐享科技",
+      "aliases": [
+        "苏州乐享智能科技有限公司",
+        "Lexiang"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "消费级具身智能机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因真格基金 2024 年年底天使投资、且公司 2025 年披露后续融资这一 2020 年后 AI 投资线索而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/lexiang-keji.json",
+      "markdown_path": "data/views/companies/lexiang-keji.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "leyan",
       "name": "乐言科技",
       "aliases": [
@@ -4682,6 +5941,33 @@
       "markdown_path": "data/views/companies/leyan.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "liberai",
+      "name": "LiberAI（将闲科技）",
+      "aliases": [
+        "Liber AI",
+        "将闲科技",
+        "北京将闲科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "物理世界模型与具身智能基础模型",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因真格基金 2025 年独家投资其种子轮、顺为资本参与 2026 年天使+轮及 Pre-A 轮等 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/liberai.json",
+      "markdown_path": "data/views/companies/liberai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -4769,6 +6055,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "lingcifang-robot",
+      "name": "零次方机器人",
+      "aliases": [
+        "合肥零次方机器人有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "一家通用人形机器人研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（人形与四足本体）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/lingcifang-robot.json",
+      "markdown_path": "data/views/companies/lingcifang-robot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "luchentech",
       "name": "潞晨科技 Colossal-AI",
       "aliases": [
@@ -4852,6 +6164,61 @@
       "investment_status": "partial"
     },
     {
+      "id": "matrixorigin",
+      "name": "矩阵起源 / MatrixOrigin",
+      "aliases": [
+        "矩阵起源（深圳）信息科技有限公司",
+        "矩阵起源",
+        "MatrixOrigin"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "数据智能平台技术服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因基石资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（数据智能平台）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/matrixorigin.json",
+      "markdown_path": "data/views/companies/matrixorigin.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "matrixtime",
+      "name": "聚时科技",
+      "aliases": [
+        "聚时科技（上海）有限公司",
+        "Matrixtime"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 驱动的半导体视觉检测与量测",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中芯聚源 2020 年后披露的半导体 AI 检测投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/matrixtime.json",
+      "markdown_path": "data/views/companies/matrixtime.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "matwings",
       "name": "天鹜科技 Matwings",
       "aliases": [
@@ -4876,6 +6243,33 @@
       "category_id": "10",
       "category_name": "科学智能与生物医药",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "mech-mind",
+      "name": "梅卡曼德机器人",
+      "aliases": [
+        "梅卡曼德",
+        "Mech-Mind"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业机器人AI大脑、3D视觉与具身智能平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因IDG资本2021年披露的C轮领投而建档，属于工业机器人视觉与具身智能厂商；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/mech-mind.json",
+      "markdown_path": "data/views/companies/mech-mind.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
     },
     {
       "id": "megarobo",
@@ -4933,6 +6327,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "memory-tensor",
+      "name": "记忆张量",
+      "aliases": [
+        "记忆张量（上海）科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "大模型研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入基础模型（通用与多模态模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/memory-tensor.json",
+      "markdown_path": "data/views/companies/memory-tensor.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
       "id": "memsensing-microsystems",
       "name": "苏州敏芯微电子",
       "aliases": [
@@ -4959,6 +6379,32 @@
       "markdown_path": "data/views/companies/memsensing-microsystems.md",
       "category_id": "09",
       "category_name": "AI 消费硬件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "metacircle",
+      "name": "元环智能（MetaCircle）",
+      "aliases": [
+        "MetaCircle",
+        "元环智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "元模型（meta-model）研发",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因顺为资本 2026 年领投其种子轮这一 2020 年后披露的 AI 投资而建档；公开技术与产品细节有限，先观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/metacircle.json",
+      "markdown_path": "data/views/companies/metacircle.md",
+      "category_id": "01",
+      "category_name": "基础模型",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -5000,7 +6446,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "全栈GPU芯片与计算平台",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5016,6 +6462,36 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "metis-pharma",
+      "name": "剂泰科技 / METiS",
+      "aliases": [
+        "剂泰医药",
+        "剂泰科技",
+        "METiS Pharmaceuticals",
+        "METiS",
+        "杭州剂泰医药科技有限责任公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI驱动的纳米材料与药物递送系统设计，开发靶向递送与制剂新药",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因砺思资本参与其2022年披露的B轮融资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/metis-pharma.json",
+      "markdown_path": "data/views/companies/metis-pharma.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
     },
     {
       "id": "midea-building-technologies",
@@ -5044,6 +6520,32 @@
       "investment_status": "partial"
     },
     {
+      "id": "mingxin-qirui",
+      "name": "铭芯启睿",
+      "aliases": [
+        "北京铭芯启睿科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能感存算一体化方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（智能感存算一体芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/mingxin-qirui.json",
+      "markdown_path": "data/views/companies/mingxin-qirui.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "minimax",
       "name": "MiniMax",
       "aliases": [
@@ -5052,7 +6554,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模态基础模型与全球消费应用",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -5096,6 +6598,33 @@
       "markdown_path": "data/views/companies/modelbest.md",
       "category_id": "01",
       "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "moffett-ai",
+      "name": "墨芯人工智能",
+      "aliases": [
+        "墨芯人工智能科技（深圳）有限公司",
+        "Moffett AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "稀疏化 AI 芯片与加速方案",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因金浦投资 2020 年后披露的 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/moffett-ai.json",
+      "markdown_path": "data/views/companies/moffett-ai.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
       "investment_status": "partial"
     },
     {
@@ -5209,6 +6738,114 @@
       "investment_status": "partial"
     },
     {
+      "id": "moqi-intelligent",
+      "name": "墨奇智能 / Morphi",
+      "aliases": [
+        "墨奇智能",
+        "Morphi",
+        "墨奇智能（Morphi）"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "具身智能：软硬一体的通用家庭机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因高榕创投2026年披露的具身智能天使轮投资而建档；按具身智能业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/moqi-intelligent.json",
+      "markdown_path": "data/views/companies/moqi-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "moredian",
+      "name": "魔点科技 / Moredian",
+      "aliases": [
+        "杭州魔点科技有限公司",
+        "魔点科技",
+        "Moredian"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能办公硬件服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（智能办公与通行）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/moredian.json",
+      "markdown_path": "data/views/companies/moredian.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "naive-ai",
+      "name": "Naive.ai",
+      "aliases": [
+        "北京智衍慧生科技有限公司",
+        "智衍慧生"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "Agentic AI 与持续学习、开源模型后训练",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因博裕资本 2020 年后披露的基础模型后训练投资而建档；公司成立时间短、产品未公开，先列观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/naive-ai.json",
+      "markdown_path": "data/views/companies/naive-ai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "nanqi-xiance",
+      "name": "南栖仙策",
+      "aliases": [
+        "南栖仙策（南京）高新技术有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用智能决策研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因毅达资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入基础模型（领域模型）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/nanqi-xiance.json",
+      "markdown_path": "data/views/companies/nanqi-xiance.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
       "id": "netease",
       "name": "网易 NetEase",
       "aliases": [
@@ -5296,6 +6933,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "noiz-ai",
+      "name": "Noiz AI（声音动力）",
+      "aliases": [
+        "Noiz AI",
+        "声音动力",
+        "深圳声音动力科技",
+        "Noiz"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI声音生成：文本转语音、声音克隆与声音设计",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因金沙江创投2026年披露的声音AIGC种子轮投资而建档；按多模态生成业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/noiz-ai.json",
+      "markdown_path": "data/views/companies/noiz-ai.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
+    },
+    {
       "id": "novosense",
       "name": "纳芯微电子",
       "aliases": [
@@ -5351,6 +7016,115 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "nuoyin",
+      "name": "诺因智能",
+      "aliases": [
+        "深圳诺因智能有限公司",
+        "Knowin"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "消费级具身大模型与家庭机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因经纬创投 2026 年领投其天使++轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/nuoyin.json",
+      "markdown_path": "data/views/companies/nuoyin.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "odyss-life",
+      "name": "OdyssLife / Odyss",
+      "aliases": [
+        "Odyss",
+        "OdyssLife",
+        "ODYSS",
+        "Odyss N1"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "以AI项链形态持续记录饮食与运动行为，提供个性化健康数据与计划",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因 Creek Stone 与砺思资本参与其2025-2026年披露融资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/odyss-life.json",
+      "markdown_path": "data/views/companies/odyss-life.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "ouye-semiconductor",
+      "name": "欧冶半导体",
+      "aliases": [
+        "深圳市欧冶半导体有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能汽车芯片及解决方案供应商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（智能汽车芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/ouye-semiconductor.json",
+      "markdown_path": "data/views/companies/ouye-semiconductor.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "paxini",
+      "name": "帕西尼",
+      "aliases": [
+        "帕西尼人工智能科技（北京）股份有限公司",
+        "Paxini"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "三维智能触觉传感器与具身智能",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因啟赋资本、招银国际资本 2020 年后披露的触觉传感器与具身智能投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/paxini.json",
+      "markdown_path": "data/views/companies/paxini.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "pdd-holdings",
       "name": "拼多多集团 PDD Holdings",
       "aliases": [
@@ -5376,6 +7150,60 @@
       "markdown_path": "data/views/companies/pdd-holdings.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "photoncounts",
+      "name": "光子算数 / PhotonCounts",
+      "aliases": [
+        "光子算数（南京）科技有限公司",
+        "南京光子算数"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "高性能光子计算芯片制造商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（光计算芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/photoncounts.json",
+      "markdown_path": "data/views/companies/photoncounts.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "physis",
+      "name": "逆矩阵科技（Physis）",
+      "aliases": [
+        "逆矩阵",
+        "Physis",
+        "悟界"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用世界基座模型",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因经纬创投参与其 2026 年超亿美元种子++轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/physis.json",
+      "markdown_path": "data/views/companies/physis.md",
+      "category_id": "01",
+      "category_name": "基础模型",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -5407,6 +7235,58 @@
       "investment_status": "partial"
     },
     {
+      "id": "pokebot",
+      "name": "破壳机器人（PokeBot）",
+      "aliases": [
+        "破壳智能",
+        "PokeBot",
+        "破壳(北京)智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用具身智能家庭机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因云启资本、顺为资本 2026 年参与其天使轮及 Pre-A 轮等 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/pokebot.json",
+      "markdown_path": "data/views/companies/pokebot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "pollo-ai",
+      "name": "Pollo AI",
+      "aliases": [
+        "Pollo.AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 视频生成与一站式创作平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因真格基金 2025 年跟投其种子轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/pollo-ai.json",
+      "markdown_path": "data/views/companies/pollo-ai.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
       "id": "powerlaw",
       "name": "幂律智能 / PowerLaw AI",
       "aliases": [
@@ -5433,6 +7313,33 @@
       "markdown_path": "data/views/companies/powerlaw.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "pudu",
+      "name": "普渡科技",
+      "aliases": [
+        "深圳市普渡科技股份有限公司",
+        "Pudu Robotics"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商用服务机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因普华资本 2020 年后披露的商用服务机器人投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/pudu.json",
+      "markdown_path": "data/views/companies/pudu.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -5581,6 +7488,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "quanzhibo",
+      "name": "泉智博",
+      "aliases": [
+        "泉智博",
+        "无锡泉智博科技有限公司",
+        "泉智博科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "机器人一体化关节模组",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因高瓴创投2026年披露的机器人关节模组A+++轮投资而建档；按具身智能产业链归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/quanzhibo.json",
+      "markdown_path": "data/views/companies/quanzhibo.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "quickcep",
       "name": "快牛智营 / QuickCEP",
       "aliases": [
@@ -5638,6 +7572,34 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "realai",
+      "name": "瑞莱智慧 / RealAI",
+      "aliases": [
+        "北京瑞莱智慧科技有限公司",
+        "瑞莱智慧",
+        "RealAI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能安全产品及方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因基石资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（AI安全与治理）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/realai.json",
+      "markdown_path": "data/views/companies/realai.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "recurrent-ai",
       "name": "循环智能 / Recurrent AI",
       "aliases": [
@@ -5663,6 +7625,61 @@
       "markdown_path": "data/views/companies/recurrent-ai.md",
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "refly-ai",
+      "name": "Refly.AI",
+      "aliases": [
+        "Refly.AI",
+        "Refly",
+        "Refly AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向非技术用户的AI工作流平台（Vibe Workflow）",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因金沙江创投与高瓴创投2025年披露的AI工作流种子轮投资而建档；按开发平台业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/refly-ai.json",
+      "markdown_path": "data/views/companies/refly-ai.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "partial"
+    },
+    {
+      "id": "riscpower",
+      "name": "蓝芯算力 / RISC Power",
+      "aliases": [
+        "蓝芯算力（深圳）科技有限公司",
+        "蓝芯算力",
+        "RISC Power"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "半导体研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因深创投在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（RISC-V服务器CPU）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/riscpower.json",
+      "markdown_path": "data/views/companies/riscpower.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
       "investment_status": "partial"
     },
     {
@@ -5692,6 +7709,34 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "rockflow",
+      "name": "贝卡未来 RockFlow",
+      "aliases": [
+        "RockFlow",
+        "rockflow.ai",
+        "贝卡未来"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 原生一站式投资与交易服务：美港股、期权、ETF，以及金融 AI Agent「Bobby」。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因蓝驰创投 2025 年继续参与 B 轮而建档的 AI 原生投资交易平台；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/rockflow.json",
+      "markdown_path": "data/views/companies/rockflow.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
     },
     {
       "id": "rokae-liqtech",
@@ -5727,6 +7772,59 @@
         ],
         "checked_at": "2026-11-03"
       }
+    },
+    {
+      "id": "rosenbot",
+      "name": "罗森博特",
+      "aliases": [
+        "北京罗森博特科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "医疗机器人技术供应商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因深创投在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（骨科手术机器人）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/rosenbot.json",
+      "markdown_path": "data/views/companies/rosenbot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "sand-ai",
+      "name": "Sand.ai",
+      "aliases": [
+        "北京三呆科技有限公司",
+        "Sand AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能视频生成技术研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入多模态生成与创作工具（视频与动漫生成）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/sand-ai.json",
+      "markdown_path": "data/views/companies/sand-ai.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
     },
     {
       "id": "schneider-electric-china",
@@ -5843,6 +7941,33 @@
       "investment_status": "partial"
     },
     {
+      "id": "shanghui-intelligent",
+      "name": "商汤善惠",
+      "aliases": [
+        "商汤善惠",
+        "善惠智能",
+        "商汤善惠智能科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "零售AI：商品识别算法与无人零售智能柜",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因金沙江创投2025年披露的零售AI A轮投资而建档；按零售电商应用归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/shanghui-intelligent.json",
+      "markdown_path": "data/views/companies/shanghui-intelligent.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
+    },
+    {
       "id": "sharge",
       "name": "闪极科技 SHARGE",
       "aliases": [
@@ -5899,6 +8024,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "shihang-intelligent",
+      "name": "世航智能",
+      "aliases": [
+        "世航智能",
+        "世航智能科技",
+        "世航"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "水下与海洋机器人及智能无人装备",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因金沙江创投2025年披露的水下机器人Pre-A轮投资而建档；按具身智能与机器人业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/shihang-intelligent.json",
+      "markdown_path": "data/views/companies/shihang-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "shoplazza",
       "name": "店匠科技 / Shoplazza",
       "aliases": [
@@ -5953,6 +8105,36 @@
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "shumei-wanwu",
+      "name": "数美万物 / Hitems",
+      "aliases": [
+        "数美万物",
+        "Hitems",
+        "Hi3D",
+        "北京数美万物科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "生成式AI驱动的创意电商与3D内容社区，连接创意生成、定制生产与跨境销售",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因锦秋基金参与其2025年披露的 Pre-A 轮融资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/shumei-wanwu.json",
+      "markdown_path": "data/views/companies/shumei-wanwu.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
     },
     {
       "id": "siemens",
@@ -6019,7 +8201,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "多模型API、推理服务与私有化MaaS",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6036,6 +8218,33 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "siling-robot",
+      "name": "思灵机器人",
+      "aliases": [
+        "北京思灵机器人科技有限责任公司",
+        "Agile Robots"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "力控机器人与人工智能结合",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因招银国际资本 2020 年后披露的力控机器人投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/siling-robot.json",
+      "markdown_path": "data/views/companies/siling-robot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
     },
     {
       "id": "sip-ai-industrial-park",
@@ -6075,6 +8284,34 @@
       }
     },
     {
+      "id": "smartmore",
+      "name": "思谋科技",
+      "aliases": [
+        "深圳思谋信息科技有限公司",
+        "SmartMore",
+        "思谋"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业AI智能体与机器视觉软硬件",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因IDG资本2021年披露的B轮领投而建档，属于工业AI新进厂商；业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/smartmore.json",
+      "markdown_path": "data/views/companies/smartmore.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "smic",
       "name": "中芯国际",
       "aliases": [
@@ -6103,6 +8340,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "songying-tech",
+      "name": "松应科技",
+      "aliases": [
+        "上海松应科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "物理仿真与具身智能训练平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中金资本 2020 年后披露的具身智能仿真平台投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/songying-tech.json",
+      "markdown_path": "data/views/companies/songying-tech.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "partial"
+    },
+    {
       "id": "spirit-ai",
       "name": "千寻智能",
       "aliases": [
@@ -6127,6 +8390,33 @@
       "markdown_path": "data/views/companies/spirit-ai.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "sportvision",
+      "name": "思博威视 / SportVision",
+      "aliases": [
+        "思博威视",
+        "SportVision",
+        "深圳思博威视体育科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI体育科技：运动算法与AI智能教练",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因高瓴创投2026年披露的AI体育硬件天使+轮投资而建档；按AI消费硬件业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/sportvision.json",
+      "markdown_path": "data/views/companies/sportvision.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
       "investment_status": "partial"
     },
     {
@@ -6186,6 +8476,32 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "stonehg",
+      "name": "中科世通亨奇",
+      "aliases": [
+        "中科世通亨奇（北京）科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "国防领域数据智能方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（数据智能与情报分析）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/stonehg.json",
+      "markdown_path": "data/views/companies/stonehg.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
+    },
+    {
       "id": "synyi",
       "name": "森亿智能",
       "aliases": [
@@ -6242,6 +8558,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "taichu",
+      "name": "太初元碁",
+      "aliases": [
+        "太初（无锡）电子科技有限公司",
+        "太初元碁 Tecorigin"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能训练芯片与智算系统",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因招商资本 2020 年后披露的 AI 训练芯片投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/taichu.json",
+      "markdown_path": "data/views/companies/taichu.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "tars",
       "name": "它石智航",
       "aliases": [
@@ -6267,6 +8610,32 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "tashan-tech",
+      "name": "他山科技",
+      "aliases": [
+        "北京他山科技股份有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能触摸传感器芯片生产商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因基石资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（AI触觉芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/tashan-tech.json",
+      "markdown_path": "data/views/companies/tashan-tech.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
     },
     {
       "id": "tec-do",
@@ -6323,6 +8692,31 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "tensorworld",
+      "name": "物原科技",
+      "aliases": [
+        "TensorWorld"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "物理原生基座模型：理解物理世界结构与运行规律，用于具身智能、工程设计与科学探索。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因红杉中国参与 2026-11 天使轮而建档的物理原生基座模型公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/tensorworld.json",
+      "markdown_path": "data/views/companies/tensorworld.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
       "id": "tesla",
       "name": "特斯拉 Tesla",
       "aliases": [],
@@ -6341,6 +8735,61 @@
       },
       "json_path": "data/companies/tesla.json",
       "markdown_path": "data/views/companies/tesla.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "tianji-intelligent",
+      "name": "天机智能",
+      "aliases": [
+        "天机智能",
+        "广东天机智能系统有限公司",
+        "天机机器人"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "具身智能基础设施：力控人形双臂与机器人本体",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因高瓴创投与高榕创投2026年披露的具身智能B轮投资而建档；按机器人本体与核心部件业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/tianji-intelligent.json",
+      "markdown_path": "data/views/companies/tianji-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "tihu-robot",
+      "name": "钛虎机器人 / TI5 Robot",
+      "aliases": [
+        "钛虎机器人科技（上海）有限公司",
+        "钛虎机器人",
+        "TI5 Robot"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "机器人硬件方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因毅达资本在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（人形与四足本体）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/tihu-robot.json",
+      "markdown_path": "data/views/companies/tihu-robot.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "partial"
@@ -6383,7 +8832,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "主动式个人Agent与长期记忆",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6495,6 +8944,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "tsingmao",
+      "name": "清昴智能",
+      "aliases": [
+        "清昴智能科技（北京）有限公司",
+        "TsingMao"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 模型推理与部署优化工具链",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因啟赋资本 2020 年后披露的模型部署工具链投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/tsingmao.json",
+      "markdown_path": "data/views/companies/tsingmao.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "partial"
+    },
+    {
       "id": "tztek",
       "name": "苏州天准科技",
       "aliases": [
@@ -6575,6 +9051,34 @@
       "markdown_path": "data/views/companies/uls-robotics.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "ultrarisc",
+      "name": "超睿科技 / UltraRISC",
+      "aliases": [
+        "超睿科技（上海）有限公司",
+        "超睿科技",
+        "UltraRISC"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多核处理器芯片产品研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因深创投在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（RISC-V多核处理器）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/ultrarisc.json",
+      "markdown_path": "data/views/companies/ultrarisc.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
       "investment_status": "partial"
     },
     {
@@ -6719,6 +9223,33 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "vastaitech",
+      "name": "瀚博半导体",
+      "aliases": [
+        "瀚博半导体（上海）股份有限公司",
+        "Vastai Technologies"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 推理与图形渲染 GPU",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因招商资本 2020 年后披露的 GPU 投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/vastaitech.json",
+      "markdown_path": "data/views/companies/vastaitech.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "verisilicon",
       "name": "芯原股份",
       "aliases": [
@@ -6771,6 +9302,83 @@
       "category_id": "09",
       "category_name": "AI 消费硬件",
       "investment_status": "partial"
+    },
+    {
+      "id": "wangshi-zhihui",
+      "name": "望石智慧",
+      "aliases": [
+        "北京望石智慧科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能驱动新药研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入科学智能与生物医药（药物发现与临床管线）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/wangshi-zhihui.json",
+      "markdown_path": "data/views/companies/wangshi-zhihui.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
+    },
+    {
+      "id": "weiguangdianliang",
+      "name": "薇光点亮",
+      "aliases": [
+        "Weiguang Dianliang"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI Agent 智能硬件：聚焦 AI 化妆镜等时尚 AI 硬件。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因红杉中国与蓝驰创投参与 2026-03 A 轮而建档的时尚 AI 硬件公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/weiguangdianliang.json",
+      "markdown_path": "data/views/companies/weiguangdianliang.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial"
+    },
+    {
+      "id": "weilai-buyuan",
+      "name": "未来不远（Futuring Robot）",
+      "aliases": [
+        "Futuring Robot",
+        "未来不远机器人"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向 C 端家庭场景的通用机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因真格基金 2026 年领投其天使轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/weilai-buyuan.json",
+      "markdown_path": "data/views/companies/weilai-buyuan.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
     },
     {
       "id": "westwell",
@@ -6865,6 +9473,82 @@
       }
     },
     {
+      "id": "witin",
+      "name": "知存科技",
+      "aliases": [
+        "杭州知存算力科技有限公司",
+        "WITIN"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "存算一体 AI 芯片",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因普华资本、中芯聚源 2020 年后披露的存算一体 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/witin.json",
+      "markdown_path": "data/views/companies/witin.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "wuba-intelligent",
+      "name": "五八智能",
+      "aliases": [],
+      "organization_type": "operating_organization",
+      "focus": "面向大安全与大工业场景的具身智能整机与零部件",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因国新基金 2020 年后披露的具身智能整机投资而建档；公开信息以央企背景与行业级交付为主，独立官网与工商信息待补，先列观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/wuba-intelligent.json",
+      "markdown_path": "data/views/companies/wuba-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "wujiedongli",
+      "name": "无界动力",
+      "aliases": [
+        "Wujie Dynamics",
+        "无界动力（北京）技术研发有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用具身智能机器人：以原生世界模型与强化学习研发通用具身大脑，主攻工厂场景的双臂轮式机器人。",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因红杉中国在 2025-11 天使轮领投而建档的通用具身智能机器人公司；属于业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/wujiedongli.json",
+      "markdown_path": "data/views/companies/wujiedongli.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
       "id": "x-square",
       "name": "自变量机器人",
       "aliases": [
@@ -6874,7 +9558,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "端到端具身基础模型及通用机器人",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-12",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -6888,6 +9572,31 @@
       },
       "json_path": "data/companies/x-square.json",
       "markdown_path": "data/views/companies/x-square.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "xiangke",
+      "name": "享刻智能",
+      "aliases": [
+        "EncoSmart"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "以多模态感知为核心的泛生活服务机器人",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因真格基金 2023 年联合领投其天使轮这一 2020 年后披露的 AI 投资而建档；公开信息以早期融资为主，先观察。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/xiangke.json",
+      "markdown_path": "data/views/companies/xiangke.md",
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
@@ -6977,6 +9686,112 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "xingji-miyuan",
+      "name": "星际觅元",
+      "aliases": [
+        "深圳星际觅元科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "具身智能系统研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入具身智能与机器人（具身模型与操作）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/xingji-miyuan.json",
+      "markdown_path": "data/views/companies/xingji-miyuan.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "xingyun-ic",
+      "name": "行云集成电路",
+      "aliases": [
+        "北京行云集成电路有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "大模型GPU芯片研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因同创伟业在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（大模型推理GPU）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/xingyun-ic.json",
+      "markdown_path": "data/views/companies/xingyun-ic.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "xiwang-sunrise",
+      "name": "曦望Sunrise",
+      "aliases": [
+        "杭州曦望芯科智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "国产高性能推理 GPU",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中金资本、普华资本 2020 年后披露的国产推理 GPU 投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/xiwang-sunrise.json",
+      "markdown_path": "data/views/companies/xiwang-sunrise.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "xkool",
+      "name": "小库科技 / XKool",
+      "aliases": [
+        "深圳小库科技有限公司",
+        "小库科技",
+        "XKool"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能设计平台服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因东方富海在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入多模态生成与创作工具（图像社区与设计）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/xkool.json",
+      "markdown_path": "data/views/companies/xkool.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial"
+    },
+    {
       "id": "xmov",
       "name": "魔珐科技 / Xmov",
       "aliases": [
@@ -7059,6 +9874,32 @@
       "investment_status": "partial"
     },
     {
+      "id": "yaozhi-photonics",
+      "name": "曜智光科",
+      "aliases": [
+        "曜智光科（上海）科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI光芯片计算单元研发制造商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（光计算芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yaozhi-photonics.json",
+      "markdown_path": "data/views/companies/yaozhi-photonics.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "yingdao",
       "name": "影刀 / 杭州分叉智能",
       "aliases": [
@@ -7088,6 +9929,32 @@
       "investment_status": "partial"
     },
     {
+      "id": "yingwei-innovation",
+      "name": "影微创新",
+      "aliases": [
+        "无锡影微创新科技发展有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "端侧 AI 芯片与解决方案",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中芯聚源、中信金石、招银国际资本 2020 年后披露的端侧 AI 芯片投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yingwei-innovation.json",
+      "markdown_path": "data/views/companies/yingwei-innovation.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
       "id": "yitu",
       "name": "依图科技",
       "aliases": [
@@ -7113,6 +9980,60 @@
       "markdown_path": "data/views/companies/yitu.md",
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
+      "id": "yizhu-tech",
+      "name": "亿铸科技",
+      "aliases": [
+        "亿铸科技（杭州）有限责任公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "智能算力芯片研发商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中科创星在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入算力与基础设施（存算一体AI芯片）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yizhu-tech.json",
+      "markdown_path": "data/views/companies/yizhu-tech.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "yuanshi-tiangong",
+      "name": "元始天工 / 元始智能",
+      "aliases": [
+        "元始智能科技（南通）有限公司",
+        "元始天工",
+        "元始智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "工业智能解决方案服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因达晨财智在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（工业智能）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yuanshi-tiangong.json",
+      "markdown_path": "data/views/companies/yuanshi-tiangong.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
       "investment_status": "partial"
     },
     {
@@ -7149,6 +10070,87 @@
       }
     },
     {
+      "id": "yuedian",
+      "name": "悦点科技",
+      "aliases": [
+        "悦点科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业级 Agentic AI 应用生成平台",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因云启资本 2024 年独家投资其天使轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yuedian.json",
+      "markdown_path": "data/views/companies/yuedian.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "yunfu-intelligent",
+      "name": "云蝠智能 VoiceAgent",
+      "aliases": [
+        "云蝠智能",
+        "VoiceAgent",
+        "南京星蝠科技有限公司",
+        "云蝠智能VoiceAgent"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "大模型语音智能体与智能客服",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "因金沙江创投2025年披露的AI语音B轮投资而建档；按零售电商客服应用归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yunfu-intelligent.json",
+      "markdown_path": "data/views/companies/yunfu-intelligent.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
+    },
+    {
+      "id": "yuyong-keji",
+      "name": "语用科技 / Pragmatik Labs",
+      "aliases": [
+        "语用科技（Pragmatik Labs）",
+        "Pragmatik Labs",
+        "p7k",
+        "上海语用科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "下一代智能体：数字Agent与物理Agent",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因高榕创投2026年披露的AI首轮投资而建档；按通用Agent业务归类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/yuyong-keji.json",
+      "markdown_path": "data/views/companies/yuyong-keji.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "partial"
+    },
+    {
       "id": "zhipu",
       "name": "智谱 Z.ai",
       "aliases": [
@@ -7175,6 +10177,84 @@
       "category_id": "01",
       "category_name": "基础模型",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "zhishu",
+      "name": "指数科技",
+      "aliases": [
+        "AFH",
+        "指数科技"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 生成硬件设计（AI For Hardware）",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因云启资本 2025 年领投其 Pre-A 轮这一 2020 年后披露的 AI 投资而建档；赛道分类为编辑判断，不表示回报或个人适配。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/zhishu.json",
+      "markdown_path": "data/views/companies/zhishu.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "zhizi-engine",
+      "name": "智子引擎",
+      "aliases": [
+        "智子引擎（北京）信息科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多模态对话大模型研发与 To B 落地",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因中金资本 2020 年后披露的多模态大模型投资而建档；属业务分类，不表示回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/zhizi-engine.json",
+      "markdown_path": "data/views/companies/zhizi-engine.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial"
+    },
+    {
+      "id": "zhongshu-ruizhi",
+      "name": "中数睿智",
+      "aliases": [
+        "北京中数睿智科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "人工智能大模型应用开发服务商",
+      "checked_at": "2026-11-12",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "因鼎晖投资在 2020 年后披露的 AI 相关投资而建档；按公开业务描述归入企业与垂直行业软件（企业Agent与数据平台）。这是业务分类与编辑判断，不表示投资回报或个人适配。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-12"
+      },
+      "json_path": "data/companies/zhongshu-ruizhi.json",
+      "markdown_path": "data/views/companies/zhongshu-ruizhi.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
     },
     {
       "id": "zpmc",

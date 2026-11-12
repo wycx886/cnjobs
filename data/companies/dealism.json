@@ -1,0 +1,132 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因高瓴创投2025年披露的AI销售Agent天使轮投资而建档；按企业垂直软件归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": "https://dealism.ai/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未见公开招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "dealism",
+  "name": "Dealism",
+  "aliases": [
+    "Dealism",
+    "Vibe Selling Agent",
+    "Dealism AI"
+  ],
+  "category_id": "06",
+  "founded": {
+    "year": 2025,
+    "basis": "网易转载报道：Dealism于2025年7月成立。"
+  },
+  "focus": "AI销售Agent：对话式销售与客户沟通自动化",
+  "products": "对话式销售Agent（Vibe Selling Agent）",
+  "locations_text": "新加坡（总部）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以销售对话为切入口，面向中小企业提供可上手的AI销售Agent；与CRM套件或通用客服机器人的产品边界不同。",
+    "peer_names": [
+      "探迹科技",
+      "Salesforce",
+      "HubSpot"
+    ]
+  },
+  "investment": {
+    "summary": "2025-11报道完成1500万美元天使轮融资，高瓴创投领投，红杉中国、线性资本等跟投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2025-11",
+        "amount_text": "1500万美元",
+        "investors": [
+          {
+            "name": "高瓴创投",
+            "firm_id": "hillhouse",
+            "role": "lead",
+            "source_ids": [
+              "s01",
+              "s02"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "线性资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "notes": "网易报道称高瓴创投领投，红杉中国、线性资本及其他投资人跟投；界面新闻标题确认1500万美元天使轮及高瓴创投领投。"
+      }
+    ]
+  },
+  "notes": "官网可访问；总部设在新加坡，公开报道称团队规模20人以内。未找到公开招聘页与邮箱。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "高瓴创投领投，Dealism完成天使轮融资",
+      "url": "https://www.163.com/dy/article/KEL663S005118HJE.html",
+      "supports": "融资轮次与金额、投资方、成立时间、总部与创始人身份",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "Dealism完成1500万美元天使轮融资，高瓴创投领投",
+      "url": "https://www.jiemian.com/article/13637442.html",
+      "supports": "融资轮次与金额、领投方",
+      "published_date": "2025-11-14",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "Dealism",
+    "original_track": "06",
+    "original_subtrack": "法律与销售智能"
+  },
+  "people": [
+    {
+      "name": "浣昉",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "高瓴",
+        "有赞"
+      ],
+      "background": "2011至2018年在高瓴任VP，后加入有赞任联席总裁与COO，负责商业化、销售体系与增长战略。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一报道点名创始人兼CEO身份；未取得个人公开主页。"
+    }
+  ]
+}

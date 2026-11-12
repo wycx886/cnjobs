@@ -1,0 +1,178 @@
+{
+  "schema_version": 3,
+  "id": "siling-robot",
+  "name": "思灵机器人",
+  "aliases": [
+    "北京思灵机器人科技有限责任公司",
+    "Agile Robots"
+  ],
+  "category_id": "08",
+  "focus": "力控机器人与人工智能结合",
+  "products": "力控协作机器人、机器人操作系统与组件，服务工业、医疗等场景",
+  "locations_text": "北京海淀（德国慕尼黑双总部）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：思灵机器人以德国宇航中心力控技术为依托，定位通用力控机器人平台，与非夕科技在力控／协作机器人方向直接可比；相较非夕，思灵的德国双总部与海外并购使其国际化程度更高。",
+    "peer_names": [
+      "非夕科技；节卡机器人；越疆科技"
+    ]
+  },
+  "investment": {
+    "summary": "2021-01-27 B 轮金额未披露，招银国际资本参与；同轮另有交银国际、新希望集团、高瓴创投、红杉中国、线性资本。公司页另记 2021-09-10 C 轮 2.2 亿美元。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2021-01-27",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "招银国际资本",
+            "firm_id": "cmbi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "交银国际",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "新希望集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "C",
+        "announced_on": "2021-09-10",
+        "amount_text": "2.2亿美元",
+        "investors": [
+          {
+            "name": "软银愿景二号基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "阿布扎比投资局",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高瓴创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "小米集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额 2.2 亿美元。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.agile-robots.cn",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为北京思灵机器人科技有限责任公司，公司页记成立时间 2018-07-24、注册地北京海淀；公司在德国慕尼黑与中国北京设双总部。官网可访问，招聘邮箱未公开列出。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜思灵机器人 公司页",
+      "url": "https://vc.pedaily.cn/company/38343.html",
+      "supports": "成立时间、双总部、力控机器人业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜思灵机器人 B轮详情",
+      "url": "https://vc.pedaily.cn/invest/55684.html",
+      "supports": "2021-01-27 B 轮，投资方含招银国际资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "思灵机器人",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因招银国际资本 2020 年后披露的力控机器人投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界公司页工商信息：北京思灵机器人科技有限责任公司成立于 2018-07-24。"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": 3,
+  "id": "apex-context",
+  "name": "极致上下文 / Pexo",
+  "aliases": [
+    "极致上下文",
+    "北京极致上下文科技有限公司",
+    "Pexo",
+    "Apex Context"
+  ],
+  "category_id": "07",
+  "founded": {
+    "year": 2025,
+    "basis": "科创板日报2026-10-20报道：极致上下文成立于2025年，总部位于北京市朝阳区。"
+  },
+  "focus": "面向营销场景的多模态内容 Agent，从需求理解到成片交付",
+  "products": "Pexo AI Content Agent：需求理解、创意规划、模型选择、协同制作与修改交付；支持 Mark to Fix 与 Coding-to-Video",
+  "locations_text": "北京朝阳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：极致上下文以 AI Content Agent 交付营销成片，而非单点生成工具；与筷子科技、钛动科技等营销内容与投放服务商相比，更强调多模态 Agent 与代码化视频控制。",
+    "peer_names": [
+      "筷子科技 / Kuaizi；钛动科技 / Tec-Do；CreativeFitting / 井英科技"
+    ]
+  },
+  "investment": {
+    "summary": "2025-10 获 HT Investment 与 BV 百度风投数百万美元投资；2026-10-20 披露天使轮超千万美元，达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "未披露轮次",
+        "announced_on": "2025-10-29",
+        "amount_text": "数百万美元",
+        "investors": [
+          {
+            "name": "HT Investment",
+            "firm_id": "ht-investment-yifeifan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "BV 百度风投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "科创板日报回顾称公司曾于2025年10月获得 HT Investment 与 BV 百度风投数百万美元投资；未披露轮次名称及领投关系。"
+      },
+      {
+        "round": "天使轮",
+        "announced_on": "2026-10-20",
+        "amount_text": "超千万美元",
+        "investors": [
+          {
+            "name": "达泰资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "松禾创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "视觉中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深圳天使母基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "深圳高新投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "福迪创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "报道称本轮投资方包括上述机构，未区分领投与跟投；2026-10-20 为报道日期，融资宣布时间为“近日”。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "创始人廖谦曾任生数科技产品副总裁、Vidu 产品负责人，并任职腾讯、字节跳动，参与火山引擎智能创作云与剪映/CapCut 海外 AI 内容平台 Pippit。Pexo 于2026年7月上线，报道披露近百万注册用户、ARR 突破百万美元，均为公司口径，未经审计。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "科创板日报｜极致上下文完成超千万美元天使轮融资 创始人曾先后任职腾讯、字节",
+      "url": "https://longbridge.com/zh-CN/news/302382916",
+      "supports": "公司成立时间与地点、创始人履历、Pexo 产品、2025年10月 HT Investment 与 BV 百度风投投资、2026年天使轮投资方与金额",
+      "published_date": "2026-10-20",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "极致上下文",
+    "original_track": "07",
+    "original_subtrack": "营销投放与增长"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因 HT Investment 参与其2025年披露的数百万美元投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "廖谦",
+      "role": "创始人",
+      "previous_firms": [
+        "生数科技",
+        "字节跳动",
+        "腾讯"
+      ],
+      "background": "西安电子科技大学计算机视觉本硕；曾任生数科技产品副总裁、Vidu 产品负责人，并任职腾讯、字节跳动，参与火山引擎智能创作云与 Pippit。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "姓名、职务与履历来自科创板日报报道；未取得个人公开主页逐项复核。"
+    }
+  ]
+}

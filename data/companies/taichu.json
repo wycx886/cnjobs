@@ -1,0 +1,122 @@
+{
+  "schema_version": 3,
+  "id": "taichu",
+  "name": "太初元碁",
+  "aliases": [
+    "太初（无锡）电子科技有限公司",
+    "太初元碁 Tecorigin"
+  ],
+  "category_id": "02",
+  "focus": "人工智能训练芯片与智算系统",
+  "products": "AI 训练芯片、加速卡与智算中心解决方案",
+  "locations_text": "江苏无锡",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：太初元碁脱胎于「神威·太湖之光」团队，主攻 AI 训练芯片与智算中心，与燧原科技、沐曦等国产算力芯片公司相比，其超算系统集成背景更突出；公开融资披露较少。",
+    "peer_names": [
+      "燧原科技；沐曦股份；天数智芯"
+    ]
+  },
+  "investment": {
+    "summary": "2021-09-14 天使轮披露 1.5 亿元人民币，招商资本投资；公司页另记 2024-08-09 A+ 轮数亿元。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使",
+        "announced_on": "2021-09-14",
+        "amount_text": "1.5亿人民币",
+        "investors": [
+          {
+            "name": "招商资本",
+            "firm_id": "cmcapital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "招商资本投资，金额 1.5 亿元人民币。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2024-08-09",
+        "amount_text": "数亿元",
+        "investors": [
+          {
+            "name": "金蚂投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "霜叶创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额数亿元人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.tecorigin.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "品牌名「太初元碁」，工商主体为公司页所记太初（无锡）电子科技有限公司，成立时间 2019-11-05、注册地江苏无锡。公司页另列 2023-10-25 A 轮等历史融资，本档案只收录部分。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜太初元碁 公司页",
+      "url": "https://vc.pedaily.cn/company/670156.html",
+      "supports": "成立时间、AI 训练芯片业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜太初元碁 天使轮详情",
+      "url": "https://vc.pedaily.cn/invest/254222.html",
+      "supports": "2021-09-14 天使轮 1.5 亿元，招商资本投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "太初元碁",
+    "original_track": "02",
+    "original_subtrack": "GPU芯片与集群网络"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因招商资本 2020 年后披露的 AI 训练芯片投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2019,
+    "basis": "投资界公司页：太初（无锡）电子科技有限公司成立于 2019-11-05。"
+  }
+}

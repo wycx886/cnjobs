@@ -1,0 +1,86 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "因金沙江创投2025年披露的AI语音B轮投资而建档；按零售电商客服应用归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": "https://www.telrobot.top/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未见公开招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "yunfu-intelligent",
+  "name": "云蝠智能 VoiceAgent",
+  "aliases": [
+    "云蝠智能",
+    "VoiceAgent",
+    "南京星蝠科技有限公司",
+    "云蝠智能VoiceAgent"
+  ],
+  "category_id": "07",
+  "focus": "大模型语音智能体与智能客服",
+  "products": "VoiceAgent 大模型语音智能体、AI外呼、CRM/AICC",
+  "locations_text": "南京（南京星蝠科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以AI外呼和智能客服为入口，整合CRM/AICC；与通用语音合成或单一呼叫中心厂商的产品边界不同。",
+    "peer_names": [
+      "硅基智能",
+      "晓多科技",
+      "乐言科技"
+    ]
+  },
+  "investment": {
+    "summary": "2025-10-24报道完成B轮融资，投资方包括金沙江创投；金额未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2025-10-24",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "中金在线援引天眼查2025-10-21信息：南京星蝠科技B轮融资，融资额未披露，参与投资的机构包括金沙江创投。"
+      }
+    ]
+  },
+  "notes": "官网可访问；未找到公开招聘页与招聘邮箱。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "【投融资动态】云蝠智能B轮融资，投资方为金沙江创投",
+      "url": "http://sc.stock.cnfol.com/gushiyaowen/20251024/31735042.shtml",
+      "supports": "B轮融资、投资方与运营主体、产品方向",
+      "published_date": "2025-10-24",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "云蝠智能 VoiceAgent",
+    "original_track": "07",
+    "original_subtrack": "客服与消费者洞察"
+  },
+  "people": []
+}

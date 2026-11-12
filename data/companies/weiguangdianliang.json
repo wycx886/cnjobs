@@ -1,0 +1,115 @@
+{
+  "schema_version": 3,
+  "id": "weiguangdianliang",
+  "name": "薇光点亮",
+  "aliases": [
+    "Weiguang Dianliang"
+  ],
+  "category_id": "09",
+  "founded": {
+    "year": 2024,
+    "basis": "SVTR 创投库条目：2024 年成立于深圳。"
+  },
+  "focus": "AI Agent 智能硬件：聚焦 AI 化妆镜等时尚 AI 硬件。",
+  "products": "公开口径为 AI 化妆镜等时尚 AI 硬件；具体量产型号未披露。",
+  "locations_text": "深圳",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：薇光点亮把 AI Agent 放进美妆/时尚硬件，与录音笔、AI 眼镜等效率型消费硬件路径不同；本档只按公开定位归类，不评价产品体验。",
+    "peer_names": [
+      "闪极科技；未来智能 viaim；Plaud"
+    ]
+  },
+  "investment": {
+    "summary": "2026-03 A 轮融资，红杉中国与蓝驰创投在投资方名单中；金额未按结构化披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "A轮",
+        "announced_on": "2026-03",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": "lanchi",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "上海云玚企业管理咨询有限公司",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "SVTR 创投库记为 2026-03 A 轮，未披露金额与领投方；部分公开报道称该轮为 Pre-A 且金额超 1 亿元，口径不一致，结构化仅保留 SVTR 条目。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘页"
+  },
+  "notes": "以红杉中国与蓝驰创投共同参与的 2026 年 AI 硬件融资为建档线索；融资信息取自 SVTR 创投库条目，未取得公司官方公告原文。公司无独立公开官网与招聘入口记录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "SVTR 创投库｜薇光点亮",
+      "url": "https://svtr.ai/orgs/weiguangdianliang",
+      "supports": "2024 年成立于深圳、AI Agent 智能硬件（AI 化妆镜）定位、2026-03 A 轮投资方名单、核心团队名单",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "薇光点亮",
+    "original_track": "09",
+    "original_subtrack": "消费电子"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因红杉中国与蓝驰创投参与 2026-03 A 轮而建档的时尚 AI 硬件公司；属于业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "宋紫薇",
+      "role": "核心团队",
+      "previous_firms": [],
+      "background": null,
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "SVTR 创投库核心团队栏列出，未标注具体职务；未取得个人公开主页。"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因金沙江创投2025年披露的水下机器人Pre-A轮投资而建档；按具身智能与机器人业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "shihang-intelligent",
+  "name": "世航智能",
+  "aliases": [
+    "世航智能",
+    "世航智能科技",
+    "世航"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2023,
+    "basis": "雪球转载电波周报：世航智能成立于2023年。"
+  },
+  "focus": "水下与海洋机器人及智能无人装备",
+  "products": "水下清洗机器人「虎鲸」、海洋具身大模型「沧穹 CEORION」",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以船舶水下清洗等海洋作业为落地场景，并向海洋具身大模型延伸；与陆上人形机器人或通用服务机器人公司场景不同。",
+    "peer_names": [
+      "深之蓝",
+      "鳍源科技",
+      "博雅工道"
+    ]
+  },
+  "investment": {
+    "summary": "2025-05-15宣布连续完成天使+轮与Pre-A轮合计5000万元融资，Pre-A轮由金沙江创投、云泽资本联合领投；2026-06宣布完成超10亿元A轮，金沙江创投继续追加。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2025-05-15",
+        "amount_text": "两轮合计5000万元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "云泽资本",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "昆山天使基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "吴中金控",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "鞍羽资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "电波周报报道：天使+轮由招商启航资本领投；Pre-A轮由金沙江创投、云泽资本联合领投，老股东昆山天使基金持续跟投，吴中金控、鞍羽资本跟投。5000万元为天使+轮与Pre-A轮合计。"
+      },
+      {
+        "round": "A",
+        "announced_on": "2026-06",
+        "amount_text": "超10亿元",
+        "investors": [
+          {
+            "name": "金沙江创投",
+            "firm_id": "gsr-ventures",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "网易转载报道称公司完成超10亿元A轮，金沙江创投在A轮继续追加投资；报道未逐一列出其他投资方。"
+      }
+    ]
+  },
+  "notes": "公开报道未明确总部城市与官网，网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "朱啸虎投了一家水下机器人；腾讯、华为分别牵手越疆科技、优必选｜电波周报",
+      "url": "https://www.xueqiu.com/4641558579/335623602",
+      "supports": "成立年份、Pre-A轮投资方与领投关系、创始人与业务",
+      "published_date": "2025-05-19",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "朱啸虎五连投 世航智能创海洋机器人融资纪录",
+      "url": "https://www.163.com/dy/article/KVFI14J805198CJN.html",
+      "supports": "A轮金额、金沙江创投继续追加、海洋具身大模型与创始人身份",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "世航智能",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "people": [
+    {
+      "name": "陈晓博",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "哈尔滨工程大学"
+      ],
+      "background": "1989年出生，哈尔滨工程大学校友，深耕水下机器人，曾获国防科技进步一等奖，主导研发全国首台商用水下清洗机器人。",
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "两篇报道均点名其创始人兼CEO身份；未取得个人公开主页。"
+    }
+  ]
+}

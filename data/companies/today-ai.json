@@ -21,7 +21,7 @@
     ]
   },
   "investment": {
-    "summary": "2026年3月6日宣布1000万美元天使轮，投资方为IDG资本与阶跃星辰。另有媒体于2026年10月称公司累计完成超2亿美元融资（投资方含腾讯、五源资本、蚂蚁集团、红杉中国等），但未按轮次披露金额与日期，故未写入结构化轮次。",
+    "summary": "2026-03-06 天使轮 1000 万美元，投资方为 IDG 资本与阶跃星辰；2026-10-21 A 轮 1.5 亿美元，投资方含 IDG 资本、腾讯、五源资本、蚂蚁集团、红杉中国、传音控股、同歌创投、菡源资产。",
     "verification_status": "partial",
     "rounds": [
       {
@@ -50,6 +50,81 @@
           "s01"
         ],
         "notes": "36氪/IT桔子报道公司成立后第二天宣布该轮；未披露领投方。"
+      },
+      {
+        "round": "A轮",
+        "announced_on": "2026-10-21",
+        "amount_text": "1.5亿美元",
+        "investors": [
+          {
+            "name": "IDG资本",
+            "firm_id": "idg-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "蚂蚁集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "participant",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "传音控股",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "同歌创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          },
+          {
+            "name": "菡源资产",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s08"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s08"
+        ],
+        "notes": "SVTR 创投库未区分领投与跟投；原档案 summary 已提及媒体称累计超 2 亿美元但未按轮次披露，此轮补齐结构化记录。"
       }
     ]
   },
@@ -61,7 +136,7 @@
     "other_email_purpose": "用户支持邮箱（非招聘）"
   },
   "notes": "careersUrl为官方微博招聘帖，并非独立招聘站；未把支持邮箱用作投递。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -121,6 +196,14 @@
       "supports": "「Today AI是前Teambition创始人、前字节豆包PC端负责人齐俊元创办」，并记录融资与投资方",
       "published_date": "2026-10-21",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s08",
+      "title": "SVTR 创投库｜汇翮智能 Today AI",
+      "url": "https://svtr.ai/orgs/today-ai",
+      "supports": "2026-10-21 A 轮 1.5 亿美元及投资方名单（IDG资本、腾讯、五源资本、蚂蚁集团、红杉中国、传音控股、同歌创投、菡源资产）；个人 AI 助理定位",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

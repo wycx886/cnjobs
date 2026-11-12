@@ -24,7 +24,7 @@
     ]
   },
   "investment": {
-    "summary": "2023年2月成立，2024年底完成Pre A+和A轮（招商局创投、星连资本、国方创新等联合投资，累计融资超亿元），2025年11月完成近亿元B轮，2025年12月完成数亿元B+轮。",
+    "summary": "2023年2月成立，2024年底完成Pre A+和A轮（招商局创投、星连资本、国方创新等联合投资，累计融资超亿元），2025年11月完成近亿元B轮，2025年12月完成数亿元B+轮，2026-05-01完成11.6亿元D轮，金浦投资、尚势资本、东证资本、尚颀资本参与。",
     "verification_status": "partial",
     "rounds": [
       {
@@ -183,6 +183,49 @@
           "s09"
         ],
         "notes": "来源称多家老股东持续跟投，其中卓源亚洲连续七轮跟投。"
+      },
+      {
+        "round": "D",
+        "announced_on": "2026-05-01",
+        "amount_text": "11.6亿人民币",
+        "investors": [
+          {
+            "name": "金浦投资",
+            "firm_id": "jinpu-investment",
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "尚势资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "东证资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          },
+          {
+            "name": "尚颀资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s10"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s10"
+        ],
+        "notes": "金额 11.6 亿元人民币。"
       }
     ]
   },
@@ -194,7 +237,7 @@
     "other_email_purpose": null
   },
   "notes": "官网本次读取失败；careersUrl为历史招聘转载而非官方招聘站。邮箱见2024公开招聘，时效需复核；不使用同名印度Infrawave或Inforwaves网站。各轮金额除B/B+外未披露。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -273,6 +316,14 @@
       "supports": "B+轮数亿元，尚势资本、奥铭投资、华夏基金、泰有基金、清科控股、中科英智等联合投资，老股东跟投。",
       "published_date": "2025-12-31",
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s10",
+      "title": "投资界｜基流科技 D轮详情",
+      "url": "https://vc.pedaily.cn/invest/448939.html",
+      "supports": "2026-05-01 D 轮 11.6 亿元，投资方含金浦投资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

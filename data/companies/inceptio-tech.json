@@ -1,0 +1,178 @@
+{
+  "schema_version": 3,
+  "id": "inceptio-tech",
+  "name": "嬴彻科技",
+  "aliases": [
+    "嬴彻科技（上海）有限公司",
+    "Inceptio Technology"
+  ],
+  "category_id": "08",
+  "focus": "干线物流自动驾驶",
+  "products": "自动驾驶重卡系统与智能驾驶运营服务",
+  "locations_text": "上海长宁",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：嬴彻科技聚焦干线物流重卡自动驾驶，与主线科技、智加科技同处商用车自动驾驶赛道；其公开披露的产业投资方包括京东物流、德邦快递、宁德时代等，场景与货源协同特征明显。",
+    "peer_names": [
+      "智加科技；主线科技；小马智行"
+    ]
+  },
+  "investment": {
+    "summary": "2021-08-03 B 轮披露 2.7 亿美元，招银国际资本参与；同轮另有京东物流、美团战投、太盟投资、德邦快递、IDG资本、宁德时代等。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "B",
+        "announced_on": "2021-08-03",
+        "amount_text": "2.7亿美元",
+        "investors": [
+          {
+            "name": "招银国际资本",
+            "firm_id": "cmbi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "京东物流",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团战略投资部",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "PAG太盟投资集团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "德邦快递",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "宁德时代",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额 2.7 亿美元，投资方数量较多，此处列部分。"
+      },
+      {
+        "round": "B+",
+        "announced_on": "2022-02-28",
+        "amount_text": "1.88亿美元",
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "君联资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "美团战略投资部",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蔚来资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "金额 1.88 亿美元。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "http://www.inceptio.tech",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为嬴彻科技（上海）有限公司，公司页记成立时间 2018-09-06、注册地上海长宁。官网可访问，招聘邮箱未公开列出。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜嬴彻科技 公司页",
+      "url": "https://vc.pedaily.cn/company/9986.html",
+      "supports": "成立时间、自动驾驶重卡业务与融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜嬴彻科技 B轮详情",
+      "url": "https://vc.pedaily.cn/invest/107941.html",
+      "supports": "2021-08-03 B 轮 2.7 亿美元，投资方含招银国际资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "嬴彻科技",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因招银国际资本 2020 年后披露的商用车自动驾驶投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2018,
+    "basis": "投资界公司页工商信息：嬴彻科技（上海）有限公司成立于 2018-09-06。"
+  }
+}

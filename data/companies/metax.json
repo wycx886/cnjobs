@@ -21,7 +21,7 @@
     ]
   },
   "investment": {
-    "summary": "官网里程碑逐轮披露 2020-10 天使轮至 2024-12 C 轮（A 轮与 Pre-B 轮各 10 亿元），2025-12 登陆科创板（688802.SH）。历史投资背景不等于当前完整股东名册。",
+    "summary": "官网里程碑逐轮披露 2020-10 天使轮至 2024-12 C 轮（A 轮与 Pre-B 轮各 10 亿元），2025-12 登陆科创板（688802.SH）。投资界事件页另记 A 轮招商资本参与（该页日期 2021-08-25，与官网 2021-06 不一致）；2025-02-01 战略融资由普华资本、中芯聚源、经纬创投、招商资本等参与，金额未披露。历史投资背景不等于当前完整股东名册。",
     "verification_status": "confirmed_disclosure",
     "rounds": [
       {
@@ -125,13 +125,21 @@
             "source_ids": [
               "s10"
             ]
+          },
+          {
+            "name": "招商资本",
+            "firm_id": "cmcapital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s12"
+            ]
           }
         ],
         "source_ids": [
           "s10",
           "s11"
         ],
-        "notes": "金额取自官网英文里程碑「Completed A Funding with 1Billion RMB」。"
+        "notes": "金额取自官网英文里程碑「Completed A Funding with 1Billion RMB」。投资界事件页将该轮记为 2021-08-25，投资方名单高度重合，按同一轮补入招商资本。"
       },
       {
         "round": "Pre-B",
@@ -216,6 +224,49 @@
         "notes": "官网里程碑记「中信金石、中金资本联合领投」，同月完成股份制改革。"
       },
       {
+        "round": "战略融资",
+        "announced_on": "2025-02-01",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "普华资本",
+            "firm_id": "puhua-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "中芯聚源",
+            "firm_id": "smic-juyuan",
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          },
+          {
+            "name": "招商资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s13"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s13"
+        ],
+        "notes": "金额未披露，同轮投资方数量较多，此处列部分。"
+      },
+      {
         "round": "已上市",
         "announced_on": "2025-12",
         "amount_text": null,
@@ -235,7 +286,7 @@
     "other_email_purpose": "商务合作邮箱（IR另为ir@metax-tech.com）"
   },
   "notes": "未查到可核验的公开招聘投递邮箱；优先使用招聘入口。",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "sources": [
     {
       "id": "s01",
@@ -329,6 +380,22 @@
       "supports": "英文里程碑页给出 A 轮与 Pre-B 轮金额均为「1Billion RMB」",
       "published_date": null,
       "checked_at": "2026-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "投资界｜沐曦集成电路 A轮详情",
+      "url": "https://vc.pedaily.cn/invest/110685.html",
+      "supports": "2021-08-25 A 轮 10 亿元，投资方含招商资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s13",
+      "title": "投资界｜沐曦集成电路 战略融资详情",
+      "url": "https://vc.pedaily.cn/invest/355178.html",
+      "supports": "2025-02-01 战略融资，投资方含普华资本、中芯聚源",
+      "published_date": null,
+      "checked_at": "2026-11-12"
     }
   ],
   "provenance": {

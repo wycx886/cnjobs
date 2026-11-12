@@ -1,0 +1,200 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因高榕创投2026年披露的具身智能天使轮投资而建档；按具身智能业务归类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "未见公开官网／招聘邮箱"
+  },
+  "checked_at": "2026-11-12",
+  "id": "moqi-intelligent",
+  "name": "墨奇智能 / Morphi",
+  "aliases": [
+    "墨奇智能",
+    "Morphi",
+    "墨奇智能（Morphi）"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2025,
+    "basis": "投资界2026-07-06报道：公司成立于2025年底。"
+  },
+  "focus": "具身智能：软硬一体的通用家庭机器人",
+  "products": "公开产品未披露；口径为具身基座模型、数据闭环与通用家庭机器人",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：团队来自智能驾驶与跨境物流，强调复用智驾数据闭环到具身系统；与从本体或单一操作切入的团队路线不同。",
+    "peer_names": [
+      "银河通用",
+      "星海图",
+      "宇树科技"
+    ]
+  },
+  "investment": {
+    "summary": "2026-07-06宣布完成超10亿元天使轮系列融资，阿里巴巴、腾讯联袂投资，蓝驰创投、君联资本、华业天成、高榕资本、中科创星、源码律动、光合创投、柏睿资本、58产业基金等参投。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮系列",
+        "announced_on": "2026-07-06",
+        "amount_text": "超10亿元",
+        "investors": [
+          {
+            "name": "阿里巴巴",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "蓝驰创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "君联资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "华业天成",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕资本",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中科创星",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "源码律动",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "光合创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "柏睿资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "58产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "投资界报道阿里、腾讯为联袂投资，未明确单一领投方，故记为undisclosed；其余机构为共同参投。融资后估值超70亿元。"
+      }
+    ]
+  },
+  "notes": "公开报道未列注册地、官网与招聘入口；网站与联系字段留空。",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "估值超70亿，墨奇智能完成超10亿元天使轮系列融资",
+      "url": "https://news.pedaily.cn/202607/565900.shtml",
+      "supports": "公司成立时间、融资轮次与金额、投资方名单、两位创始人职务与履历",
+      "published_date": "2026-07-06",
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "墨奇智能（Morphi）",
+    "original_track": "08",
+    "original_subtrack": "具身模型与操作"
+  },
+  "people": [
+    {
+      "name": "高文礼",
+      "role": "CEO",
+      "previous_firms": [
+        "iMile"
+      ],
+      "background": "跨境物流企业iMile联合创始人，现负责墨奇智能商业化运营与业务拓展。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一融资报道点名其CEO身份；未取得个人公开主页。"
+    },
+    {
+      "name": "黄青虬",
+      "role": "CTO",
+      "previous_firms": [
+        "华为车BU"
+      ],
+      "background": "清华大学自动化系毕业，香港中文大学多媒体实验室博士，曾任华为车BU智驾AI部门负责人，主导ADS 1.0至4.0全链路AI算法迭代。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "单一融资报道点名其CTO身份；未取得个人公开主页。"
+    }
+  ]
+}

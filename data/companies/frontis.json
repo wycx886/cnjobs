@@ -1,0 +1,115 @@
+{
+  "schema_version": 3,
+  "id": "frontis",
+  "name": "衔远科技",
+  "aliases": [
+    "北京衔远科技有限公司",
+    "Frontis AI",
+    "Frontis"
+  ],
+  "category_id": "06",
+  "focus": "面向企业产品创新与知识工作的生成式AI平台",
+  "products": "领衔CIP（ForeSight CIP）、ProductGPT；官网现列企业AI原生平台衔远大观（Frontis Horizon），含数字分身、专家网络与进化引擎",
+  "locations_text": "北京（36氪报道称北京衔远科技有限公司）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：相较只提供通用对话入口的模型公司，衔远科技强调把生成式AI嵌入企业产品创新与组织工作流；与百川智能等通用基座厂商的路线不同，实际商业化规模未作横向评测。",
+    "peer_names": [
+      "百川智能",
+      "面壁智能"
+    ]
+  },
+  "investment": {
+    "summary": "2023-03-01 36氪报道完成数亿元人民币天使轮融资，由启明创投领投、经纬创投跟投；资金用于产品研发与团队建设。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2023-03-01",
+        "amount_text": "数亿元人民币",
+        "investors": [
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "经纬创投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪首发报道；金额为数亿元，未披露具体数字。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://frontis.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "xianyuan@frontis.ai",
+    "other_email_purpose": "官网结构化信息所列一般联系邮箱"
+  },
+  "notes": "36氪报道公司成立于2021年底；官网现以「衔远大观」企业AI原生平台为主要产品叙事。招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "36氪首发｜「衔远科技」完成数亿元天使轮融资，以ChatGPT助企业数智化创新",
+      "url": "https://www.36kr.com/p/2151615891067401",
+      "supports": "天使轮数亿元、启明创投领投与经纬创投跟投、成立时间、创始人及领衔CIP/ProductGPT产品",
+      "published_date": "2023-03-01",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "衔远科技 Frontis AI｜企业AI专家团与AI原生组织平台",
+      "url": "https://frontis.cn/",
+      "supports": "官网现行产品衔远大观（Frontis Horizon）与联系邮箱",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "衔远科技",
+    "original_track": "06",
+    "original_subtrack": "企业产品创新与AI原生工作平台"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因启明创投2023年披露的领投天使轮而建档，产品面向企业生成式AI工作流；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "周伯文",
+      "role": "创始人",
+      "previous_firms": [],
+      "background": "36氪称其为深度产、学、研融合的实践者，具有长期国际人工智能前沿科研沉淀，并有国内外大厂高管经历。",
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "创始人身份取自36氪报道；报道未逐项列出其任职机构，故不补写。"
+    }
+  ]
+}

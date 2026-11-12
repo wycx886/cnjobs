@@ -1,0 +1,162 @@
+{
+  "schema_version": 3,
+  "id": "huituo-intelligent",
+  "name": "慧拓智能",
+  "aliases": [
+    "中科慧拓（湖北）科技有限公司",
+    "中科慧拓"
+  ],
+  "category_id": "08",
+  "focus": "矿山无人驾驶与智慧矿山",
+  "products": "露天矿无人驾驶运输系统、平行矿山操作系统「愚公 YUGONG」及矿山智能运载机器人",
+  "locations_text": "湖北武汉",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：慧拓智能面向矿山封闭场景交付无人驾驶运输系统，与面向公开道路的自动驾驶公司相比，场景更窄但商业化订单更集中；可比公司包括踏歌智行、易控智驾等矿区无人驾驶厂商。",
+    "peer_names": [
+      "踏歌智行；易控智驾；希迪智驾"
+    ]
+  },
+  "investment": {
+    "summary": "2022-01-13 C 轮披露近 3 亿元人民币，中金资本参与；2021-08-23 B 轮超 2 亿元人民币，国新基金在清科机构库的出手记录中被列为投资方。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "C",
+        "announced_on": "2022-01-13",
+        "amount_text": "近3亿人民币",
+        "investors": [
+          {
+            "name": "中金资本",
+            "firm_id": "cicc-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "越秀产业基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "渤海产业投资基金",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "中金资本、越秀产业基金、渤海产业投资基金参与。"
+      },
+      {
+        "round": "B",
+        "announced_on": "2021-08-23",
+        "amount_text": "超2亿人民币",
+        "investors": [
+          {
+            "name": "国新基金",
+            "firm_id": "guoxin-fund",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "国新央企运营投资基金管理（广州）",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "中自投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "子今投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "国新基金在清科机构库的慧拓智能 B 轮记录中被列为投资方；同轮另有国新央企运营基金、中自投资、子今投资等。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.vipioneers.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为中科慧拓（湖北）科技有限公司，公司页记成立时间 2014-11-07、注册地湖北武汉。国新基金对 B 轮的参与来自清科数据机构页的出手记录，未取得公司公告，故该条按 partial 记录。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜慧拓智能 公司页",
+      "url": "https://vc.pedaily.cn/company/15757.html",
+      "supports": "成立时间、智慧矿山业务、C 轮与历史融资",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜慧拓智能 C轮详情",
+      "url": "https://vc.pedaily.cn/invest/193834.html",
+      "supports": "2022-01-13 C 轮近 3 亿元，投资方含中金资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界·清科数据｜国新基金 机构页",
+      "url": "https://zdb.pedaily.cn/company/show27290/",
+      "supports": "国新基金出手记录列慧拓智能 B 轮（2021-08-23，2.5 亿元）",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "慧拓智能",
+    "original_track": "08",
+    "original_subtrack": "工业与服务机器人"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因中金资本、国新基金 2020 年后披露的矿山无人驾驶投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2014,
+    "basis": "投资界公司页工商信息：中科慧拓（湖北）科技有限公司成立于 2014-11-07。"
+  }
+}

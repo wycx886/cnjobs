@@ -1,0 +1,170 @@
+{
+  "schema_version": 3,
+  "id": "paxini",
+  "name": "帕西尼",
+  "aliases": [
+    "帕西尼人工智能科技（北京）股份有限公司",
+    "Paxini"
+  ],
+  "category_id": "08",
+  "focus": "三维智能触觉传感器与具身智能",
+  "products": "多维触觉传感器、灵巧手与具身智能全栈方案",
+  "locations_text": "北京海淀",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：帕西尼以多维触觉传感器为核心，向灵巧手与具身智能整机方案延伸，与戴盟机器人、他山科技在触觉感知方向可比；其公开融资在 2025-2026 年密集，传感器出货量口径需以公司披露为准。",
+    "peer_names": [
+      "戴盟机器人；他山科技；因时机器人"
+    ]
+  },
+  "investment": {
+    "summary": "2022-05-23 Pre-A 轮金额未披露，啟赋资本参与；2024-04-30 A+ 轮披露数亿元人民币，招银国际资本参与。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "Pre-A",
+        "announced_on": "2022-05-23",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "啟赋资本",
+            "firm_id": "qifu-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "盈富泰克",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "浩方创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "光跃投资",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "金额未披露。"
+      },
+      {
+        "round": "A+",
+        "announced_on": "2024-04-30",
+        "amount_text": "数亿人民币",
+        "investors": [
+          {
+            "name": "招银国际资本",
+            "firm_id": "cmbi-capital",
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "北汽产投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "南山战新投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "盈富泰克",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03"
+        ],
+        "notes": "金额数亿元人民币。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://paxini.com",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": "官网未列出公开招聘邮箱"
+  },
+  "notes": "工商主体为帕西尼人工智能科技（北京）股份有限公司，公司页记成立时间 2021-06-29、注册地北京海淀。公司页另记 2026 年 B/B+/B++ 多轮融资；本档案只收录本批 VC 参与的两轮。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "投资界｜帕西尼 公司页",
+      "url": "https://vc.pedaily.cn/company/209866.html",
+      "supports": "成立时间、三维触觉传感器与具身智能业务、融资历程",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "投资界｜帕西尼 Pre-A轮详情",
+      "url": "https://vc.pedaily.cn/invest/307110.html",
+      "supports": "2022-05-23 Pre-A 轮，投资方含啟赋资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s03",
+      "title": "投资界｜帕西尼 A+轮详情",
+      "url": "https://vc.pedaily.cn/invest/312517.html",
+      "supports": "2024-04-30 A+ 轮数亿元，投资方含招银国际资本",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "帕西尼",
+    "original_track": "08",
+    "original_subtrack": "具身模型与操作"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因啟赋资本、招银国际资本 2020 年后披露的触觉传感器与具身智能投资而建档；属业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [],
+  "founded": {
+    "year": 2021,
+    "basis": "投资界公司页工商信息：帕西尼人工智能科技（北京）股份有限公司成立于 2021-06-29。"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 3,
+  "id": "deepwise",
+  "name": "深睿医疗",
+  "aliases": [
+    "DeepWise"
+  ],
+  "category_id": "10",
+  "focus": "医学影像AI辅助诊断与临床科研平台",
+  "products": "AI辅助诊断系统、影像组学科研平台；官网称面向数千家医疗机构提供AI辅助诊断、临床辅助决策、疾病筛查等数智化服务",
+  "locations_text": "北京、上海（官网列北京海淀与上海办公地址）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与汇医慧影、推想医疗同属医学影像AI方向，深睿医疗公开口径强调多模态产品架构与科研平台；具体产品性能与医院覆盖未作横向评测。",
+    "peer_names": [
+      "汇医慧影",
+      "推想医疗"
+    ]
+  },
+  "investment": {
+    "summary": "2025-01-26 新浪科技报道完成新一轮融资，总规模近5亿元，由君联资本及杭州市区产业基金共同参与完成；报道并称公司此前曾获联想之星投资。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "新一轮",
+        "announced_on": "2025-01-26",
+        "amount_text": "近5亿元人民币",
+        "investors": [
+          {
+            "name": "君联资本",
+            "firm_id": "legend-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "杭州市区产业基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "报道称两家机构共同参与完成，未区分领投与跟投；本轮具体轮次名称未披露。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.deepwise.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "contact@deepwise.com",
+    "other_email_purpose": "官网所列一般联系邮箱"
+  },
+  "notes": "官网英文页标注乔昕为联合创始人兼CEO；成立年份与招聘入口未在本次来源中确认。",
+  "checked_at": "2026-11-12",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "深睿医疗完成新一轮近5亿融资",
+      "url": "https://finance.sina.com.cn/tech/roll/2025-01-26/doc-inehhekh0753934.shtml",
+      "supports": "新一轮融资近5亿元、君联资本与杭州市区产业基金共同参与、此前获联想之星投资",
+      "published_date": "2025-01-26",
+      "checked_at": "2026-11-12"
+    },
+    {
+      "id": "s02",
+      "title": "深睿医疗 DeepWise｜AI Assisted Diagnosis System",
+      "url": "https://www.deepwise.com/",
+      "supports": "官网产品线、办公地址、联系邮箱与乔昕联合创始人/CEO身份",
+      "published_date": null,
+      "checked_at": "2026-11-12"
+    }
+  ],
+  "provenance": {
+    "original_name": "深睿医疗",
+    "original_track": "10",
+    "original_subtrack": "医学影像AI与临床辅助诊断"
+  },
+  "organization_type": "operating_organization",
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "因君联资本2025年披露参与的新一轮融资而建档，属于医学影像AI厂商；业务分类，不表示回报或个人适配。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-12"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "乔昕",
+      "role": "联合创始人、首席执行官",
+      "previous_firms": [
+        "西门子医疗"
+      ],
+      "background": "官网中文简介称其历任西门子医疗东北亚CT事业部总经理、西门子（中国）医疗事业部大中华区副总裁等职。",
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "身份取自公司官网；未取得个人社交主页。"
+    }
+  ]
+}
