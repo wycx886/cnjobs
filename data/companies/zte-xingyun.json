@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "zte-xingyun",
+  "name": "星云通信大模型 / 中兴通讯",
+  "aliases": [
+    "星云",
+    "星云通信大模型",
+    "ZTE Xingyun",
+    "星云 Agent 工厂"
+  ],
+  "category_id": "01",
+  "focus": "中兴通讯面向通信网络自智的行业大模型与 Agent 工厂，强调复杂网络问题解决与运维提效",
+  "products": "星云通信大模型、Agent 工厂（知识车间／技能车间／组装车间）与系列化应用：看网专家、监控专家、智保专家；官方称基于「中兴数字星云」可组装架构，面向高阶自智网络。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以通信网络运维和自智网络为核心场景，与通用 C 端模型不同；本条只记录官方发布信息，不采用发布会中的效率数字作独立评测。",
+    "peer_names": [
+      "九天 / 中国移动",
+      "盘古 / 华为"
+    ]
+  },
+  "investment": {
+    "summary": "中兴通讯内部产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": "https://job.zte.com.cn/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究星云通信大模型具名产品线，不重复建中兴通讯集团档案。发布信息来自中兴官网新闻；独立产品站、团队负责人与用户量未在本次来源中取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "中兴通讯推出星云通信大模型：开启迈向高阶自智的新范式",
+      "url": "https://www.zte.com.cn/china/about/news/20240628c1.html",
+      "supports": "2024-06-28 发布星云通信大模型系列化产品，涵盖大模型、Agent 工厂与系列化应用；Agent 工厂含知识／技能／组装车间；应用包括看网专家、监控专家、智保专家；中兴通讯副总裁郑鹏在发布会演讲。",
+      "published_date": "2024-06-28",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "星云通信大模型 / 中兴通讯",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "中兴通讯官网新闻披露星云通信大模型、Agent 工厂与行业应用，作为现有 ICT 巨头内部具名模型产品线列入 later。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "zte"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "中兴通讯官网新闻以公司名义发布星云通信大模型及 Agent 工厂，确认为其内部产品线；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

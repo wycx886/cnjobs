@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kingsoft-cloud-xingliu",
+  "name": "星流模型服务 / 金山云",
+  "aliases": [
+    "星流",
+    "金山云星流",
+    "星流模型服务",
+    "KSP"
+  ],
+  "category_id": "02",
+  "focus": "金山云一站式大模型调用与模型服务底座，提供多模型接入、权限额度和智能路由",
+  "products": "星流模型服务：70+ 主流模型一键调用，兼容 OpenAI API 协议，支持多粒度权限与额度、模型全生命周期管理、批量／在线推理和智能路由；预告 Agent Plan 分层订阅套餐。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以模型聚合调用与路由为交付，不自研基础模型；本条只记录产品能力，不评价模型效果或价格竞争力。",
+    "peer_names": [
+      "百炼 / 阿里云",
+      "火山方舟 / 字节跳动"
+    ]
+  },
+  "investment": {
+    "summary": "金山云内部产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.ksyun.com/nv/product/KSP",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究金山云星流具名模型服务，不重复建金山云集团档案，也不与金山软件、金山办公合并。产品能力来自金山云官方产品页；团队负责人与上线时间未取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "金山云星流模型服务",
+      "url": "https://www.ksyun.com/nv/product/KSP",
+      "supports": "星流模型服务提供 70+ 主流模型一键调用、兼容 OpenAI API、多粒度权限与额度、模型全生命周期管理、批量／在线推理与智能路由；列出 GLM、Kimi、DeepSeek、MiMo、Qwen、MiniMax 等可调用模型；预告 Agent Plan 套餐。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "星流模型服务 / 金山云",
+    "original_track": "02",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "金山云官方产品页持续提供星流模型服务入口与能力说明，作为现有云厂商内部具名模型服务平台列入 later。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "kingsoft-cloud"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "星流模型服务由金山云官方域名与控制台承载，确认为金山云内部模型服务产品；与金山软件分别列入口，不合并法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

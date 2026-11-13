@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "autohome-zhishi",
+  "name": "芝士车管家 / 汽车之家",
+  "aliases": [
+    "芝士车管家",
+    "芝士",
+    "汽车之家芝士",
+    "AI 问车"
+  ],
+  "category_id": "04",
+  "focus": "汽车之家旗下 AI 汽车管家与选车／用车问答产品，结合车主生态与汽车资讯",
+  "products": "芝士车管家：芝士选车智能体、芝士用车智能体、车主数字管家；支持问车、选车、看资讯与下载 App，页面展示生成式人工智能产品上线编号。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以汽车垂直领域真实车主生态和资讯为信息源，属于垂直个人助手；本条不评价回答质量或用户规模。",
+    "peer_names": [
+      "豆包 / 字节跳动",
+      "Kimi / 月之暗面"
+    ]
+  },
+  "investment": {
+    "summary": "汽车之家内部产品项目，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://ai.autohome.com.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究芝士车管家具名 AI 产品，不重复建汽车之家集团档案。页面明确标注「汽车之家旗下／出品」并公示生成式 AI 产品上线编号；团队负责人、上线日期与用户量未取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "芝士车管家「汽车之家出品」",
+      "url": "https://ai.autohome.com.cn/",
+      "supports": "页面标注「汽车之家旗下／汽车之家出品」，介绍芝士选车智能体、芝士用车智能体与车主数字管家，支持问车、选车、看资讯和 App 下载；页脚公示生成式人工智能产品上线编号 Beijing-AutoHomeJiQiRen-20250312S0031。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "芝士车管家 / 汽车之家",
+    "original_track": "04",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "汽车之家官方 AI 子域以「芝士车管家」具名并公示生成式 AI 上线编号，作为现有汽车平台内部 AI 产品列入 later。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "autohome"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "芝士车管家页面由汽车之家官方域名承载，明确标注「汽车之家旗下／出品」并公示生成式 AI 产品编号，确认为汽车之家内部 AI 产品；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "kling",
+  "name": "可灵 / 快手",
+  "aliases": [
+    "可灵AI",
+    "可灵 AI",
+    "Kling AI",
+    "Kling"
+  ],
+  "category_id": "05",
+  "focus": "面向创作者的 AI 视频、图像与 3D 内容生成平台",
+  "products": "可灵AI官网当前展示 Kling 4.0、Kling Image 3.0、原生4K直出、系列组图生成、画布一站式创作 Agent、MCP／CLI 批量生成与开发者平台；并提供图片生成、视频生成、动作控制等创作工具及企业API入口。官网列广告营销、影视创作、电商展示等场景案例，本轮未取得官方披露的用户量或收入数字。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：可灵以视频生成为核心，向图像、动作控制与 Agent 工作流扩展，并提供开发者平台；本条只记录官网公开能力与入口，不作生成质量排名。",
+    "peer_names": [
+      "即梦 / 字节跳动",
+      "智象未来 HiDream.ai"
+    ]
+  },
+  "investment": {
+    "summary": "2025-04快手成立可灵AI事业部；2026年重组为北京可灵智能科技有限公司并完成独立融资：2026-07-02港交所公告增资上限30亿美元、首批签约近28亿美元，投后估值约180亿美元；2026-08-31再获国家人工智能产业投资基金14亿元人民币与正大机器人约1929万美元战略增资。2026-10-30交割总额约198亿元人民币，快手通过Lucky Labs持股66.68%、表决权52.45%，仍并表。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "首轮增资",
+        "announced_on": "2026-07-02",
+        "amount_text": "最高30亿美元（首批签约近28亿美元）",
+        "investors": [
+          {
+            "name": "CPE源峰",
+            "firm_id": "cpe",
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "国方创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "BlueFive",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "腾讯",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "中关村科学城基金",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "中信证券",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s05"
+            ]
+          },
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "百度",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "华策影视",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s05"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "notes": "2026-07-02快手科技在港交所公告：北京可灵智能科技有限公司增资上限30亿美元、首批签约近28亿美元，投后估值约180亿美元；领投名单据红星新闻，阿里云／百度等产业方据后续报道。2026-10-30交割总额约198亿元人民币，部分原投资者未缴款后由金蝶软件、共青城君可、沐曦上海等受让；快手通过Lucky Labs持股66.68%、表决权52.45%，仍并表。"
+      },
+      {
+        "round": "战略增资",
+        "announced_on": "2026-08-31",
+        "amount_text": "14亿元人民币（国家人工智能产业投资基金）；正大机器人约1929万美元",
+        "investors": [
+          {
+            "name": "国家人工智能产业投资基金",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          },
+          {
+            "name": "正大机器人",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s06"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s06"
+        ],
+        "notes": "腾讯新闻2026-11-03援引快手2026-08-31公告：国家人工智能产业投资基金注资14亿元、对应约1.14%股权；境外主体正大机器人出资约1929万美元、持股约0.11%。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://klingai.com/",
+    "careers_url": "https://careers.klingai.com/",
+    "recruitment_email": null,
+    "other_email": "support.cn@klingai.com",
+    "other_email_purpose": "客户支持邮箱（可灵AI官网公开）"
+  },
+  "notes": "本条是快手集团 AI 创作业务单元档案，不重复建集团档案。官网为动态单页，产品能力和案例均取自实际打开的页面文本；页面未公开具名团队负责人、上线日期和用户量，相关字段留空。官网页脚链接快手许可证页面并列出“快手举报专线”，作为与快手集团关系的官方线索。招聘子域 careers.klingai.com 由官网页脚链接给出，本轮访问返回 503，未据此确认具体岗位。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "可灵AI官方网站",
+      "url": "https://klingai.com/",
+      "supports": "Kling 4.0、Kling Image 3.0、原生4K、系列组图、画布创作 Agent、MCP／CLI、开发者平台与行业案例；页脚链接 kuaishou.com 许可证页面及快手举报专线，支持与快手集团的关系线索。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "可灵AI开发者平台",
+      "url": "https://klingai.com/dev",
+      "supports": "可灵AI开发者平台入口存在，官网导航列产品定价与文档中心；不证明具体API配额或商业条款。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "可灵AI官方文档",
+      "url": "https://klingai.com/document-api/quickStart/productIntroduction/overview",
+      "supports": "可灵AI API 文档入口存在，用于确认开发者服务；本轮未展开具体接口条款。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "可灵AI官网 sameAs 列出官方 X @Kling_ai",
+      "url": "https://klingai.com/",
+      "supports": "2026-11-13 读取官网 HTML，JSON-LD Organization 的 sameAs 数组含 https://x.com/Kling_ai，并与 TikTok @klingai_official、Instagram 等并列。X 账号显示名 Kling AI，蓝V，简介导向可灵社区。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "红星新闻：可灵AI从快手「独立」，腾讯、阿里、百度罕见联合入局，对赌5年内IPO",
+      "url": "https://news.qq.com/rain/a/20260703A090Q000",
+      "supports": "2026-07-02快手港交所公告：北京可灵增资上限30亿美元、首批签约近28亿美元，投后估值180亿美元；CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金、中信证券联合领投；若2031-10-30前未IPO按年化8%回购。",
+      "published_date": "2026-07-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s06",
+      "title": "腾讯新闻：可灵198亿增资交割落地，估值超过母公司快手，BAT罕见同台参投",
+      "url": "https://news.qq.com/rain/a/20261103A0D8TM00",
+      "supports": "2026-10-30增资交割总额约198亿元；快手通过Lucky Labs持股66.68%、表决权52.45%，仍为非全资附属公司并并表；投后估值180亿美元；腾讯出资13.63亿元、阿里云13.63亿元、百度3.41亿元；国家人工智能产业投资基金14亿元、正大机器人约1929万美元。",
+      "published_date": "2026-11-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s07",
+      "title": "新浪科技：快手的可灵AI业务要分拆IPO 高级副总裁盖坤获3%股权要花钱吗？",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-14/doc-inirutnw7338204.shtml",
+      "supports": "盖坤清华大学本科与博士、2011年加入阿里、2020年加入快手、2024年负责可图／可灵、2025年4月任可灵AI事业部负责人、2025年8月兼任技术部负责人；分拆后任可灵CEO，获3%股权及十倍投票权（对应23.62%表决权）与1%购股权。",
+      "published_date": "2026-09-14",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s08",
+      "title": "搜狐／水木TsinghuaCent：清华校友盖坤掌舵，可灵AI完成30亿美元独立融资，BAT罕见同台入局",
+      "url": "https://www.sohu.com/a/1051889208_701814",
+      "supports": "补充融资分批结构与领投方；李晗为清华自动化本硕、曾任阿里、2019年加入快手任技术副总裁、2026年1月接管基础大模型与推荐模型、2026年6月末转岗可灵并向盖坤汇报。",
+      "published_date": "2026-07-18",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s09",
+      "title": "可灵AI官方网站",
+      "url": "https://klingai.com/",
+      "supports": "官网当前产品为Kling 4.0、Kling Image 3.0及Agent创作工具；页脚列快手举报专线，支持与快手集团的运营关联；未披露股权或融资。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "快手可灵AI",
+    "original_track": "05",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "快手集团具名 AI 视频创作产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-x-kling",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/Kling_ai",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Kling AI",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官网 sameAs 指向该账号；蓝V，约 13.9 万关注。官方产品账号，不进入 people[]。"
+    }
+  ],
+  "organizational_context": {
+    "form": "corporate_subsidiary",
+    "parent_platform_ids": [
+      "kuaishou"
+    ],
+    "relationship_status": "reported",
+    "summary": "可灵AI于2025-04成立事业部，2026年重组为北京可灵智能科技有限公司并承接可灵AI全部资产、开启独立融资；快手通过Lucky Labs持股66.68%、表决权52.45%，北京可灵仍为非全资附属公司并并表。",
+    "source_ids": [
+      "s05",
+      "s06"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "盖坤",
+      "role": "可灵AI CEO、快手高级副总裁",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "background": "清华大学计算机视觉方向本科与博士；2011年以首批「阿里星」加入阿里巴巴，在阿里妈妈负责广告算法与AI技术研发；2020年加入快手，2022年10月起任快手主站线业务负责人，2023年参与组建快手AI研究团队；2024年起负责可图、可灵等大模型业务，2024年6月可灵上线；2025年4月任可灵AI事业部负责人，2025年8月兼任技术部负责人；分拆后任可灵CEO，获约3%股权及10倍投票权安排。",
+      "profiles": [],
+      "source_ids": [
+        "s06",
+        "s07"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "confirmed",
+      "notes": "履历、职务与股权安排见新浪科技2026-09-14与腾讯新闻2026-11-03报道；两篇均援引快手公告或公开资料。未取得个人公开主页。"
+    },
+    {
+      "name": "李晗",
+      "role": "可灵技术高管（快手技术副总裁）",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "background": "清华大学自动化专业本科与硕士；早年任职阿里巴巴，主导深度树匹配算法；2019年加入快手，任技术副总裁；2026年1月接管快手基础大模型与推荐模型业务，2026年6月末转岗可灵AI事业部，向盖坤汇报。",
+      "profiles": [],
+      "source_ids": [
+        "s08"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "履历与转岗信息来自搜狐转载的水木TsinghuaCent文章；未取得第二个独立公开来源或个人主页。"
+    }
+  ]
+}

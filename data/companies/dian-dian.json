@@ -1,0 +1,74 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "dian-dian",
+  "name": "点点 / 小红书",
+  "aliases": [
+    "点点",
+    "小红书点点",
+    "点点 - 你的ai生活助手"
+  ],
+  "category_id": "04",
+  "focus": "结合小红书社区真实经验与全网信息的 AI 生活助手，覆盖攻略、购物决策、穿搭与探店",
+  "products": "「点点」iOS App 及小红书站内点点入口：支持语音问与带图问、笔记总结、旅行攻略、购物决策、穿搭推荐、美食探店、知识梳理；版本记录称已上线攻略模式，并与小红书点点聊天记录同步。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以社区真实笔记为差异化信息源的个人生活助手；本条只记录公开产品形态，不评价回答质量或用户规模排名。",
+    "peer_names": [
+      "豆包 / 字节跳动",
+      "Kimi / 月之暗面"
+    ]
+  },
+  "investment": {
+    "summary": "未找到点点独立主体股权融资披露；App Store 开发者显示为上海生动诗章科技有限公司，与小红书的股权关系未在本次来源中确认，故不标 not_applicable。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究「点点」具名 AI 产品，不重复建小红书集团档案。App Store 页面确认产品与开发者主体；应用版本说明出现「小红书点点」表述，但未取得小红书官方组织归属公告，关系标 reported。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "App Store：点点 - 你的ai生活助手",
+      "url": "https://apps.apple.com/cn/app/%E7%82%B9%E7%82%B9-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E5%8A%A9%E6%89%8B/id6529536122",
+      "supports": "产品名称、AI 生活助手定位、结合小红书真实经验和全网信息回答、攻略模式与语音／带图问等功能；开发者显示为上海生动诗章科技有限公司；版本记录称「小红书点点聊天记录已同步至点点 App」。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "点点 / 小红书",
+    "original_track": "04",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "App Store 官方产品页与版本说明显示点点与小红书社区深度绑定，作为现有平台具名 AI 产品列入 later；开发者主体与集团股权关系待进一步核实。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "xiaohongshu"
+    ],
+    "relationship_status": "reported",
+    "summary": "App Store 产品与版本说明出现「小红书点点」并强调结合小红书真实经验，支持其为小红书体系 AI 产品；上架开发者仍为上海生动诗章科技有限公司，官方组织归属与股权关系未确认。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

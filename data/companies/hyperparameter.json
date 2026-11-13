@@ -1,0 +1,216 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "hyperparameter",
+  "name": "超参数科技 Parametrix.ai",
+  "aliases": [
+    "超参数科技",
+    "超参数",
+    "Parametrix",
+    "Parametrix.ai",
+    "超参数科技（深圳）有限公司"
+  ],
+  "category_id": "06",
+  "founded": {
+    "year": 2019,
+    "basis": "官网「关于我们」称公司成立于2019年；大事记列2019-01-01在深圳成立并完成A轮融资。"
+  },
+  "focus": "面向游戏与互娱场景的 Game Agent／AI NPC 技术研发与商业化",
+  "products": "Game Agent 产品与 GAEA 系统、COTA 等；官网称服务腾讯、米哈游、西山居、完美世界、莉莉丝、Garena、沐瞳科技、创梦天地等客户，并在多款千万日活产品中持续运营。",
+  "locations_text": "深圳（官网版权与关于页）；官网未列其他办公地。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与通用 Agent 或视频生成公司不同，超参数把强化学习与多智能体能力落在游戏 NPC 与对局场景，先以游戏客户实现规模化商业交付；具体客户收入与留存未公开。",
+    "peer_names": [
+      "网易伏羲",
+      "米哈游 AI 团队"
+    ]
+  },
+  "investment": {
+    "summary": "官网披露：2019年成立时获五源资本、高榕资本千万美元A轮；2022-01-15完成3000万美元A+轮，五源资本领投、高榕资本跟投；2022-01-18完成1亿美元B轮，红杉中国领投，五源资本、高榕资本跟投，公司称估值达到独角兽规模。金额与投资方均按官网大事记记录，未核对投资协议。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "A轮",
+        "announced_on": "2019",
+        "amount_text": "千万美元",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网大事记未拆分领投与跟投，统一按参与记录；金额原文为“千万美元”，未换算具体数字。"
+      },
+      {
+        "round": "A+轮",
+        "announced_on": "2022-01-15",
+        "amount_text": "3000万美元",
+        "investors": [
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网称五源资本领投、高榕资本跟投。"
+      },
+      {
+        "round": "B轮",
+        "announced_on": "2022-01-18",
+        "amount_text": "1亿美元",
+        "investors": [
+          {
+            "name": "红杉中国",
+            "firm_id": "hongshan",
+            "role": "lead",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "五源资本",
+            "firm_id": "5y-capital",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          },
+          {
+            "name": "高榕创投",
+            "firm_id": "gaorong",
+            "role": "participant",
+            "source_ids": [
+              "s01"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "官网称红杉中国领投，五源资本、高榕资本跟投，公司估值达到独角兽规模；官网未披露具体投后估值。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.chaocanshu.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "官网设有「加入我们」入口但未取得稳定的独立招聘 URL，故 careers_url 留空；商务与媒体邮箱为业务联系用途，不作为招聘邮箱。创始人腾讯 AI Lab 履历见官网团队介绍与36氪／IT桔子报道；公司非腾讯拆分，按独立创业公司记录。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "超参数科技官网：关于我们",
+      "url": "https://www.chaocanshu.cn/about",
+      "supports": "公司2019年在深圳成立；A轮千万美元（五源资本、高榕资本）、A+轮3000万美元（五源领投、高榕跟投）、B轮1亿美元（红杉中国领投，五源、高榕跟投）；刘永升曾任腾讯AI Lab总经理、T4技术专家，2019年创办公司；Game Agent 客户与商业化描述。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "scope": "organization",
+      "title": "超参数科技官网首页",
+      "url": "https://www.chaocanshu.cn/",
+      "supports": "官网当前产品定位为 Game Agent，服务全球65个国家的数亿用户；页脚版权主体为超参数科技（深圳）有限公司。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "36氪／IT桔子：这两年，还有多少腾讯前员工出来创业做人工智能的？",
+      "url": "https://36kr.com/p/3055612894466177",
+      "supports": "超参数科技创始人刘永升2008年加入腾讯、在腾讯工作十一年，创业前为原腾讯AI Lab总经理、T4技术专家；公司2019年成立，2022年完成B轮1亿美元融资。",
+      "published_date": "2024-11-28",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "超参数科技",
+    "original_track": "06",
+    "original_subtrack": "新增公开研究：腾讯AI Lab前员工Game Agent创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "创始人为前腾讯AI Lab总经理刘永升，团队把游戏AI能力产品化为可规模交付的Game Agent；有公开融资与客户进展，作为腾讯AI部门前员工创业候选纳入第一波研究。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-parametrix-web",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.chaocanshu.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "超参数科技",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": null
+    }
+  ],
+  "people": [
+    {
+      "name": "刘永升",
+      "role": "创始人兼CEO",
+      "background": "2008年以应届生身份加入腾讯，在腾讯工作十一年，创业前为腾讯AI Lab总经理、T4技术专家；2015年起探索游戏AI，参与打造围棋AI「绝艺」、王者荣耀AI「绝悟」；2019年创办超参数科技并任CEO。",
+      "previous_firms": [
+        "腾讯 AI Lab"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "confirmed",
+      "notes": "身份、职务与腾讯履历见公司官网团队介绍及36氪／IT桔子报道；未取得个人公开主页。"
+    }
+  ]
+}

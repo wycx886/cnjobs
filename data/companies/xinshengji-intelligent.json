@@ -1,0 +1,153 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "xinshengji-intelligent",
+  "name": "新生纪智能 / CenoBots",
+  "aliases": [
+    "新生纪智能",
+    "新生纪智能科技",
+    "CenoBots",
+    "新生纪"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2022,
+    "basis": "搜狐/猎云网2022-08-11与36氪2022-08-10报道：新生纪智能科技于2022年2月23日在杭州成立，王刚为法人代表；现品牌为CenoBots。"
+  },
+  "focus": "商用清洁机器人与具身智能",
+  "products": "CenoBots商用清洁机器人S5、L3、L4、L50、SP50；官网称以AGI思路做清洁场景的智能机器人，产品部署30多个国家。",
+  "locations_text": "官网称在新加坡、美国、荷兰与中国设子公司；媒体早期报道注册地为杭州滨江，现主体名称含嘉兴，具体总部以官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以商用清洁为落地场景做清洁机器人整机与海外渠道；与做通用具身大脑或人形本体的公司路线不同。",
+    "peer_names": [
+      "有鹿机器人 / UDEER",
+      "高仙机器人",
+      "普渡科技"
+    ]
+  },
+  "investment": {
+    "summary": "2022年8月报道显示高瓴资本、光速中国已成为早期股东；具体轮次、金额与估值未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "早期融资",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "高瓴资本",
+            "firm_id": "hillhouse",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "光速中国",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "2022-08报道根据工商股东结构确认高瓴（VNTR）与光速中国（LM First Quadrant、晟择）已入股；未披露轮次名称、时间与金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.cenobots.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "品牌现为CenoBots，官网未列创始人；创始人王刚身份依据2022年媒体对工商与履历的报道。王刚为前阿里达摩院自动驾驶实验室负责人、小蛮驴项目负责人；公开报道未称阿里孵化或持股，不标分拆。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "About CenoBots - Top Commercial Cleaning Robot Manufacturer",
+      "url": "https://www.cenobots.com/about-us",
+      "supports": "CenoBots品牌、商用清洁机器人定位、S5/L3/L4/L50/SP50产品、30多个国家部署及新加坡/美国/荷兰/中国子公司。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "前达摩院自动驾驶负责人王刚创业机器人方向，高瓴光速投资",
+      "url": "https://www.sohu.com/a/576026016_320333",
+      "supports": "王刚为前阿里达摩院自动驾驶实验室负责人；新生纪智能科技2022-02-23在杭州成立；高瓴资本、光速中国为股东。",
+      "published_date": "2022-08-11",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "阿里小蛮驴之父再创业项目曝光，机器人方向，高瓴光速投资",
+      "url": "https://www.36kr.com/p/1865094690771462",
+      "supports": "王刚履历（阿里AI实验室首席科学家、达摩院自动驾驶实验室负责人、小蛮驴总经理）与新生纪成立、股东结构。",
+      "published_date": "2022-08-10",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "新生纪智能",
+    "original_track": "08",
+    "original_subtrack": "前阿里达摩院员工创业：商用清洁机器人"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "前达摩院自动驾驶负责人王刚创办的机器人公司，虽以清洁硬件落地，但创始人来源与技术路线明确，纳入第一波观察。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-cenobots-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.cenobots.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "CenoBots",
+        "role": "公司官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网具名CenoBots与清洁机器人产品；页面未展示中文公司全称或创始人。"
+    }
+  ],
+  "people": [
+    {
+      "name": "王刚",
+      "role": "创始人",
+      "background": "哈尔滨工业大学本科、UIUC博士，曾任南洋理工大学终身教授；2017年加入阿里巴巴，任AI实验室首席科学家、达摩院自动驾驶实验室负责人、小蛮驴公司总经理；2022年离职创办新生纪智能（现CenoBots）。",
+      "previous_firms": [
+        "阿里巴巴",
+        "达摩院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02",
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份与履历由搜狐/猎云网与36氪2022年报道支持；官网未列创始团队，未取得个人公开主页。"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "china-telecom-xingchen",
+  "name": "星辰大模型 / 中国电信",
+  "aliases": [
+    "星辰",
+    "星辰大模型",
+    "TeleChat",
+    "XingChen"
+  ],
+  "category_id": "01",
+  "focus": "中国电信旗下天翼 AI 自研的全模态大模型与智能体平台，覆盖语义、语音、视觉与多模态",
+  "products": "星辰语义大模型（Xing4.0-29B-A4B、TeleChat3-438B-A24B）、星辰语音大模型、星辰视觉大模型、星辰多模态大模型；星辰超级智能体 TeleAgent、星小辰 App、花卷数字人、天翼 AI 眼镜、星辰视觉大模型一体机等。",
+  "locations_text": "北京市西城区（天翼 AI 官网公示公司地址）",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以全国产化万卡集群训练和电信行业场景为主要路径，与互联网通用模型厂商路线不同；本条不采用官网「首个」等表述作独立排名。",
+    "peer_names": [
+      "九天 / 中国移动",
+      "元景 / 中国联通"
+    ]
+  },
+  "investment": {
+    "summary": "未找到中电信人工智能科技（北京）有限公司的独立股权融资披露；其为天翼 AI 官网公示的运营主体，本条不把集团投入写成外部融资。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": "https://www.teleai.com.cn/",
+    "careers_url": "https://app.mokahr.com/social-recruitment/chinatelecomai/72380#/",
+    "recruitment_email": null,
+    "other_email": "DataAiTech-service@chinatelecom.cn",
+    "other_email_purpose": "天翼 AI 官网公示的服务／商务邮箱"
+  },
+  "notes": "只研究星辰具名大模型及其专业公司，不重复建中国电信集团档案。官网页脚公示运营主体为中电信人工智能科技（北京）有限公司；模型、产品与地址均取自该官网。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "天翼 AI 开放平台 - 中国电信",
+      "url": "https://www.teleai.com.cn/",
+      "supports": "星辰语义、语音、视觉、多模态大模型及 Xing4.0-29B-A4B、TeleChat3-438B-A24B 等模型；TeleAgent、星小辰、花卷数字人、天翼 AI 眼镜等应用；页脚公示运营主体为中电信人工智能科技（北京）有限公司，地址北京市西城区，并提供社会招聘链接与 DataAiTech-service@chinatelecom.cn 邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "星辰大模型 / 中国电信",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "天翼 AI 官网持续披露星辰模型、智能体与专业公司主体，作为现有电信巨头内部具名 AI 业务单元列入 later；不据此判断集团整体 AI 能力。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "corporate_subsidiary",
+    "parent_platform_ids": [
+      "china-telecom"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "天翼 AI 官网自述为「中国电信旗下开展人工智能业务的科技型、能力型、平台型专业公司」，页脚具名中电信人工智能科技（北京）有限公司，确认为中国电信体系专业公司；本条按子公司记录。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

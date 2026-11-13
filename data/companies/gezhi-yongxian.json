@@ -1,0 +1,97 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "gezhi-yongxian",
+  "name": "格致涌现 / Gezhi",
+  "aliases": [
+    "格致涌现",
+    "杭州格致涌现企业管理有限公司",
+    "格致涌现（杭州）科技有限责任公司",
+    "Gezhi Yongxian"
+  ],
+  "category_id": "10",
+  "founded": {
+    "year": 2026,
+    "basis": "新浪财经与腾讯新闻2026-10-15报道：杭州格致涌现企业管理有限公司注册成立于2026年9月1日，格致涌现（杭州）科技有限责任公司于9月3日注册。"
+  },
+  "focus": "AI for Science 科学模型与智能体的独立商业化",
+  "products": "推进达摩院期间研发的“灵枢”系列科学模型商业化，覆盖医疗、材料与虚拟细胞方向；公开报道未披露独立产品名与客户。",
+  "locations_text": "杭州；具体办公地址与团队规模未披露",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以达摩院科学模型为技术起点做独立商业化，聚焦AI for Science；与通用大模型公司或AI制药管线公司不同，商业模式仍待披露。",
+    "peer_names": [
+      "百图生科 BioMap",
+      "深势科技 DP Technology",
+      "英矽智能 Insilico Medicine"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10-15报道称公司已获头部投资机构投资，但具体金额、投资方与轮次均未披露；不补造轮次或金额。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "未找到可确认的独立官网、招聘入口或公开产品页，故网站与渠道字段留空。创始人荣钰离职后创业；公开报道未说明阿里巴巴持股、IP转让或业务拆分，不认定为分拆。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "突发！阿里达摩院AI for Science负责人，离职创业",
+      "url": "https://finance.sina.com.cn/roll/2026-10-15/doc-inivhyaq1414229.shtml",
+      "supports": "荣钰为阿里达摩院科学智能负责人；离职创办格致涌现；杭州格致涌现企业管理有限公司2026-09-01成立，注册资本10万元，荣钰任法人；公司已获头部机构投资但金额未披露。",
+      "published_date": "2026-10-15",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "曝阿里达摩院科学智能负责人荣钰离职创业",
+      "url": "https://news.qq.com/rain/a/20261015A0BZ4J00",
+      "supports": "格致涌现（杭州）科技有限责任公司2026-09-03注册；荣钰履历（腾讯AI Lab、达摩院基础智能中心/语言与科学AI实验室）与灵枢系列模型。",
+      "published_date": "2026-10-15",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "格致涌现",
+    "original_track": "10",
+    "original_subtrack": "前阿里达摩院员工创业：AI for Science"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "前达摩院科学智能负责人荣钰创办的AI for Science公司，技术来源与方向明确，但融资、产品与团队披露有限，先纳入第一波观察。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "荣钰",
+      "role": "创始人",
+      "background": "香港中文大学系统工程与工程管理博士，研究图神经网络、几何深度学习与AI for Science；2017–2024年在腾讯AI Lab任专家研究员，2024年6月加入阿里达摩院，任基础智能中心资深技术专家、语言与科学AI实验室负责人，主导灵枢系列科学模型；2026年离职创办格致涌现。",
+      "previous_firms": [
+        "阿里巴巴",
+        "达摩院",
+        "腾讯AI Lab"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份、履历与创业由两家媒体2026-10-15报道交叉支持；未取得个人公开主页或公司官网团队页。"
+    }
+  ]
+}

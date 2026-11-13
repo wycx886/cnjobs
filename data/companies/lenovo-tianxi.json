@@ -1,0 +1,74 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "lenovo-tianxi",
+  "name": "天禧 / 联想",
+  "aliases": [
+    "天禧",
+    "天禧个人超级智能体",
+    "Lenovo Tianxi"
+  ],
+  "category_id": "04",
+  "focus": "联想面向 PC 的个人超级智能体，整合系统操控、搜索、翻译、写作与本地知识库",
+  "products": "天禧个人超级智能体：AI 操控、AI 搜索、AI 翻译、AI 写作、AI 服务、个人知识库与模型广场；模型广场集成 DeepSeek、通义千问、文心一言、豆包、Kimi 等第三方模型。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以 PC 系统级入口和第三方模型聚合为特点，与单一模型厂商的自有助手不同；本条只记录官方用户指南中的功能，不评价实际体验。",
+    "peer_names": [
+      "Copilot+ PC / 微软",
+      "小爱 / 小米"
+    ]
+  },
+  "investment": {
+    "summary": "联想内部产品项目，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究联想天禧具名个人智能体，不重复建联想集团档案。功能与集成模型清单来自联想官方机型用户指南；未取得独立产品站、团队负责人或用户量。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "ThinkPad X9-15 1st Gen 用户指南：天禧个人超级智能体",
+      "url": "https://download.lenovo.com/manual/thinkpad_x9_15/user_guide/zh-cn/Tianxi.html",
+      "supports": "天禧为联想设备上的个人超级智能体，支持 AI 操控、AI 搜索、AI 翻译、AI 写作、AI 服务、知识库与模型广场；模型广场集成 DeepSeek、通义千问、文心一言、豆包、Kimi 等；页面注明 Lenovo 不会通过该应用收集个人数据。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "天禧 / 联想",
+    "original_track": "04",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "联想官方用户指南以「天禧个人超级智能体」具名并详列功能，作为现有终端巨头内部 AI 产品列入 later；不据此判断独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "lenovo"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "天禧由联想官方机型用户指南承载，文档域名属 Lenovo 并注明 Lenovo 的数据处理口径，确认为联想内部个人智能体产品；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

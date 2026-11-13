@@ -1,0 +1,118 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "lingguang",
+  "name": "灵光 / 蚂蚁集团",
+  "aliases": [
+    "灵光",
+    "灵光AI",
+    "Lingguang",
+    "蚂蚁灵光"
+  ],
+  "category_id": "04",
+  "founded": {
+    "year": 2025,
+    "basis": "IT之家2025-11-18报道：蚂蚁集团当日官宣推出全模态通用AI助手“灵光”。"
+  },
+  "focus": "全模态通用AI助手与个人事务托管",
+  "products": "灵光对话、灵光闪应用、灵光开眼；2026-10-27上线灵光2.0，支持主动识别需求、跨应用事务托管与执行。",
+  "locations_text": "杭州；产品为App与网页版，团队城市待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：灵光从全模态内容生成切入，2.0转向持续事务托管；与单轮问答助手或单一内容工具不同，但用户与留存仍待长期观察。",
+    "peer_names": [
+      "豆包 / 字节跳动",
+      "千问 / 阿里巴巴",
+      "元宝 / 腾讯"
+    ]
+  },
+  "investment": {
+    "summary": "蚂蚁集团内部个人AI助手产品，不适用独立主体股权融资字段；未见独立外部融资披露。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.lingguang.com/",
+    "careers_url": "https://talent.antgroup.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是产品线档案，不重复建蚂蚁集团档案。用户规模2000万为蚂蚁集团2026-11-08对外披露、IT之家转述；事务托管量与执行次数不是收入、留存或DAU口径。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "灵光AI-蚂蚁旗下智能全模态AI助手",
+      "url": "https://www.lingguang.com/",
+      "supports": "产品身份、全模态AI助手定位与官网入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "业内首个：蚂蚁集团推出全模态通用AI助手“灵光”，自然语言30秒生成小应用",
+      "url": "https://www.ithome.com/0/898/173.htm",
+      "supports": "2025-11-18蚂蚁集团官宣推出灵光；首批功能为灵光对话、灵光闪应用、灵光开眼。",
+      "published_date": "2025-11-18",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "蚂蚁集团：旗下AI助手灵光用户数量已突破2000万，2.0版本上线一周已帮助用户管理超116万项事务",
+      "url": "https://www.ithome.com/1/024/010.htm",
+      "supports": "2026-10-27灵光2.0上线；2026-11-08披露用户突破2000万、一周托管超116万项事务、执行超360万次任务。",
+      "published_date": "2026-11-08",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "灵光",
+    "original_track": "04",
+    "original_subtrack": "新增公开研究：大厂AI个人助手"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "蚂蚁集团旗下具名个人AI助手产品，作为大厂面向个人的AI单元建档；不表示独立法人或对外融资。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-lingguang-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.lingguang.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "灵光",
+        "role": "产品官网与网页版入口"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "页面标题与描述确认“蚂蚁旗下智能全模态AI助手”；网页版聊天入口为 /chat。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "ant-group"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "灵光为蚂蚁集团旗下个人AI助手产品；IT之家报道由蚂蚁集团官宣推出，官网标注蚂蚁旗下。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

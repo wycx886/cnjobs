@@ -1,0 +1,141 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "yuanbao",
+  "name": "元宝 / 腾讯",
+  "aliases": [
+    "腾讯元宝",
+    "Yuanbao"
+  ],
+  "category_id": "04",
+  "focus": "腾讯面向个人的 AI 助手产品，提供对话、内容生成与下载入口",
+  "products": "腾讯元宝网页端与下载中心；页面提供对话输入区并标注“内容由AI生成，仅供参考”。本轮未取得官方披露的用户量、模型版本或独立团队负责人。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：元宝是腾讯面向 C 端的 AI 助手入口，与混元的模型 API 产品线分层；本条只记录公开产品入口，不把元宝等同于混元团队或独立公司。",
+    "peer_names": [
+      "文心助手 / 百度",
+      "豆包 / 字节跳动"
+    ]
+  },
+  "investment": {
+    "summary": "腾讯官方域名下的 C 端 AI 助手产品，未见独立法人或独立融资披露；不适用独立主体股权融资字段。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://yuanbao.tencent.com/",
+    "careers_url": "https://careers.tencent.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是腾讯集团 C 端 AI 助手业务单元档案，不重复建集团档案。官方网页为动态应用，公开信息有限：本轮实际打开 yuanbao.tencent.com 及 /download 均只返回产品对话界面与下载入口，未取得发布时间、用户量或团队名单，相关字段留空。招聘入口使用腾讯集团统一招聘站，不表示元宝团队岗位单独发布。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "腾讯元宝官方网站",
+      "url": "https://yuanbao.tencent.com/",
+      "supports": "腾讯域名下的“元宝”AI 助手产品入口，页面含对话区、下载中心与“内容由AI生成，仅供参考”提示；不证明用户量或团队编制。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "腾讯元宝下载中心",
+      "url": "https://yuanbao.tencent.com/download",
+      "supports": "元宝官方下载入口存在；页面由同一 Web 应用返回，未披露版本说明或运营数据。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "腾讯招聘官网",
+      "url": "https://careers.tencent.com/",
+      "supports": "腾讯集团统一招聘入口；不单独证明元宝团队当前开放岗位。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s04",
+      "title": "36氪：腾讯AI助手「元宝」团队调整至CSIG，腾讯会议负责人带队",
+      "url": "https://www.36kr.com/p/3115420867875072",
+      "supports": "元宝于2024-05-30正式上线；2025年1月产品团队整体调整至CSIG，由腾讯会议负责人吴祖榕负责产品能力与体验，混元研发团队继续提供技术支持；混元当时已接入超过700个腾讯业务和场景。",
+      "published_date": "2025-01-17",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s05",
+      "title": "封面新闻：腾讯元宝日活跃用户超5000万 月活跃用户达1.14亿",
+      "url": "https://news.qq.com/rain/a/20260219A0439G00",
+      "supports": "2026-02-18腾讯宣布元宝DAU超5000万、MAU达1.14亿；春节红包活动期间主会场累计抽奖次数超36亿次。",
+      "published_date": "2026-02-19",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "腾讯元宝",
+    "original_track": "04",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "腾讯集团具名 C 端 AI 助手产品，作为现有巨头的 AI 业务单元单独建档；公开信息有限，仅记录可核实的产品入口。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-careers-tencent-yuanbao",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://careers.tencent.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "腾讯集团",
+        "role": "集团统一招聘入口；非元宝团队专属"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "腾讯集团招聘站，页面未单独列出元宝团队。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "tencent"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "产品运行在 tencent.com 子域名并以腾讯元宝名义提供，按腾讯集团内 C 端产品项目记录；本轮未找到独立法人、独立团队或融资证据。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "吴祖榕",
+      "role": "腾讯元宝产品负责人、腾讯会议负责人",
+      "previous_firms": [],
+      "background": "腾讯会议从0到1的主要孵化者之一；2025年1月元宝产品团队整体调整至CSIG后，由吴祖榕负责元宝的产品能力建设和体验优化，腾讯混元研发团队继续提供模型支持。",
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "职务与分工来自36氪报道的内部组织调整，报道称腾讯未回应；未取得第二个独立公开来源或个人主页。"
+    }
+  ]
+}

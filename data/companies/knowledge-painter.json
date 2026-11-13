@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "knowledge-painter",
+  "name": "知识画家 / 初心智慧",
+  "aliases": [
+    "知识画家",
+    "Knowledge Painter",
+    "北京初心智慧科技有限公司",
+    "初心智慧"
+  ],
+  "category_id": "04",
+  "founded": {
+    "year": 2024,
+    "basis": "多知2025-12-22报道冯欣伟2024年创办北京初心智慧科技有限公司并推出知识画家；工商登记日期未在本次来源中核实。"
+  },
+  "focus": "面向教育与知识传播的生成式交互知识引擎，把知识点生成为可交互的多模态教学视频",
+  "products": "知识画家（Knowledge Painter）：用户输入知识点与受众偏好后，由多 Agent 生成动画、讲解与交互式教学视频；产品内设「知识广场」社区，支持近二十种语言。",
+  "locations_text": "北京（报道称获清华 x-lab 校内办公空间；工商注册地址未核实）。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与通用视频生成工具不同，知识画家把生成能力约束在教学脚本、分镜与交互上，面向教师、家长、知识博主与企业培训；产品成熟度与留存未公开。",
+    "peer_names": [
+      "Videotutor",
+      "飞象老师"
+    ]
+  },
+  "investment": {
+    "summary": "多知2025-12-22报道，知识画家在2024年获得奇绩创坛投资；轮次名称、金额与估值均未披露，故不建融资轮次。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "尚未找到可核实的官方网站、招聘入口或工商股东信息；当前事实主要来自创始人访谈报道。公司为独立创业，未见百度拆分或持股证据，不标 corporate_spinout。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "多知：获奇绩创坛投资，他从百度离职要用AI将知识画成「记忆面包」？",
+      "url": "https://www.toutiao.com/article/7586563334414041606/",
+      "supports": "冯欣伟为清华大学硕士、前百度T8、文心一言核心成员，2024年从百度离职创办北京初心智慧科技有限公司并推出知识画家；2024年获奇绩创坛投资；产品形态、团队规模与目标市场。",
+      "published_date": "2025-12-22",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "知识画家",
+    "original_track": "04",
+    "original_subtrack": "新增公开研究：百度文心前员工AI教育创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "创始人为前百度T8、文心一言核心成员冯欣伟，产品直接承接其 NLP 与知识图谱背景；有公开孵化器投资与产品，作为百度文心前员工创业候选纳入第一波研究。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "冯欣伟",
+      "role": "创始人兼CEO",
+      "background": "清华大学硕士，前百度T8、文心一言核心成员，拥有10年以上NLP算法研发经验；2024年从百度离职创办北京初心智慧科技有限公司，推出知识画家。",
+      "previous_firms": [
+        "百度 文心一言"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份、职务与百度履历来自单一创始人访谈报道；未取得第二个独立公开来源或个人主页，故标 partial。"
+    }
+  ]
+}

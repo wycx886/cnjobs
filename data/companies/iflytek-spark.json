@@ -1,0 +1,84 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "iflytek-spark",
+  "name": "星火大模型 / 科大讯飞",
+  "aliases": [
+    "星火",
+    "讯飞星火",
+    "星火大模型",
+    "iFlytek Spark"
+  ],
+  "category_id": "01",
+  "focus": "科大讯飞与认知智能全国重点实验室研发的通用大模型系列，并向教育、医疗、科研等行业延伸",
+  "products": "讯飞星火大模型：认知智能全国重点实验室称 2023-05-06 首次发布并持续迭代，2024-10-24 发布星火 4.0 Turbo；基于星火底座研发教育、医疗行业大模型与科技文献大模型。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以国家级重点实验室为研发平台，强调教育、医疗、翻译等场景落地；本条不采用发布方的「超过 GPT-4 Turbo」等对比结论。",
+    "peer_names": [
+      "文心 / 百度",
+      "通义千问 / 阿里巴巴"
+    ]
+  },
+  "investment": {
+    "summary": "科大讯飞内部大模型产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://xinghuo.xfyun.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "rdg_kyb@iflytek.com",
+    "other_email_purpose": "认知智能全国重点实验室官网公示邮箱"
+  },
+  "notes": "只研究星火具名大模型产品线，不重复建科大讯飞集团档案。发布时间与迭代口径来自认知智能全国重点实验室官方简介；星火官网为 JS 应用，正文未完整读取。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "认知智能全国重点实验室：实验室简介",
+      "url": "https://cogskl.iflytek.com/about",
+      "supports": "实验室由科大讯飞与中国科学技术大学联合共建，2022 年成为首批全国重点实验室；2022-12 启动专项攻关，2023-05-06 首次发布星火大模型并持续迭代，2024-10-24 发布星火 4.0 Turbo；基于星火研发教育、医疗行业大模型与科技文献大模型。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "讯飞星火官网",
+      "url": "https://xinghuo.xfyun.cn/",
+      "supports": "站点标题为「讯飞星火-懂你的AI助手」，确认对外产品入口；页面为 JS 应用，正文未完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "星火大模型 / 科大讯飞",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "认知智能全国重点实验室官方简介持续披露星火大模型的发布与迭代，作为科大讯飞具名模型产品线列入 later；不据此判断组织独立性。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "iflytek"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "星火大模型由科大讯飞参与共建的认知智能全国重点实验室启动并发布，确认为科大讯飞体系内模型产品线；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

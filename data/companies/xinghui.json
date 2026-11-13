@@ -1,0 +1,95 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "xinghui",
+  "name": "星绘 / 字节跳动",
+  "aliases": [
+    "星绘",
+    "星绘 AI",
+    "Xinghui"
+  ],
+  "category_id": "05",
+  "focus": "字节跳动体系内的 AI 人像创作产品，覆盖 AI 分身、写真、证件照与图像／视频生成",
+  "products": "App Store 描述列 AI 分身、质感大片、传图做同款、趣味变宝宝、最美证件照、照片动起来、视频换装、AI 修图与 AI 生图；应用标题为「星绘 - 豆包旗下 AI 分身写真图片视频」；App Store 显示 iOS 版于 2024-04-24 首次上架。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：星绘以 AI 分身写真与模板化人像生成切入，和妙鸭相机、美图等影像应用同属 AI 人像创作赛道。具体用户量、模型版本和商业化未在本条做横向评测。",
+    "peer_names": [
+      "妙鸭相机",
+      "美图秀秀",
+      "Remini"
+    ]
+  },
+  "investment": {
+    "summary": "未找到星绘作为独立主体披露的股权融资；App Store 开发者与豆包、猫箱同为 Beijing Chuntian Zhiyun Technology Co., Ltd.。按字节体系产品项目记录，不将内部投入写成融资。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是字节跳动体系内 AI 人像产品档案，不重复建字节跳动集团档案。App Store 标题直接写「豆包旗下」，开发者与豆包、猫箱相同；字节跳动官网将豆包列为自有 AI 产品，故记录为字节体系产品项目。未找到星绘独立官网或字节跳动官方归属表述，组织关系标 reported。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "App Store：星绘 - 豆包旗下 AI 分身写真图片视频",
+      "url": "https://apps.apple.com/cn/app/%E6%98%9F%E7%BB%98-%E8%B1%86%E5%8C%85%E6%97%97%E4%B8%8B-ai-%E5%88%86%E8%BA%AB%E5%86%99%E7%9C%9F%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91/id6475072892",
+      "supports": "App Store 标题、开发者 Beijing Chuntian Zhiyun Technology Co., Ltd.、iOS 首次发布 2024-04-24 及 AI 分身、写真、证件照、视频换装等功能描述。",
+      "published_date": "2024-04-24",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "App Store：豆包 - 生活工作 AI 助手",
+      "url": "https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E7%94%9F%E6%B4%BB%E5%B7%A5%E4%BD%9C-ai-%E5%8A%A9%E6%89%8B/id6459478672",
+      "supports": "豆包 App Store 条目显示同一开发者 Beijing Chuntian Zhiyun Technology Co., Ltd.，用于说明星绘与豆包由同一主体发行。",
+      "published_date": "2023-08-24",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "字节跳动：产品与服务",
+      "url": "https://www.bytedance.com/zh/products-services",
+      "supports": "字节跳动官网将豆包列为自有 AI 应用，称其基于字节跳动自研大语言模型；与 s02 共同支持发行主体的字节体系归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "星绘",
+    "original_track": "05",
+    "original_subtrack": "大厂AI业务单元：AI人像创作"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "字节跳动体系内具名 AI 人像创作产品，作为现有巨头的 AI 业务单元单独建档；组织归属仅有 App Store 标题与发行主体链，保留 reported。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "bytedance"
+    ],
+    "relationship_status": "reported",
+    "summary": "星绘 App Store 标题称「豆包旗下」，开发者与豆包同为 Beijing Chuntian Zhiyun Technology Co., Ltd.；字节跳动官网将豆包列为自有 AI 产品。由此记录为字节体系产品项目，但未找到星绘独立官网或字节跳动官方归属表述，故标 reported。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

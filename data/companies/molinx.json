@@ -1,0 +1,120 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "molinx",
+  "name": "睦灵科技 MolinX",
+  "aliases": [
+    "睦灵科技",
+    "MolinX",
+    "睦灵科技（杭州）有限公司"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2026,
+    "basis": "腾讯新闻引述工商信息：睦灵科技（杭州）有限公司成立于2026年6月25日。"
+  },
+  "focus": "物理AI基础模型与具身递归进化（Physical RSI），让机器人在真实环境交互反馈中持续改进任务能力。",
+  "products": "公开产品尚未披露；公开报道称公司瞄准Physical RSI（具身递归进化）方向，团队构成与融资情况未披露。",
+  "locations_text": "杭州余杭区（工商注册地）；具体办公地址未公开。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与以本体或单一操作任务切入的具身智能公司不同，睦灵科技公开定位在物理AI基础模型与自进化闭环；产品、客户与真实任务表现均未公开，本档不作横向评测。",
+    "peer_names": [
+      "星海图",
+      "智元机器人"
+    ]
+  },
+  "investment": {
+    "summary": "截至2026-11-12公开报道，睦灵科技的具体团队构成与融资情况未披露；未找到可核实的融资轮次、金额与投资方，不写成已融资或已获投。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是大厂AI团队前成员创业公司档案，不是阿里巴巴或达摩院的业务单元。公司由前阿里巴巴达摩院乐云具身智能平台负责人陈明修创办，2026-06-25注册；前达摩院Rynn系列模型负责人李昕随后参与创业。公开报道未披露官网、招聘入口、完整团队与融资，相关字段留空。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "前阿里达摩院具身平台负责人陈明修离职创业，Physical RSI赛道加速升温",
+      "url": "https://news.qq.com/rain/a/20261028A0B0DF00",
+      "supports": "睦灵科技（杭州）有限公司成立于2026-06-25、注册资本约156.25万元、法定代表人为陈明修、杭州余杭；陈明修曾任阿里达摩院乐云具身智能平台负责人及Rokid视觉算法负责人；公司方向为Physical RSI；截至发稿团队与融资未披露。",
+      "published_date": "2026-10-28",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "阿里达摩院Rynn系列模型负责人李昕离职创业 聚焦物理AI基础模型",
+      "url": "https://www.guandian.cn/article/20261112/626811.html",
+      "supports": "李昕已离职创业；睦灵科技MolinX于2026年6月成立，创始人为阿里达摩院前具身平台负责人陈明修；李昕负责Rynn系列模型与算法研发。",
+      "published_date": "2026-11-12",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "达摩院具身模型负责人李昕离职创业",
+      "url": "https://www.donews.com/news/detail/1/6771674.html",
+      "supports": "李昕为阿里达摩院Rynn系列模型负责人，通过阿里星计划加入达摩院；睦灵科技聚焦物理AI基础模型自进化，陈明修为创始人，两人此前在多个模型项目中合作。",
+      "published_date": "2026-11-12",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "睦灵科技 MolinX",
+    "original_track": "08",
+    "original_subtrack": "大厂AI团队前成员创业：达摩院具身智能"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "watchlist",
+    "rationale": "前阿里巴巴达摩院具身平台与Rynn模型负责人创办的物理AI基础模型公司；成立时间短、产品与融资未公开，先列入观察。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "people": [
+    {
+      "name": "陈明修",
+      "role": "创始人",
+      "background": "曾任阿里巴巴达摩院乐云具身智能平台负责人、具身智能实验室高级算法专家；更早任Rokid视觉算法负责人，从零搭建AR眼镜研发团队。2026年在杭州创办睦灵科技，方向为Physical RSI。",
+      "previous_firms": [
+        "阿里巴巴达摩院",
+        "Rokid"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "创始人身份、达摩院与Rokid履历由腾讯新闻及观点网报道支持；未取得个人公开主页与公司官方确认。",
+      "historical_source_ids": []
+    },
+    {
+      "name": "李昕",
+      "role": "联合创始人（公开报道称参与创业）",
+      "background": "阿里达摩院Rynn系列模型与算法研发负责人，2021年通过阿里星计划加入达摩院，研究方向从自然语言理解、视频多模态转向物理AI。2026年离职后参与创办睦灵科技。",
+      "previous_firms": [
+        "阿里巴巴达摩院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02",
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "报道称其“参与创业”“联合创立”，公司官方尚未披露职务与团队名单，故职务名称保留不确定性。",
+      "historical_source_ids": []
+    }
+  ]
+}

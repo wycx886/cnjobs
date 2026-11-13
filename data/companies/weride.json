@@ -1,0 +1,174 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "weride",
+  "name": "文远知行 WeRide",
+  "aliases": [
+    "文远知行",
+    "WeRide",
+    "WeRide.ai"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2017,
+    "basis": "公司官网 About 页称 WeRide 成立于2017年（Established in 2017）。"
+  },
+  "focus": "L2至L4级自动驾驶技术及Robotaxi、Robobus、Robosweeper、Robovan等产品",
+  "products": "官网产品页列 ROBOTAXI GXR、ROBOBUS LCR 2.0、WRD 3.0 一段式端到端 ADAS、ROBOSWEEPER S1、ROBOVAN W5；About 页称业务覆盖13个国家60多个城市，并在中国、阿联酋、新加坡、法国、瑞士、沙特、比利时、美国八个市场取得自动驾驶许可。",
+  "locations_text": "官网 About 页称业务覆盖13个国家60多个城市；未在本次核验中列出单一总部地址。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：文远知行以多品类自动驾驶产品跨城市运营，属于独立自动驾驶公司；创始人有百度自动驾驶履历，但本条不把履历写成百度分拆或持股关系。",
+    "peer_names": [
+      "小马智行 Pony.ai",
+      "元戎启行 DeepRoute.ai"
+    ]
+  },
+  "investment": {
+    "summary": "公司官网 About 页称 WeRide 为 NASDAQ: WRD、HKEX: 0800 双重主要上市公司；本轮未核对招股书或逐轮融资披露，不建 rounds。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.weride.ai/",
+    "careers_url": "https://www.weride.ai/careers",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是前百度自动驾驶成员创办的独立公司档案，不修改百度集团档案。创始人履历、成立年份、上市地与业务覆盖来自公司官网 About 页；产品名称来自官网导航。未取得具体融资金额与完整股东名单，相关字段留空。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "WeRide 官网：About us",
+      "url": "https://www.weride.ai/about",
+      "supports": "2017年成立；NASDAQ: WRD、HKEX: 0800 双重主要上市；业务覆盖13国60多城及八个市场自动驾驶许可；Tony Han 为创始人兼CEO，曾任百度自动驾驶部门首席科学家；Yan Li 为联合创始人兼CTO，曾在Facebook和Microsoft工作。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "WeRide 官网首页",
+      "url": "https://www.weride.ai/",
+      "supports": "ROBOTAXI GXR、ROBOBUS LCR 2.0、WRD 3.0、ROBOSWEEPER S1、ROBOVAN W5 等产品线及 WeRide One 技术平台入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "WeRide 官网招聘页",
+      "url": "https://www.weride.ai/careers",
+      "supports": "公司官方招聘入口；不表示具体岗位当前开放。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s04",
+      "title": "WeRide About 页 Follow us 链到官方 X @WeRide_ai",
+      "url": "https://www.weride.ai/about",
+      "supports": "About 页 Follow us 与站点 social 数据中的链接为 https://x.com/WeRide_ai。X 简介与该页开篇表述一致：WeRide (NASDAQ: WRD, HKEX: 0800) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4；资料网站 weride.ai。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "文远知行 WeRide",
+    "original_track": "08",
+    "original_subtrack": "前百度自动驾驶成员创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "由前百度自动驾驶部门首席科学家创办的独立自动驾驶公司，官方来源明确创始人履历与业务边界，作为新进创业公司建档；不认定为百度分拆。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-careers-weride",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.weride.ai/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "WeRide",
+        "role": "公司官方招聘入口"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "About 页导航链接的招聘页；未逐一核验岗位开放状态。"
+    },
+    {
+      "id": "ch-x-weride",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/WeRide_ai",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "WeRide.ai",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官网 About 与页脚社交链接指向该账号；蓝V，约 4597 关注。组织账号，不进入 people[]。"
+    }
+  ],
+  "organizational_context": {
+    "form": "independent_organization",
+    "parent_platform_ids": [],
+    "relationship_status": "confirmed",
+    "summary": "公司官网将 WeRide 叙述为2017年独立成立的企业；创始人 Tony Han 有百度自动驾驶部门首席科学家履历，但本轮未找到百度分拆、控股或孵化证据，故按独立创业公司记录，parent_platform_ids留空。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "韩旭（Tony Han）",
+      "role": "创始人兼CEO",
+      "background": "计算机视觉、机器学习与语音识别专家；创立 WeRide 前曾任百度自动驾驶部门首席科学家，并曾任密苏里大学电子与计算机工程终身教授。",
+      "previous_firms": [
+        "百度"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份、职务与百度履历取自公司官网 About 页；未取得个人公开主页。"
+    },
+    {
+      "name": "李岩（Yan Li）",
+      "role": "联合创始人兼CTO",
+      "background": "计算机视觉与自动驾驶技术专家；曾在 Facebook 和 Microsoft 工作，是微软亚洲研究院（MSRA）早期成员。",
+      "previous_firms": [
+        "Facebook",
+        "Microsoft",
+        "微软亚洲研究院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份、职务与履历取自公司官网 About 页；未取得个人公开主页。"
+    }
+  ]
+}

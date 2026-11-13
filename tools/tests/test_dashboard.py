@@ -333,6 +333,89 @@ class DashboardTests(unittest.TestCase):
             self.assertNotIn(text, self.html)
         self.assertNotIn("featured", self.html.lower())
 
+    def test_incumbent_units_carry_parent_platform_metadata(self):
+        platforms = self.dataset.get("parent_platforms") or {}
+        units = []
+        for item in self.dataset["organizations"]:
+            context = item["record"].get("organizational_context") or {}
+            if item["class"] == "incumbents" and context.get("parent_platform_ids"):
+                units.append((item, context["parent_platform_ids"]))
+        self.assertTrue(units)
+        parent_ids = {ids[0] for _, ids in units}
+        self.assertGreaterEqual(len(parent_ids), 5)
+        self.assertIn("kuaishou", parent_ids)
+        known_ids = {org["record"]["id"] for org in self.dataset["organizations"]}
+        for item, ids in units:
+            for parent_id in ids:
+                self.assertIn(parent_id, platforms, item["record"]["id"])
+                self.assertTrue(platforms[parent_id]["name"], parent_id)
+            profile_id = platforms[ids[0]]["profile_id"]
+            if profile_id:
+                self.assertIn(profile_id, known_ids, item["record"]["id"])
+
+    def test_incumbent_directory_groups_units_under_parents(self):
+        section = self._source("incumbentSections", "maturitySections")
+        self.assertIn("parentOf(org.record)", section)
+        self.assertIn('kind: "parent"', section)
+        self.assertIn("profileIds", section)
+        self.assertIn("sectorSections(rest)", section)
+
+        listed = self._source("listSections", "sortNoteText")
+        self.assertIn("incumbentSections(rows)", listed)
+
+        head = self._source("parentHead", "renderChrome")
+        self.assertIn('class="sector-head parent-head"', head)
+        self.assertIn("母公司", head)
+        self.assertIn("个业务单元", head)
+
+        render = self._source("renderList", "renderClass")
+        self.assertIn('section.kind === "parent"', render)
+        self.assertIn("parentHead(", render)
+        self.assertIn("section.profile ? rowHtml(section.profile)", render)
+
+        self.assertIn(".parent-group{", self.html)
+        self.assertIn(".parent-head .sector-count{", self.html)
+
+    def test_business_unit_profile_shows_parent_and_form(self):
+        context = self._source("unitContext", "profileLinks")
+        self.assertIn("所属：", context)
+        self.assertIn("parent_platform_ids", context)
+        self.assertIn("label(L.forms, context.form)", context)
+
+        intro = self._source("profileIntroHtml", "profileBodyHtml")
+        self.assertIn("unitContext(org)", intro)
+
+        forms = self.dataset["labels"]["forms"]
+        self.assertEqual(forms["internal_team"], "内部团队")
+        self.assertEqual(forms["research_lab"], "研究院")
+        self.assertEqual(forms["product_project"], "产品线")
+        self.assertEqual(forms["corporate_subsidiary"], "子公司")
+        self.assertIn(".p-parent{", self.html)
+
+    def test_startup_people_label_previous_firms_as_origin(self):
+        people = self._source("peopleSection", "opportunitiesSection")
+        self.assertIn('variant === "startups" ? "出身："', people)
+        self.assertIn("previous_firms.join", people)
+        has_previous = any(
+            person.get("previous_firms")
+            for item in self.dataset["organizations"] if item["class"] == "startups"
+            for person in item["record"].get("people") or [])
+        self.assertTrue(has_previous)
+
+    def test_startup_rows_show_a_quiet_origin_mark(self):
+        info = self._source("originInfo", "originMark")
+        self.assertIn("previous_firms", info)
+        self.assertIn('title: "出身："', info)
+
+        mark = self._source("originMark", "rowHtml")
+        self.assertIn('org.class !== "startups"', mark)
+        self.assertIn("if (!info) return", mark)
+        self.assertIn('"org-origin"', mark)
+
+        row = self._source("rowHtml", "sectorHead")
+        self.assertIn("originMark(org)", row)
+        self.assertIn(".org-origin{", self.html)
+
     def test_official_sort_copy_and_investor_grouping(self):
         self.assertIn("这是本页的排序顺序", self.html)
         self.assertIn("排序：按赛道分组，组内按名称字母序（中文按拼音）", self.html)

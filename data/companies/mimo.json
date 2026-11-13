@@ -1,0 +1,104 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "mimo",
+  "name": "MiMo / 小米",
+  "aliases": [
+    "小米MiMo",
+    "Xiaomi MiMo",
+    "MiMo 大模型"
+  ],
+  "category_id": "01",
+  "focus": "小米通用智能基座模型家族，覆盖语言、多模态、语音与编程 Agent",
+  "products": "MiMo 官网当前展示 Xiaomi MiMo-V2.6-Series、MiMo-V2.5-TTS Series、MiMo Code 与 MiMo 桌面版，并提供 Web 体验与 API 接入；论文与博客列出 MiMo-V2.6、MiMo-V2-Flash、MiMo-Audio、MiMo-VL 等模型报告。页面同时列出算法研究员（预训练／后训练）、AI Infra、音频语音、多模态、数据等招聘方向。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：MiMo 以“小米通用智能基座”定位，同时提供模型、编程 Agent 与语音系列；本条只记录官网公开模型和招聘方向，不作模型能力排名。",
+    "peer_names": [
+      "混元 / 腾讯",
+      "文心 / 百度",
+      "盘古 / 华为"
+    ]
+  },
+  "investment": {
+    "summary": "MiMo 为小米集团官方模型团队与产品线，官网未披露独立法人或独立融资；不适用独立主体股权融资字段，不表示没有集团内部研发投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://mimo.xiaomi.com/zh/",
+    "careers_url": "https://mimo.xiaomi.com/zh/#joinUs",
+    "recruitment_email": null,
+    "other_email": "mimo@xiaomi.com",
+    "other_email_purpose": "MiMo 官网公开联系邮箱（页面提示“有任何问题咨询，请通过邮箱联系我们”）"
+  },
+  "notes": "本条是小米集团 AI 业务单元档案，不重复建集团档案。MiMo 官网署名为“小米MiMo团队”，页脚版权为 Xiaomi，支持内部团队与集团归属判断；页面未公开具名负责人、团队人数和用户量，相关字段留空。招聘入口是官网同一页面的“加入我们”锚点，页面列出具体岗位方向，但不表示岗位当前仍开放。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "小米 MiMo 官方网站",
+      "url": "https://mimo.xiaomi.com/zh/",
+      "supports": "MiMo 为小米通用智能基座；列出 MiMo-V2.6-Series、MiMo-V2.5-TTS Series、MiMo Code、桌面版、Web 体验与 API 接入，论文含 MiMo-V2.6 等；署名为“小米MiMo团队”，页脚版权 Xiaomi。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "小米 MiMo 官网招聘区",
+      "url": "https://mimo.xiaomi.com/zh/#joinUs",
+      "supports": "页面“加入我们”区列出算法研究员-预训练、后训练、AI Infra、音频语音、多模态、数据等方向；不表示岗位仍开放。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "小米MiMo",
+    "original_track": "01",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "小米集团具名通用智能基座团队，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-joinus-xiaomi-mimo",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://mimo.xiaomi.com/zh/#joinUs",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "小米MiMo团队",
+        "role": "MiMo 官网招聘说明区"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "官网“加入我们”区列出岗位方向，不表示岗位仍开放。"
+    }
+  ],
+  "organizational_context": {
+    "form": "internal_team",
+    "parent_platform_ids": [
+      "xiaomi"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "官网以“小米MiMo团队”署名并标注 Xiaomi 版权，按小米集团内部模型团队记录；本轮未找到独立法人、独立融资或拆分证据。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

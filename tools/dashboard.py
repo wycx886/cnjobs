@@ -58,7 +58,7 @@ LABELS = {
     "forms": {
         "independent_organization": "独立机构", "corporate_spinout": "拆分／衍生",
         "corporate_subsidiary": "子公司", "internal_team": "内部团队",
-        "research_lab": "研究实验室", "product_project": "产品项目", "unresolved": "待确认",
+        "research_lab": "研究院", "product_project": "产品线", "unresolved": "待确认",
     },
     "relationships": {"confirmed": "已确认", "reported": "媒体报道", "unresolved": "待核实"},
 }
@@ -111,6 +111,36 @@ def _logos(root):
     return mapping
 
 
+def _parent_platforms(root, records, by_id):
+    parent_ids = {
+        parent_id
+        for record in records
+        for parent_id in ((record.get("organizational_context") or {}).get("parent_platform_ids") or [])
+    }
+    listing = json.loads((Path(root) / "data/lists/incumbents.json").read_text(encoding="utf-8"))
+    platforms = {}
+    for platform in listing.get("platforms", []):
+        parent_id = platform.get("id")
+        if parent_id not in parent_ids:
+            continue
+        profile_id = platform.get("company_id")
+        if profile_id not in by_id:
+            profile_id = parent_id if parent_id in by_id else None
+        platforms[parent_id] = {
+            "id": parent_id,
+            "name": platform.get("name") or parent_id,
+            "profile_id": profile_id,
+        }
+    for parent_id in parent_ids - set(platforms):
+        record = by_id.get(parent_id)
+        platforms[parent_id] = {
+            "id": parent_id,
+            "name": (record or {}).get("name") or parent_id,
+            "profile_id": parent_id if record else None,
+        }
+    return platforms
+
+
 def build_dataset(root=ROOT):
     root = Path(root)
     selected = select(root)
@@ -158,6 +188,7 @@ def build_dataset(root=ROOT):
         "cities": _cities(records),
         "city_names": list(CITY_NAMES),
         "logos": logos,
+        "parent_platforms": _parent_platforms(root, records, by_id),
         "organizations": organizations,
     }
 
@@ -335,7 +366,11 @@ button{font:inherit;color:inherit}
 .org-cols{display:grid;grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px 130px;gap:24px;padding:14px 30px 10px 10px;border-bottom:1px solid var(--line);font-size:10px;letter-spacing:.16em;color:var(--muted)}
 .org-cols.no-meta{grid-template-columns:minmax(220px,1.15fr) minmax(0,1.9fr) 150px}
 .sector-group{margin-top:34px}
+.parent-group{margin-top:42px}
 .sector-head{display:flex;align-items:baseline;gap:11px;border-bottom:1px solid var(--line);padding:0 10px 9px}
+.parent-head{border-bottom-color:var(--ink-2)}
+.parent-head .sector-no{letter-spacing:.16em;color:var(--accent-2)}
+.parent-head .sector-count{margin-left:auto}
 .sh-icon{width:16px;height:16px;flex:0 0 auto;color:var(--accent-2);align-self:center}
 .sh-icon svg{display:block;width:100%;height:100%}
 .sector-no{font-family:var(--mono);font-size:10px;color:var(--muted)}
@@ -356,6 +391,7 @@ button{font:inherit;color:inherit}
 .cell-name{display:flex;align-items:center;gap:12px;min-width:0}
 .org-name{font-family:var(--serif);font-size:18.5px;font-weight:500;letter-spacing:.02em;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .org-listed{flex:0 0 auto;margin-left:-5px;border:1px solid rgba(127,174,154,.55);background:rgba(127,174,154,.09);border-radius:2px;padding:0 5px;font-size:9px;line-height:1.75;letter-spacing:.12em;color:#4d7565;white-space:nowrap;cursor:help}
+.org-origin{flex:0 0 auto;margin-left:-4px;border:1px solid rgba(185,135,79,.34);background:rgba(185,135,79,.06);border-radius:2px;padding:0 5px;font-size:8.5px;line-height:1.8;letter-spacing:.08em;color:var(--accent-2);white-space:nowrap;cursor:help}
 .org-desc{font-size:12.5px;color:var(--ink-2);line-height:1.55;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .cell-loc{font-size:11px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .cell-meta{font-size:10.5px;color:var(--muted);letter-spacing:.02em;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -402,6 +438,7 @@ body.profile-open .site-header,body.profile-open .home-view{display:none}
 .p-id{min-width:0}
 .p-name{font-family:var(--serif);font-size:clamp(2.6rem,5.2vw,4.4rem);font-weight:500;line-height:1.03;letter-spacing:.02em;margin:0;outline:none;overflow-wrap:anywhere}
 .p-alias{font-size:11px;color:var(--hero-muted);letter-spacing:.06em;margin:10px 0 0;overflow-wrap:anywhere}
+.p-parent{margin:16px 0 0;font-size:11px;letter-spacing:.08em;color:var(--hero-muted)}
 .p-focus{max-width:46em;margin:26px 0 0}
 .p-focus p{font-size:16.5px;line-height:1.78;color:rgba(242,238,228,.82);margin:0 0 10px}
 .p-focus p:last-child{margin-bottom:0}
@@ -1088,6 +1125,15 @@ footer a:hover{color:var(--accent-2)}
     return cat ? { id: cat.id, no: cat.id, name: cat.name, boundary: cat.boundary } : { id: "zz", no: "—", name: "未分类", boundary: "暂无主赛道记录。" };
   }
 
+  function parentInfo(id) {
+    return ((DATA.parent_platforms || {})[id]) || { id: id, name: id, profile_id: null };
+  }
+
+  function parentOf(record) {
+    var ids = ((record.organizational_context || {}).parent_platform_ids) || [];
+    return ids.length ? ids[0] : null;
+  }
+
   function sectorSections(rows) {
     var groups = new Map();
     rows.forEach(function (org) {
@@ -1098,6 +1144,45 @@ footer a:hover{color:var(--accent-2)}
     return Array.from(groups.values()).sort(function (a, b) {
       return categoryRank(a.rows[0].record) - categoryRank(b.rows[0].record);
     });
+  }
+
+  function incumbentSections(rows) {
+    var groups = new Map();
+    rows.forEach(function (org) {
+      var pid = parentOf(org.record);
+      if (!pid) return;
+      if (!groups.has(pid)) groups.set(pid, []);
+      groups.get(pid).push(org);
+    });
+    var profileIds = new Set();
+    groups.forEach(function (_, pid) {
+      var profileId = parentInfo(pid).profile_id;
+      if (profileId && BY_ID.has(profileId)) profileIds.add(profileId);
+    });
+    var parents = Array.from(groups.keys()).map(function (pid) {
+      var info = parentInfo(pid);
+      var profile = info.profile_id && BY_ID.get(info.profile_id);
+      if (profile && profile.class !== "incumbents") profile = null;
+      return {
+        kind: "parent",
+        info: info,
+        profile: profile || null,
+        rows: groups.get(pid).filter(function (org) {
+          return !profile || org.record.id !== profile.record.id;
+        }).sort(compareRows)
+      };
+    }).sort(function (a, b) {
+      return (b.rows.length - a.rows.length) || COLLATOR.compare(a.info.name, b.info.name);
+    });
+    var rest = rows.filter(function (org) {
+      var record = org.record;
+      if (parentOf(record)) return false;
+      return !profileIds.has(record.id);
+    });
+    return parents.concat(sectorSections(rest).map(function (section) {
+      section.kind = "sector";
+      return section;
+    }));
   }
 
   function maturitySections(rows) {
@@ -1120,6 +1205,7 @@ footer a:hover{color:var(--accent-2)}
   function listSections(rows) {
     if (state.sort !== "category") return [{ info: null, rows: rows }];
     if (state.cls === "investors") return maturitySections(rows);
+    if (state.cls === "incumbents") return incumbentSections(rows);
     return sectorSections(rows);
   }
 
@@ -1731,6 +1817,24 @@ footer a:hover{color:var(--accent-2)}
     return '<span class="' + cls + '" title="' + esc(info.title) + '">已上市' + date + "</span>";
   }
 
+  function originInfo(record) {
+    var firms = [];
+    (record.people || []).forEach(function (person) {
+      (person.previous_firms || []).forEach(function (firm) {
+        if (firm && firms.indexOf(firm) === -1) firms.push(firm);
+      });
+    });
+    if (!firms.length) return null;
+    return { firms: firms, first: firms[0], title: "出身：" + firms.join("、") };
+  }
+
+  function originMark(org) {
+    if (!org || org.class !== "startups") return "";
+    var info = originInfo(org.record);
+    if (!info) return "";
+    return '<span class="org-origin" title="' + esc(info.title) + '">出身 ' + esc(shorten(info.first, 18)) + "</span>";
+  }
+
   function rowHtml(org) {
     var record = org.record;
     var desc;
@@ -1756,7 +1860,7 @@ footer a:hover{color:var(--accent-2)}
     }
     var metaCell = fourth == null ? "" : '<span class="cell-meta">' + esc(fourth) + "</span>";
     return '<button type="button" class="org-row' + (isInvestors ? " no-meta" : "") + '" data-open="' + esc(record.id) + '">' +
-      '<span class="cell-name">' + logoHtml(org) + '<span class="org-name">' + esc(record.name) + "</span>" + listedMark(org) + "</span>" +
+      '<span class="cell-name">' + logoHtml(org) + '<span class="org-name">' + esc(record.name) + "</span>" + listedMark(org) + originMark(org) + "</span>" +
       '<span class="org-desc" title="' + esc(descTitle) + '">' + esc(desc) + "</span>" +
       '<span class="cell-loc">' + esc(third) + "</span>" +
       metaCell +
@@ -1775,6 +1879,18 @@ footer a:hover{color:var(--accent-2)}
       "<h3>" + title + "</h3>" +
       '<span class="sector-boundary">' + esc(info.boundary || "") + "</span>" +
       '<span class="sector-count">' + count + " 家</span></div>";
+  }
+
+  function parentHead(info, count) {
+    var profile = info.profile_id && BY_ID.get(info.profile_id);
+    var title = profile && profile.class === "incumbents" ?
+      '<button type="button" class="sector-link" data-open="' + esc(profile.record.id) + '">' + esc(info.name) + "</button>" :
+      esc(info.name);
+    return '<div class="sector-head parent-head">' +
+      '<span class="sh-icon" aria-hidden="true">' + iconSvg("all") + "</span>" +
+      '<span class="sector-no">母公司</span>' +
+      "<h3>" + title + "</h3>" +
+      '<span class="sector-count">' + count + " 个业务单元</span></div>";
   }
 
   function renderChrome() {
@@ -1812,6 +1928,11 @@ footer a:hover{color:var(--accent-2)}
       return;
     }
     listEl.innerHTML = listSections(rows).map(function (section) {
+      if (section.kind === "parent") {
+        var parentBody = (section.profile ? rowHtml(section.profile) : "") + section.rows.map(rowHtml).join("");
+        return '<section class="sector-group parent-group" aria-label="' + esc(section.info.name) + '">' +
+          parentHead(section.info, section.rows.length) + parentBody + "</section>";
+      }
       var body = section.rows.map(rowHtml).join("");
       if (!section.info) {
         return '<section class="sector-group" aria-label="机构列表">' + body + "</section>";
@@ -2157,6 +2278,16 @@ footer a:hover{color:var(--accent-2)}
     return '<div class="p-focus">' + (paragraphs(record.focus) || '<p class="muted">档案尚未补充简介。</p>') + "</div>";
   }
 
+  function unitContext(org) {
+    if (org.class !== "incumbents") return "";
+    var context = org.record.organizational_context;
+    var ids = (context && context.parent_platform_ids) || [];
+    if (!ids.length) return "";
+    var names = ids.map(function (id) { return parentInfo(id).name; });
+    var form = context.form ? label(L.forms, context.form) : "";
+    return '<p class="p-parent">所属：' + esc(names.join("、")) + (form ? " · " + esc(form) : "") + "</p>";
+  }
+
   function profileLinks(org) {
     var record = org.record;
     var website = websiteUrl(record);
@@ -2227,7 +2358,10 @@ footer a:hover{color:var(--accent-2)}
         '<h3 class="person-name">' + esc(person.name) + "</h3>" +
         (person.role ? '<p class="person-role">' + esc(person.role) + "</p>" : "") + "</div></div>";
       if (person.background) out += '<p class="person-bg">' + esc(person.background) + "</p>";
-      if ((person.previous_firms || []).length) out += '<p class="person-prev">原平台 ' + esc(person.previous_firms.join("、")) + "</p>";
+      if ((person.previous_firms || []).length) {
+        var previous = variant === "startups" ? "出身：" : "原平台 ";
+        out += '<p class="person-prev">' + previous + esc(person.previous_firms.join("、")) + "</p>";
+      }
       var profiles = (person.profiles || []).map(function (profile) {
         return link(profile.url, label(L.profile_platforms, profile.platform) || profile.platform, "");
       });
@@ -2425,6 +2559,7 @@ footer a:hover{color:var(--accent-2)}
     out += '<div class="p-brand">' + logoHtml(org, "xl") +
       '<div class="p-id"><h1 class="p-name" id="profile-title" tabindex="-1">' + esc(record.name) + "</h1>" +
       '<p class="p-alias">' + (aliases.length ? "别名 " + esc(aliases.join("、")) : "ID " + esc(record.id)) + "</p></div></div>";
+    out += unitContext(org);
     out += profileLead(org);
     out += profileLinks(org);
     out += profileMeta(org);

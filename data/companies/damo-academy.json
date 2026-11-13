@@ -1,0 +1,145 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "damo-academy",
+  "name": "达摩院 / 阿里巴巴",
+  "aliases": [
+    "阿里巴巴达摩院",
+    "达摩院",
+    "DAMO Academy",
+    "Alibaba DAMO Academy"
+  ],
+  "category_id": "01",
+  "founded": {
+    "year": 2017,
+    "basis": "阿里巴巴集团官方里程碑页面与中新网2017-10-11报道：集团当日宣布成立达摩院。"
+  },
+  "focus": "基础科学与应用技术研究，覆盖机器学习、视觉计算、自然语言处理、科学智能等",
+  "products": "灵枢系列科学模型（医疗、材料、虚拟细胞方向）、Elements Claw超导材料发现智能体，以及视觉、NLP、量子、自动驾驶（历史）等研究项目。",
+  "locations_text": "杭州、北京等地；成立时公布北京、杭州、圣马特奥、贝尔维尤、莫斯科、特拉维夫、新加坡七地实验室",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：达摩院是阿里巴巴集团层面的研究机构，不以单一产品交付；与集团内产品线（通义千问、阿里云）相比更偏前沿研究与科学智能。",
+    "peer_names": [
+      "微软亚洲研究院",
+      "腾讯 AI Lab",
+      "百度研究院"
+    ]
+  },
+  "investment": {
+    "summary": "阿里巴巴集团设立的内部研究机构，不适用独立主体股权融资字段；集团投入不写成外部融资。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://damo.alibaba.com/",
+    "careers_url": "https://talent.alibaba.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是研究机构业务单元，不重复建集团档案。成立时张建锋以集团CTO身份出任院长；当前组织分工以阿里最新公开信息为准，未逐项核验。科学模型“灵枢”的独立商业化由前负责人荣钰离职创办的格致涌现推进，见 gezhi-yongxian。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "阿里巴巴集团成立全球尖端科技研发项目“阿里巴巴达摩院”",
+      "url": "https://ali-home.alibaba.com/about-alibaba-memorabilia-1494029069296074752",
+      "supports": "集团官方宣布成立达摩院；张建锋以集团CTO身份担任院长；首阶段七地实验室及研究方向。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "阿里巴巴成立“达摩院” 3年研发投入将超千亿",
+      "url": "https://www.chinanews.com/business/2017/10-11/8349851.shtml",
+      "supports": "2017-10-11成立达摩院及三年研发投入计划。",
+      "published_date": "2017-10-11",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "达摩院官网",
+      "url": "https://damo.alibaba.com/",
+      "supports": "当前官网身份与“基础科学、创新性技术和应用技术的研究院”定位。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "突发！阿里达摩院AI for Science负责人，离职创业",
+      "url": "https://finance.sina.com.cn/roll/2026-10-15/doc-inivhyaq1414229.shtml",
+      "supports": "达摩院灵枢系列科学模型（医疗、材料、虚拟细胞）及前负责人荣钰离职创业。",
+      "published_date": "2026-10-15",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "达摩院",
+    "original_track": "01",
+    "original_subtrack": "新增公开研究：大厂AI研究机构"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "阿里巴巴集团旗下具名研究机构，作为大厂研究型AI单元建档；不表示独立法人或对外融资。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-damo-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://damo.alibaba.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "阿里巴巴达摩院",
+        "role": "研究机构官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": "官网为前端应用，页面元信息确认“达摩院 / DAMO Academy”身份。"
+    }
+  ],
+  "organizational_context": {
+    "form": "research_lab",
+    "parent_platform_ids": [
+      "alibaba"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "阿里巴巴集团2017-10-11宣布成立的全球科研机构，集团CTO张建锋首任院长；不是独立外部机构。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "张建锋",
+      "role": "阿里巴巴集团CTO、达摩院院长（2017年成立时）",
+      "background": "2017年达摩院成立时以阿里巴巴集团首席技术官身份出任院长，负责研究院组建与全球实验室布局。",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "成立时职务由集团官方页面与中新网报道支持；当前是否仍任院长未在本次核实。"
+    }
+  ]
+}

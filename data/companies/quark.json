@@ -1,0 +1,132 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "quark",
+  "name": "夸克 / 阿里巴巴",
+  "aliases": [
+    "夸克",
+    "夸克AI浏览器",
+    "Quark",
+    "新夸克"
+  ],
+  "category_id": "04",
+  "focus": "AI搜索、AI浏览器与个人效率助手",
+  "products": "夸克AI浏览器、夸克App、夸克网盘、夸克扫描王、夸克PDF/PPT与全局AI助手；2025-03升级为All in One“AI超级框”。",
+  "locations_text": "广州（官网备案主体为广州市动悦信息技术有限公司）；其他团队城市待核实",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：夸克以浏览器/搜索为入口做AI个人应用，与纯对话助手或单一工具不同；第三方榜单显示其月活领先，但不作产品性能排名。",
+    "peer_names": [
+      "豆包 / 字节跳动",
+      "千问 / 阿里巴巴",
+      "DeepSeek"
+    ]
+  },
+  "investment": {
+    "summary": "阿里巴巴集团旗下AI应用产品线，不适用独立主体股权融资字段；未见独立外部融资披露。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.quark.cn/",
+    "careers_url": "https://talent.quark.cn/campus/home?lang=zh",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是产品线档案，不重复建集团档案。2025-03-27 36氪快讯称2025年2月夸克MAU破亿，为当月中国AI应用中唯一破亿；该数据来自第三方榜单，不是公司财报。官网备案主体为广州市动悦信息技术有限公司，归属判断另引集团官网业务入口。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "夸克_AI旗舰应用官网",
+      "url": "https://www.quark.cn/",
+      "supports": "夸克AI浏览器、AI搜索、AI助手、网盘/扫描/PDF等产品，以及校园招聘入口与备案主体。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "AI产品榜发布最新统计数据，夸克成国内唯一月活破亿AI应用",
+      "url": "https://www.36kr.com/newsflashes/3224162250115971",
+      "supports": "2025年2月夸克MAU破亿；2025-03-13阿里推出基于通义大模型的新夸克AI超级框。",
+      "published_date": "2025-03-27",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "阿里巴巴集团官网：达摩院成立里程碑页（页脚业务入口）",
+      "url": "https://ali-home.alibaba.com/about-alibaba-memorabilia-1494029069296074752",
+      "supports": "阿里巴巴集团官网页脚将夸克列为集团业务入口之一。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "夸克",
+    "original_track": "04",
+    "original_subtrack": "新增公开研究：大厂AI个人应用"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "阿里巴巴集团旗下具名AI应用产品线，作为大厂内面向个人的AI单元建档；不表示独立法人或对外融资。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-quark-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.quark.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "夸克",
+        "role": "产品官网与下载入口"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "页面实际备案主体为广州市动悦信息技术有限公司；集团归属另见阿里巴巴官网业务入口。"
+    },
+    {
+      "id": "ch-quark-careers",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.quark.cn/campus/home?lang=zh",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "夸克",
+        "role": "校园招聘入口"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网导航“校园招聘”指向该域名；仅核验入口，未逐页确认岗位。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "alibaba"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "夸克为阿里巴巴集团旗下AI应用产品线；官网备案主体为广州市动悦信息技术有限公司，阿里巴巴集团官网将夸克列为业务入口。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

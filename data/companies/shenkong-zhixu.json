@@ -1,0 +1,136 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "shenkong-zhixu",
+  "name": "深空之序 / Syntaxis AI",
+  "aliases": [
+    "深空之序",
+    "杭州深空之序智能科技有限公司",
+    "Syntaxis AI",
+    "AgentNine",
+    "小九"
+  ],
+  "category_id": "06",
+  "founded": {
+    "year": 2026,
+    "basis": "智脑时代2026-10-16报道公司成立约3个月；官网版权署名为杭州深空之序智能科技有限公司（Syntaxis AI），故按2026年记录。"
+  },
+  "focus": "面向外贸与跨境电商企业的企业级AI Agent",
+  "products": "AgentNine（小九）：覆盖营销素材、外贸获客、询盘与报价、订单履约、回款与复购等经营执行任务；按Token充值加结果付费。",
+  "locations_text": "杭州市西湖区马塍路36号CETC杭塍科创园1号楼1101",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：从外贸垂直场景切入企业级Agent，强调长程任务与经营结果；与通用办公Agent或单点客服工具不同。",
+    "peer_names": [
+      "攀峰智能 / K2 Lab",
+      "实在智能",
+      "Dify"
+    ]
+  },
+  "investment": {
+    "summary": "2026-10-16报道获千万元早期融资，领投方为广州四三九九信息科技有限公司（4399）；金额为“千万元”口径，未披露具体数值与估值。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "早期融资",
+        "announced_on": "2026-10-16",
+        "amount_text": "千万元",
+        "investors": [
+          {
+            "name": "广州四三九九信息科技有限公司（4399）",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "智脑时代转述36氪报道：成立约3个月获千万元融资，4399领投，已有两家客户付费；未获公司正式公告确认。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://agentnine.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "contact@agentnine.cn",
+    "other_email_purpose": "官网公开的联系邮箱"
+  },
+  "notes": "创始人叶军离职后独立创办，公开报道未称阿里孵化、持股或业务拆分，因此不标 corporate_spinout。官网帮助文档仍在筹备；融资与客户数据来自媒体转述，未经公司公告复核。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "AgentNine 官网｜杭州深空之序",
+      "url": "https://agentnine.cn/",
+      "supports": "公司全称杭州深空之序智能科技有限公司（Syntaxis AI）、产品AgentNine、外贸经营场景、杭州地址与联系邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "前钉钉总裁叶军创业深空之序：获千万元融资，以企业级AI Agent切入外贸AI缝隙",
+      "url": "https://www.zgeo.net/news/ye-jun-deepspace-ai-agent-funding",
+      "supports": "叶军为前阿里副总裁、钉钉总裁；公司成立约3个月获千万元融资，4399领投，已有两家付费客户；产品为外贸AI工作平台。",
+      "published_date": "2026-10-16",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "深空之序",
+    "original_track": "06",
+    "original_subtrack": "前阿里／钉钉员工创业：企业级AI Agent"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "前阿里副总裁、钉钉总裁叶军离职后创办的企业级AI Agent公司，方向与外贸经营流程明确，纳入第一波观察。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-shenkong-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://agentnine.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "杭州深空之序智能科技有限公司",
+        "role": "产品官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网页脚具名公司全称、备案号与杭州地址；帮助文档页面尚未上线。"
+    }
+  ],
+  "people": [
+    {
+      "name": "叶军",
+      "role": "创始人",
+      "background": "前阿里巴巴副总裁、钉钉总裁，在阿里工作约19年，主导钉钉商业化与AI化；2025年离职，2026年创办深空之序，切入外贸企业级AI Agent。",
+      "previous_firms": [
+        "阿里巴巴",
+        "钉钉"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份与创业方向由智脑时代转述36氪报道支持；未取得个人公开主页或公司官方管理团队页。"
+    }
+  ]
+}

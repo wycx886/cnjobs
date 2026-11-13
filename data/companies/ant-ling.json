@@ -1,0 +1,186 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "ant-ling",
+  "name": "百灵 / 蚂蚁集团",
+  "aliases": [
+    "百灵",
+    "百灵大模型",
+    "Ant Ling",
+    "Ling",
+    "inclusionAI"
+  ],
+  "category_id": "01",
+  "focus": "通用与多模态基础模型（Ling / Ring / Ming）",
+  "products": "Ling-3.2-flash（2026-11-05发布）、Ling-3.1-flash、Ring推理模型及Ming多模态/语音/图像模型；通过Open API、开发者工作台与inclusionAI开源。",
+  "locations_text": "杭州；官网备案主体为蚂蚁智能（杭州）科技有限公司",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：百灵是蚂蚁集团自研模型产品线，强调真实任务与性价比；与蚂蚁的支付、金融业务分开建档，不把集团金融数据写成模型能力证明。",
+    "peer_names": [
+      "通义千问 / 阿里巴巴",
+      "豆包 / 字节跳动",
+      "DeepSeek"
+    ]
+  },
+  "investment": {
+    "summary": "蚂蚁集团内部大模型产品线，不适用独立主体股权融资字段；未见独立外部融资披露。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.ant-ling.com/zh/",
+    "careers_url": "https://talent.antgroup.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是模型产品线档案，不重复建蚂蚁集团档案。官网将模型分为Ling、Ring、Ming三条产品线；开源仓库与开发者文档作为补充入口。用户量、收入等集团数据未用于本单元。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "蚂蚁百灵大模型",
+      "url": "https://www.ant-ling.com/zh/",
+      "supports": "百灵Ling/Ring/Ming模型家族、Ling-3.2-flash发布、Open API与开发者入口；页脚备案主体为蚂蚁智能（杭州）科技有限公司。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "百灵开发者文档",
+      "url": "https://developer.ant-ling.com/zh-CN/docs",
+      "supports": "百灵模型API、模型详情与定价文档入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "Ant Group press: Ling AI Model Family",
+      "url": "https://www.antgroup.com/en/news-media/press-releases/1759982400000",
+      "supports": "蚂蚁集团官方新闻稿对Ling模型家族的介绍，用于确认集团归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "蚂蚁百灵官网页脚列出官方 X @AntLingAGI",
+      "url": "https://www.ant-ling.com/zh/",
+      "supports": "2026-11-13 读取官网页脚，X 图标链到 https://x.com/AntLingAGI，与 YouTube、Discord、LinkedIn、Hugging Face、GitHub 并列。该账号蓝V，显示名 Ant Ling，资料网站 ant-ling.com/en/，简介写明 Ant Group AGI 的 Ling/Ring/Ming 模型系列。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "百灵大模型解构通用智能之路｜CNCC",
+      "url": "https://www.ccf.org.cn/Media_list/cncc/2025-11-07/852833.shtml",
+      "supports": "2025-10-25 CNCC 2025：蚂蚁集团平台技术事业群副总裁、蚂蚁百灵大模型负责人周俊发表主题演讲，介绍百灵五层体系、Ling Scaling Law、混合线性注意力架构与LPO等训练技术。",
+      "published_date": "2025-11-07",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "百灵",
+    "original_track": "01",
+    "original_subtrack": "新增公开研究：大厂AI模型产品线"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "蚂蚁集团旗下具名基础模型产品线，作为大厂模型单元建档；不表示独立法人或对外融资。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-antling-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.ant-ling.com/zh/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "百灵",
+        "role": "模型产品官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "页面页脚具名蚂蚁智能（杭州）科技有限公司；模型家族与API入口一致。"
+    },
+    {
+      "id": "ch-antling-docs",
+      "layer": "official",
+      "platform": "docs",
+      "url": "https://developer.ant-ling.com/zh-CN/docs",
+      "purpose": "technical",
+      "owner": {
+        "scope": "organization",
+        "name": "百灵",
+        "role": "开发者文档与API入口"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "官网导航指向的开发者文档站。"
+    },
+    {
+      "id": "ch-x-ant-ling",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/AntLingAGI",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Ant Ling",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官网页脚指向该账号；蓝V，约 1.6 万关注。@ant_oss、@TheInclusionAI 分别为蚂蚁开源与 AI Lab 账号，未写入本业务单元。组织账号，不进入 people[]。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "ant-group"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "百灵为蚂蚁集团自研大模型产品线；官网备案主体为蚂蚁智能（杭州）科技有限公司，蚂蚁集团官方新闻稿亦介绍Ling模型家族。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "周俊",
+      "role": "蚂蚁集团平台技术事业群副总裁、百灵大模型负责人（2025-10）",
+      "previous_firms": [
+        "蚂蚁集团"
+      ],
+      "background": "2025年10月在CNCC 2025发表《百灵大模型解构通用智能之路》主题演讲，介绍百灵五层体系、Ling Scaling Law、混合线性注意力架构与LPO等训练技术。",
+      "profiles": [],
+      "source_ids": [
+        "s05"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "2025-10职务由CCF官网报道支持；未取得个人公开主页或公司任命公告。另有2026-09报道以花名“西亭”称呼蚂蚁基础智能技术部负责人、百灵大模型负责人，但未给出姓名，无法据此确认与周俊为同一人，故未合并。"
+    }
+  ]
+}

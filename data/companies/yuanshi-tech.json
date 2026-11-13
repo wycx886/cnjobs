@@ -1,0 +1,102 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "yuanshi-tech",
+  "name": "元石科技",
+  "aliases": [
+    "元石科技",
+    "北京元石科技有限公司"
+  ],
+  "category_id": "01",
+  "founded": {
+    "year": 2022,
+    "basis": "2023年3月报道援引天眼查称北京元石科技有限公司成立于2022年8月8日；李岩于2022年下半年成立元石科技。"
+  },
+  "focus": "多模态大模型研发",
+  "products": "公开报道称公司主要进行多模态大模型研发；本轮未找到公司官网、产品页或模型发布页，具体产品名称与上线时间留空。",
+  "locations_text": "北京（报道中的注册主体为北京元石科技有限公司）。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：元石科技由快手前多媒体内容理解负责人李岩创办，方向为多模态大模型；公开产品信息有限，本条只记录已核实的团队出身与注册信息。",
+    "peer_names": [
+      "月之暗面 Moonshot AI",
+      "智象未来 HiDream.ai"
+    ]
+  },
+  "investment": {
+    "summary": "本轮未找到公开融资轮次、金额或投资方披露，不建 rounds；不表示公司没有融资。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是快手前 AI 核心成员创办的独立公司档案，不修改快手集团档案。公开信息主要来自2023年3月对36氪报道的转载：李岩为快手前MMU负责人，2021年提出离职，2022年下半年成立元石科技；天眼查显示北京元石科技有限公司成立于2022年8月8日，李岩持股99%。本轮未找到官网、产品页、招聘入口或融资披露，contacts 为空，相关字段留空。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "电商派转载36氪：快手前AI核心人物李岩创业 成立AI公司“元石科技”",
+      "url": "https://www.dsb.cn/211470.html",
+      "supports": "李岩为快手前MMU（多媒体内容理解）负责人，2021年从快手提出离职，2022年下半年成立元石科技，主要进行多模态大模型研发；天眼查显示北京元石科技有限公司成立于2022年8月8日，李岩持股99%。",
+      "published_date": "2023-03-08",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "站长之家：快手前AI核心人物李岩创业 进行多模态大模型研发",
+      "url": "https://www.chinaz.com/2023/0308/1503591.shtml",
+      "supports": "李岩2015年11月组建快手内部第一个深度学习部门DL组，2016年改为MMU组；2021年提出离职，2022年下半年成立元石科技。",
+      "published_date": "2023-03-08",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "元石科技",
+    "original_track": "01",
+    "original_subtrack": "前快手AI成员创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "快手前多媒体内容理解负责人李岩创办的多模态大模型公司，来源明确创始人出身；公开产品与融资信息有限，先按新进创业公司建档并保留证据缺口。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "independent_organization",
+    "parent_platform_ids": [],
+    "relationship_status": "confirmed",
+    "summary": "报道与工商信息显示元石科技为李岩个人持股的独立注册公司；创始人有快手MMU负责人履历，但本轮未找到快手分拆、控股或孵化证据，故按独立创业公司记录。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "李岩",
+      "role": "创始人",
+      "background": "2015年11月组建快手内部第一个深度学习部门DL组，2016年该团队改为MMU（多媒体内容理解）组；2021年从快手提出离职，2022年下半年成立元石科技，方向为多模态大模型。",
+      "previous_firms": [
+        "快手"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "姓名、职务与快手履历来自媒体转述；未取得个人公开主页或公司官网确认。"
+    }
+  ]
+}

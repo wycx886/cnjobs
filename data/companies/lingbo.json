@@ -1,0 +1,165 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "lingbo",
+  "name": "灵波 / 蚂蚁集团",
+  "aliases": [
+    "蚂蚁灵波",
+    "灵波",
+    "灵波科技",
+    "Robbyant",
+    "LingBot",
+    "上海蚂蚁灵波科技有限公司"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2024,
+    "basis": "腾讯新闻2026-09-16报道：蚂蚁灵波于2024年12月在上海成立，团队早期成员大多来自支付宝。"
+  },
+  "focus": "具身智能通用大脑与机器人模型、整机及行业方案",
+  "products": "LingBot-Vision、LingBot-Depth、LingBot-Touch、LingBot-Map、LingBot-VLA、LingBot-VA、LingBot-Video、LingBot-World等模型；Robbyant R2机器人、行业解决方案与开放平台。",
+  "locations_text": "上海；官网署名为Shanghai Ant Robbyant Technology Co., Ltd.",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：蚂蚁灵波做“全栈大脑+一脑多机”，同时输出开源模型、商业模型与R2整机；与只做本体或只做单一VLA模型的公司不同。",
+    "peer_names": [
+      "有鹿机器人 / UDEER",
+      "星海图",
+      "宇树科技"
+    ]
+  },
+  "investment": {
+    "summary": "蚂蚁集团旗下具身智能公司；公开报道提及“近期传出对外融资的消息”，但未披露轮次、金额、投资方或估值，故不建融资轮次。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://www.robbyant.com/",
+    "careers_url": "https://www.robbyant.com/careers",
+    "recruitment_email": null,
+    "other_email": "pub_robbysales@antgroup.com",
+    "other_email_purpose": "官网公开的销售咨询邮箱"
+  },
+  "notes": "本条是蚂蚁集团旗下具身智能业务单元，不重复建集团档案。官网明确写“An embodied AI company under Ant Group”；对外融资仅为媒体称“传出消息”，未获公司公告确认，不写成已完成的轮次。团队规模、模型数量等媒体口径未作为审计数据。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "Robbyant - Building One Brain for All Robots",
+      "url": "https://www.robbyant.com/",
+      "supports": "官网明确为“An embodied AI company under Ant Group”；LingBot模型矩阵、R2机器人、行业方案、开放平台、招聘入口与联系邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "Technology - Robbyant",
+      "url": "https://technology.robbyant.com/",
+      "supports": "LingBot-Vision/Depth/Touch/Map/VLA/VA/Video/World模型矩阵及开源资源入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "蚂蚁的具身智能野心",
+      "url": "https://news.qq.com/rain/a/20260916A047QR00",
+      "supports": "蚂蚁灵波2024年12月在上海成立、团队早期多来自支付宝；聚焦机器人通用大脑；“一脑多机”与LingBot-VLA 2.0适配情况；提及近期传出对外融资消息。",
+      "published_date": "2026-09-16",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "Robbyant（蚂蚁灵波）官网页脚列出官方 X @robbyant_brain",
+      "url": "https://www.robbyant.com/",
+      "supports": "2026-11-13 读取官网页脚，社交图标链到 https://x.com/robbyant_brain。该账号蓝V，显示名 Robbyant，资料网站 robbyant.com，简介 Building One Brain for All Robots。档案别名含 Robbyant，官网即为该站。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "蚂蚁灵波",
+    "original_track": "08",
+    "original_subtrack": "新增公开研究：大厂具身智能业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "蚂蚁集团旗下具名具身智能公司，官网确认集团归属，作为大厂内创业型AI业务单元建档；不表示独立外部融资已完成。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-robbyant-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.robbyant.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Robbyant",
+        "role": "公司官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网页脚具名Shanghai Ant Robbyant Technology Co., Ltd.；页面明确“under Ant Group”。"
+    },
+    {
+      "id": "ch-robbyant-careers",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://www.robbyant.com/careers",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "Robbyant",
+        "role": "招聘入口"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网导航中的Careers链接；未逐页核验岗位开放状态。"
+    },
+    {
+      "id": "ch-x-lingbo",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/robbyant_brain",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Robbyant",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官网页脚指向该账号；蓝V，约 3559 关注。组织账号，不进入 people[]。"
+    }
+  ],
+  "organizational_context": {
+    "form": "corporate_subsidiary",
+    "parent_platform_ids": [
+      "ant-group"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "官网明确写“An embodied AI company under Ant Group”，页脚具名Shanghai Ant Robbyant Technology Co., Ltd.；为蚂蚁集团旗下具身智能公司。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

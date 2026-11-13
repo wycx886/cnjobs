@@ -1,0 +1,135 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "guangnian-zhiwai",
+  "name": "光年之外 Guangnian Zhiwai",
+  "aliases": [
+    "光年之外",
+    "北京光年之外科技有限公司",
+    "Guangnian Zhiwai"
+  ],
+  "category_id": "01",
+  "founded": {
+    "year": 2023,
+    "basis": "2023年6月媒体报道称光年之外成立4个多月；具体注册日期本轮未核。"
+  },
+  "focus": "AI 大模型创业项目，公开产品与模型信息披露有限",
+  "products": "媒体披露为AI大模型创业项目；本轮未找到公司官网、产品页或模型发布页，具体产品名称与上线时间留空。",
+  "locations_text": "北京（报道中的公司注册名称为北京光年之外科技有限公司）。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：光年之外由美团联合创始人王慧文在退休后创办，2023年被美团收购并全资持有；本条记录其创业与并入美团的沿革，不把它当作当前独立创业公司。",
+    "peer_names": [
+      "月之暗面 Moonshot AI",
+      "百川智能 Baichuan"
+    ]
+  },
+  "investment": {
+    "summary": "2023年6月媒体报道美团宣布约20.65亿元收购光年之外100%权益；2023年8月王慧文退出股东，2025年12月报道称公司由美团旗下天津三快科技有限公司全资持股。本轮未取得美团官方公告原文或独立融资轮次，金额为媒体转述。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "被收购",
+        "announced_on": "2023-06",
+        "amount_text": "约20.65亿元",
+        "investors": [
+          {
+            "name": "美团",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "该条为收购交易而非风险融资；媒体称美团收购100%权益，未取得美团官方公告原文。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是前美团联合创始人创办、后被美团全资收购的 AI 项目档案，不修改美团集团档案。公开信息以媒体转述和工商信息报道为主：本轮未找到官网、产品页、招聘入口、独立融资轮次或官方收购公告原文；contacts 为空，相关字段留空。媒体对成立年份存在矛盾表述（另有报道写作2018年），本条采用2023年“成立4个多月”的同期报道口径并注明未核注册日期。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "新浪财经：投入大模型创业4个多月 美团联合创始人王慧文离岗入院就医",
+      "url": "https://finance.sina.com.cn/7x24/2023-06-25/doc-imyyphhh4754663.shtml",
+      "supports": "光年之外成立4个多月、王慧文为美团联合创始人与光年之外联合创始人；2023年6月已是AI大模型领域独角兽（媒体转述）。",
+      "published_date": "2023-06-25",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "腾讯新闻／GPLP：王慧文卸任美团旗下光年之外法定代表人",
+      "url": "https://news.qq.com/rain/a/20251203A05GBF00",
+      "supports": "北京光年之外科技有限公司由美团旗下天津三快科技有限公司全资持股；王慧文2010年加入美团、2020年退休；2023年6月美团宣布约20.65亿元收购光年之外100%权益；2023年8月王慧文退出股东。",
+      "published_date": "2025-12-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "网易／三言科技：王慧文退出光年之外股东",
+      "url": "https://www.163.com/dy/article/IBHH3M1M0519U3I5.html",
+      "supports": "2023年8月王慧文退出光年之外股东；报道称其因病离开AI创业项目。",
+      "published_date": "2023-08-07",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "光年之外 Guangnian Zhiwai",
+    "original_track": "01",
+    "original_subtrack": "前美团联合创始人创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "由前美团联合创始人王慧文创办的 AI 大模型项目，符合前大厂成员创业线索；但公司已被美团全资收购，档案用于保留创业与并入沿革，不表示当前仍为独立新进机构。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "corporate_subsidiary",
+    "parent_platform_ids": [
+      "meituan"
+    ],
+    "relationship_status": "reported",
+    "summary": "媒体据天眼查报道，北京光年之外科技有限公司由美团旗下天津三快科技有限公司全资持股，美团2023年宣布收购100%权益；本轮未取得美团官方公告原文，故关系状态记为 reported。",
+    "source_ids": [
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "王慧文",
+      "role": "创始人",
+      "background": "美团联合创始人，2010年12月加入美团，2020年12月从美团退休；2023年创办AI大模型项目光年之外，同年因个人健康原因离岗。",
+      "previous_firms": [
+        "美团"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份、美团履历与光年之外创业关系来自媒体转述；未取得个人公开主页。"
+    }
+  ]
+}

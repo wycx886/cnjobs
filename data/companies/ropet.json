@@ -1,0 +1,157 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "ropet",
+  "name": "萌友智能 / Ropet",
+  "aliases": [
+    "Ropet",
+    "ropet",
+    "萌友智能",
+    "Ropet 萌友智能"
+  ],
+  "category_id": "09",
+  "founded": {
+    "year": 2022,
+    "basis": "Ropet 官方英文站写明 2022 年开始做 ropet；官方中文站写明萌友智能成立于 2022 年初。成立口径按公司自述，不替代法律主体登记日期。"
+  },
+  "focus": "AI 情感陪伴机器人与桌面／随身智能硬件，强调触摸、语音、视觉互动和性格养成。",
+  "products": "Ropet（官网当前主推 KAMOMO 系列）是一款 AI 陪伴机器人：支持语音、触摸与手势互动，通过日常照料在约 7 天内形成性格，并解锁 ChatGPT 支持的对话；具备人脸识别、手势回应、音乐互动、记忆与 Dream Sketch、39°C 温热、可更换毛皮／面具／眼睛与配件，配套 iOS／Android App。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：Ropet 以毛绒、温感和非任务型互动切入 AI 陪伴硬件，强调性格养成而非工具效率；本条只记录官网公开的产品能力，不作销量或体验排名。",
+    "peer_names": [
+      "珞博智能 Fuzozo",
+      "Lovot / Groove X"
+    ]
+  },
+  "investment": {
+    "summary": "腾讯新闻 2024-12-03 的创始人采访称，萌友智能在 2022 年创业寒冬“融到了一笔”来推进产品，但未披露轮次、金额和投资方；官网亦未列融资信息，因此不建 rounds、不编金额。",
+    "verification_status": "partial"
+  },
+  "contacts": {
+    "website": "https://ropetai.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "business@ropetai.com",
+    "other_email_purpose": "商务合作邮箱（Ropet 官方站公开）"
+  },
+  "notes": "本条为 B 部分前员工创业研究：创始人何嘉斌曾任字节跳动 PICO 北京工业设计团队负责人，2022 年离开后创办萌友智能；公司为独立创业，公开来源未显示字节跳动持股、孵化或拆分关系。官网未披露销量、用户量和完整融资信息，相关字段留空。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "About ropet | AI Companion Robots, Designed with Care",
+      "url": "https://ropetai.com/pages/about-ropet",
+      "supports": "Ropet 官方英文站称公司于 2022 年开始做 ropet，产品为 AI 陪伴机器人；团队背景覆盖产品设计、人工智能与交互设计，成员曾在 Microsoft、ByteDance 等公司任职。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "ROPET 萌友智能 About",
+      "url": "https://www.ropetai.cn/about.html",
+      "supports": "官方中文站称萌友智能成立于 2022 年初，由何嘉斌先生和周玉黍博士共同创立；引述“联合创始人兼CEO何嘉斌”；称核心团队成员曾在字节跳动、微软、阿里达摩院、小米、蔚来等企业任职。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "person"
+    },
+    {
+      "id": "s03",
+      "title": "对话 Ropet CEO 何嘉斌：AI 潮玩的目标，就是造一个活的“Labubu”？",
+      "url": "https://news.qq.com/rain/a/20241203A029BP00",
+      "supports": "腾讯新闻硅星人采访：何嘉斌大三在微软亚洲研究院实习，毕业后加入百度深度学习实验室 IDL；2016 年随顾嘉唯创办物灵科技并设计 luka 绘本阅读机器人；2021 年带部分设计团队加入字节跳动 PICO，负责北京工业设计团队；2022 年创立萌友智能做 Ropet；文中称公司当年“融到了一笔”。",
+      "published_date": "2024-12-03",
+      "checked_at": "2026-11-13",
+      "scope": "person"
+    },
+    {
+      "id": "s04",
+      "title": "ropet | AI Companion Robot & Interactive AI Pet",
+      "url": "https://ropetai.com/",
+      "supports": "官方产品站展示 Ropet KAMOMO 的语音、触摸、手势互动、7 天性格养成、ChatGPT 支持对话、人脸识别、记忆、39°C 温热、可更换毛皮／面具／眼睛和配件，以及 iOS／Android App 与官方商务邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "萌友智能 Ropet",
+    "original_track": "09",
+    "original_subtrack": "前字节跳动成员创业-AI消费硬件"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "2022 年成立的 AI 情感陪伴机器人公司，官网公开产品、团队与公司自述，产品已进入官方销售渠道；列为第一波新进候选。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-ropet-website",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://ropetai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "ropet",
+        "role": "产品官方网站"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "实际打开页面标题为“ropet | AI Companion Robot & Interactive AI Pet”，页脚版权为 Ropet CO.LTD.。"
+    }
+  ],
+  "organizational_context": {
+    "form": "independent_organization",
+    "parent_platform_ids": [],
+    "relationship_status": "reported",
+    "summary": "Ropet 官网以独立公司 Ropet CO.LTD. 运营，未列出字节跳动为母公司或股东，因此按 independent_organization 记录；创始人何嘉斌的字节跳动 PICO 任职经历见 people[] 的人物来源，不据此认定拆分或孵化关系。",
+    "source_ids": [
+      "s01",
+      "s04"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "何嘉斌",
+      "role": "联合创始人兼CEO",
+      "background": "大三在微软亚洲研究院实习；毕业后加入百度深度学习实验室 IDL，参与 Baidu Eye、Du light、Dubike 等创新硬件；2016 年随顾嘉唯创办物灵科技，从 0 到 1 设计 luka 绘本阅读机器人；2021 年带部分设计团队加入字节跳动 PICO，负责北京工业设计团队；2022 年创办萌友智能，推出 AI 陪伴机器人 Ropet。",
+      "previous_firms": [
+        "字节跳动 PICO",
+        "物灵科技",
+        "百度深度学习实验室"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02",
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "confirmed",
+      "notes": "官方中文站与腾讯新闻采访均确认其为联合创始人兼CEO；字节跳动任职经历来自其本人采访，限定为 PICO 北京工业设计团队，不写成 Seed、豆包或 AI Lab 成员。"
+    },
+    {
+      "name": "周玉黍",
+      "role": "联合创始人",
+      "background": "官方中文站称其为博士，与何嘉斌共同创立萌友智能；公开页面未披露更多履历。",
+      "previous_firms": [],
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "仅确认联合创始人身份和“博士”称谓，未找到独立人物主页或更完整履历。"
+    }
+  ]
+}

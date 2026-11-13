@@ -6,7 +6,7 @@
 
 [大厂项目与拆分机构](corporate-ventures.md) · [母平台排查清单](incumbents.md)。有明确目标的内部团队、实验室或项目也可单列；按组织形态和母平台关系区分，不一律视为独立公司。
 
-当前圈选 **197 个第一波候选**：188 个经营型机构、9 个投资机构；另有 38 个观察候选。
+当前圈选 **213 个第一波候选**：204 个经营型机构、9 个投资机构；另有 39 个观察候选。
 
 这是基于现有材料的编辑性寻源名单，不是全市场清单、机构质量排名、成立年份证明或招聘承诺。不设统一成立年份门槛；上市也不单独决定新进／已有。标签整理日期与实际核查日期分开记录。
 
@@ -23,6 +23,7 @@
 | [本智激活](companies/benzhi.md) | 01 | 已核验披露 | 2026-11-12 |
 | [深度求索 DeepSeek](companies/deepseek.md) | 01 | 部分核验／口径有限 | 2026-11-12 |
 | [扩散智能（DiffuSpace）](companies/diffusion.md) | 01 | 已核验披露 | 2026-11-12 |
+| [光年之外 Guangnian Zhiwai](companies/guangnian-zhiwai.md) | 01 | 部分核验／口径有限 | 2026-11-13 |
 | [考拉悠然](companies/kaolayouran.md) | 01 | 部分核验／口径有限 | 2026-11-12 |
 | [澜舟科技 Langboat](companies/langboat.md) | 01 | 已核验披露 | 2026-11-11 |
 | [LiberAI（将闲科技）](companies/liberai.md) | 01 | 已核验披露 | 2026-11-12 |
@@ -34,6 +35,7 @@
 | [逆矩阵科技（Physis）](companies/physis.md) | 01 | 已核验披露 | 2026-11-12 |
 | [阶跃星辰 StepFun](companies/stepfun.md) | 01 | 已核验披露 | 2026-11-11 |
 | [物原科技](companies/tensorworld.md) | 01 | 部分核验／口径有限 | 2026-11-12 |
+| [元石科技](companies/yuanshi-tech.md) | 01 | 未找到可靠披露 | 2026-11-13 |
 | [智谱 Z.ai](companies/zhipu.md) | 01 | 已核验披露 | 2026-11-11 |
 | [智子引擎](companies/zhizi-engine.md) | 01 | 部分核验／口径有限 | 2026-11-12 |
 | [趋境科技 Approaching.AI](companies/approaching-ai.md) | 02 | 部分核验／口径有限 | 2026-11-11 |
@@ -69,6 +71,7 @@
 | [影微创新](companies/yingwei-innovation.md) | 02 | 部分核验／口径有限 | 2026-11-12 |
 | [亿铸科技](companies/yizhu-tech.md) | 02 | 部分核验／口径有限 | 2026-11-12 |
 | [硅心科技 / aiXcoder](companies/aixcoder.md) | 03 | 部分核验／口径有限 | 2026-11-12 |
+| [未来式智能 AutoAgents.ai](companies/autoagents.md) | 03 | 部分核验／口径有限 | 2026-11-13 |
 | [Dify / LangGenius](companies/dify.md) | 03 | 已核验披露 | 2026-11-11 |
 | [Refly.AI](companies/refly-ai.md) | 03 | 部分核验／口径有限 | 2026-11-12 |
 | [松应科技](companies/songying-tech.md) | 03 | 部分核验／口径有限 | 2026-11-12 |
@@ -77,12 +80,13 @@
 | [彩云科技](companies/caiyun.md) | 04 | 部分核验／口径有限 | 2026-11-11 |
 | [Flowith](companies/flowith.md) | 04 | 已核验披露 | 2026-11-11 |
 | [Genspark / MainFunc](companies/genspark.md) | 04 | 已核验披露 | 2026-11-11 |
+| [知识画家 / 初心智慧](companies/knowledge-painter.md) | 04 | 部分核验／口径有限 | 2026-11-13 |
 | [蝴蝶效应 / Manus](companies/manus.md) | 04 | 部分核验／口径有限 | 2026-11-11 |
 | [秘塔科技 MetaSota](companies/metasota.md) | 04 | 部分核验／口径有限 | 2026-11-11 |
 | [贝卡未来 RockFlow](companies/rockflow.md) | 04 | 部分核验／口径有限 | 2026-11-12 |
 | [此间无限 Today AI](companies/today-ai.md) | 04 | 部分核验／口径有限 | 2026-11-12 |
 | [元象科技](companies/xverse.md) | 04 | 部分核验／口径有限 | 2026-11-11 |
-| [语用科技 / Pragmatik Labs](companies/yuyong-keji.md) | 04 | 部分核验／口径有限 | 2026-11-12 |
+| [语用科技 / Pragmatik Labs](companies/yuyong-keji.md) | 04 | 部分核验／口径有限 | 2026-11-13 |
 | [爱诗科技 / PixVerse](companies/aisphere.md) | 05 | 部分核验／口径有限 | 2026-11-11 |
 | [井英科技 / CreativeFitting](companies/creativefitting.md) | 05 | 部分核验／口径有限 | 2026-11-11 |
 | [影眸科技 / Deemos / Hyper3D](companies/deemos.md) | 05 | 部分核验／口径有限 | 2026-11-11 |
@@ -95,6 +99,7 @@
 | [生数科技 / Vidu](companies/shengshu.md) | 05 | 已核验披露 | 2026-11-11 |
 | [数美万物 / Hitems](companies/shumei-wanwu.md) | 05 | 部分核验／口径有限 | 2026-11-12 |
 | [VAST / Tripo](companies/vast.md) | 05 | 已核验披露 | 2026-11-11 |
+| [Video Rebirth](companies/video-rebirth.md) | 05 | 已核验披露 | 2026-11-13 |
 | [小库科技 / XKool](companies/xkool.md) | 05 | 部分核验／口径有限 | 2026-11-12 |
 | [魔珐科技 / Xmov](companies/xmov.md) | 05 | 部分核验／口径有限 | 2026-11-11 |
 | [第四范式](companies/4paradigm.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
@@ -106,6 +111,8 @@
 | [深知未来 / DEEPTHINK.AI](companies/deepthink-ai.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [衔远科技](companies/frontis.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [慧影医疗 / 汇医慧影](companies/huiyi-huiying.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
+| [超参数科技 Parametrix.ai](companies/hyperparameter.md) | 06 | 已核验披露 | 2026-11-13 |
+| [无限光年 / INF](companies/infinite-light.md) | 06 | 部分核验／口径有限 | 2026-11-13 |
 | [来也科技 / Laiye](companies/laiye.md) | 06 | 已核验披露 | 2026-11-12 |
 | [矩阵起源 / MatrixOrigin](companies/matrixorigin.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [聚时科技](companies/matrixtime.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
@@ -113,6 +120,7 @@
 | [幂律智能 / PowerLaw AI](companies/powerlaw.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
 | [瑞莱智慧 / RealAI](companies/realai.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [循环智能 / Recurrent AI](companies/recurrent-ai.md) | 06 | 部分核验／口径有限 | 2026-11-11 |
+| [深空之序 / Syntaxis AI](companies/shenkong-zhixu.md) | 06 | 部分核验／口径有限 | 2026-11-13 |
 | [思谋科技](companies/smartmore.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [中科世通亨奇](companies/stonehg.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [森亿智能](companies/synyi.md) | 06 | 已核验披露 | 2026-11-12 |
@@ -121,10 +129,12 @@
 | [元始天工 / 元始智能](companies/yuanshi-tiangong.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
 | [悦点科技](companies/yuedian.md) | 06 | 已核验披露 | 2026-11-12 |
 | [中数睿智](companies/zhongshu-ruizhi.md) | 06 | 部分核验／口径有限 | 2026-11-12 |
+| [追一科技 Zhuiyi Technology](companies/zhuiyi.md) | 06 | 部分核验／口径有限 | 2026-11-13 |
 | [极致上下文 / Pexo](companies/apex-context.md) | 07 | 部分核验／口径有限 | 2026-11-12 |
 | [极睿科技 / Infimind](companies/infimind.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [筷子科技 / Kuaizi](companies/kuaizi.md) | 07 | 部分核验／口径有限 | 2026-11-11 |
 | [乐言科技](companies/leyan.md) | 07 | 已核验披露 | 2026-11-11 |
+| [攀峰智能 / K2 Lab](companies/panfeng-intelligence.md) | 07 | 部分核验／口径有限 | 2026-11-13 |
 | [快牛智营 / QuickCEP](companies/quickcep.md) | 07 | 已核验披露 | 2026-11-12 |
 | [Shulex / 杭州数里行间科技有限公司](companies/shulex.md) | 07 | 已核验披露 | 2026-11-11 |
 | [特看科技 / Tabcut](companies/tabcut.md) | 07 | 已核验披露 | 2026-11-11 |
@@ -167,6 +177,7 @@
 | [诺因智能](companies/nuoyin.md) | 08 | 已核验披露 | 2026-11-12 |
 | [帕西尼](companies/paxini.md) | 08 | 部分核验／口径有限 | 2026-11-12 |
 | [破壳机器人（PokeBot）](companies/pokebot.md) | 08 | 已核验披露 | 2026-11-12 |
+| [小马智行 Pony.ai](companies/pony-ai.md) | 08 | 未找到可靠披露 | 2026-11-13 |
 | [普渡科技](companies/pudu.md) | 08 | 部分核验／口径有限 | 2026-11-12 |
 | [泉智博](companies/quanzhibo.md) | 08 | 部分核验／口径有限 | 2026-11-12 |
 | [快仓智能](companies/quicktron.md) | 08 | 已核验披露 | 2026-11-11 |
@@ -181,14 +192,18 @@
 | [傲鲨智能](companies/uls-robotics.md) | 08 | 部分核验／口径有限 | 2026-11-11 |
 | [宇树科技](companies/unitree.md) | 08 | 已核验披露 | 2026-11-11 |
 | [未来不远（Futuring Robot）](companies/weilai-buyuan.md) | 08 | 已核验披露 | 2026-11-12 |
+| [文远知行 WeRide](companies/weride.md) | 08 | 部分核验／口径有限 | 2026-11-13 |
 | [无界动力](companies/wujiedongli.md) | 08 | 部分核验／口径有限 | 2026-11-12 |
 | [自变量机器人](companies/x-square.md) | 08 | 已核验披露 | 2026-11-12 |
+| [新生纪智能 / CenoBots](companies/xinshengji-intelligent.md) | 08 | 部分核验／口径有限 | 2026-11-13 |
+| [有鹿机器人 / UDEER](companies/youlu-robot.md) | 08 | 部分核验／口径有限 | 2026-11-13 |
 | [逸文科技 / Even Realities](companies/even-realities.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
 | [Flowtica](companies/flowtica.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
 | [跃然创新 Haivivi](companies/haivivi.md) | 09 | 已核验披露 | 2026-11-12 |
 | [极壳科技 Hypershell](companies/hypershell.md) | 09 | 已核验披露 | 2026-11-11 |
 | [OdyssLife / Odyss](companies/odyss-life.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
 | [Plaud / 机智连接](companies/plaud.md) | 09 | 部分核验／口径有限 | 2026-10-30 |
+| [萌友智能 / Ropet](companies/ropet.md) | 09 | 部分核验／口径有限 | 2026-11-13 |
 | [闪极科技 SHARGE](companies/sharge.md) | 09 | 已核验披露 | 2026-11-11 |
 | [未来智能 viaim](companies/viaim.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
 | [薇光点亮](companies/weiguangdianliang.md) | 09 | 部分核验／口径有限 | 2026-11-12 |
@@ -199,6 +214,7 @@
 | [深度原理](companies/deep-principle.md) | 10 | 部分核验／口径有限 | 2026-11-12 |
 | [深睿医疗](companies/deepwise.md) | 10 | 部分核验／口径有限 | 2026-11-12 |
 | [深势科技](companies/dp-technology.md) | 10 | 已核验披露 | 2026-11-11 |
+| [格致涌现 / Gezhi](companies/gezhi-yongxian.md) | 10 | 部分核验／口径有限 | 2026-11-13 |
 | [惠每科技](companies/huimei.md) | 10 | 部分核验／口径有限 | 2026-11-12 |
 | [英矽智能 Insilico Medicine](companies/insilico.md) | 10 | 部分核验／口径有限 | 2026-11-12 |
 | [天鹜科技 Matwings](companies/matwings.md) | 10 | 已核验披露 | 2026-11-11 |
@@ -250,6 +266,7 @@
 | [Kitar](companies/kitar.md) | 经营型机构 | 因源码律动2026年披露的首期基金投资而建档；公开信息仅限基金官宣口径，业务与团队证据偏薄，先观察。 |
 | [理格万物](companies/lige-wanwu.md) | 经营型机构 | DeepSeek 参投报道的早期具身大脑公司，公开招聘渠道缺失；先观察。 |
 | [元环智能（MetaCircle）](companies/metacircle.md) | 经营型机构 | 因顺为资本 2026 年领投其种子轮这一 2020 年后披露的 AI 投资而建档；公开技术与产品细节有限，先观察。 |
+| [睦灵科技 MolinX](companies/molinx.md) | 经营型机构 | 前阿里巴巴达摩院具身平台与Rynn模型负责人创办的物理AI基础模型公司；成立时间短、产品与融资未公开，先列入观察。 |
 | [Naive.ai](companies/naive-ai.md) | 经营型机构 | 因博裕资本 2020 年后披露的基础模型后训练投资而建档；公司成立时间短、产品未公开，先列观察。 |
 | [Noiz AI（声音动力）](companies/noiz-ai.md) | 经营型机构 | 因金沙江创投2026年披露的声音AIGC种子轮投资而建档；按多模态生成业务归类，不表示回报或个人适配。 |
 | [纽劢科技](companies/nullmax.md) | 经营型机构 | 乘用车行泊一体智驾方案商，2023年被岩山科技控股，具备独立产品线与量产定点；先列观察。 |

@@ -1,0 +1,178 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "wenxin",
+  "name": "文心 / 百度",
+  "aliases": [
+    "文心大模型",
+    "文心一言",
+    "ERNIE",
+    "文心助手"
+  ],
+  "category_id": "01",
+  "focus": "百度自主研发的产业级知识增强大模型家族及面向个人的文心助手产品",
+  "products": "百度智能云文心大模型页当前列出 ERNIE-5.5-Flash-Preview（总参数280B、每token激活14B、支持1M tokens上下文、每秒生成超过200 tokens）、ERNIE-Light-DT-1.0、Unlimited-OCR-2 等模型；wenxin.baidu.com 当前进入“百度文心助手”对话页，定位办公学习助手。百度千帆平台同时提供 ERNIE-5.5-Flash-Preview 等模型服务。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：文心同时以基础模型（ERNIE 系列）和 C 端文心助手两种形态出现，模型通过百度智能云／千帆对外服务；本条记录公开产品与规格，不作模型能力排名。",
+    "peer_names": [
+      "混元 / 腾讯",
+      "盘古 / 华为",
+      "MiMo / 小米"
+    ]
+  },
+  "investment": {
+    "summary": "百度官方产品页称文心为百度自主研发的大模型，属于集团内部模型产品线；不适用独立主体股权融资字段，不表示没有内部研发投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://wenxin.baidu.com/",
+    "careers_url": "https://talent.baidu.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是百度集团 AI 业务单元档案，不重复建集团档案。wenxin.baidu.com 实际打开后进入 chat.baidu.com 的“百度文心助手”页面；模型规格以百度智能云文心大模型页与千帆页为准。未公开具名团队负责人、发布时间和用户量，相关字段留空。招聘入口为百度集团统一招聘站，不表示文心团队岗位单独发布。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "百度智能云：文心大模型产品页",
+      "url": "https://cloud.baidu.com/product/model.html",
+      "supports": "文心为百度自主研发的产业级知识增强大模型；列出 ERNIE-5.5-Flash-Preview 总参数280B、每token激活14B、1M tokens上下文、每秒超过200 tokens，及 ERNIE-Light-DT-1.0、Unlimited-OCR-2 等。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "百度千帆大模型平台",
+      "url": "https://cloud.baidu.com/product/wenxinworkshop",
+      "supports": "千帆平台提供 ERNIE-5.5-Flash-Preview、ERNIE-Light-DT-1.0、ERNIE-Wizshot-ME 等模型服务与API入口；证明文心模型对外服务。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "百度文心助手",
+      "url": "https://wenxin.baidu.com/",
+      "supports": "wenxin.baidu.com 实际进入“百度文心助手”对话页，页面定位办公学习一站解决；证明 C 端产品入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "百度招聘官网",
+      "url": "https://talent.baidu.com/",
+      "supports": "百度集团统一招聘入口；不单独证明文心团队当前开放岗位。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s05",
+      "title": "中国青年报：百度正式发布文心大模型5.0 王海峰称采用原生全模态建模技术",
+      "url": "https://news.qq.com/rain/a/20251113A04SYP00",
+      "supports": "2025-11-13百度世界大会发布文心5.0，参数2.4万亿、原生全模态统一建模、激活参数比例低于3%；王海峰为百度首席技术官并介绍该模型。",
+      "published_date": "2025-11-13",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s06",
+      "title": "每日经济新闻：百度发布两款文心应用模型 李彦宏称坚持「模体并行、协同进化」",
+      "url": "https://www.nbd.com.cn/articles/2026-11-12/4645732.html",
+      "supports": "2026-11-12百度世界2026发布文心应用模型，同步上线百度智能云千帆平台开放API；李彦宏称将继续投入下一代基础大模型。",
+      "published_date": "2026-11-12",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s07",
+      "title": "新浪科技／QuestMobile：百度文心助手月活3.6亿，登顶国内第一",
+      "url": "https://finance.sina.com.cn/tech/2026-03-03/doc-inhptkrh7477741.shtml",
+      "supports": "QuestMobile《AI应用层发展核心报告》显示百度文心助手月活跃用户规模3.6亿；文心助手、百度文库、百度翻译进入PC网页版应用TOP10。",
+      "published_date": "2026-03-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s08",
+      "title": "36氪：副总裁离职后，百度文心又走了一位T10级核心负责人",
+      "url": "https://www.36kr.com/p/4056726693992326",
+      "supports": "2026-11-05百度开源文心5.5 Flash Base（MoE、总参数2800亿、激活140亿、最长100万Token上下文）；报道另提百度副总裁吴甜已于此前离开。",
+      "published_date": "2026-11-05",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s09",
+      "title": "百度智能云：千帆大模型平台／文心大模型产品页",
+      "url": "https://cloud.baidu.com/product/wenxinworkshop",
+      "supports": "千帆平台当前列出ERNIE-5.5-Flash-Preview等文心模型，并面向企业提供API与Agent开发平台。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "百度文心",
+    "original_track": "01",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "百度集团具名基础模型与 C 端助手产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-careers-baidu-wenxin",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://talent.baidu.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "百度集团",
+        "role": "集团统一招聘入口；非文心团队专属"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "百度集团招聘站，页面未单独列出文心团队。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "baidu"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "百度智能云与百度域名产品页均以百度名义提供文心／ERNIE 模型及文心助手，按集团内模型与产品线记录；本轮未找到独立法人、独立团队或融资证据。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "王海峰",
+      "role": "百度首席技术官（CTO）",
+      "previous_firms": [],
+      "background": "百度首席技术官；2025-11-13在百度世界大会介绍并发布原生全模态文心大模型5.0。",
+      "profiles": [],
+      "source_ids": [
+        "s05"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "首席技术官身份与文心5.0发布角色见中国青年报报道；仅单一来源，未取得个人公开主页。"
+    }
+  ]
+}

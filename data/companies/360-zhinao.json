@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "360-zhinao",
+  "name": "360 智脑 / 三六零",
+  "aliases": [
+    "360智脑",
+    "360 智脑",
+    "360GPT",
+    "Qihoo 360 Zhinao"
+  ],
+  "category_id": "01",
+  "focus": "三六零自研大模型与 AI 助手产品，覆盖生成创作、阅读理解、多轮对话、推理、代码与多模态",
+  "products": "360 智脑 App：官方应用页列出生成与创作、阅读理解、多轮对话、逻辑与推理、代码能力、知识问答、多语种互译、多模态文生图、文本改写、文本分类十大能力；官网另有 AI 搜索、浏览器、智绘、数字员工等产品入口。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以搜索语料和安全能力为背景的通用助手，与独立模型创业公司路径不同；本条不采用应用页「核心技术领跑业界」等营销表述作排名。",
+    "peer_names": [
+      "文心 / 百度",
+      "豆包 / 字节跳动"
+    ]
+  },
+  "investment": {
+    "summary": "三六零内部大模型产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://ai.360.com/",
+    "careers_url": "https://hr.360.cn/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究 360 智脑具名大模型与助手产品，不重复建三六零集团档案，也不把 360AI 搜索、家庭大脑等其他产品并入本条。App Store 应用页确认产品、开发者与 2023-07-21 首发；ai.360.com 本次为 JS 应用，仅确认品牌入口。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "App Store：360智脑-你的AI智囊团",
+      "url": "https://apps.apple.com/cn/app/360%E6%99%BA%E8%84%91-%E4%BD%A0%E7%9A%84ai%E6%99%BA%E5%9B%8A%E5%9B%A2/id6450328586",
+      "supports": "产品名称与十大能力（生成与创作、阅读理解、多轮对话、逻辑与推理、代码、知识问答、多语种互译、多模态、文本改写、文本分类）；开发者为 Beijing Qihoo Technology Co Ltd；首发日期 2023-07-21，当前版本 1.6.2。",
+      "published_date": "2023-07-21",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "360 智脑官网",
+      "url": "https://ai.360.com/",
+      "supports": "站点标题为「360智脑 — 以人为本，安全可信」，确认对外产品入口；页面为 JS 应用，正文未完整渲染。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "360 智脑 / 三六零",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "三六零官方应用与 ai.360.com 站点持续以「360 智脑」具名提供大模型助手，作为现有互联网安全巨头内部 AI 产品线列入 later。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "qihoo-360"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "360 智脑 App 的开发者与 seller 均为 Beijing Qihoo Technology Co Ltd，ai.360.com 为同品牌官网，确认为三六零体系内大模型产品线；未披露独立法人。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

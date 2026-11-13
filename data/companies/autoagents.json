@@ -1,0 +1,349 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "autoagents",
+  "name": "未来式智能 AutoAgents.ai",
+  "aliases": [
+    "未来式智能",
+    "AutoAgents",
+    "AutoAgents.ai",
+    "北京未来式智能科技有限公司"
+  ],
+  "category_id": "03",
+  "founded": {
+    "year": 2023,
+    "basis": "公司官网发展历程与36氪报道：2023年6月正式成立。"
+  },
+  "focus": "企业级AI Agent与数字劳动力：低代码智能体搭建、运行治理与数字专家市场。",
+  "products": "灵搭（企业级低代码AI智能体搭建平台）、灵搭智能终端（本地资料理解与跨软件任务执行）、袋袋／Profy（AI数字专家市场，按结果付费雇佣数字员工）。",
+  "locations_text": "北京海淀区学院路51号首享科技大厦（官网地址）；官网发展历程另列上海、武汉相关实体与研发中心。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：灵搭定位为面向业务人员的低代码Agent开发与治理平台，与画布类Agent搭建工具相比更强调私有化部署、权限治理和行业交付；袋袋再把专家经验封装为可雇佣的数字专家。公开客户与收入口径来自公司自述，未作独立审计或横向性能评测。",
+    "peer_names": [
+      "扣子 Coze",
+      "Dify"
+    ]
+  },
+  "investment": {
+    "summary": "2024-04获创新工场数千万元种子轮；2025-02完成数千万元天使轮，麟阁创投领投，蓟门资管跟投、创新工场持续跟投；2025-09获青矩技术战略投资；2026-05-20宣布Pre-A轮，凡创资本、中关村资本、探元资本新进，东证创新、麟阁创投跟投。金额与投资方主要来自公司官网历程及媒体报道，未取得完整股东名册。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "种子轮",
+        "announced_on": "2024-04",
+        "amount_text": "数千万元人民币",
+        "investors": [
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "官网发展历程列“获得创新工场数千万种子轮融资”；报道称创新工场为最早投资人。"
+      },
+      {
+        "round": "天使轮",
+        "announced_on": "2025-02",
+        "amount_text": "数千万元人民币",
+        "investors": [
+          {
+            "name": "麟阁创投",
+            "firm_id": null,
+            "role": "lead",
+            "source_ids": [
+              "s02",
+              "s04"
+            ]
+          },
+          {
+            "name": "蓟门资管",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          },
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s04"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02",
+          "s04"
+        ],
+        "notes": "官网历程记为2025.2数千万元天使轮；投资界报道列麟阁创投领投、蓟门资管跟投、老股东创新工场持续跟投。"
+      },
+      {
+        "round": "战略投资",
+        "announced_on": "2025-09",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "青矩技术",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s02",
+              "s04"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02",
+          "s04"
+        ],
+        "notes": "官网列2025.9与青矩技术联合成立合资公司；报道称2025年9月获青矩战略投资，金额未披露。"
+      },
+      {
+        "round": "Pre-A",
+        "announced_on": "2026-05-20",
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "凡创资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03",
+              "s04"
+            ]
+          },
+          {
+            "name": "中关村资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03",
+              "s04"
+            ]
+          },
+          {
+            "name": "探元资本",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03",
+              "s04"
+            ]
+          },
+          {
+            "name": "东证创新",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03",
+              "s04"
+            ]
+          },
+          {
+            "name": "麟阁创投",
+            "firm_id": null,
+            "role": "undisclosed",
+            "source_ids": [
+              "s03",
+              "s04"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s03",
+          "s04"
+        ],
+        "notes": "36氪与投资界均称本轮新进凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投；未披露金额与领投方。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://autoagents.ai/",
+    "careers_url": "https://agentspro.cn/careers/",
+    "recruitment_email": "career@agentspro.cn",
+    "other_email": "service@agentspro.cn",
+    "other_email_purpose": "商务合作邮箱（官网“关于我们”页公布）"
+  },
+  "notes": "本条是前阿里巴巴达摩院成员创办的创业公司档案，不是阿里或达摩院业务单元。创始人及核心团队来自阿里巴巴达摩院、字节跳动、腾讯、Amazon AWS、Google等；官网称核心成员来自阿里巴巴达摩院。公开营收、ARR、客户数量与任务成功率均为公司自述或媒体转述，未作独立审计。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "AutoAgents.ai — Enterprise AI Agent Platform and Digital Workforce",
+      "url": "https://autoagents.ai/",
+      "supports": "公司英文官网：灵搭（Lingda）企业Agent平台、灵搭智能终端、Profy数字专家市场；定位为企业AI劳动力操作系统。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "关于未来式智能 AutoAgents.ai",
+      "url": "https://agentspro.cn/about/",
+      "supports": "公司成立于2023年；发展历程列2023.6成立、2023.9灵搭1.0、2024.4创新工场数千万种子轮、2025.2数千万元天使轮、2025.9与青矩技术合作、2026.5 Pre-A与袋袋发布、2026.8灵搭智能终端；核心成员来自阿里巴巴达摩院等企业；商务与简历投递邮箱、北京地址。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
+      "url": "https://www.36kr.com/p/3816909945029760",
+      "supports": "未来式智能成立于2023年6月；创始人兼CEO杨劲松曾任达摩院产品/商业化总监、字节飞书AI负责人、亚马逊AWS aPaaS平台负责人，主导阿里灵杰与通义-Alicemind；Pre-A投资方包括凡创资本、中关村资本、探元资本，东证创新、麟阁创投跟投；灵搭与袋袋产品及客户情况。",
+      "published_date": "2026-05-20",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "阿里大牛带队，未来式智能又融资了",
+      "url": "https://news.qq.com/rain/a/20260520A05Y9200",
+      "supports": "创始人兼CEO杨劲松、CSO王骏、COO邹阳均来自阿里巴巴达摩院；王骏与邹阳履历；天使轮由麟阁创投领投、蓟门资管跟投、创新工场持续跟投；2025年9月获青矩战略投资；灵搭与袋袋产品、客户与收入口径。",
+      "published_date": "2026-05-20",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s05",
+      "scope": "channel",
+      "title": "加入我们 | 未来式智能",
+      "url": "https://agentspro.cn/careers/",
+      "supports": "公司官方招聘页入口；只核验入口归属，不表示具体岗位开放。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "未来式智能 AutoAgents.ai",
+    "original_track": "03",
+    "original_subtrack": "大厂AI团队前成员创业：企业Agent平台"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "由前阿里巴巴达摩院产品/商业化负责人创办、核心团队来自达摩院等大厂的企业级Agent公司，已有产品、客户与多轮融资；按第一波新增创业机会列入。",
+    "source_ids": [
+      "s02",
+      "s03",
+      "s04"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-05f3d48210b5d5f8",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://agentspro.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "北京未来式智能科技有限公司",
+        "role": "中英文产品与公司信息主站（中文站）"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "官网“关于我们”页具名北京未来式智能科技有限公司（AutoAgents.ai），与档案主体一致。"
+    },
+    {
+      "id": "ch-2eba145741e485ab",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://autoagents.ai/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "未来式智能 AutoAgents.ai",
+        "role": "英文产品站"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "英文官网列灵搭与Profy产品线；未单独披露中国法律主体。"
+    },
+    {
+      "id": "ch-4f61a692be165979",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://agentspro.cn/careers/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "北京未来式智能科技有限公司",
+        "role": "官方招聘页"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s05"
+      ],
+      "notes": "页面标题“加入我们 | 未来式智能”；官网同时公布简历投递邮箱 career@agentspro.cn。"
+    }
+  ],
+  "people": [
+    {
+      "name": "杨劲松",
+      "role": "创始人兼CEO",
+      "background": "曾任阿里巴巴达摩院产品/商业化总监，主导阿里灵杰、通义-Alicemind；此前任字节跳动飞书AI与大数据产品负责人、亚马逊AWS aPaaS平台负责人。2023年6月创办未来式智能。",
+      "previous_firms": [
+        "阿里巴巴达摩院",
+        "字节跳动",
+        "Amazon AWS"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s03",
+        "s04"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "姓名、职务与达摩院/字节/AWS履历由36氪与投资界报道支持；未取得个人公开主页。",
+      "historical_source_ids": []
+    },
+    {
+      "name": "王骏",
+      "role": "CSO",
+      "background": "清华大学电机系硕士、哥伦比亚大学电子工程博士，曾在谷歌研究中心、阿里云及阿里巴巴达摩院机器智能方向任职；现为未来式智能CSO。",
+      "previous_firms": [
+        "谷歌",
+        "阿里云",
+        "阿里巴巴达摩院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "职务与履历来自投资界报道（腾讯新闻转载）；公司官网只笼统称核心成员来自达摩院等企业，未列具体姓名。",
+      "historical_source_ids": []
+    },
+    {
+      "name": "邹阳",
+      "role": "COO",
+      "background": "曾主导阿里云多个大型AI项目从拓展到交付，并担任阿里巴巴达摩院商业化总监；现为未来式智能COO。",
+      "previous_firms": [
+        "阿里云",
+        "阿里巴巴达摩院"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s04"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "职务与履历来自投资界报道（腾讯新闻转载）；未取得个人公开主页。",
+      "historical_source_ids": []
+    }
+  ]
+}

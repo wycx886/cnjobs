@@ -1,0 +1,93 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "longcat",
+  "name": "LongCat / 美团",
+  "aliases": [
+    "LongCat",
+    "龙猫大模型",
+    "美团 LongCat",
+    "LongCat 团队"
+  ],
+  "category_id": "01",
+  "focus": "美团自研的基础模型与智能体模型系列，强调国产算力训练、原生多模态和长程智能体任务",
+  "products": "LongCat-Flash 系列（含 Chat／Thinking／Omni）、LongCat-2.0、LongCat-2.5；longcat.ai 网页体验与 API；基于 LongCat 的商家 AI 经营工作台「妙手」。官方技术博客称 2025-09-01 发布 LongCat-Flash 系列，2026-06 发布 LongCat-2.0，2026-11-02 发布 LongCat-2.5。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：本条把美团具名模型与智能体团队作为独立业务单元建档，而非重复集团档案；与通用模型厂商的可比性仅作编辑参照，不采用官方基准中的排名结论。",
+    "peer_names": [
+      "豆包大模型 / 字节跳动",
+      "混元 / 腾讯"
+    ]
+  },
+  "investment": {
+    "summary": "美团内部业务单元，未见独立主体股权融资披露；不适用独立机构融资核验，也不表示没有内部研发投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://longcat.ai/",
+    "careers_url": "https://career.meituan.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究美团具名 LongCat 业务单元，不重复建集团档案，也不把集团全部 AI 业务并入本条。模型能力与参数来自美团官方新闻和技术博客；官方基准对比属发布方口径，本条不据此做市场排名。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "美团发布 LongCat-2.5 大模型，「国模国芯」实现新突破",
+      "url": "https://www.meituan.com/news/NN261102280001343",
+      "supports": "2026-11-02 发布 LongCat-2.5；总参数 1.6 万亿、全程国产算力训练、原生多模态与智能体编程；可在 longcat.ai 体验并通过 API 调用；基于 LongCat 的商家 AI 经营工作台「妙手」及已服务连锁品牌；引述 CEO 王兴关于 AI 支持主业的口径。",
+      "published_date": "2026-11-02",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "LongCat-Flash-Omni 正式发布并开源：开启全模态实时交互时代",
+      "url": "https://tech.meituan.com/2025/11/03/LongCat-Flash-Omni.html",
+      "supports": "美团技术团队称 2025-09-01 发布 LongCat-Flash 系列，并开源 Chat／Thinking；LongCat-Flash-Omni 总参数 5600 亿、激活 270 亿、128K 上下文，提供 longcat.ai、Hugging Face、GitHub 与官方 App 入口；文中以「LongCat 团队」指称研发团队。",
+      "published_date": "2025-11-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "LongCat 官方体验站",
+      "url": "https://longcat.ai/",
+      "supports": "站点标题为「LongCat - AI Coding Agent」，确认对外产品入口；正文为应用界面，未取得更多组织信息。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "LongCat / 美团",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "美团官方新闻与技术博客持续披露具名 LongCat 模型和团队活动，作为现有巨头内部的具名 AI 业务单元列入 later；是业务分类，不作性能或组织独立性判断。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "internal_team",
+    "parent_platform_ids": [
+      "meituan"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "美团官方新闻与技术博客以「LongCat 团队」「美团技术团队」发布模型与产品，确认为美团内部模型团队；本条不推断其独立法人或股权结构。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

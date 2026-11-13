@@ -1,0 +1,105 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "jimeng",
+  "name": "即梦 / 字节跳动",
+  "aliases": [
+    "即梦AI",
+    "即梦 AI",
+    "Dreamina"
+  ],
+  "category_id": "05",
+  "focus": "面向创作者的 AI 图像、视频与短剧内容生成平台，支持自然语言和图片输入。",
+  "products": "即梦 AI 当前展示 Seedream 5.5 图像生成，以及视频局部重拍、智能超清、智能编辑、3D 导演台、深度动作捕捉、多角度变换、720 全景图、Blender／Maya 3D 渲染插件、提示词反推等功能；另设短剧工作室、营销工作室、画布和 Agent 模式。官网由 jimeng.jianying.com 运营。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：即梦以图像和视频生成为核心，向短剧、营销和 3D 创作工作流扩展，并与 Seed 的 Seedream 模型联动；本条只记录官网公开能力和入口，不作生成质量排名。",
+    "peer_names": [
+      "可灵 / 快手",
+      "智象未来 HiDream.ai",
+      "爱诗科技 PixVerse"
+    ]
+  },
+  "investment": {
+    "summary": "即梦为字节跳动旗下 AI 创作产品线，官网未披露独立法人或独立融资；不适用独立主体股权融资字段，不表示没有集团内部投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://jimeng.jianying.com/ai-tool/home/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是字节跳动即梦 AI 产品线的业务单元档案，不重复建集团档案。官网未公开具名产品负责人、上线日期和用户量，相关字段留空；产品页展示的创作案例不构成销量或收入证据。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "字节跳动产品与服务：即梦 AI",
+      "url": "https://www.bytedance.com/zh/products-services",
+      "supports": "字节跳动官方产品页称即梦 AI 是字节跳动旗下的 AI 创作和内容平台，基于 GenAI 技术支持自然语言及图片输入生成图像和视频，定位为“想象力的相机”。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "即梦AI - 一站式AI创作平台",
+      "url": "https://jimeng.jianying.com/ai-tool/home/",
+      "supports": "实际打开页面标题为“即梦AI - 一站式AI创作平台”，展示 Seedream 5.5、短剧工作室、营销工作室、画布、Agent 模式、视频局部重拍、智能超清、智能编辑、3D 导演台、动作捕捉、多角度变换、720 全景图、3D 渲染插件等功能。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "字节跳动即梦AI",
+    "original_track": "05",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "字节跳动具名 AI 创作平台，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-jimeng-website",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://jimeng.jianying.com/ai-tool/home/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "即梦 AI",
+        "role": "产品官方网站"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "实际打开页面标题为“即梦AI - 一站式AI创作平台”；域名位于剪映主域下，字节跳动官方产品页将其列为集团产品。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "bytedance"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "字节跳动官方产品页明确称即梦 AI 为字节跳动旗下 AI 创作和内容平台，产品站与 Seed 模型成果相互链接；按集团内部 AI 创作产品线记录，未找到独立法人或独立融资证据。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

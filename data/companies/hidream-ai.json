@@ -159,6 +159,24 @@
       "supports": "公开官网主体核实：页面标题／品牌名、页脚公司全称或备案号与档案一致；只核验入口归属。",
       "published_date": null,
       "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "投资界：智象未来 HiDream.ai 公司页",
+      "url": "https://vc.pedaily.cn/company/683396.html",
+      "supports": "智象未来由加拿大工程院外籍院士、原京东集团副总裁梅涛博士创立，2023年3月成立；梅涛现任创始人兼CEO。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "第一财经：智象未来创始人梅涛希望三个月内追赶Sora",
+      "url": "https://www.yicai.com/brief/102007895.html",
+      "supports": "梅涛为智象未来创始人兼CEO。",
+      "published_date": "2024-02-28",
+      "checked_at": "2026-11-13"
     }
   ],
   "provenance": {
@@ -198,7 +216,25 @@
       "notes": null
     }
   ],
-  "people": [],
+  "people": [
+    {
+      "name": "梅涛",
+      "role": "创始人兼CEO",
+      "previous_firms": [
+        "京东集团"
+      ],
+      "background": "加拿大工程院外籍院士，曾任京东集团副总裁；2023年3月创立智象未来（HiDream.ai），现任创始人兼CEO，聚焦视觉多模态基础模型与应用。",
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s05",
+        "s06"
+      ],
+      "checked_at": "2026-11-12",
+      "verification_status": "partial",
+      "notes": "创始人身份、京东集团副总裁履历与院士身份见投资界公司页、第一财经快讯及档案原有 s01；未取得个人公开主页或公司职务页交叉确认。"
+    }
+  ],
   "founded": {
     "year": 2023,
     "basis": "投资界公司页工商信息：智象未来（合肥）科技股份有限公司成立于 2023-03-21。"

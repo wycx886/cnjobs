@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "china-mobile-jiutian",
+  "name": "九天大模型 / 中国移动",
+  "aliases": [
+    "九天",
+    "九天大模型",
+    "九天自然语言交互大模型",
+    "China Mobile Jiutian"
+  ],
+  "category_id": "01",
+  "focus": "中国移动自研的体系化人工智能大模型，覆盖语言交互、网络、客服、政务等行业模型",
+  "products": "九天自然语言交互大模型（90 亿、139 亿、570 亿、千亿等多种参数版本）；九天·众擎基座大模型；网络、客服、家庭、政务、出行、医疗、工业、综治、企业通话等 20 余款行业大模型。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以央企行业场景和国产化部署为主要路径，与互联网 C 端助手路线不同；本条只记录公开模型与行业应用，不采用发布方效率数字作独立评测。",
+    "peer_names": [
+      "星辰大模型 / 中国电信",
+      "元景 / 中国联通"
+    ]
+  },
+  "investment": {
+    "summary": "中国移动内部大模型产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": null,
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究九天具名大模型产品线，不重复建中国移动集团档案。发布与备案信息来自国务院国资委网站转载的中国移动稿件；九天独立产品站本次未取得可读正文，故不填官网。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "中国移动九天大模型正式对外提供生成式人工智能服务",
+      "url": "http://www.sasac.gov.cn/n2588025/n2588124/c30482038/content.html",
+      "supports": "国务院国资委网站转载中国移动稿件：九天自然语言交互大模型通过生成式人工智能服务备案和深度合成服务算法备案，可对外提供生成式 AI 服务；具备 90 亿、139 亿、570 亿、千亿等多种参数版本；已形成九天·众擎基座大模型及网络、客服、政务等 20 余款行业大模型。",
+      "published_date": "2024-04-08",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "九天大模型 / 中国移动",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "国资委网站转载的中国移动官方稿件披露九天模型、参数版本与行业模型矩阵，作为现有电信巨头内部具名模型产品线列入 later。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "china-mobile"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "国务院国资委网站转载中国移动通信集团稿件，明确九天为中国移动自主研发的大模型产品，确认为集团内部产品线；未在本次来源中确认独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

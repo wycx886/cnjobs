@@ -8,7 +8,48 @@
 
 | 单元／机构 | 组织形态 | 母平台 | 关系证据 | 寻源状态 |
 | --- | --- | --- | --- | --- |
+| [360 智脑 / 三六零](companies/360-zhinao.md) | 产品／研究项目 | 三六零 360 | 有明确证据 | later |
+| [阿里云 / 阿里巴巴](companies/alibaba-cloud.md) | 子公司 | 阿里巴巴集团 | 有明确证据 | later |
 | [Anew Labs 新生实验室](companies/anew-labs.md) | 大厂拆分机构 | 字节跳动 | 据报道 | first |
+| [百灵 / 蚂蚁集团](companies/ant-ling.md) | 产品／研究项目 | 蚂蚁集团 | 有明确证据 | later |
+| [芝士车管家 / 汽车之家](companies/autohome-zhishi.md) | 产品／研究项目 | 汽车之家 | 有明确证据 | later |
+| [Index 模型 / 哔哩哔哩](companies/bilibili-index.md) | 产品／研究项目 | 哔哩哔哩 | 有明确证据 | later |
+| [九天大模型 / 中国移动](companies/china-mobile-jiutian.md) | 产品／研究项目 | 中国移动 | 有明确证据 | later |
+| [星辰大模型 / 中国电信](companies/china-telecom-xingchen.md) | 子公司 | 中国电信 | 有明确证据 | later |
+| [扣子 / 字节跳动](companies/coze.md) | 产品／研究项目 | 字节跳动 | 有明确证据 | later |
+| [达摩院 / 阿里巴巴](companies/damo-academy.md) | 研究实验室 | 阿里巴巴集团 | 有明确证据 | later |
+| [点点 / 小红书](companies/dian-dian.md) | 产品／研究项目 | 小红书 | 据报道 | later |
+| [豆包工作 / 字节跳动](companies/doubao-work.md) | 产品／研究项目 | 字节跳动 | 有明确证据 | later |
+| [豆包 / 字节跳动](companies/doubao.md) | 产品／研究项目 | 字节跳动 | 有明确证据 | later |
+| [光年之外 Guangnian Zhiwai](companies/guangnian-zhiwai.md) | 子公司 | 美团 | 据报道 | first |
+| [诺亚方舟实验室 / 华为](companies/huawei-noahs-ark.md) | 研究实验室 | 华为 | 有明确证据 | later |
+| [混元 / 腾讯](companies/hunyuan.md) | 产品／研究项目 | 腾讯 | 有明确证据 | later |
+| [星火大模型 / 科大讯飞](companies/iflytek-spark.md) | 产品／研究项目 | 科大讯飞 | 有明确证据 | later |
 | [苏州旭创科技有限公司](companies/innolight.md) | 子公司 | 中际旭创股份有限公司 | 据报道 | later |
 | [苏州汇川技术有限公司](companies/inovance-technology.md) | 子公司 | 深圳市汇川技术股份有限公司 | 有明确证据 | later |
+| [言犀 / 京东](companies/jd-yanxi.md) | 产品／研究项目 | 京东 | 有明确证据 | later |
+| [即梦 / 字节跳动](companies/jimeng.md) | 产品／研究项目 | 字节跳动 | 有明确证据 | later |
+| [JoyAI / 京东](companies/joyai.md) | 内部团队／创业单元 | 京东 | 有明确证据 | later |
+| [金蝶 AI 苍穹 / 金蝶](companies/kingdee-cangqiong.md) | 产品／研究项目 | 金蝶 | 有明确证据 | later |
+| [星流模型服务 / 金山云](companies/kingsoft-cloud-xingliu.md) | 产品／研究项目 | 金山云 | 有明确证据 | later |
+| [可灵 / 快手](companies/kling.md) | 子公司 | 快手 | 据报道 | later |
+| [天禧 / 联想](companies/lenovo-tianxi.md) | 产品／研究项目 | 联想集团 | 有明确证据 | later |
+| [灵波 / 蚂蚁集团](companies/lingbo.md) | 子公司 | 蚂蚁集团 | 有明确证据 | later |
+| [灵光 / 蚂蚁集团](companies/lingguang.md) | 产品／研究项目 | 蚂蚁集团 | 有明确证据 | later |
+| [LongCat / 美团](companies/longcat.md) | 内部团队／创业单元 | 美团 | 有明确证据 | later |
+| [猫箱 / 字节跳动](companies/maoxiang.md) | 产品／研究项目 | 字节跳动 | 据报道 | later |
+| [MiMo / 小米](companies/mimo.md) | 内部团队／创业单元 | 小米 | 有明确证据 | later |
+| [网易伏羲 / 网易](companies/netease-fuxi.md) | 研究实验室 | 网易 | 有明确证据 | later |
+| [小布 / OPPO](companies/oppo-xiaobu.md) | 产品／研究项目 | OPPO | 有明确证据 | later |
+| [盘古 / 华为](companies/pangu.md) | 产品／研究项目 | 华为 | 有明确证据 | later |
+| [夸克 / 阿里巴巴](companies/quark.md) | 产品／研究项目 | 阿里巴巴集团 | 有明确证据 | later |
+| [Seed / 字节跳动](companies/seed.md) | 研究实验室 | 字节跳动 | 有明确证据 | later |
+| [日日新 SenseNova / 商汤](companies/sensenova.md) | 产品／研究项目 | 商汤 SenseTime | 有明确证据 | later |
 | [同程旅行AI部门](companies/tongcheng-ai.md) | 组织形态待核实 | 同程旅行 | 待核实 | later |
+| [通义千问 / 阿里巴巴](companies/tongyi-qwen.md) | 产品／研究项目 | 阿里巴巴集团 | 有明确证据 | later |
+| [TRAE / 字节跳动](companies/trae.md) | 产品／研究项目 | 字节跳动 | 据报道 | later |
+| [火山方舟 / 字节跳动](companies/volcengine-ark.md) | 产品／研究项目 | 字节跳动 | 有明确证据 | later |
+| [文心 / 百度](companies/wenxin.md) | 产品／研究项目 | 百度 | 有明确证据 | later |
+| [星绘 / 字节跳动](companies/xinghui.md) | 产品／研究项目 | 字节跳动 | 据报道 | later |
+| [元宝 / 腾讯](companies/yuanbao.md) | 产品／研究项目 | 腾讯 | 有明确证据 | later |
+| [星云通信大模型 / 中兴通讯](companies/zte-xingyun.md) | 产品／研究项目 | 中兴通讯 | 有明确证据 | later |

@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "joyai",
+  "name": "JoyAI / 京东",
+  "aliases": [
+    "JoyAI",
+    "京东 JoyAI",
+    "JoyAI 团队",
+    "京东 AIGC 平台"
+  ],
+  "category_id": "05",
+  "focus": "京东自研的 AIGC 平台团队，覆盖语言、语音、图像、视频与数字人生成",
+  "products": "JoyAI AIGC 平台：AI 文案、语音复刻／合成／识别、商品图与 4K 图像生成、数字人生成（采销东哥数字人、双人直播等）；视频生成标注为即将上线。官网同时列出 JoyMarketing、智能客服、智能联络中心等产品入口。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与京东言犀的智能人机交互产品线相邻，但本条按 JoyAI 官方门户所称的「JoyAI 团队自研」AIGC 平台单独建档；两者是否同一编制未由官方确认。",
+    "peer_names": [
+      "言犀 / 京东",
+      "可灵 / 快手"
+    ]
+  },
+  "investment": {
+    "summary": "京东内部业务团队，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://jdai.jd.com/portal",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "org.jdtaigc1@jd.com",
+    "other_email_purpose": "JoyAI 官网公示的商务咨询邮箱"
+  },
+  "notes": "只研究 JoyAI 具名 AIGC 团队与产品入口，不重复建京东集团档案。官网说明为「JoyAI团队自研打造」，但未披露团队负责人或完整编制；页脚版权为 JDCloud.com。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "JoyAI 官网：新一代 AIGC 平台",
+      "url": "https://jdai.jd.com/portal",
+      "supports": "JoyAI 团队自研，提供语言、语音、图像、视频、数字人多模态生成能力；列出 AI 文案、语音复刻／合成／识别、商品图生成、数字人及具身智能等产品入口；公示商务邮箱与电话。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "JoyAI / 京东",
+    "original_track": "05",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "京东官方 AIGC 门户明确以「JoyAI 团队自研」介绍具名平台，作为现有巨头内部业务单元列入 later；不判断其与言犀是否同一编制。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "internal_team",
+    "parent_platform_ids": [
+      "jd"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "JoyAI 官方门户自述由「JoyAI 团队自研打造」，页脚与域名均指向京东云体系，确认为京东内部 AI 业务团队；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

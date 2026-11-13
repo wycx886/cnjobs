@@ -1,0 +1,141 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "infinite-light",
+  "name": "无限光年 / INF",
+  "aliases": [
+    "无限光年",
+    "INF",
+    "无限光年（上海）技术有限公司",
+    "INF Technology",
+    "infly"
+  ],
+  "category_id": "06",
+  "focus": "企业AI操作系统、可信大模型与企业智能体",
+  "products": "INF启智企业AI操作系统；Infinity-Parser2文档解析模型、INF-Retriever检索模型、VL-Rethinker多模态推理模型；金融、AI基础设施与科研行业智能体。",
+  "locations_text": "上海徐汇区龙耀路8号；另设新加坡与香港办公室",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：从可信大模型与神经符号路线转向企业AI操作系统和行业智能体，强调可审计与私有化；与只做通用模型API的公司不同。",
+    "peer_names": [
+      "智谱 Z.ai",
+      "百川智能",
+      "Dify"
+    ]
+  },
+  "investment": {
+    "summary": "公开报道称公司已完成多轮融资，投资人包括阿里云、启明创投等；轮次、金额与完整股东名册未披露，不补造。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "多轮融资（未逐轮披露）",
+        "announced_on": null,
+        "amount_text": null,
+        "investors": [
+          {
+            "name": "阿里云",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "启明创投",
+            "firm_id": "qiming",
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "新浪财经2024-07-05转引报道称“已完成多轮融资，投资人包括阿里云、启明创投等”；未披露轮次名称、时间与金额。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://infly.cn/",
+    "careers_url": null,
+    "recruitment_email": "career@infly.cn",
+    "other_email": "bd@infly.cn",
+    "other_email_purpose": "商务合作咨询（官网公开）"
+  },
+  "notes": "创始人漆远为蚂蚁集团原副总裁、首席数据科学家，离职后先回复旦大学任教，再创办无限光年；公开报道未称蚂蚁孵化或持股，不标分拆。公司早期方向为AI制药，后转向可信大模型与企业AI，官网当前定位企业AI操作系统。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "无限光年 INF | Intelligent value, infinite trust.",
+      "url": "https://infly.cn/",
+      "supports": "公司当前定位为企业AI操作系统与智能体、INF启智产品、Infinity-Parser2等模型、上海/新加坡/香港地址及招聘邮箱。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "漆远首次揭秘创业方向：可信大模型，公司无限光年已获阿里投资",
+      "url": "https://finance.sina.com.cn/roll/2024-07-05/doc-incazvws6720624.shtml",
+      "supports": "漆远为复旦大学教授、蚂蚁集团原副总裁/首席数据科学家；创办无限光年；公司已完成多轮融资，投资人包括阿里云、启明创投。",
+      "published_date": "2024-07-05",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "无限光年",
+    "original_track": "06",
+    "original_subtrack": "前蚂蚁集团员工创业：企业AI与可信大模型"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "前蚂蚁集团副总裁、AI首席科学家漆远创办的企业AI公司，投资方与产品方向公开，纳入第一波观察。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-infly-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://infly.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "无限光年",
+        "role": "公司官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "官网页脚具名上海地址、备案号与商务/招聘邮箱；未单列招聘站。"
+    }
+  ],
+  "people": [
+    {
+      "name": "漆远",
+      "role": "创始人",
+      "background": "MIT媒体实验室博士，曾任普渡大学终身教职；2014年回国加入阿里，参与创立iDST，后任蚂蚁集团副总裁、首席数据科学家、蚂蚁AI首席科学家；2021年重返复旦大学，创办无限光年。",
+      "previous_firms": [
+        "蚂蚁集团",
+        "阿里巴巴",
+        "复旦大学"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份与履历由新浪财经2024-07-05报道支持；未取得个人公开主页。"
+    }
+  ]
+}

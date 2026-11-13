@@ -1,0 +1,238 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "video-rebirth",
+  "name": "Video Rebirth",
+  "aliases": [
+    "Video Rebirth AI",
+    "Bach",
+    "BACH"
+  ],
+  "category_id": "05",
+  "founded": {
+    "year": 2024,
+    "basis": "36氪2025-11-07报道公司于2024年10月成立，总部位于新加坡；官网未列成立日期。"
+  },
+  "focus": "面向影视、广告、电商与动画的工业级 AI 视频生成模型与制作平台",
+  "products": "旗舰视频模型与引擎 BACH，采用 Dual DiT、Physics Native Attention（PNA）并支持原生 30fps；面向企业提供基于自有 IP 的定制模型、工作室协作与批量内容生产。",
+  "locations_text": "新加坡（36氪报道总部）；官网面向全球企业客户，具体团队分布未披露。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与面向大众创作的工具型视频产品不同，Video Rebirth 公开定位为企业级、可定制的工业视频引擎，并以影视与广告交付为切入口；模型能力与商业化规模未作横向评测。",
+    "peer_names": [
+      "可灵 / 快手",
+      "Runway"
+    ]
+  },
+  "investment": {
+    "summary": "公司新闻稿称2026年3月完成8000万美元融资最终关闭，其中包含新获3000万美元扩展轮，加上2025年11月首轮5000万美元。新闻稿点名 AMD Ventures、Hyundai（ZER01NE）、CJ Group／HIVEN 与 Feedback Ventures 等战略投资方，亚洲 VC 名单未逐一披露。金额与投资方均来自公司新闻稿与媒体报道，未核对投资协议或完整股东名册。",
+    "verification_status": "confirmed_disclosure",
+    "rounds": [
+      {
+        "round": "首轮",
+        "announced_on": "2025-11-05",
+        "amount_text": "5000万美元",
+        "investors": [],
+        "source_ids": [
+          "s01"
+        ],
+        "notes": "36氪报道2025-11-05完成5000万美元融资；报道未逐一具名投资方，故不列机构，避免推测。"
+      },
+      {
+        "round": "扩展轮（最终关闭）",
+        "announced_on": "2026-03-17",
+        "amount_text": "3000万美元（累计8000万美元）",
+        "investors": [
+          {
+            "name": "AMD Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Hyundai（ZER01NE）",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "CJ Group / HIVEN",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "Feedback Ventures",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "新闻稿称最终关闭8000万美元，包含新获3000万美元扩展轮；并称有亚洲多家头部 VC 参与，但未逐一列名。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://www.videorebirth.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "2024年10月成立、总部新加坡；创始团队来自腾讯、G42 等，但未见腾讯正式拆分或持股证据，故按独立创业公司记录，不标 corporate_spinout。融资为创始人主导的公司新闻稿披露，未核对投资协议；招聘入口与团队规模尚未核实。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "scope": "organization",
+      "title": "36氪：3.6亿，前腾讯混元技术负责人创业，0产品融资了",
+      "url": "https://www.36kr.com/p/3542629073940359",
+      "supports": "公司2024年10月成立、总部新加坡；刘威曾任腾讯AI Lab计算机视觉中心总监、腾讯杰出科学家、混元大模型技术负责人之一，2024年11月从腾讯离职；2025年11月完成5000万美元融资，首款产品为 Bach。",
+      "published_date": "2025-11-07",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "scope": "organization",
+      "title": "PR Newswire: Video Rebirth Secures $80 Million to Build the World's First Industrial-Grade AI Engine",
+      "url": "https://www.prnewswire.com/news-releases/video-rebirth-secures-80-million-to-build-the-worlds-first-industrial-grade-ai-engine-302716670.html",
+      "supports": "2026-03-17宣布8000万美元融资最终关闭，含3000万美元扩展轮；投资方含AMD Ventures、Hyundai（ZER01NE）、CJ Group／HIVEN、Feedback Ventures；联合创始人Dan Kong（前G42 AI投资人）与Difu Li（前腾讯AI战略负责人）；Bach定位工业级视频引擎。",
+      "published_date": "2026-03-17",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "scope": "organization",
+      "title": "Video Rebirth 官方网站",
+      "url": "https://www.videorebirth.com/",
+      "supports": "官网确认BACH为旗舰工业级视频模型，面向企业提供定制模型、工作室协作与内容生产三类合作方式；未披露团队规模或融资。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "Video Rebirth 官网页脚与 JSON-LD sameAs 列出 @video_rebirth",
+      "url": "https://www.videorebirth.com/",
+      "supports": "2026-11-13 读取官网，页脚 X 图标与文字链接为 https://x.com/video_rebirth，JSON-LD Organization sameAs 亦含同一 URL。X 账号显示名 VIDEO REBIRTH，蓝V，资料网站 videorebirth.com，地点 Singapore。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "Video Rebirth",
+    "original_track": "05",
+    "original_subtrack": "新增公开研究：腾讯混元／AI Lab前员工AI视频创业"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "创始人为前腾讯混元技术负责人刘威，团队直接切入工业级视频生成；有公开融资与产品进展，作为腾讯系前员工创业候选纳入第一波研究。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-videorebirth-web",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.videorebirth.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Video Rebirth",
+        "role": null
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s03"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ch-x-video-rebirth",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/video_rebirth",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "VIDEO REBIRTH",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s04"
+      ],
+      "notes": "官网页脚与 JSON-LD 指向该账号；蓝V，约 1990 关注，2025-07 创建。组织账号，不进入 people[]。"
+    }
+  ],
+  "people": [
+    {
+      "name": "刘威（Wei Liu）",
+      "role": "创始人兼CEO",
+      "background": "前腾讯杰出科学家、腾讯混元大模型技术负责人之一；2016年加入腾讯，曾任腾讯AI Lab计算机视觉中心总监、广告多媒体AI中心总监；2024年从腾讯离职，2024年10月在新加坡创办Video Rebirth。",
+      "previous_firms": [
+        "腾讯混元",
+        "腾讯 AI Lab",
+        "IBM"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "confirmed",
+      "notes": "创始人身份见公司新闻稿；腾讯职务与离职时间见36氪报道。未取得个人公开主页。"
+    },
+    {
+      "name": "Difu Li",
+      "role": "联合创始人兼CSO",
+      "background": "公司新闻稿称其曾任腾讯AI战略负责人（formerly leading the AI strategy at Tencent），现负责公司战略。",
+      "previous_firms": [
+        "腾讯"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "新闻稿使用英文名Difu Li；中文姓名与具体腾讯职务未核实。"
+    },
+    {
+      "name": "Dan Kong",
+      "role": "联合创始人兼COO",
+      "background": "公司新闻稿称其曾任阿布扎比G42的AI投资人，现负责公司运营。",
+      "previous_firms": [
+        "G42"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s02"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "新闻稿使用英文名Dan Kong；中文姓名未核实。"
+    }
+  ]
+}

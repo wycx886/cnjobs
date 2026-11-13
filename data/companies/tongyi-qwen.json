@@ -1,0 +1,464 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "tongyi-qwen",
+  "name": "通义千问 / 阿里巴巴",
+  "aliases": [
+    "通义千问",
+    "通义",
+    "Qwen",
+    "千问",
+    "千问AI平台"
+  ],
+  "category_id": "01",
+  "founded": {
+    "year": 2023,
+    "basis": "腾讯新闻2023-04-11报道：阿里云峰会正式发布大语言模型“通义千问”。"
+  },
+  "focus": "通用与多模态基础模型、模型服务及个人AI应用",
+  "products": "Qwen3.8-Max（官方称2.4万亿参数MoE）、Qwen3.8-Flash、Wan3.0-Video，以及千问App、千问办公、Qoder等产品；千问AI平台称覆盖400+模型。",
+  "locations_text": "杭州；团队与岗位城市以阿里巴巴招聘官网为准",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：通义千问是阿里云侧模型与C端千问应用的统一品牌，既做基础模型也做开箱应用；与只做模型API或只做单一应用的团队不同。",
+    "peer_names": [
+      "豆包 / 字节跳动",
+      "文心 / 百度",
+      "混元 / 腾讯"
+    ]
+  },
+  "investment": {
+    "summary": "阿里巴巴集团内部模型与产品线，未见独立外部股权融资披露；不适用独立主体融资字段。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.qianwenai.com/",
+    "careers_url": "https://talent.alibaba.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是业务单元档案，不重复建集团档案。2026-06-08 阿里将通义大模型事业部与未来生活实验室合并为 Token Foundry 事业部，由集团CEO吴泳铭直接负责；周靖人转任集团首席科学家。第三方榜单的千问App月活数据不是公司审计口径。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "千问AI平台：为Agent而生",
+      "url": "https://www.qianwenai.com/",
+      "supports": "千问AI平台身份、Qwen3.8-Max/Flash、Wan3.0-Video、千问/千问办公/Qoder等产品，以及400+模型与客户规模口径。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "“通义千问”三年磨一剑 阿里大模型征程弥远",
+      "url": "https://news.qq.com/rain/a/20230411A096LH00",
+      "supports": "2023-04-11阿里云峰会正式发布通义千问；阿里计划将全产品接入通义千问。",
+      "published_date": "2023-04-11",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "周靖人，阿里史上第一位首席科学家",
+      "url": "https://www.36kr.com/p/3844515262761225",
+      "supports": "2026-06阿里合并通义大模型事业部与未来生活实验室成立Token Foundry事业部，吴泳铭直接负责；周靖人出任阿里巴巴首席科学家。",
+      "published_date": "2026-06-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "阿里千问APP月活破1.65亿，同比暴增4241%领跑AI应用增长榜",
+      "url": "https://ai.zol.com.cn/1172/11729524.html",
+      "supports": "报道称2026年3月千问App月活用户1.65亿；第三方榜单口径，非公司财报。",
+      "published_date": "2026-04-29",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s05",
+      "scope": "person",
+      "title": "X 账号 @GanjinZero 主页",
+      "url": "https://x.com/ganjinzero",
+      "supports": "公开专业主页与本次人物身份观察：Zheng Yuan；职务：前通义千问成员",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s06",
+      "scope": "person",
+      "title": "GitHub @GanjinZero 简介写明 Ex: Qwen",
+      "url": "https://github.com/GanjinZero",
+      "supports": "GitHub 个人简介为 Ph.D. from THU Center of Statistical Science. Ex: Qwen. Focus on Alignment, Reasoning and Medical in NLP. 登录名 GanjinZero 与 X 用户名一致。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s07",
+      "scope": "person",
+      "title": "X 账号 @JustinLin610 主页",
+      "url": "https://x.com/justinlin610",
+      "supports": "公开专业主页与本次人物身份观察：林俊旸；职务：原通义千问大模型负责人",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s08",
+      "scope": "person",
+      "title": "林俊旸 @JustinLin610 宣布卸任：me stepping down. bye my beloved qwen.",
+      "url": "https://x.com/JustinLin610/status/2028865835373359513",
+      "supports": "该账号于 2026-03-03 发帖原文为 “me stepping down. bye my beloved qwen.” 显示名 Junyang Lin，现简介为 building p7k @pragmatik_labs。",
+      "published_date": "2026-03-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s09",
+      "scope": "person",
+      "title": "量子位：阿里千问大模型换将，32岁林俊旸官宣告别",
+      "url": "https://www.qbitai.com/2026/03/383842.html",
+      "supports": "报道写明阿里巴巴高级算法专家、通义千问大模型负责人林俊旸在X平台发文离开千问团队，并给出帖文链接 https://x.com/JustinLin610/status/2028865835373359513。",
+      "published_date": "2026-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s10",
+      "scope": "person",
+      "title": "X 账号 @huybery 主页",
+      "url": "https://x.com/huybery",
+      "supports": "公开专业主页与本次人物身份观察：Binyuan Hui；职务：原通义千问科学家",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s11",
+      "scope": "person",
+      "title": "Binyuan Hui @huybery 发帖：bye qwen, me too.",
+      "url": "https://x.com/huybery/status/2028976346416988612",
+      "supports": "该账号于 2026-03-03 引用林俊旸卸任帖，正文为 “bye qwen, me too.”",
+      "published_date": "2026-03-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s12",
+      "scope": "person",
+      "title": "量子位报道将 Binyuan Hui 的 X 告别帖列为通义实验室科学家离队依据",
+      "url": "https://www.qbitai.com/2026/03/383842.html",
+      "supports": "报道写明长期活跃在X平台的通义实验室科学家Binyuan Hui也于今早发文“bye qwen, me too”，并给出 https://x.com/huybery/status/2028976346416988612。",
+      "published_date": "2026-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s13",
+      "scope": "person",
+      "title": "X 账号 @kxli_2000 主页",
+      "url": "https://x.com/kxli_2000",
+      "supports": "公开专业主页与本次人物身份观察：Kaixin Li；职务：原通义千问研究实习生；Qwen3.5、Qwen-VL、Qwen-Coder 核心贡献者",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s14",
+      "scope": "person",
+      "title": "Kaixin Li 个人主页：Previously, I was a research intern at Qwen",
+      "url": "https://likaixin2000.github.io/",
+      "supports": "About Me 写明 Previously, I was a research intern at Qwen, supervised by Junyang Lin and Binyuan Hui, where I contributed to building the Qwen model series, including Qwen-VL, Qwen-3.5, and Qwen-Coder。X 资料网站跳转到该页。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s15",
+      "scope": "person",
+      "title": "Kaixin Li @kxli_2000 发帖 Signing off from @Alibaba_Qwen",
+      "url": "https://x.com/kxli_2000/status/2028880971945394553",
+      "supports": "该账号于 2026-03-03 发帖：Signing off from @Alibaba_Qwen. Grateful for the chance to work with such brilliant minds. Proud of our impact. Onwards and upwards!",
+      "published_date": "2026-03-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s16",
+      "scope": "person",
+      "title": "X 账号 @cherry_cc12 主页",
+      "url": "https://x.com/cherry_cc12",
+      "supports": "公开专业主页与本次人物身份观察：Chen Cheng；职务：通义千问贡献者",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s17",
+      "scope": "person",
+      "title": "量子位：同为千问团队成员的 Chen Cheng 转帖评论林俊旸离队",
+      "url": "https://www.qbitai.com/2026/03/383842.html",
+      "supports": "报道写明“同为千问团队成员的Chen Cheng在转帖中的透露，林俊旸的离开似乎并非其本人意愿”，并将 https://x.com/cherry_cc12/status/2028869478105379248 列为参考链接。X 简介现仍为 contributor of Qwen，资料网站为 chat.qwen.ai。2026-11-13 再查该转帖 ID 已不可读，身份依据以该报道及现简介为准。",
+      "published_date": "2026-03",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "title": "Qwen 官方 GitHub 组织页列出 X @Alibaba_Qwen",
+      "url": "https://github.com/QwenLM",
+      "supports": "2026-11-13 读取 GitHub 组织 QwenLM 主页，社交链接含 https://x.com/Alibaba_Qwen，与 qwen.ai、LinkedIn 并列。该 X 账号为金标组织号，显示名 Qwen，简介 Open foundation models for AGI，资料网站 qwen.ai，约 31.6 万关注。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    },
+    {
+      "id": "s19",
+      "scope": "person",
+      "title": "千问大模型有了最新负责人，同为天才少年",
+      "url": "https://news.qq.com/rain/a/20260922A041D100",
+      "supports": "2026云栖大会上，阿里巴巴ATH事业群Token Foundry Qwen LLM项目负责人刘大一恒发表演讲，接替离职的林俊旸；刘大一恒2021年加入阿里达摩院，主导Qwen1至Qwen3.5全系列语言模型研发，参与300余款Qwen模型开源。",
+      "published_date": "2026-09-22",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "通义千问",
+    "original_track": "01",
+    "original_subtrack": "新增公开研究：大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "阿里巴巴集团旗下具名模型与产品线，作为“大厂内创业型AI业务单元”建档；不表示独立法人或对外融资。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-qwen-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.qianwenai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "千问AI平台",
+        "role": "集团模型与产品平台入口"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "页面由阿里云域名体系承载，品牌与产品信息与档案一致；具体岗位以集团招聘站为准。"
+    },
+    {
+      "id": "ch-x-tongyi-qwen",
+      "layer": "professional_social",
+      "platform": "x",
+      "url": "https://x.com/Alibaba_Qwen",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "Qwen",
+        "role": "官方 X 账号"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s18"
+      ],
+      "notes": "Qwen 官方 GitHub 组织指向该账号；金标组织认证，可给员工挂 affiliation 徽章。组织账号，不进入 people[]。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "alibaba"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "通义千问为阿里巴巴集团模型与C端产品线；2026-06公开报道显示通义大模型事业部并入Token Foundry事业部，由集团CEO直接负责。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": [
+    {
+      "name": "周靖人",
+      "role": "阿里巴巴首席科学家；原通义大模型事业部负责人",
+      "background": "曾任阿里云智能CTO、阿里巴巴合伙人，负责通义大模型事业部；2026年6月组织调整后出任阿里巴巴首席科学家，牵头AI未来研究院。",
+      "previous_firms": [
+        "阿里巴巴",
+        "阿里云"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "职务由36氪/智东西2026-06-09报道支持；未取得个人公开主页，当前分工以该报道为准。"
+    },
+    {
+      "name": "Zheng Yuan",
+      "role": "前通义千问成员",
+      "background": "公开资料称其现为 ByteDance Seed Researcher，从事形式化数学推理；此前在阿里通义千问（Qwen）团队，GitHub 简介写明 Ex: Qwen，X 简介写明 Prev @Alibaba_Qwen。",
+      "previous_firms": [
+        "通义千问",
+        "阿里巴巴"
+      ],
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s05",
+        "s06"
+      ],
+      "verification_status": "confirmed",
+      "notes": "本条记为通义千问前成员，现职在 Seed 档案中单独维护。X 简介 Prev @Alibaba_Qwen 与 GitHub Ex: Qwen 一致。未见到具体原职衔，role 只写前成员，不编造原职位。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/ganjinzero",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-13",
+          "source_ids": [
+            "s05",
+            "s06"
+          ],
+          "notes": "本条记为通义千问前成员，现职在 Seed 档案中单独维护。X 简介 Prev @Alibaba_Qwen 与 GitHub Ex: Qwen 一致。未见到具体原职衔，role 只写前成员，不编造原职位。"
+        }
+      ]
+    },
+    {
+      "name": "林俊旸",
+      "role": "原通义千问大模型负责人",
+      "background": "1993年出生；2019年北京大学语言学与应用语言学硕士毕业后加入阿里，参与 M6、OFA 等预训练项目，后任通义千问大模型技术负责人，主导 Qwen 系列开源。2026年3月3日在 X 宣布卸任并离开千问团队。",
+      "previous_firms": [
+        "阿里巴巴",
+        "通义千问"
+      ],
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s07",
+        "s08",
+        "s09"
+      ],
+      "verification_status": "confirmed",
+      "notes": "已读 X 主页：显示名 Junyang Lin；蓝V，约 9.5 万关注；现简介不再写 Qwen，改为 building p7k @pragmatik_labs。本条按前成员收录，职务取自量子位对卸任前身份的表述。账号创建于 2015 年，非新冒用号。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/justinlin610",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-13",
+          "source_ids": [
+            "s07",
+            "s08",
+            "s09"
+          ],
+          "notes": "已读 X 主页：显示名 Junyang Lin；蓝V，约 9.5 万关注；现简介不再写 Qwen，改为 building p7k @pragmatik_labs。本条按前成员收录，职务取自量子位对卸任前身份的表述。账号创建于 2015 年，非新冒用号。"
+        }
+      ]
+    },
+    {
+      "name": "Binyuan Hui",
+      "role": "原通义千问科学家",
+      "background": "曾为阿里通义千问团队成员，参与 Qwen、Qwen2、Qwen2.5-Coder 等技术报告；2026年3月3日在 X 引用林俊旸卸任帖并写 “bye qwen, me too.” 离开团队。现简介为 Formerly @Alibaba_Qwen。",
+      "previous_firms": [
+        "阿里巴巴",
+        "通义千问"
+      ],
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "verification_status": "confirmed",
+      "notes": "已读 X 主页：显示名 Binyuan Hui；简介 Formerly @Alibaba_Qwen；资料网站 huybery.github.io；约 4.3 万关注，账号创建于 2019 年。个人主页仍写 “currently a staff research scientist at Alibaba Qwen Team”，但页脚 Updated on May, 2024，与 2026-03 离队帖及现简介冲突，本条以离队帖和现简介为准，记为前成员。中文名未见可靠汉字写法，按公开英文名收录。量子位称其为通义实验室科学家，role 用原通义千问科学家。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/huybery",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-13",
+          "source_ids": [
+            "s10",
+            "s11",
+            "s12"
+          ],
+          "notes": "已读 X 主页：显示名 Binyuan Hui；简介 Formerly @Alibaba_Qwen；资料网站 huybery.github.io；约 4.3 万关注，账号创建于 2019 年。个人主页仍写 “currently a staff research scientist at Alibaba Qwen Team”，但页脚 Updated on May, 2024，与 2026-03 离队帖及现简介冲突，本条以离队帖和现简介为准，记为前成员。中文名未见可靠汉字写法，按公开英文名收录。量子位称其为通义实验室科学家，role 用原通义千问科学家。"
+        }
+      ]
+    },
+    {
+      "name": "Kaixin Li",
+      "role": "原通义千问研究实习生；Qwen3.5、Qwen-VL、Qwen-Coder 核心贡献者",
+      "background": "新加坡国立大学在读博士。个人主页写明此前在 Qwen 做研究实习，由 Junyang Lin 与 Binyuan Hui 指导，参与 Qwen-VL、Qwen-3.5、Qwen-Coder 等系列。2026年3月3日发帖 Signing off from @Alibaba_Qwen。",
+      "previous_firms": [
+        "通义千问",
+        "TikTok",
+        "Sea AI Lab"
+      ],
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s13",
+        "s14",
+        "s15"
+      ],
+      "verification_status": "confirmed",
+      "notes": "已读 X 主页：显示名 Kaixin Li；简介 Final year PhD @ NUS；Prev Qwen, Tiktok, Sea AI Lab；Core contributor of Qwen3.5 & VL &Coder；资料网站 likaixin2000.github.io；地点 Singapore；约 5595 关注。本条记为前成员。previous_firms 中 TikTok、Sea AI Lab 取自其现简介 Prev 一句，未展开职务。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/kxli_2000",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-13",
+          "source_ids": [
+            "s13",
+            "s14",
+            "s15"
+          ],
+          "notes": "已读 X 主页：显示名 Kaixin Li；简介 Final year PhD @ NUS；Prev Qwen, Tiktok, Sea AI Lab；Core contributor of Qwen3.5 & VL &Coder；资料网站 likaixin2000.github.io；地点 Singapore；约 5595 关注。本条记为前成员。previous_firms 中 TikTok、Sea AI Lab 取自其现简介 Prev 一句，未展开职务。"
+        }
+      ]
+    },
+    {
+      "name": "Chen Cheng",
+      "role": "通义千问贡献者",
+      "background": "X 简介写明 contributor of Qwen；量子位在报道林俊旸离队时称其为同为千问团队成员，并引用其转帖。",
+      "previous_firms": [],
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s16",
+        "s17"
+      ],
+      "verification_status": "confirmed",
+      "notes": "已读 X 主页：显示名 Chen Cheng；简介 contributor of Qwen；蓝V，地点 San Jose, CA；约 6262 关注，账号创建于 2023 年。职务只按简介与报道的“贡献者/团队成员”来写，不推断更高职级。2026年3月千问团队人事变动后是否仍在职，除现简介外未见更新的官方名单，notes 保留这一限制。资料网站是产品站而非个人主页。",
+      "profiles": [
+        {
+          "platform": "x",
+          "url": "https://x.com/cherry_cc12",
+          "verification_status": "confirmed",
+          "checked_at": "2026-11-13",
+          "source_ids": [
+            "s16",
+            "s17"
+          ],
+          "notes": "已读 X 主页：显示名 Chen Cheng；简介 contributor of Qwen；蓝V，地点 San Jose, CA；约 6262 关注，账号创建于 2023 年。职务只按简介与报道的“贡献者/团队成员”来写，不推断更高职级。2026年3月千问团队人事变动后是否仍在职，除现简介外未见更新的官方名单，notes 保留这一限制。资料网站是产品站而非个人主页。"
+        }
+      ]
+    },
+    {
+      "name": "刘大一恒",
+      "role": "ATH事业群 Token Foundry Qwen LLM项目负责人（2026-09公开）",
+      "previous_firms": [
+        "阿里巴巴达摩院",
+        "阿里巴巴"
+      ],
+      "background": "Qwen项目早期核心研发成员，2021年加入阿里巴巴达摩院，主导Qwen1至Qwen3.5全系列语言模型研发，深度参与Qwen多模态、代码与数学模型迭代，累计参与300余款Qwen模型开源；2026年9月在云栖大会以千问大模型新任负责人身份首次公开亮相，接替离职的林俊旸。",
+      "profiles": [],
+      "source_ids": [
+        "s19"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "姓名、职务与履历由2026-09-22腾讯新闻（AI蓝媒汇）报道支持；阿里未发布正式任命公告，未取得个人公开主页。"
+    }
+  ]
+}

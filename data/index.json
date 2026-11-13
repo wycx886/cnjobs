@@ -1,24 +1,24 @@
 {
   "schema_version": 4,
-  "latest_checked_at": "2026-11-12",
-  "latest_operating_check": "2026-11-12",
+  "latest_checked_at": "2026-11-13",
+  "latest_operating_check": "2026-11-13",
   "latest_investment_firm_check": "2026-11-11",
   "counts": {
-    "organizations": 353,
-    "companies": 353,
-    "operating_organizations": 306,
+    "organizations": 410,
+    "companies": 410,
+    "operating_organizations": 363,
     "investment_firms": 47,
-    "first": 197,
-    "watchlist": 38,
-    "later": 118
+    "first": 213,
+    "watchlist": 39,
+    "later": 158
   },
   "statistics": {
     "operating_organizations": {
-      "organizations": 306,
+      "organizations": 363,
       "categories": 10,
-      "source_records": 1746,
-      "recruitment_links": 127,
-      "public_recruitment_emails": 43
+      "source_records": 1939,
+      "recruitment_links": 154,
+      "public_recruitment_emails": 45
     },
     "investment_firms": {
       "organizations": 47,
@@ -1813,6 +1813,48 @@
       "investment_status": "partial"
     },
     {
+      "id": "360-zhinao",
+      "name": "360 智脑 / 三六零",
+      "aliases": [
+        "360智脑",
+        "360 智脑",
+        "360GPT",
+        "Qihoo 360 Zhinao"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "三六零自研大模型与 AI 助手产品，覆盖生成创作、阅读理解、多轮对话、推理、代码与多模态",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "三六零官方应用与 ai.360.com 站点持续以「360 智脑」具名提供大模型助手，作为现有互联网安全巨头内部 AI 产品线列入 later。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/360-zhinao.json",
+      "markdown_path": "data/views/companies/360-zhinao.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "qihoo-360"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "360 智脑 App 的开发者与 seller 均为 Beijing Qihoo Technology Co Ltd，ai.360.com 为同品牌官网，确认为三六零体系内大模型产品线；未披露独立法人。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "4paradigm",
       "name": "第四范式",
       "aliases": [
@@ -2149,6 +2191,51 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "alibaba-cloud",
+      "name": "阿里云 / 阿里巴巴",
+      "aliases": [
+        "阿里云",
+        "阿里云智能",
+        "Alibaba Cloud",
+        "阿里云百炼",
+        "百炼"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "云侧AI基础设施与模型服务，包括百炼MaaS、模型训练推理与通义模型API",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "阿里巴巴集团旗下云与AI平台板块，作为大厂AI基础设施与模型服务单元建档；不是独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/alibaba-cloud.json",
+      "markdown_path": "data/views/companies/alibaba-cloud.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "corporate_subsidiary",
+        "parent_platform_ids": [
+          "alibaba"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "阿里云为阿里巴巴集团云业务板块，官网备案主体为阿里云计算有限公司；集团与云业务合并披露，未见独立外部融资。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s04"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "amec",
       "name": "中微公司",
       "aliases": [
@@ -2275,6 +2362,50 @@
       "category_id": "01",
       "category_name": "基础模型",
       "investment_status": "partial"
+    },
+    {
+      "id": "ant-ling",
+      "name": "百灵 / 蚂蚁集团",
+      "aliases": [
+        "百灵",
+        "百灵大模型",
+        "Ant Ling",
+        "Ling",
+        "inclusionAI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用与多模态基础模型（Ling / Ring / Ming）",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "蚂蚁集团旗下具名基础模型产品线，作为大厂模型单元建档；不表示独立法人或对外融资。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/ant-ling.json",
+      "markdown_path": "data/views/companies/ant-ling.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "ant-group"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "百灵为蚂蚁集团自研大模型产品线；官网备案主体为蚂蚁智能（杭州）科技有限公司，蚂蚁集团官方新闻稿亦介绍Ling模型家族。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "apex-context",
@@ -2412,6 +2543,76 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "autoagents",
+      "name": "未来式智能 AutoAgents.ai",
+      "aliases": [
+        "未来式智能",
+        "AutoAgents",
+        "AutoAgents.ai",
+        "北京未来式智能科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业级AI Agent与数字劳动力：低代码智能体搭建、运行治理与数字专家市场。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "由前阿里巴巴达摩院产品/商业化负责人创办、核心团队来自达摩院等大厂的企业级Agent公司，已有产品、客户与多轮融资；按第一波新增创业机会列入。",
+        "source_ids": [
+          "s02",
+          "s03",
+          "s04"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/autoagents.json",
+      "markdown_path": "data/views/companies/autoagents.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "partial"
+    },
+    {
+      "id": "autohome-zhishi",
+      "name": "芝士车管家 / 汽车之家",
+      "aliases": [
+        "芝士车管家",
+        "芝士",
+        "汽车之家芝士",
+        "AI 问车"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "汽车之家旗下 AI 汽车管家与选车／用车问答产品，结合车主生态与汽车资讯",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "汽车之家官方 AI 子域以「芝士车管家」具名并公示生成式 AI 上线编号，作为现有汽车平台内部 AI 产品列入 later。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/autohome-zhishi.json",
+      "markdown_path": "data/views/companies/autohome-zhishi.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "autohome"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "芝士车管家页面由汽车之家官方域名承载，明确标注「汽车之家旗下／出品」并公示生成式 AI 产品编号，确认为汽车之家内部 AI 产品；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "avolution",
@@ -2712,6 +2913,46 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "bilibili-index",
+      "name": "Index 模型 / 哔哩哔哩",
+      "aliases": [
+        "Index",
+        "Index-1.9B",
+        "IndexTeam",
+        "哔哩哔哩 Index"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "哔哩哔哩自研的轻量级多语言基础模型系列，覆盖对话、角色扮演与长上下文",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "哔哩哔哩官方 GitHub 组织下的 Index 模型仓库持续公开模型与文档，作为现有平台具名基础模型项目列入 later；不据此判断组织独立性。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/bilibili-index.json",
+      "markdown_path": "data/views/companies/bilibili-index.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bilibili"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "Index 模型仓库位于哔哩哔哩官方 GitHub 组织，README 自述模型由哔哩哔哩自主研发，确认为其内部模型项目；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "biogeom",
@@ -3101,6 +3342,86 @@
       "investment_status": "partial"
     },
     {
+      "id": "china-mobile-jiutian",
+      "name": "九天大模型 / 中国移动",
+      "aliases": [
+        "九天",
+        "九天大模型",
+        "九天自然语言交互大模型",
+        "China Mobile Jiutian"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "中国移动自研的体系化人工智能大模型，覆盖语言交互、网络、客服、政务等行业模型",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "国资委网站转载的中国移动官方稿件披露九天模型、参数版本与行业模型矩阵，作为现有电信巨头内部具名模型产品线列入 later。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/china-mobile-jiutian.json",
+      "markdown_path": "data/views/companies/china-mobile-jiutian.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "china-mobile"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "国务院国资委网站转载中国移动通信集团稿件，明确九天为中国移动自主研发的大模型产品，确认为集团内部产品线；未在本次来源中确认独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "china-telecom-xingchen",
+      "name": "星辰大模型 / 中国电信",
+      "aliases": [
+        "星辰",
+        "星辰大模型",
+        "TeleChat",
+        "XingChen"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "中国电信旗下天翼 AI 自研的全模态大模型与智能体平台，覆盖语义、语音、视觉与多模态",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "天翼 AI 官网持续披露星辰模型、智能体与专业公司主体，作为现有电信巨头内部具名 AI 业务单元列入 later；不据此判断集团整体 AI 能力。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/china-telecom-xingchen.json",
+      "markdown_path": "data/views/companies/china-telecom-xingchen.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "corporate_subsidiary",
+        "parent_platform_ids": [
+          "china-telecom"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "天翼 AI 官网自述为「中国电信旗下开展人工智能业务的科技型、能力型、平台型专业公司」，页脚具名中电信人工智能科技（北京）有限公司，确认为中国电信体系专业公司；本条按子公司记录。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "china-wafer-level-csp",
       "name": "苏州晶方半导体",
       "aliases": [
@@ -3151,6 +3472,46 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "coze",
+      "name": "扣子 / 字节跳动",
+      "aliases": [
+        "扣子",
+        "Coze",
+        "扣子 Coze"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向职场与开发者的 AI Agent 与一站式应用开发平台，覆盖智能体、工作流、网页／小程序／APP 开发和办公内容生产。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动具名 AI Agent 与开发平台产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/coze.json",
+      "markdown_path": "data/views/companies/coze.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "扣子官网标题明确称其为字节跳动旗下职场 AI 与一站式 AI 开发平台，并按集团内部产品线记录；未找到独立法人或独立融资证据。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "creao-ai",
@@ -3263,6 +3624,50 @@
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
       "investment_status": "partial"
+    },
+    {
+      "id": "damo-academy",
+      "name": "达摩院 / 阿里巴巴",
+      "aliases": [
+        "阿里巴巴达摩院",
+        "达摩院",
+        "DAMO Academy",
+        "Alibaba DAMO Academy"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "基础科学与应用技术研究，覆盖机器学习、视觉计算、自然语言处理、科学智能等",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "阿里巴巴集团旗下具名研究机构，作为大厂研究型AI单元建档；不表示独立法人或对外融资。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/damo-academy.json",
+      "markdown_path": "data/views/companies/damo-academy.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "alibaba"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "阿里巴巴集团2017-10-11宣布成立的全球科研机构，集团CTO张建锋首任院长；不是独立外部机构。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "datacanvas",
@@ -3589,6 +3994,45 @@
       "investment_status": "partial"
     },
     {
+      "id": "dian-dian",
+      "name": "点点 / 小红书",
+      "aliases": [
+        "点点",
+        "小红书点点",
+        "点点 - 你的ai生活助手"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "结合小红书社区真实经验与全网信息的 AI 生活助手，覆盖攻略、购物决策、穿搭与探店",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "App Store 官方产品页与版本说明显示点点与小红书社区深度绑定，作为现有平台具名 AI 产品列入 later；开发者主体与集团股权关系待进一步核实。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/dian-dian.json",
+      "markdown_path": "data/views/companies/dian-dian.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "xiaohongshu"
+        ],
+        "relationship_status": "reported",
+        "summary": "App Store 产品与版本说明出现「小红书点点」并强调结合小红书真实经验，支持其为小红书体系 AI 产品；上架开发者仍为上海生动诗章科技有限公司，官方组织归属与股权关系未确认。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "didi",
       "name": "滴滴 DiDi",
       "aliases": [
@@ -3695,6 +4139,88 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "partial"
+    },
+    {
+      "id": "doubao",
+      "name": "豆包 / 字节跳动",
+      "aliases": [
+        "豆包",
+        "Doubao",
+        "豆包 AI",
+        "豆包工作"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向个人的通用 AI 助手与生产力应用，基于字节跳动自研大语言模型提供问答、写作、翻译、编程与多模态创作。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动具名 C 端 AI 助手产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/doubao.json",
+      "markdown_path": "data/views/companies/doubao.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "豆包官网与字节跳动官方产品页均以字节跳动自研大语言模型和字节跳动旗下产品描述豆包，按集团内部 AI 应用产品线记录；未找到独立法人或独立融资证据。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "doubao-work",
+      "name": "豆包工作 / 字节跳动",
+      "aliases": [
+        "豆包工作",
+        "Doubao Work"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "字节跳动面向生产力场景的 Agent 产品与品牌，强调自主拆解任务、调用工具并交付工作成果",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动官方发布的具名生产力 Agent 产品与品牌，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/doubao-work.json",
+      "markdown_path": "data/views/companies/doubao-work.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "字节跳动官网新闻稿与产品页均以集团口径发布豆包工作，称其为面向生产力场景的 Agent 产品与品牌；故按字节跳动集团内产品项目记录。本轮未找到独立法人或独立团队证据。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "dp-technology",
@@ -4294,6 +4820,35 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "gezhi-yongxian",
+      "name": "格致涌现 / Gezhi",
+      "aliases": [
+        "格致涌现",
+        "杭州格致涌现企业管理有限公司",
+        "格致涌现（杭州）科技有限责任公司",
+        "Gezhi Yongxian"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI for Science 科学模型与智能体的独立商业化",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前达摩院科学智能负责人荣钰创办的AI for Science公司，技术来源与方向明确，但融资、产品与团队披露有限，先纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/gezhi-yongxian.json",
+      "markdown_path": "data/views/companies/gezhi-yongxian.md",
+      "category_id": "10",
+      "category_name": "科学智能与生物医药",
+      "investment_status": "partial"
+    },
+    {
       "id": "good-ark-semiconductor",
       "name": "苏州固锝电子",
       "aliases": [
@@ -4351,6 +4906,47 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "guangnian-zhiwai",
+      "name": "光年之外 Guangnian Zhiwai",
+      "aliases": [
+        "光年之外",
+        "北京光年之外科技有限公司",
+        "Guangnian Zhiwai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 大模型创业项目，公开产品与模型信息披露有限",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "由前美团联合创始人王慧文创办的 AI 大模型项目，符合前大厂成员创业线索；但公司已被美团全资收购，档案用于保留创业与并入沿革，不表示当前仍为独立新进机构。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/guangnian-zhiwai.json",
+      "markdown_path": "data/views/companies/guangnian-zhiwai.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "corporate_subsidiary",
+        "parent_platform_ids": [
+          "meituan"
+        ],
+        "relationship_status": "reported",
+        "summary": "媒体据天眼查报道，北京光年之外科技有限公司由美团旗下天津三快科技有限公司全资持股，美团2023年宣布收购100%权益；本轮未取得美团官方公告原文，故关系状态记为 reported。",
+        "source_ids": [
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "guiji",
@@ -4708,6 +5304,46 @@
       "investment_status": "partial"
     },
     {
+      "id": "huawei-noahs-ark",
+      "name": "诺亚方舟实验室 / 华为",
+      "aliases": [
+        "诺亚方舟实验室",
+        "华为诺亚方舟实验室",
+        "Noah's Ark Lab",
+        "Huawei Noah's Ark Lab"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "华为中央人工智能研究实验室，覆盖模型架构、时序 AI、优化智能、行业智能、终端智能、智感融合与物理智能",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "华为诺亚方舟实验室官网持续公开研究团队、论文与招聘，作为现有 ICT 巨头内部具名研究机构列入 later；不据此判断独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/huawei-noahs-ark.json",
+      "markdown_path": "data/views/companies/huawei-noahs-ark.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "huawei"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "诺亚方舟实验室官网以华为官方域名、版权和华为邮箱承载，自述为华为研究实验室，确认为华为内部研究机构；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "huiduobao",
       "name": "慧多宝法律AI",
       "aliases": [
@@ -4818,6 +5454,47 @@
       "investment_status": "partial"
     },
     {
+      "id": "hunyuan",
+      "name": "混元 / 腾讯",
+      "aliases": [
+        "腾讯混元",
+        "Tencent Hunyuan",
+        "Tencent HY"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "腾讯全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、语音与3D生成",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "腾讯集团旗下具名基础模型产品线，作为现有巨头的 AI 业务单元单独建档，便于观察团队与产品边界；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/hunyuan.json",
+      "markdown_path": "data/views/companies/hunyuan.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "tencent"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "腾讯云与混元官网均以腾讯名义提供该模型家族，官方产品页称由腾讯公司全链路自研；本条按集团内模型产品线记录，不推断其为独立法人或独立核算单元。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "hyc",
       "name": "苏州华兴源创",
       "aliases": [
@@ -4842,6 +5519,36 @@
       "markdown_path": "data/views/companies/hyc.md",
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "hyperparameter",
+      "name": "超参数科技 Parametrix.ai",
+      "aliases": [
+        "超参数科技",
+        "超参数",
+        "Parametrix",
+        "Parametrix.ai",
+        "超参数科技（深圳）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向游戏与互娱场景的 Game Agent／AI NPC 技术研发与商业化",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "创始人为前腾讯AI Lab总经理刘永升，团队把游戏AI能力产品化为可规模交付的Game Agent；有公开融资与客户进展，作为腾讯AI部门前员工创业候选纳入第一波研究。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/hyperparameter.json",
+      "markdown_path": "data/views/companies/hyperparameter.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
       "investment_status": "confirmed_disclosure"
     },
     {
@@ -4895,6 +5602,47 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "iflytek-spark",
+      "name": "星火大模型 / 科大讯飞",
+      "aliases": [
+        "星火",
+        "讯飞星火",
+        "星火大模型",
+        "iFlytek Spark"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "科大讯飞与认知智能全国重点实验室研发的通用大模型系列，并向教育、医疗、科研等行业延伸",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "认知智能全国重点实验室官方简介持续披露星火大模型的发布与迭代，作为科大讯飞具名模型产品线列入 later；不据此判断组织独立性。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/iflytek-spark.json",
+      "markdown_path": "data/views/companies/iflytek-spark.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "iflytek"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "星火大模型由科大讯飞参与共建的认知智能全国重点实验室启动并发布，确认为科大讯飞体系内模型产品线；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "ikingtec",
@@ -5068,6 +5816,36 @@
       "markdown_path": "data/views/companies/infinigence.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "infinite-light",
+      "name": "无限光年 / INF",
+      "aliases": [
+        "无限光年",
+        "INF",
+        "无限光年（上海）技术有限公司",
+        "INF Technology",
+        "infly"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业AI操作系统、可信大模型与企业智能体",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前蚂蚁集团副总裁、AI首席科学家漆远创办的企业AI公司，投资方与产品方向公开，纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/infinite-light.json",
+      "markdown_path": "data/views/companies/infinite-light.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
       "investment_status": "partial"
     },
     {
@@ -5387,6 +6165,86 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "jd-yanxi",
+      "name": "言犀 / 京东",
+      "aliases": [
+        "言犀",
+        "京东言犀",
+        "京东智能人机交互平台"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向企业服务与营销的智能人机交互平台，组合语音、语言与数字人能力",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "京东官方站点以「言犀」具名品牌运营智能人机交互平台，作为现有巨头内部产品线列入 later；组织边界与 JoyAI 的关系待官方补充。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/jd-yanxi.json",
+      "markdown_path": "data/views/companies/jd-yanxi.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "jd"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "言犀官方站点以「京东智能人机交互平台」具名，确认其属于京东体系；本条按产品线处理，不推断独立法人或与 JoyAI 的团队归属。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "jimeng",
+      "name": "即梦 / 字节跳动",
+      "aliases": [
+        "即梦AI",
+        "即梦 AI",
+        "Dreamina"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向创作者的 AI 图像、视频与短剧内容生成平台，支持自然语言和图片输入。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动具名 AI 创作平台，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/jimeng.json",
+      "markdown_path": "data/views/companies/jimeng.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "字节跳动官方产品页明确称即梦 AI 为字节跳动旗下 AI 创作和内容平台，产品站与 Seed 模型成果相互链接；按集团内部 AI 创作产品线记录，未找到独立法人或独立融资证据。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "jobright",
       "name": "Jobright.ai",
       "aliases": [
@@ -5410,6 +6268,46 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "joyai",
+      "name": "JoyAI / 京东",
+      "aliases": [
+        "JoyAI",
+        "京东 JoyAI",
+        "JoyAI 团队",
+        "京东 AIGC 平台"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "京东自研的 AIGC 平台团队，覆盖语言、语音、图像、视频与数字人生成",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "京东官方 AIGC 门户明确以「JoyAI 团队自研」介绍具名平台，作为现有巨头内部业务单元列入 later；不判断其与言犀是否同一编制。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/joyai.json",
+      "markdown_path": "data/views/companies/joyai.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "jd"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "JoyAI 官方门户自述由「JoyAI 团队自研打造」，页脚与域名均指向京东云体系，确认为京东内部 AI 业务团队；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "jsdesign",
@@ -5646,6 +6544,46 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "kingdee-cangqiong",
+      "name": "金蝶 AI 苍穹 / 金蝶",
+      "aliases": [
+        "金蝶AI苍穹",
+        "苍穹",
+        "金蝶云·苍穹",
+        "Cosmic"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "金蝶面向企业级管理的 AI 原生平台，融合低代码、数据、模型与多智能体能力",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "金蝶官网以「金蝶 AI 苍穹」具名并详列平台能力，作为现有企业管理软件巨头内部 AI 平台列入 later；不把金蝶其他 AI 产品线并入。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/kingdee-cangqiong.json",
+      "markdown_path": "data/views/companies/kingdee-cangqiong.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "kingdee"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "金蝶 AI 苍穹由金蝶官网产品页承载，明确为金蝶云·苍穹升级后的企业级 AI 平台，确认为金蝶内部产品线；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "kingsoft-cloud",
       "name": "金山云 Kingsoft Cloud",
       "aliases": [
@@ -5674,6 +6612,46 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "kingsoft-cloud-xingliu",
+      "name": "星流模型服务 / 金山云",
+      "aliases": [
+        "星流",
+        "金山云星流",
+        "星流模型服务",
+        "KSP"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "金山云一站式大模型调用与模型服务底座，提供多模型接入、权限额度和智能路由",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "金山云官方产品页持续提供星流模型服务入口与能力说明，作为现有云厂商内部具名模型服务平台列入 later。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/kingsoft-cloud-xingliu.json",
+      "markdown_path": "data/views/companies/kingsoft-cloud-xingliu.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "kingsoft-cloud"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "星流模型服务由金山云官方域名与控制台承载，确认为金山云内部模型服务产品；与金山软件分别列入口，不合并法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "kitar",
       "name": "Kitar",
       "aliases": [
@@ -5697,6 +6675,75 @@
       "markdown_path": "data/views/companies/kitar.md",
       "category_id": "07",
       "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
+    },
+    {
+      "id": "kling",
+      "name": "可灵 / 快手",
+      "aliases": [
+        "可灵AI",
+        "可灵 AI",
+        "Kling AI",
+        "Kling"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向创作者的 AI 视频、图像与 3D 内容生成平台",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "快手集团具名 AI 视频创作产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/kling.json",
+      "markdown_path": "data/views/companies/kling.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "corporate_subsidiary",
+        "parent_platform_ids": [
+          "kuaishou"
+        ],
+        "relationship_status": "reported",
+        "summary": "可灵AI于2025-04成立事业部，2026年重组为北京可灵智能科技有限公司并承接可灵AI全部资产、开启独立融资；快手通过Lucky Labs持股66.68%、表决权52.45%，北京可灵仍为非全资附属公司并并表。",
+        "source_ids": [
+          "s05",
+          "s06"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "knowledge-painter",
+      "name": "知识画家 / 初心智慧",
+      "aliases": [
+        "知识画家",
+        "Knowledge Painter",
+        "北京初心智慧科技有限公司",
+        "初心智慧"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向教育与知识传播的生成式交互知识引擎，把知识点生成为可交互的多模态教学视频",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "创始人为前百度T8、文心一言核心成员冯欣伟，产品直接承接其 NLP 与知识图谱背景；有公开孵化器投资与产品，作为百度文心前员工创业候选纳入第一波研究。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/knowledge-painter.json",
+      "markdown_path": "data/views/companies/knowledge-painter.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
     },
     {
@@ -5892,6 +6939,45 @@
       "investment_status": "partial"
     },
     {
+      "id": "lenovo-tianxi",
+      "name": "天禧 / 联想",
+      "aliases": [
+        "天禧",
+        "天禧个人超级智能体",
+        "Lenovo Tianxi"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "联想面向 PC 的个人超级智能体，整合系统操控、搜索、翻译、写作与本地知识库",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "联想官方用户指南以「天禧个人超级智能体」具名并详列功能，作为现有终端巨头内部 AI 产品列入 later；不据此判断独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/lenovo-tianxi.json",
+      "markdown_path": "data/views/companies/lenovo-tianxi.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "lenovo"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "天禧由联想官方机型用户指南承载，文档域名属 Lenovo 并注明 Lenovo 的数据处理口径，确认为联想内部个人智能体产品；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "lexiang-keji",
       "name": "乐享科技",
       "aliases": [
@@ -6055,6 +7141,51 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "lingbo",
+      "name": "灵波 / 蚂蚁集团",
+      "aliases": [
+        "蚂蚁灵波",
+        "灵波",
+        "灵波科技",
+        "Robbyant",
+        "LingBot",
+        "上海蚂蚁灵波科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "具身智能通用大脑与机器人模型、整机及行业方案",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "蚂蚁集团旗下具名具身智能公司，官网确认集团归属，作为大厂内创业型AI业务单元建档；不表示独立外部融资已完成。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/lingbo.json",
+      "markdown_path": "data/views/companies/lingbo.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "corporate_subsidiary",
+        "parent_platform_ids": [
+          "ant-group"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "官网明确写“An embodied AI company under Ant Group”，页脚具名Shanghai Ant Robbyant Technology Co., Ltd.；为蚂蚁集团旗下具身智能公司。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "lingcifang-robot",
       "name": "零次方机器人",
       "aliases": [
@@ -6079,6 +7210,91 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "partial"
+    },
+    {
+      "id": "lingguang",
+      "name": "灵光 / 蚂蚁集团",
+      "aliases": [
+        "灵光",
+        "灵光AI",
+        "Lingguang",
+        "蚂蚁灵光"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "全模态通用AI助手与个人事务托管",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "蚂蚁集团旗下具名个人AI助手产品，作为大厂面向个人的AI单元建档；不表示独立法人或对外融资。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/lingguang.json",
+      "markdown_path": "data/views/companies/lingguang.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "ant-group"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "灵光为蚂蚁集团旗下个人AI助手产品；IT之家报道由蚂蚁集团官宣推出，官网标注蚂蚁旗下。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "longcat",
+      "name": "LongCat / 美团",
+      "aliases": [
+        "LongCat",
+        "龙猫大模型",
+        "美团 LongCat",
+        "LongCat 团队"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "美团自研的基础模型与智能体模型系列，强调国产算力训练、原生多模态和长程智能体任务",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "美团官方新闻与技术博客持续披露具名 LongCat 模型和团队活动，作为现有巨头内部的具名 AI 业务单元列入 later；是业务分类，不作性能或组织独立性判断。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/longcat.json",
+      "markdown_path": "data/views/companies/longcat.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "meituan"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "美团官方新闻与技术博客以「LongCat 团队」「美团技术团队」发布模型与产品，确认为美团内部模型团队；本条不推断其独立法人或股权结构。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "luchentech",
@@ -6162,6 +7378,50 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "maoxiang",
+      "name": "猫箱 / 字节跳动",
+      "aliases": [
+        "猫箱",
+        "猫箱 App",
+        "Maoxiang"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "字节跳动体系内的 AI 角色剧情聊天产品，提供虚拟角色对话、语音畅聊与剧情互动",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动体系内具名 AI 角色陪伴产品，作为现有巨头的 AI 业务单元单独建档；组织归属仅有发行主体同名链，保留 reported。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s04"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/maoxiang.json",
+      "markdown_path": "data/views/companies/maoxiang.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "reported",
+        "summary": "猫箱官网与 App Store 指向北京春田知韵科技有限公司；该公司同时是豆包 App 的发行主体，字节跳动官网将豆包列为自有 AI 产品。由此记录为字节体系产品项目，但未找到猫箱自身的字节跳动官方归属表述，故标 reported。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03",
+          "s04"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "matrixorigin",
@@ -6520,6 +7780,45 @@
       "investment_status": "partial"
     },
     {
+      "id": "mimo",
+      "name": "MiMo / 小米",
+      "aliases": [
+        "小米MiMo",
+        "Xiaomi MiMo",
+        "MiMo 大模型"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "小米通用智能基座模型家族，覆盖语言、多模态、语音与编程 Agent",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "小米集团具名通用智能基座团队，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/mimo.json",
+      "markdown_path": "data/views/companies/mimo.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "internal_team",
+        "parent_platform_ids": [
+          "xiaomi"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "官网以“小米MiMo团队”署名并标注 Xiaomi 版权，按小米集团内部模型团队记录；本轮未找到独立法人、独立融资或拆分证据。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "mingxin-qirui",
       "name": "铭芯启睿",
       "aliases": [
@@ -6626,6 +7925,34 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "partial"
+    },
+    {
+      "id": "molinx",
+      "name": "睦灵科技 MolinX",
+      "aliases": [
+        "睦灵科技",
+        "MolinX",
+        "睦灵科技（杭州）有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "物理AI基础模型与具身递归进化（Physical RSI），让机器人在真实环境交互反馈中持续改进任务能力。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "watchlist",
+        "rationale": "前阿里巴巴达摩院具身平台与Rynn模型负责人创办的物理AI基础模型公司；成立时间短、产品与融资未公开，先列入观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/molinx.json",
+      "markdown_path": "data/views/companies/molinx.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found"
     },
     {
       "id": "montage-technology",
@@ -6874,6 +8201,46 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "netease-fuxi",
+      "name": "网易伏羲 / 网易",
+      "aliases": [
+        "网易伏羲",
+        "伏羲实验室",
+        "网易伏羲实验室",
+        "Fuxi"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "网易旗下人工智能研究机构与游戏 AI 实验室，研究 AOP 智能体编程、群体智能与具身智能",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "网易伏羲官网持续披露具名实验室、负责人和 AOP／具身智能产品，作为现有巨头内部研究机构列入 later；不把游戏、教育等其他网易 AI 业务并入。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/netease-fuxi.json",
+      "markdown_path": "data/views/companies/netease-fuxi.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "netease"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "网易伏羲官网自述为网易人工智能研究机构和国内首个游戏人工智能实验室，页面版权与域名均属网易，确认为网易内部研究机构；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "nio",
       "name": "蔚来",
       "aliases": [
@@ -7072,6 +8439,46 @@
       "investment_status": "partial"
     },
     {
+      "id": "oppo-xiaobu",
+      "name": "小布 / OPPO",
+      "aliases": [
+        "小布",
+        "OPPO 小布",
+        "小布 Next",
+        "Breeno"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "OPPO 终端系统级 AI 助手与主动智能产品，覆盖建议、记忆、影像与生产力",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "OPPO 官方 OPPO AI 页面持续披露小布与小布 Next 产品，作为现有终端巨头内部具名 AI 助手列入 later；不据此判断组织独立性。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/oppo-xiaobu.json",
+      "markdown_path": "data/views/companies/oppo-xiaobu.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "oppo"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "OPPO AI 页面由 OPPO 官方域名与版权承载，明确以「OPPO AI」介绍小布等产品，确认为 OPPO 内部 AI 产品线；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "ouye-semiconductor",
       "name": "欧冶半导体",
       "aliases": [
@@ -7096,6 +8503,76 @@
       "category_id": "02",
       "category_name": "算力与基础设施",
       "investment_status": "partial"
+    },
+    {
+      "id": "panfeng-intelligence",
+      "name": "攀峰智能 / K2 Lab",
+      "aliases": [
+        "攀峰智能",
+        "K2 Lab",
+        "K2Lab",
+        "杭州攀峰智能科技有限公司",
+        "Moras"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向海外内容创作者与达人的内容电商AI Agent",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前钉钉副总裁王铭创办的内容电商Agent公司，产品与商业化数据较具体，纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/panfeng-intelligence.json",
+      "markdown_path": "data/views/companies/panfeng-intelligence.md",
+      "category_id": "07",
+      "category_name": "零售、电商与营销应用",
+      "investment_status": "partial"
+    },
+    {
+      "id": "pangu",
+      "name": "盘古 / 华为",
+      "aliases": [
+        "盘古大模型",
+        "华为云盘古大模型",
+        "Pangu"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "华为云面向行业的盘古基础大模型产品线，覆盖语言、多模态、视觉、预测与气象",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "华为云具名基础大模型产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/pangu.json",
+      "markdown_path": "data/views/companies/pangu.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "huawei"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "盘古大模型以华为云官方产品页对外提供，按华为集团内云侧模型产品线记录；本轮未找到独立法人、独立团队或融资证据。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "paxini",
@@ -7285,6 +8762,44 @@
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "pony-ai",
+      "name": "小马智行 Pony.ai",
+      "aliases": [
+        "小马智行",
+        "Pony.ai",
+        "PonyAI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "全栈式自动驾驶技术，覆盖Robotaxi、Robotruck与个人乘用车自动驾驶方案",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "由前百度自动驾驶核心成员创办的独立自动驾驶公司，官方来源明确创始人履历与业务边界，作为新进创业公司建档；不要求母公司退出持股，也不将其认定为百度分拆。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/pony-ai.json",
+      "markdown_path": "data/views/companies/pony-ai.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "confirmed",
+        "summary": "创始团队来自百度自动驾驶，但公司官网将其叙述为2016年独立创立的企业；本轮未找到百度分拆、控股或孵化证据，故按独立创业公司记录，parent_platform_ids留空。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "powerlaw",
@@ -7513,6 +9028,49 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "partial"
+    },
+    {
+      "id": "quark",
+      "name": "夸克 / 阿里巴巴",
+      "aliases": [
+        "夸克",
+        "夸克AI浏览器",
+        "Quark",
+        "新夸克"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI搜索、AI浏览器与个人效率助手",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "阿里巴巴集团旗下具名AI应用产品线，作为大厂内面向个人的AI单元建档；不表示独立法人或对外融资。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/quark.json",
+      "markdown_path": "data/views/companies/quark.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "alibaba"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "夸克为阿里巴巴集团旗下AI应用产品线；官网备案主体为广州市动悦信息技术有限公司，阿里巴巴集团官网将夸克列为业务入口。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "quickcep",
@@ -7774,6 +9332,46 @@
       }
     },
     {
+      "id": "ropet",
+      "name": "萌友智能 / Ropet",
+      "aliases": [
+        "Ropet",
+        "ropet",
+        "萌友智能",
+        "Ropet 萌友智能"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "AI 情感陪伴机器人与桌面／随身智能硬件，强调触摸、语音、视觉互动和性格养成。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "2022 年成立的 AI 情感陪伴机器人公司，官网公开产品、团队与公司自述，产品已进入官方销售渠道；列为第一波新进候选。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/ropet.json",
+      "markdown_path": "data/views/companies/ropet.md",
+      "category_id": "09",
+      "category_name": "AI 消费硬件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "reported",
+        "summary": "Ropet 官网以独立公司 Ropet CO.LTD. 运营，未列出字节跳动为母公司或股东，因此按 independent_organization 记录；创始人何嘉斌的字节跳动 PICO 任职经历见 people[] 的人物来源，不据此认定拆分或孵化关系。",
+        "source_ids": [
+          "s01",
+          "s04"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "rosenbot",
       "name": "罗森博特",
       "aliases": [
@@ -7854,6 +9452,86 @@
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
       "investment_status": "partial"
+    },
+    {
+      "id": "seed",
+      "name": "Seed / 字节跳动",
+      "aliases": [
+        "字节跳动 Seed",
+        "ByteDance Seed",
+        "Seed 团队"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用智能与基础模型研究，方向涵盖 LLM、语音、视觉、世界模型、基础架构、AI Infra 与下一代 AI 交互。",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动具名基础模型研究团队，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/seed.json",
+      "markdown_path": "data/views/companies/seed.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "research_lab",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "官网以“字节跳动 Seed”名义运营，并列出字节跳动招聘入口与 @bytedance.com 联系邮箱，按字节跳动内部研究与基础模型团队记录；未找到独立法人或独立融资证据。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "sensenova",
+      "name": "日日新 SenseNova / 商汤",
+      "aliases": [
+        "日日新",
+        "SenseNova",
+        "商汤日日新",
+        "商汤日日新大模型"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商汤自研的多模态大模型与智能体产品家族，覆盖语言、图像、视频、空间智能与办公应用",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "商汤官方 SenseNova 站点持续发布具名多模态模型与产品，作为现有 AI 上市公司内部模型产品线列入 later；不据此判断组织独立性。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/sensenova.json",
+      "markdown_path": "data/views/companies/sensenova.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "sensetime"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "SenseNova 官网由商汤官方域名承载，页脚注明上海商汤智能科技有限公司为商汤集团旗下子公司，确认为商汤体系内大模型产品线；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "sensetime",
@@ -8022,6 +9700,36 @@
       "category_id": "05",
       "category_name": "多模态生成与创作工具",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "shenkong-zhixu",
+      "name": "深空之序 / Syntaxis AI",
+      "aliases": [
+        "深空之序",
+        "杭州深空之序智能科技有限公司",
+        "Syntaxis AI",
+        "AgentNine",
+        "小九"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向外贸与跨境电商企业的企业级AI Agent",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前阿里副总裁、钉钉总裁叶军离职后创办的企业级AI Agent公司，方向与外贸经营流程明确，纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/shenkong-zhixu.json",
+      "markdown_path": "data/views/companies/shenkong-zhixu.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial"
     },
     {
       "id": "shihang-intelligent",
@@ -8888,6 +10596,51 @@
       }
     },
     {
+      "id": "tongyi-qwen",
+      "name": "通义千问 / 阿里巴巴",
+      "aliases": [
+        "通义千问",
+        "通义",
+        "Qwen",
+        "千问",
+        "千问AI平台"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "通用与多模态基础模型、模型服务及个人AI应用",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "阿里巴巴集团旗下具名模型与产品线，作为“大厂内创业型AI业务单元”建档；不表示独立法人或对外融资。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/tongyi-qwen.json",
+      "markdown_path": "data/views/companies/tongyi-qwen.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "alibaba"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "通义千问为阿里巴巴集团模型与C端产品线；2026-06公开报道显示通义大模型事业部并入Token Foundry事业部，由集团CEO直接负责。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "tongyuan-mworks",
       "name": "苏州同元软控（MWORKS）",
       "aliases": [
@@ -8915,6 +10668,47 @@
       "category_id": "04",
       "category_name": "通用 Agent、个人应用与搜索",
       "investment_status": "partial"
+    },
+    {
+      "id": "trae",
+      "name": "TRAE / 字节跳动",
+      "aliases": [
+        "TRAE CN",
+        "Trae",
+        "TRAE IDE",
+        "Trae AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向开发者与企业的 AI 编程与智能办公平台，覆盖 AI IDE、插件、CLI 与企业版",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动体系内具名 AI 编程产品线，作为现有巨头的 AI 业务单元单独建档；组织归属仅有官方页面间接支持，保留 reported。",
+        "source_ids": [
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/trae.json",
+      "markdown_path": "data/views/companies/trae.md",
+      "category_id": "03",
+      "category_name": "开发平台与编程工具",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "reported",
+        "summary": "TRAE 官方企业版页面称「字节跳动内部超 92% 工程师的选择」，企业版购买入口指向火山引擎控制台；这支持其与字节跳动体系的直接关联，但未找到明确的法律主体、持股或「旗下」表述，故按 reported 记录，不升级为 confirmed。",
+        "source_ids": [
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "transwarp",
@@ -9304,6 +11098,77 @@
       "investment_status": "partial"
     },
     {
+      "id": "video-rebirth",
+      "name": "Video Rebirth",
+      "aliases": [
+        "Video Rebirth AI",
+        "Bach",
+        "BACH"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "面向影视、广告、电商与动画的工业级 AI 视频生成模型与制作平台",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "创始人为前腾讯混元技术负责人刘威，团队直接切入工业级视频生成；有公开融资与产品进展，作为腾讯系前员工创业候选纳入第一波研究。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/video-rebirth.json",
+      "markdown_path": "data/views/companies/video-rebirth.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "volcengine-ark",
+      "name": "火山方舟 / 字节跳动",
+      "aliases": [
+        "火山方舟",
+        "方舟",
+        "Volcengine Ark",
+        "Ark"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "字节跳动火山引擎面向企业的模型服务平台，提供大模型 API、推理服务与模型体验入口",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "火山引擎具名大模型服务平台，作为字节跳动现有巨头体系内的 AI 基础设施产品单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/volcengine-ark.json",
+      "markdown_path": "data/views/companies/volcengine-ark.md",
+      "category_id": "02",
+      "category_name": "算力与基础设施",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "火山引擎官网与字节跳动官网均以官方口径称火山引擎为字节跳动旗下云／云与 AI 服务平台；火山方舟是其模型服务产品，故按字节跳动集团内产品项目记录。本轮未找到方舟独立法人或独立团队证据。",
+        "source_ids": [
+          "s01",
+          "s05"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "wangshi-zhihui",
       "name": "望石智慧",
       "aliases": [
@@ -9379,6 +11244,87 @@
       "category_id": "08",
       "category_name": "具身智能与机器人",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "wenxin",
+      "name": "文心 / 百度",
+      "aliases": [
+        "文心大模型",
+        "文心一言",
+        "ERNIE",
+        "文心助手"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "百度自主研发的产业级知识增强大模型家族及面向个人的文心助手产品",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "百度集团具名基础模型与 C 端助手产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/wenxin.json",
+      "markdown_path": "data/views/companies/wenxin.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "baidu"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "百度智能云与百度域名产品页均以百度名义提供文心／ERNIE 模型及文心助手，按集团内模型与产品线记录；本轮未找到独立法人、独立团队或融资证据。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "weride",
+      "name": "文远知行 WeRide",
+      "aliases": [
+        "文远知行",
+        "WeRide",
+        "WeRide.ai"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "L2至L4级自动驾驶技术及Robotaxi、Robobus、Robosweeper、Robovan等产品",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "由前百度自动驾驶部门首席科学家创办的独立自动驾驶公司，官方来源明确创始人履历与业务边界，作为新进创业公司建档；不认定为百度分拆。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/weride.json",
+      "markdown_path": "data/views/companies/weride.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "confirmed",
+        "summary": "公司官网将 WeRide 叙述为2017年独立成立的企业；创始人 Tony Han 有百度自动驾驶部门首席科学家履历，但本轮未找到百度分拆、控股或孵化证据，故按独立创业公司记录，parent_platform_ids留空。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     },
     {
       "id": "westwell",
@@ -9686,6 +11632,48 @@
       "investment_status": "confirmed_disclosure"
     },
     {
+      "id": "xinghui",
+      "name": "星绘 / 字节跳动",
+      "aliases": [
+        "星绘",
+        "星绘 AI",
+        "Xinghui"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "字节跳动体系内的 AI 人像创作产品，覆盖 AI 分身、写真、证件照与图像／视频生成",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "字节跳动体系内具名 AI 人像创作产品，作为现有巨头的 AI 业务单元单独建档；组织归属仅有 App Store 标题与发行主体链，保留 reported。",
+        "source_ids": [
+          "s01",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/xinghui.json",
+      "markdown_path": "data/views/companies/xinghui.md",
+      "category_id": "05",
+      "category_name": "多模态生成与创作工具",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "bytedance"
+        ],
+        "relationship_status": "reported",
+        "summary": "星绘 App Store 标题称「豆包旗下」，开发者与豆包同为 Beijing Chuntian Zhiyun Technology Co., Ltd.；字节跳动官网将豆包列为自有 AI 产品。由此记录为字节体系产品项目，但未找到星绘独立官网或字节跳动官方归属表述，故标 reported。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "xingji-miyuan",
       "name": "星际觅元",
       "aliases": [
@@ -9735,6 +11723,36 @@
       "markdown_path": "data/views/companies/xingyun-ic.md",
       "category_id": "02",
       "category_name": "算力与基础设施",
+      "investment_status": "partial"
+    },
+    {
+      "id": "xinshengji-intelligent",
+      "name": "新生纪智能 / CenoBots",
+      "aliases": [
+        "新生纪智能",
+        "新生纪智能科技",
+        "CenoBots",
+        "新生纪"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "商用清洁机器人与具身智能",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前达摩院自动驾驶负责人王刚创办的机器人公司，虽以清洁硬件落地，但创始人来源与技术路线明确，纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/xinshengji-intelligent.json",
+      "markdown_path": "data/views/companies/xinshengji-intelligent.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
       "investment_status": "partial"
     },
     {
@@ -10009,6 +12027,113 @@
       "investment_status": "partial"
     },
     {
+      "id": "youlu-robot",
+      "name": "有鹿机器人 / UDEER",
+      "aliases": [
+        "有鹿机器人",
+        "有鹿",
+        "UDEER",
+        "浙江有鹿机器人科技有限公司",
+        "UDEER AI"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "具身智能通用大脑与商用清洁/巡扫机器人",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "前达摩院机器人实验室负责人陈俊波创办的具身智能公司，团队与产品来源明确，纳入第一波观察。",
+        "source_ids": [
+          "s01",
+          "s02",
+          "s03"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/youlu-robot.json",
+      "markdown_path": "data/views/companies/youlu-robot.md",
+      "category_id": "08",
+      "category_name": "具身智能与机器人",
+      "investment_status": "partial"
+    },
+    {
+      "id": "yuanbao",
+      "name": "元宝 / 腾讯",
+      "aliases": [
+        "腾讯元宝",
+        "Yuanbao"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "腾讯面向个人的 AI 助手产品，提供对话、内容生成与下载入口",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "腾讯集团具名 C 端 AI 助手产品，作为现有巨头的 AI 业务单元单独建档；公开信息有限，仅记录可核实的产品入口。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/yuanbao.json",
+      "markdown_path": "data/views/companies/yuanbao.md",
+      "category_id": "04",
+      "category_name": "通用 Agent、个人应用与搜索",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "tencent"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "产品运行在 tencent.com 子域名并以腾讯元宝名义提供，按腾讯集团内 C 端产品项目记录；本轮未找到独立法人、独立团队或融资证据。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
+      "id": "yuanshi-tech",
+      "name": "元石科技",
+      "aliases": [
+        "元石科技",
+        "北京元石科技有限公司"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "多模态大模型研发",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "快手前多媒体内容理解负责人李岩创办的多模态大模型公司，来源明确创始人出身；公开产品与融资信息有限，先按新进创业公司建档并保留证据缺口。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/yuanshi-tech.json",
+      "markdown_path": "data/views/companies/yuanshi-tech.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_found",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "confirmed",
+        "summary": "报道与工商信息显示元石科技为李岩个人持股的独立注册公司；创始人有快手MMU负责人履历，但本轮未找到快手分拆、控股或孵化证据，故按独立创业公司记录。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "yuanshi-tiangong",
       "name": "元始天工 / 元始智能",
       "aliases": [
@@ -10133,7 +12258,7 @@
       ],
       "organization_type": "operating_organization",
       "focus": "下一代智能体：数字Agent与物理Agent",
-      "checked_at": "2026-11-12",
+      "checked_at": "2026-11-13",
       "targeting": {
         "kind": "editorial_assessment",
         "player_group": "new_entrant",
@@ -10257,6 +12382,44 @@
       "investment_status": "partial"
     },
     {
+      "id": "zhuiyi",
+      "name": "追一科技 Zhuiyi Technology",
+      "aliases": [
+        "追一科技",
+        "Zhuiyi",
+        "Zhuiyi Technology"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "企业级 NLP 与 AI 数字员工，含自研领域大模型“追一博文”",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "new_entrant",
+        "wave": "first",
+        "rationale": "公司官网明确核心创始团队含原腾讯AI核心技术人员，作为前大厂AI成员创办的企业级AI公司建档；团队为整体表述，未把每位创始人都认定为腾讯出身。",
+        "source_ids": [
+          "s01",
+          "s02"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/zhuiyi.json",
+      "markdown_path": "data/views/companies/zhuiyi.md",
+      "category_id": "06",
+      "category_name": "企业与垂直行业软件",
+      "investment_status": "partial",
+      "organizational_context": {
+        "form": "independent_organization",
+        "parent_platform_ids": [],
+        "relationship_status": "confirmed",
+        "summary": "公司官网将追一科技叙述为2016年3月成立的独立企业；核心创始团队含原腾讯AI技术人员，但本轮未找到腾讯分拆、控股或孵化证据，故按独立创业公司记录，parent_platform_ids留空。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
+    },
+    {
       "id": "zpmc",
       "name": "振华重工",
       "aliases": [
@@ -10281,6 +12444,46 @@
       "category_id": "06",
       "category_name": "企业与垂直行业软件",
       "investment_status": "confirmed_disclosure"
+    },
+    {
+      "id": "zte-xingyun",
+      "name": "星云通信大模型 / 中兴通讯",
+      "aliases": [
+        "星云",
+        "星云通信大模型",
+        "ZTE Xingyun",
+        "星云 Agent 工厂"
+      ],
+      "organization_type": "operating_organization",
+      "focus": "中兴通讯面向通信网络自智的行业大模型与 Agent 工厂，强调复杂网络问题解决与运维提效",
+      "checked_at": "2026-11-13",
+      "targeting": {
+        "kind": "editorial_assessment",
+        "player_group": "incumbent",
+        "wave": "later",
+        "rationale": "中兴通讯官网新闻披露星云通信大模型、Agent 工厂与行业应用，作为现有 ICT 巨头内部具名模型产品线列入 later。",
+        "source_ids": [
+          "s01"
+        ],
+        "labelled_at": "2026-11-13"
+      },
+      "json_path": "data/companies/zte-xingyun.json",
+      "markdown_path": "data/views/companies/zte-xingyun.md",
+      "category_id": "01",
+      "category_name": "基础模型",
+      "investment_status": "not_applicable",
+      "organizational_context": {
+        "form": "product_project",
+        "parent_platform_ids": [
+          "zte"
+        ],
+        "relationship_status": "confirmed",
+        "summary": "中兴通讯官网新闻以公司名义发布星云通信大模型及 Agent 工厂，确认为其内部产品线；未披露独立法人。",
+        "source_ids": [
+          "s01"
+        ],
+        "checked_at": "2026-11-13"
+      }
     }
   ]
 }

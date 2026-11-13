@@ -1,0 +1,105 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "maoxiang",
+  "name": "猫箱 / 字节跳动",
+  "aliases": [
+    "猫箱",
+    "猫箱 App",
+    "Maoxiang"
+  ],
+  "category_id": "04",
+  "focus": "字节跳动体系内的 AI 角色剧情聊天产品，提供虚拟角色对话、语音畅聊与剧情互动",
+  "products": "猫箱官网与 App Store 描述显示：用户可与不同设定的虚拟 AI 角色聊天、语音畅聊、探索剧情；提供会员权益（灵动模式、更长语音通话、高峰不限速）。官网设「心动角色」「视频剧集」「奇幻故事」与创作者中心入口。App Store 显示 iOS 版于 2024-03-12 首次上架。",
+  "locations_text": "官网页脚列北京春田知韵科技有限公司及北京市西城区阜成门外大街 31 号 4 层 409D 地址；不据此推断全部团队所在地。",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：猫箱以剧情化 AI 角色陪伴为核心，提供语音与创作者生态；与星野、筑梦岛等国内 AI 角色陪伴产品同属 C 端情感陪伴赛道。具体用户量、留存和内容规模未在本条做横向评测。",
+    "peer_names": [
+      "星野",
+      "筑梦岛",
+      "Character.AI"
+    ]
+  },
+  "investment": {
+    "summary": "未找到猫箱作为独立主体披露的股权融资；其官网运营主体为北京春田知韵科技有限公司，与豆包 App Store 发行主体同名。按字节体系产品项目记录，不将内部投入写成融资。",
+    "verification_status": "not_found"
+  },
+  "contacts": {
+    "website": "https://maoxiangai.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "feedback@mail.myparallelstory.com",
+    "other_email_purpose": "猫箱官网公示的反馈邮箱"
+  },
+  "notes": "本条是字节跳动体系内 AI 角色产品档案，不重复建字节跳动集团档案。归属证据链：猫箱官网页脚与 App Store 均指向北京春田知韵科技有限公司（App Store 英文名 Beijing Chuntian Zhiyun Technology Co., Ltd.），该主体同时是豆包 App 的发行主体，而字节跳动官网将豆包列为自有 AI 产品；未见猫箱自身使用「字节跳动旗下」表述，故按 reported 记录。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "猫箱官网",
+      "url": "https://maoxiangai.com/",
+      "supports": "官网标题、产品入口、下载与创作者中心；页脚列北京春田知韵科技有限公司、地址、反馈邮箱与备案号。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "App Store：猫箱 - 和心动 AI 探索剧情宇宙",
+      "url": "https://apps.apple.com/cn/app/%E7%8C%AB%E7%AE%B1-%E5%92%8C%E5%BF%83%E5%8A%A8-ai-%E6%8E%A2%E7%B4%A2%E5%89%A7%E6%83%85%E5%AE%87%E5%AE%99/id6475000292",
+      "supports": "App Store 条目显示开发者为 Beijing Chuntian Zhiyun Technology Co., Ltd.，iOS 版首次发布 2024-03-12；描述会员权益与角色聊天功能。",
+      "published_date": "2024-03-12",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "App Store：豆包 - 生活工作 AI 助手",
+      "url": "https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E7%94%9F%E6%B4%BB%E5%B7%A5%E4%BD%9C-ai-%E5%8A%A9%E6%89%8B/id6459478672",
+      "supports": "豆包 App Store 条目显示同一开发者 Beijing Chuntian Zhiyun Technology Co., Ltd.，用于说明猫箱与豆包由同一主体发行。",
+      "published_date": "2023-08-24",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "字节跳动：产品与服务",
+      "url": "https://www.bytedance.com/zh/products-services",
+      "supports": "字节跳动官网将豆包列为自有 AI 应用，称其基于字节跳动自研大语言模型；与 s03 共同支持发行主体的字节体系归属。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "猫箱",
+    "original_track": "04",
+    "original_subtrack": "大厂AI业务单元：AI角色陪伴"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "字节跳动体系内具名 AI 角色陪伴产品，作为现有巨头的 AI 业务单元单独建档；组织归属仅有发行主体同名链，保留 reported。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s04"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "bytedance"
+    ],
+    "relationship_status": "reported",
+    "summary": "猫箱官网与 App Store 指向北京春田知韵科技有限公司；该公司同时是豆包 App 的发行主体，字节跳动官网将豆包列为自有 AI 产品。由此记录为字节体系产品项目，但未找到猫箱自身的字节跳动官方归属表述，故标 reported。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03",
+      "s04"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

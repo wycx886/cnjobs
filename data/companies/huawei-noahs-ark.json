@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "huawei-noahs-ark",
+  "name": "诺亚方舟实验室 / 华为",
+  "aliases": [
+    "诺亚方舟实验室",
+    "华为诺亚方舟实验室",
+    "Noah's Ark Lab",
+    "Huawei Noah's Ark Lab"
+  ],
+  "category_id": "01",
+  "focus": "华为中央人工智能研究实验室，覆盖模型架构、时序 AI、优化智能、行业智能、终端智能、智感融合与物理智能",
+  "products": "官网列模型架构及优化、时序 AI、优化智能、行业智能、终端智能、智感融合、物理智能等研究团队；发布扩散语言模型 Agent、PocketLLM 压缩、Mantis 时序基础模型等研究，并提供论文、新闻与招聘入口。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以中央研究实验室方式覆盖多个 AI 方向，与产品线（如盘古）分工不同；本条只记录公开研究团队与成果，不评价技术领先性。",
+    "peer_names": [
+      "Seed / 字节跳动",
+      "腾讯 AI Lab"
+    ]
+  },
+  "investment": {
+    "summary": "华为内部研究实验室，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.noahlab.com.hk/",
+    "careers_url": "https://www.noahlab.com.hk/en/recruitment",
+    "recruitment_email": null,
+    "other_email": "noahlab1@huawei.com",
+    "other_email_purpose": "诺亚方舟实验室官网公示的联系邮箱"
+  },
+  "notes": "只研究诺亚方舟实验室具名研究机构，不重复建华为集团档案，也不把盘古产品线并入本条。研究方向与成果来自实验室官网；实验室主任等负责人信息未在本次读取中取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "华为诺亚方舟实验室官网",
+      "url": "https://www.noahlab.com.hk/",
+      "supports": "官网列模型架构及优化、时序 AI、优化智能、行业智能、终端智能、智感融合、物理智能等研究团队；展示扩散语言模型 Agent、PocketLLM、Mantis 等研究；提供研究、新闻、关于与招聘入口，并公示 noahlab1@huawei.com。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "诺亚方舟实验室 / 华为",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "华为诺亚方舟实验室官网持续公开研究团队、论文与招聘，作为现有 ICT 巨头内部具名研究机构列入 later；不据此判断独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "research_lab",
+    "parent_platform_ids": [
+      "huawei"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "诺亚方舟实验室官网以华为官方域名、版权和华为邮箱承载，自述为华为研究实验室，确认为华为内部研究机构；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

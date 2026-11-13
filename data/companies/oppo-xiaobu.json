@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "oppo-xiaobu",
+  "name": "小布 / OPPO",
+  "aliases": [
+    "小布",
+    "OPPO 小布",
+    "小布 Next",
+    "Breeno"
+  ],
+  "category_id": "04",
+  "focus": "OPPO 终端系统级 AI 助手与主动智能产品，覆盖建议、记忆、影像与生产力",
+  "products": "小布建议（官网称覆盖 700+ 服务场景）、一键闪记、智能记忆合集、小布空间、AI 拍一拍；小布 Next 技术预览版采用端侧 Multi-Agent 架构；AI 修图、AI 笔记、AI 录音、AI 写作、AI 翻译、AI 绘图等功能。三大技术为端侧大模型、记忆共生引擎 PersonaX、智能体生态框架 Agent Matrix。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以手机系统级入口和端侧记忆／主动服务为特点，与独立 App 助手路径不同；本条只记录官网功能，不评价实际体验或市场份额。",
+    "peer_names": [
+      "小爱 / 小米",
+      "天禧 / 联想"
+    ]
+  },
+  "investment": {
+    "summary": "OPPO 内部产品项目，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.oppo.com/cn/discover/technology/oppo-ai/",
+    "careers_url": "https://careers.oppo.com/university/oppo/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究 OPPO 小布具名 AI 助手产品，不重复建 OPPO 集团档案。功能与三大技术来自 OPPO 官方 OPPO AI 页面；团队负责人、上线时间和用户量未在本次来源中取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "OPPO AI | OPPO 官方网站",
+      "url": "https://www.oppo.com/cn/discover/technology/oppo-ai/",
+      "supports": "OPPO AI 页面介绍小布、小布建议覆盖 700+ 服务场景、一键闪记、智能记忆合集、小布空间、AI 拍一拍与小布 Next 技术预览版；列出端侧大模型、记忆共生引擎 PersonaX、智能体生态框架 Agent Matrix 三大技术；提供 OPPO 招聘入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "小布 / OPPO",
+    "original_track": "04",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "OPPO 官方 OPPO AI 页面持续披露小布与小布 Next 产品，作为现有终端巨头内部具名 AI 助手列入 later；不据此判断组织独立性。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "oppo"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "OPPO AI 页面由 OPPO 官方域名与版权承载，明确以「OPPO AI」介绍小布等产品，确认为 OPPO 内部 AI 产品线；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

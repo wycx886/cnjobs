@@ -1,0 +1,180 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "youlu-robot",
+  "name": "有鹿机器人 / UDEER",
+  "aliases": [
+    "有鹿机器人",
+    "有鹿",
+    "UDEER",
+    "浙江有鹿机器人科技有限公司",
+    "UDEER AI"
+  ],
+  "category_id": "08",
+  "founded": {
+    "year": 2023,
+    "basis": "腾讯新闻/瑞财经2024-05-31与搜狐2026-01-26均报道公司由陈俊波于2023年创建；百度百科称工商成立日为2023-02-23。"
+  },
+  "focus": "具身智能通用大脑与商用清洁/巡扫机器人",
+  "products": "LPLM具身智能大模型（2023年与阿里云通义千问联合发布LPLM-10B）、Master2000通用大脑、AI130商用巡扫机器人。",
+  "locations_text": "浙江杭州；官网另署UDEER AI PTE.LTD.新加坡主体",
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以“通用大脑+整机”切入园区清洁与巡扫，强调一脑多形；与只做机器人本体或只做算法授权的公司不同。",
+    "peer_names": [
+      "新生纪智能 / CenoBots",
+      "高仙机器人",
+      "普渡科技"
+    ]
+  },
+  "investment": {
+    "summary": "2024-05-31报道完成超1亿元融资，投资方包括创新工场、元璟资本、百度风投；融资轮次按“天使轮”记录，具体金额与估值未披露。",
+    "verification_status": "partial",
+    "rounds": [
+      {
+        "round": "天使轮",
+        "announced_on": "2024-05-31",
+        "amount_text": "超1亿元",
+        "investors": [
+          {
+            "name": "创新工场",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "元璟资本",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          },
+          {
+            "name": "百度风投",
+            "firm_id": null,
+            "role": "participant",
+            "source_ids": [
+              "s02"
+            ]
+          }
+        ],
+        "source_ids": [
+          "s02"
+        ],
+        "notes": "腾讯新闻/瑞财经2024-05-31：完成超1亿元融资，投资方包括创新工场、元璟资本、百度风投；搜狐2026-01-26称该轮为天使轮。"
+      }
+    ]
+  },
+  "contacts": {
+    "website": "https://udeerai.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": "bd@udeer.ai",
+    "other_email_purpose": "商务合作（官网公开）"
+  },
+  "notes": "创始人陈俊波为前阿里达摩院机器人实验室技术负责人、小蛮驴公司总经理；团队主要来自达摩院。公开报道未称阿里孵化或持股，不标分拆。官网当前主推Master2000与AI130；2026-01报道称累计订单6.6亿元，属媒体口径。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "关于UDEER - 有鹿机器人",
+      "url": "https://udeerai.com/about",
+      "supports": "浙江有鹿机器人科技有限公司由前达摩院机器人实验室技术负责人、小蛮驴公司总经理陈俊波博士创立；团队主要来自达摩院；LPLM大模型与Master2000/AI130产品。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "陈俊波离职阿里达摩院后投身具身智能赛道，有鹿机器人获亿元融资、签下首笔大额订单",
+      "url": "https://news.qq.com/rain/a/20240531A09G6I00",
+      "supports": "2024-05-31完成超1亿元融资，投资方包括创新工场、元璟资本、百度风投；陈俊波2023年创建公司；LPLM-10B与通义千问联合发布。",
+      "published_date": "2024-05-31",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "浙江小伙给机器人造大脑，2年拿下6亿订单",
+      "url": "https://www.sohu.com/a/980218788_616577",
+      "supports": "陈俊波与前阿里机器人CEO谷祖林于2023年联合创办有鹿；2024年上半年千万元订单；累计6.6亿元订单；LPLM与AI130产品线。",
+      "published_date": "2026-01-26",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "有鹿机器人",
+    "original_track": "08",
+    "original_subtrack": "前阿里达摩院员工创业：具身智能"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "new_entrant",
+    "wave": "first",
+    "rationale": "前达摩院机器人实验室负责人陈俊波创办的具身智能公司，团队与产品来源明确，纳入第一波观察。",
+    "source_ids": [
+      "s01",
+      "s02",
+      "s03"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-udeer-official",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://udeerai.com/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "浙江有鹿机器人科技有限公司",
+        "role": "公司官网"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "页面具名公司、团队来源、产品与商务邮箱；官网版权另署UDEER AI PTE.LTD.。"
+    }
+  ],
+  "people": [
+    {
+      "name": "陈俊波",
+      "role": "创始人兼CEO",
+      "background": "浙江大学计算机博士，2009年加入阿里云初创团队；曾任菜鸟ET实验室负责人、达摩院自动驾驶实验室技术负责人、小蛮驴公司总经理；2023年离职创办有鹿机器人。",
+      "previous_firms": [
+        "阿里巴巴",
+        "阿里云",
+        "达摩院",
+        "菜鸟"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s01",
+        "s02",
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "身份与履历由官网与两家媒体交叉支持；未取得个人公开主页。"
+    },
+    {
+      "name": "谷祖林",
+      "role": "联合创始人",
+      "background": "前阿里机器人CEO；2023年与陈俊波联合创办有鹿机器人。",
+      "previous_firms": [
+        "阿里巴巴"
+      ],
+      "profiles": [],
+      "source_ids": [
+        "s03"
+      ],
+      "checked_at": "2026-11-13",
+      "verification_status": "partial",
+      "notes": "联合创始人身份由搜狐2026-01-26报道支持；具体分工与当前职务未披露。"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "pangu",
+  "name": "盘古 / 华为",
+  "aliases": [
+    "盘古大模型",
+    "华为云盘古大模型",
+    "Pangu"
+  ],
+  "category_id": "01",
+  "focus": "华为云面向行业的盘古基础大模型产品线，覆盖语言、多模态、视觉、预测与气象",
+  "products": "华为云盘古大模型产品页当前列出五类基础模型：LLM 大模型、视觉大模型、多模态大模型、预测大模型与气象大模型；页面同时列出数字员工、证件审核、智慧城市、智慧配煤、气象预报等场景，以及政务、影像、跨境电商、能源等行业案例。本轮未取得官方披露的用户量或收入数字。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：盘古以行业大模型和华为云场景交付为主，与偏通用 C 端助手的模型产品线不同；本条只记录官方产品分类与场景，不作模型能力排名。",
+    "peer_names": [
+      "文心 / 百度",
+      "混元 / 腾讯",
+      "MiMo / 小米"
+    ]
+  },
+  "investment": {
+    "summary": "盘古为华为云官方产品线，未见独立法人或独立融资披露；不适用独立主体股权融资字段，不表示没有集团内部研发投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.huaweicloud.com/product/pangu",
+    "careers_url": "https://career.huawei.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是华为集团 AI 业务单元档案，不重复建集团档案。华为云产品页支持盘古五类基础模型、行业场景与案例；页面未公开具名团队负责人、发布时间和用户量，相关字段留空。招聘入口为华为集团统一招聘站，不表示盘古团队岗位单独发布。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "华为云：盘古大模型产品页",
+      "url": "https://www.huaweicloud.com/product/pangu",
+      "supports": "盘古面向B端提供LLM、视觉、多模态、预测、气象五类基础大模型，并列出数字员工、证件审核、智慧城市、智慧配煤、气象预报等场景与行业案例；不采用页面营销性排名表述。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "华为招聘官网",
+      "url": "https://career.huawei.com/",
+      "supports": "华为集团统一招聘入口；不单独证明盘古团队当前开放岗位。",
+      "published_date": null,
+      "checked_at": "2026-11-13",
+      "scope": "channel"
+    }
+  ],
+  "provenance": {
+    "original_name": "华为云盘古大模型",
+    "original_track": "01",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "华为云具名基础大模型产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-careers-huawei-pangu",
+      "layer": "official",
+      "platform": "careers",
+      "url": "https://career.huawei.com/",
+      "purpose": "recruitment",
+      "owner": {
+        "scope": "organization",
+        "name": "华为集团",
+        "role": "集团统一招聘入口；非盘古团队专属"
+      },
+      "verification_status": "partial",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s02"
+      ],
+      "notes": "华为集团招聘站，页面未单独列出盘古团队。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "huawei"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "盘古大模型以华为云官方产品页对外提供，按华为集团内云侧模型产品线记录；本轮未找到独立法人、独立团队或融资证据。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

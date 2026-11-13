@@ -1,0 +1,111 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "volcengine-ark",
+  "name": "火山方舟 / 字节跳动",
+  "aliases": [
+    "火山方舟",
+    "方舟",
+    "Volcengine Ark",
+    "Ark"
+  ],
+  "category_id": "02",
+  "focus": "字节跳动火山引擎面向企业的模型服务平台，提供大模型 API、推理服务与模型体验入口",
+  "products": "火山方舟（Ark）官方文档展示模型调用示例（如 doubao-seed-2-1-pro-260915）、API 接入地址与模型列表入口；文档首页同时列出 Doubao Seedance 2.5、Doubao Seed Evolving、Doubao Seedream 5.5 等模型。字节跳动官方新闻稿称 Seedance 2.0 发布后上线火山方舟体验中心，模型 API 计划在 2 月中下旬上线火山方舟。官方未在本轮页面披露平台用户量或收入。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：火山方舟以字节跳动 Seed／豆包模型为主要供给，提供模型调用与体验入口；与阿里云百炼、百度千帆、腾讯云 TokenHub 同属云厂商模型服务平台。具体模型性能、价格和市场份额未在本条做横向评测。",
+    "peer_names": [
+      "阿里云百炼",
+      "百度千帆",
+      "腾讯云 TokenHub"
+    ]
+  },
+  "investment": {
+    "summary": "火山方舟为字节跳动旗下火山引擎的模型服务平台，不是独立融资主体；不适用独立主体股权融资字段，不表示没有集团内部投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.volcengine.com/product/ark",
+    "careers_url": "https://jobs.bytedance.com/",
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是火山引擎模型服务平台业务单元档案，不重复建字节跳动或火山引擎集团档案。火山方舟产品页为 JS 应用，产品能力取自实际打开的官方文档、Seed 模型页和字节跳动新闻稿；未取得平台独立上线日期、用户量或具名负责人，相关字段留空。招聘入口使用字节跳动集团招聘站，不表示方舟团队岗位单独发布。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "火山引擎：为什么选火山",
+      "url": "https://www.volcengine.com/about",
+      "supports": "页面开篇称「火山引擎是字节跳动旗下的云服务平台」，并列云基础、AI 与行业解决方案；支持母平台关系，不单独证明方舟产品细节。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "火山方舟官方文档：快速调用",
+      "url": "https://www.volcengine.com/docs/82379/1099455",
+      "supports": "实际打开显示 Python／Go／Java／OpenAI SDK 调用示例、ark.cn-beijing.volces.com 接入地址与 doubao-seed-2-1-pro-260915 模型；并列出 Doubao Seedance 2.5、Doubao Seed Evolving、Doubao Seedream 5.5 模型入口。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s03",
+      "title": "字节跳动 Seed：模型",
+      "url": "https://seed.bytedance.com/zh/models",
+      "supports": "Seed 官方模型页列 Seed2.1、Seedance 2.5、Seedream 5.5、SeedRealtime、Seed Audio 1.0、Seed GR-RL 等，并提供「获取 API」链接到火山引擎；支持 Seed 与方舟的模型供给关系。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s04",
+      "title": "字节跳动：豆包视频生成模型 Seedance 2.0 发布，豆包、即梦接入",
+      "url": "https://www.bytedance.com/zh/newsroom/dreamina-seedance-2",
+      "supports": "字节跳动官方新闻稿称 Seedance 2.0 上线火山方舟体验中心，API 计划在 2 月中下旬上线火山方舟；支持方舟作为集团模型服务平台。",
+      "published_date": "2026-02-12",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s05",
+      "title": "字节跳动：产品与服务",
+      "url": "https://www.bytedance.com/zh/products-services",
+      "supports": "字节跳动官网将火山引擎描述为「字节跳动旗下面向中国市场的云与 AI 服务平台」；支持母平台关系与云／AI 定位。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "火山方舟",
+    "original_track": "02",
+    "original_subtrack": "大厂AI业务单元：模型服务与推理平台"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "火山引擎具名大模型服务平台，作为字节跳动现有巨头体系内的 AI 基础设施产品单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "bytedance"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "火山引擎官网与字节跳动官网均以官方口径称火山引擎为字节跳动旗下云／云与 AI 服务平台；火山方舟是其模型服务产品，故按字节跳动集团内产品项目记录。本轮未找到方舟独立法人或独立团队证据。",
+    "source_ids": [
+      "s01",
+      "s05"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

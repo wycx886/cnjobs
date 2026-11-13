@@ -1,0 +1,103 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "coze",
+  "name": "扣子 / 字节跳动",
+  "aliases": [
+    "扣子",
+    "Coze",
+    "扣子 Coze"
+  ],
+  "category_id": "03",
+  "focus": "面向职场与开发者的 AI Agent 与一站式应用开发平台，覆盖智能体、工作流、网页／小程序／APP 开发和办公内容生产。",
+  "products": "扣子官网将自身定位为字节跳动旗下职场 AI 与一站式 AI 开发平台，列出扣子编程、PPT、数据分析、小程序开发、APP 开发、网页开发、平面设计、教学备课、报告写作、自媒体、播客、视频、智能体和工作流等能力；并提供扣子开发文档入口。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：扣子把 Agent 搭建、工作流和轻应用开发放在同一平台，并以“职场 AI”覆盖非技术用户的办公任务；本条只记录官网公开定位与功能入口，不作市场份额或性能排名。",
+    "peer_names": [
+      "Dify / LangGenius",
+      "阿里云百炼"
+    ]
+  },
+  "investment": {
+    "summary": "扣子为字节跳动旗下 AI Agent 与开发平台，官网未披露独立法人或独立融资；不适用独立主体股权融资字段，不表示没有集团内部投入。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.coze.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "本条是字节跳动扣子 Coze 产品线的业务单元档案，不重复建集团档案。官网为动态单页，产品能力取自实际打开的页面标题与官方文档入口；未公开具名负责人、上线日期和用户量，相关字段留空。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "扣子 Coze - 字节跳动旗下职场AI伙伴与一站式AI开发平台",
+      "url": "https://www.coze.cn/overview",
+      "supports": "实际打开页面标题为“扣子 Coze - 字节跳动旗下职场AI伙伴扣子与一站式AI开发平台”，标题同时列出扣子编程、PPT、数据分析、小程序开发、APP开发、网页开发、平面设计、教学备课、报告写作、自媒体、播客、视频、智能体、工作流等能力。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    },
+    {
+      "id": "s02",
+      "title": "扣子开发文档：什么是扣子",
+      "url": "https://www.coze.cn/open/docs/guides/what_is_coze",
+      "supports": "扣子官方开发文档入口存在，页面标题为“扣子 - AI Agent智能办公平台”，用于确认开发者文档与平台入口；本轮未展开具体接口条款。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "字节跳动扣子Coze",
+    "original_track": "03",
+    "original_subtrack": "大厂AI业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "字节跳动具名 AI Agent 与开发平台产品线，作为现有巨头的 AI 业务单元单独建档；不视为独立创业公司。",
+    "source_ids": [
+      "s01",
+      "s02"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [
+    {
+      "id": "ch-coze-website",
+      "layer": "official",
+      "platform": "website",
+      "url": "https://www.coze.cn/",
+      "purpose": "general",
+      "owner": {
+        "scope": "organization",
+        "name": "扣子 Coze",
+        "role": "产品官方网站"
+      },
+      "verification_status": "confirmed",
+      "checked_at": "2026-11-13",
+      "source_ids": [
+        "s01"
+      ],
+      "notes": "实际打开页面标题明确写有“字节跳动旗下职场AI伙伴扣子与一站式AI开发平台”。"
+    }
+  ],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "bytedance"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "扣子官网标题明确称其为字节跳动旗下职场 AI 与一站式 AI 开发平台，并按集团内部产品线记录；未找到独立法人或独立融资证据。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  },
+  "people": []
+}

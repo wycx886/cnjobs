@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "sensenova",
+  "name": "日日新 SenseNova / 商汤",
+  "aliases": [
+    "日日新",
+    "SenseNova",
+    "商汤日日新",
+    "商汤日日新大模型"
+  ],
+  "category_id": "01",
+  "focus": "商汤自研的多模态大模型与智能体产品家族，覆盖语言、图像、视频、空间智能与办公应用",
+  "products": "SenseNova 6.8 Flash、SenseNova U1 Pro／U1.5 Lite 图片创作模型、商汤小浣熊、Seko 短片创作 Agent、如影营销智能体、咔皮家族；开源 SenseNova U1、Vision、SI、MARS、NEO、Kairos 等模型与框架。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：以原生多模态和办公／创作智能体为主要交付，与纯文本基础模型厂商路径不同；本条不采用官网「比肩顶尖模型」等营销结论。",
+    "peer_names": [
+      "Qwen / 阿里巴巴",
+      "豆包大模型 / 字节跳动"
+    ]
+  },
+  "investment": {
+    "summary": "商汤集团内部大模型产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://www.sensenova.cn/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究商汤日日新具名大模型产品线，不重复建商汤集团档案，也不把绝影汽车、元萝卜机器人等产品线并入本条。模型与产品清单来自 SenseNova 官网；团队负责人和上线时间未在本次来源中逐项取得。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "日日新 - 商汤科技大模型平台 | SenseNova",
+      "url": "https://www.sensenova.cn/",
+      "supports": "列 SenseNova 6.8 Flash、U1 Pro、U1.5 Lite 等模型，以及小浣熊、Seko、如影营销智能体、咔皮家族等应用；列出 SenseNova U1、Vision、SI、MARS、NEO、Kairos 等开源模型；页脚主体为上海商汤智能科技有限公司，并注明其为商汤集团旗下子公司。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "日日新 SenseNova / 商汤",
+    "original_track": "01",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "商汤官方 SenseNova 站点持续发布具名多模态模型与产品，作为现有 AI 上市公司内部模型产品线列入 later；不据此判断组织独立性。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "sensetime"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "SenseNova 官网由商汤官方域名承载，页脚注明上海商汤智能科技有限公司为商汤集团旗下子公司，确认为商汤体系内大模型产品线；未披露独立法人。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}

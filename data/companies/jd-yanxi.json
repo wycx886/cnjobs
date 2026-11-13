@@ -1,0 +1,74 @@
+{
+  "schema_version": 3,
+  "organization_type": "operating_organization",
+  "id": "jd-yanxi",
+  "name": "言犀 / 京东",
+  "aliases": [
+    "言犀",
+    "京东言犀",
+    "京东智能人机交互平台"
+  ],
+  "category_id": "07",
+  "focus": "面向企业服务与营销的智能人机交互平台，组合语音、语言与数字人能力",
+  "products": "言犀智能人机交互平台：官网称面向不同行业和客户场景提供可灵活组合或按需定制的智能人机交互产品，用于企业服务与营销的数智化转型；JoyAI 门户将数字人及 AIGC、智能客服、智能联络中心列在相邻产品入口。",
+  "locations_text": null,
+  "comparison": {
+    "kind": "editorial_analysis",
+    "summary": "分析：与 JoyAI 的 AIGC 平台相邻，本条按「言犀」独立品牌和企业服务定位建档；两者组织边界未由官方说明，不能据产品入口推断为同一团队。",
+    "peer_names": [
+      "JoyAI / 京东",
+      "星辰大模型 / 中国电信"
+    ]
+  },
+  "investment": {
+    "summary": "京东内部产品线，未见独立主体股权融资披露；不适用独立机构融资核验。",
+    "verification_status": "not_applicable"
+  },
+  "contacts": {
+    "website": "https://yanxi.jd.com/",
+    "careers_url": null,
+    "recruitment_email": null,
+    "other_email": null,
+    "other_email_purpose": null
+  },
+  "notes": "只研究「言犀」具名产品线，不重复建京东集团档案。官网正文可读部分确认品牌与平台定位，未披露负责人、上线时间或用户量。",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "id": "s01",
+      "title": "言犀 - 京东智能人机交互平台",
+      "url": "https://yanxi.jd.com/",
+      "supports": "站点标题与正文确认「言犀」为京东智能人机交互平台，面向不同行业和客户场景助力企业服务和营销数智化转型，并提供可组合或定制的智能人机交互产品。",
+      "published_date": null,
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "provenance": {
+    "original_name": "言犀 / 京东",
+    "original_track": "07",
+    "original_subtrack": "大厂具名 AI 业务单元"
+  },
+  "targeting": {
+    "kind": "editorial_assessment",
+    "player_group": "incumbent",
+    "wave": "later",
+    "rationale": "京东官方站点以「言犀」具名品牌运营智能人机交互平台，作为现有巨头内部产品线列入 later；组织边界与 JoyAI 的关系待官方补充。",
+    "source_ids": [
+      "s01"
+    ],
+    "labelled_at": "2026-11-13"
+  },
+  "channels": [],
+  "organizational_context": {
+    "form": "product_project",
+    "parent_platform_ids": [
+      "jd"
+    ],
+    "relationship_status": "confirmed",
+    "summary": "言犀官方站点以「京东智能人机交互平台」具名，确认其属于京东体系；本条按产品线处理，不推断独立法人或与 JoyAI 的团队归属。",
+    "source_ids": [
+      "s01"
+    ],
+    "checked_at": "2026-11-13"
+  }
+}
