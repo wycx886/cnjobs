@@ -391,7 +391,6 @@ button{font:inherit;color:inherit}
 .cell-name{display:flex;align-items:center;gap:12px;min-width:0}
 .org-name{font-family:var(--serif);font-size:18.5px;font-weight:500;letter-spacing:.02em;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .org-listed{flex:0 0 auto;margin-left:-5px;border:1px solid rgba(127,174,154,.55);background:rgba(127,174,154,.09);border-radius:2px;padding:0 5px;font-size:9px;line-height:1.75;letter-spacing:.12em;color:#4d7565;white-space:nowrap;cursor:help}
-.org-origin{flex:0 0 auto;margin-left:-4px;border:1px solid rgba(185,135,79,.34);background:rgba(185,135,79,.06);border-radius:2px;padding:0 5px;font-size:8.5px;line-height:1.8;letter-spacing:.08em;color:var(--accent-2);white-space:nowrap;cursor:help}
 .org-desc{font-size:12.5px;color:var(--ink-2);line-height:1.55;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .cell-loc{font-size:11px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .cell-meta{font-size:10.5px;color:var(--muted);letter-spacing:.02em;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -1817,24 +1816,6 @@ footer a:hover{color:var(--accent-2)}
     return '<span class="' + cls + '" title="' + esc(info.title) + '">已上市' + date + "</span>";
   }
 
-  function originInfo(record) {
-    var firms = [];
-    (record.people || []).forEach(function (person) {
-      (person.previous_firms || []).forEach(function (firm) {
-        if (firm && firms.indexOf(firm) === -1) firms.push(firm);
-      });
-    });
-    if (!firms.length) return null;
-    return { firms: firms, first: firms[0], title: "出身：" + firms.join("、") };
-  }
-
-  function originMark(org) {
-    if (!org || org.class !== "startups") return "";
-    var info = originInfo(org.record);
-    if (!info) return "";
-    return '<span class="org-origin" title="' + esc(info.title) + '">出身 ' + esc(shorten(info.first, 18)) + "</span>";
-  }
-
   function rowHtml(org) {
     var record = org.record;
     var desc;
@@ -1860,7 +1841,7 @@ footer a:hover{color:var(--accent-2)}
     }
     var metaCell = fourth == null ? "" : '<span class="cell-meta">' + esc(fourth) + "</span>";
     return '<button type="button" class="org-row' + (isInvestors ? " no-meta" : "") + '" data-open="' + esc(record.id) + '">' +
-      '<span class="cell-name">' + logoHtml(org) + '<span class="org-name">' + esc(record.name) + "</span>" + listedMark(org) + originMark(org) + "</span>" +
+      '<span class="cell-name">' + logoHtml(org) + '<span class="org-name">' + esc(record.name) + "</span>" + listedMark(org) + "</span>" +
       '<span class="org-desc" title="' + esc(descTitle) + '">' + esc(desc) + "</span>" +
       '<span class="cell-loc">' + esc(third) + "</span>" +
       metaCell +
@@ -2359,7 +2340,7 @@ footer a:hover{color:var(--accent-2)}
         (person.role ? '<p class="person-role">' + esc(person.role) + "</p>" : "") + "</div></div>";
       if (person.background) out += '<p class="person-bg">' + esc(person.background) + "</p>";
       if ((person.previous_firms || []).length) {
-        var previous = variant === "startups" ? "出身：" : "原平台 ";
+        var previous = variant === "startups" ? "此前：" : "原平台 ";
         out += '<p class="person-prev">' + previous + esc(person.previous_firms.join("、")) + "</p>";
       }
       var profiles = (person.profiles || []).map(function (profile) {

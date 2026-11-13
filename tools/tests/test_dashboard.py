@@ -392,9 +392,10 @@ class DashboardTests(unittest.TestCase):
         self.assertEqual(forms["corporate_subsidiary"], "子公司")
         self.assertIn(".p-parent{", self.html)
 
-    def test_startup_people_label_previous_firms_as_origin(self):
+    def test_startup_people_show_previous_firms_without_origin_framing(self):
         people = self._source("peopleSection", "opportunitiesSection")
-        self.assertIn('variant === "startups" ? "出身："', people)
+        self.assertIn('variant === "startups" ? "此前："', people)
+        self.assertNotIn("出身", people)
         self.assertIn("previous_firms.join", people)
         has_previous = any(
             person.get("previous_firms")
@@ -402,19 +403,14 @@ class DashboardTests(unittest.TestCase):
             for person in item["record"].get("people") or [])
         self.assertTrue(has_previous)
 
-    def test_startup_rows_show_a_quiet_origin_mark(self):
-        info = self._source("originInfo", "originMark")
-        self.assertIn("previous_firms", info)
-        self.assertIn('title: "出身："', info)
-
-        mark = self._source("originMark", "rowHtml")
-        self.assertIn('org.class !== "startups"', mark)
-        self.assertIn("if (!info) return", mark)
-        self.assertIn('"org-origin"', mark)
+    def test_startup_rows_do_not_show_an_origin_tag(self):
+        self.assertNotIn("originMark", self.html)
+        self.assertNotIn("originInfo", self.html)
+        self.assertNotIn(".org-origin", self.html)
 
         row = self._source("rowHtml", "sectorHead")
-        self.assertIn("originMark(org)", row)
-        self.assertIn(".org-origin{", self.html)
+        self.assertNotIn("originMark", row)
+        self.assertIn("listedMark(org)", row)
 
     def test_official_sort_copy_and_investor_grouping(self):
         self.assertIn("这是本页的排序顺序", self.html)
